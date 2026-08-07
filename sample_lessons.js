@@ -1,5 +1,5 @@
 window.LESSON_CONTENT = {
-"Ko'tarish mexanizmi (richag+vint+shkiv)::Crane": {
+"1-yil|1-sinf|1-chorak|1": {
   meta: {sinf:"1-sinf", yil:"1-yil", chorak:"1-chorak, 5-hafta", darsRaqami:"9 / 84", modul:"M1. Richag qonuni", jihoz:"Makerzoid Robot Master Standard", davomiyligi:"45 daqiqa"},
   maqsad: [
     "O'quvchilar richag, moment kuchi va shkiv mexanizmlarining birgalikda qanday ishlashini kran misolida tushunadilar.",
@@ -37,7 +37,7 @@ window.LESSON_CONTENT = {
     "Ijodiy topshiriq: Crane modelining rasmini chizib, uning asosiy qismlarini (richag, tayanch nuqtasi, shkiv) belgilang."
   ]
 },
-"Chorak kirish: bloklar bilan tanishuv, xavfsizlik::": {
+"1-yil|0-sinf|1-chorak|0": {
   meta: {sinf:"0-sinf", yil:"1-yil", chorak:"1-chorak, 1-hafta", darsRaqami:"1 / 84", modul:"M1. Oddiy mexanizmlar", jihoz:"Makerzoid Robot Master Standard", davomiyligi:"45 daqiqa"},
   maqsad: [
     "O'quvchilar robototexnika darslari bilan birinchi marta tanishadilar va kelgusi mashg'ulotlar davomida nima kutilishini tushunadilar.",
@@ -73,7 +73,7 @@ window.LESSON_CONTENT = {
     "Agar uyda konstruktor o'yinchoqlari bo'lsa, ularni diqqat bilan ko'zdan kechiring va nechta turli blok borligini sanang."
   ]
 },
-"1-chorak nazorat ishi — \"RoboRace\" musobaqasi: robot 2 metr masofani bosib o'tish vaqti bo'yicha baholanadi. Baholash mezoni: 10 soniyagacha = 5 (a'lo); 11-25 soniya = 4 (yaxshi); 26-45 soniya = 3 (qoniqarli); 46-60 soniya = 2 (qoniqarsiz); 1 daqiqadan ortiq (60 soniyadan ko'p) yoki finishga yetib bormasa = FAILED (topshiriq bajarilmagan).::": {
+"1-yil|1-sinf|1-chorak|19": {
   meta: {sinf:"1-sinf", yil:"1-yil", chorak:"1-chorak, 10-hafta", darsRaqami:"19 / 84", modul:"N1. Nazorat ishi", jihoz:"Chorak davomida yasalgan robotlar", davomiyligi:"45 daqiqa"},
   maqsad: [
     "O'quvchilar chorak davomida o'rgangan qurish ko'nikmalarini \"RoboRace\" musobaqasida amaliy tarzda namoyish etadilar.",
@@ -106,7 +106,7 @@ window.LESSON_CONTENT = {
     "Robotni tezroq qilish uchun qanday o'zgartirish kiritish mumkinligi haqida o'ylab, g'oyangizni daftaringizga yozib keling."
   ]
 },
-"O'zgaruvchi (hisoblagich) bilan tanishuv::": {
+"2-yil|2-sinf|3-chorak (Dasturlash)|2": {
   meta: {sinf:"2-sinf", yil:"2-yil", chorak:"3-chorak (Dasturlash), 3-hafta", darsRaqami:"D-Q3 / 3", modul:"Dasturlash kursi (haftaning 3-soati)", jihoz:"Scratch-uslub ilova (planshet/telefon)", davomiyligi:"45 daqiqa"},
   maqsad: [
     "O'quvchilar o'zgaruvchi (variable) tushunchasini va uning dasturlashdagi vazifasini tushunadilar.",
@@ -139,7 +139,7 @@ window.LESSON_CONTENT = {
     "Kundalik hayotda o'zgaruvchi kabi ishlaydigan 2 ta narsani toping (masalan, elektr hisoblagichi, soat) va ular nimani \"eslab qolishini\" tushuntirib yozing."
   ]
 },
-"Driving Base 1 — yig'ish (1 darslik)::": {
+"2-yil|4-sinf|1-chorak|1": {
   meta: {sinf:"4-sinf", yil:"2-yil", chorak:"1-chorak, 1-hafta", darsRaqami:"2 / 84", modul:"M1. Qurish asoslari (LEGO rasmiy modellari)", jihoz:"LEGO Education SPIKE Prime", davomiyligi:"45 daqiqa"},
   maqsad: [
     "O'quvchilar SPIKE Prime to'plami va uning asosiy qismlari (Hub, motor, sensor) bilan tanishadilar.",

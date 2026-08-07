@@ -2,16 +2,20 @@ const TYPE_LABELS = {qurish:"Qurish", nazorat:"Nazorat / Musobaqa", loyiha:"Loyi
 let activeYil = "1-yil";
 let activeKey = null;
 
-function lessonKey(l){ return l.title + "::" + (l.model || ""); }
+// Noyob kalit: yil|sinf|chorak|index. Bir xil model bir nechta sinf/choraqda takrorlansa ham
+// (masalan "Crane" 0/1/2-sinfda), har birining joylashuvi bo'yicha ALOHIDA kalit hosil bo'ladi —
+// shu sababli har bir sinf darajasiga mos alohida kontent yozish mumkin (title+model kaliti bilan
+// avval bularning barchasi bitta yozuvga to'qnashardi).
+function lessonKey(yil, sinf, chorak, idx){ return yil + "|" + sinf + "|" + chorak + "|" + idx; }
 
 function countAll(){
   let total = 0, ready = 0;
   for (const yil in TREE_DATA){
     for (const sinf in TREE_DATA[yil]){
       for (const chorak in TREE_DATA[yil][sinf]){
-        TREE_DATA[yil][sinf][chorak].forEach(l=>{
+        TREE_DATA[yil][sinf][chorak].forEach((l, idx)=>{
           total++;
-          if (LESSON_CONTENT[lessonKey(l)]) ready++;
+          if (LESSON_CONTENT[lessonKey(yil, sinf, chorak, idx)]) ready++;
         });
       }
     }
@@ -61,7 +65,7 @@ function renderTree(){
       darsList.className = 'dars-list';
 
       grades[sinf][chorak].forEach((l, idx)=>{
-        const key = lessonKey(l);
+        const key = lessonKey(activeYil, sinf, chorak, idx);
         const item = document.createElement('div');
         const isReady = !!LESSON_CONTENT[key];
         item.className = 'dars-item' + (isReady ? ' ready':'') + (key===activeKey ? ' active':'');
