@@ -10,19 +10,20 @@
  * Chizma o'zgarsa — missions.py dagi koordinatalar ham o'zgarishi kerak.
  */
 (function () {
+  // Yorug' tema palitrasi — index.html dagi :root o'zgaruvchilariga mos.
   var C = {
-    bg: '#0b1a2c',
-    field: '#0f2138',
-    border: '#2a4a6b',
-    grid: 'rgba(94,234,212,0.10)',
-    cyan: '#5eead4',
-    amber: '#f5a623',
-    green: '#66d9a6',
-    red: '#ef5350',
-    blue: '#7dd3fc',
-    purple: '#c792ea',
-    text: '#e8eef4',
-    dim: '#8fa3ba'
+    bg: '#ffffff',
+    field: '#f3f7f3',
+    border: '#bed0c1',
+    grid: 'rgba(21,104,60,0.14)',
+    cyan: '#15683C',   // asosiy urg'u — brend yashili
+    amber: '#9a6410',
+    green: '#17804a',
+    red: '#c0392b',
+    blue: '#0b6b8f',
+    purple: '#6b3fa0',
+    text: '#16261b',
+    dim: '#5c6d62'
   };
 
   // Maydon koordinatasidan (sm) SVG koordinatasiga
@@ -61,7 +62,7 @@
   // odatda y=20 sm balandlikda bazadan chiqadi va pastki qismni band qiladi.
   function base() {
     return '<rect x="' + X(0) + '" y="' + Y(40) + '" width="40" height="40" ' +
-           'fill="rgba(94,234,212,0.10)" stroke="' + C.cyan + '" stroke-width="0.9" stroke-dasharray="3 2"/>' +
+           'fill="rgba(21,104,60,0.10)" stroke="' + C.cyan + '" stroke-width="0.9" stroke-dasharray="3 2"/>' +
            '<text x="' + X(20) + '" y="' + Y(32) + '" fill="' + C.cyan +
            '" font-size="7" text-anchor="middle" font-weight="600">BAZA</text>' +
            '<text x="' + X(20) + '" y="' + Y(26) + '" fill="' + C.dim +
@@ -116,7 +117,7 @@
       'aria-label="1-missiya maydonchasi: baza, yuk zonasi va robot yo\'li">' + defs() +
       frame('MISSIYA 1 — YUK TASHISH', '200x100 sm maydon · o\'lchamlar sm da · baza chap past burchakda') +
       base() +
-      box(90, 20, 20, 20, 'rgba(245,166,35,0.10)', C.amber, 'YUK ZONASI') +
+      box(90, 20, 20, 20, 'rgba(154,100,16,0.12)', C.amber, 'YUK ZONASI') +
       dot(90, 20, 3.2, C.amber) +
       '<text x="' + X(150) + '" y="' + (Y(20) + 2) + '" fill="' + C.dim +
       '" font-size="5.5" text-anchor="middle" font-family="monospace">yuk 5x5 sm — (90, 20)</text>' +
@@ -135,12 +136,12 @@
       'aria-label="2-missiya maydonchasi: qora chiziq, yashil belgi va yetkazish zonasi">' + defs() +
       frame('MISSIYA 2 — CHIZIQ BO\'YLAB YETKAZISH', 'Qora chiziq eni 2 sm · yashil belgi (110,20) · zona (150,75)') +
       base() +
-      // Qora chiziq: to'q yadro + och kontur -> qorong'i maydonda ham "qora lenta" bo'lib ko'rinadi
+      // Qora chiziq: oq halo + to'q yadro -> yorug' maydonda katak chiziqlari ustida ham aniq ko'rinadi
       '<path d="M' + X(40) + ' ' + Y(20) + ' L' + X(150) + ' ' + Y(20) + ' L' + X(150) + ' ' + Y(75) +
-      '" fill="none" stroke="#7f8fa0" stroke-width="3.6" stroke-linecap="square" stroke-linejoin="miter"/>' +
+      '" fill="none" stroke="#ffffff" stroke-width="4.2" stroke-linecap="square" stroke-linejoin="miter"/>' +
       '<path d="M' + X(40) + ' ' + Y(20) + ' L' + X(150) + ' ' + Y(20) + ' L' + X(150) + ' ' + Y(75) +
-      '" fill="none" stroke="#050a12" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="miter"/>' +
-      box(150, 75, 30, 30, 'rgba(125,211,252,0.10)', C.blue, 'YETKAZISH ZONASI') +
+      '" fill="none" stroke="#16261b" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="miter"/>' +
+      box(150, 75, 30, 30, 'rgba(11,107,143,0.12)', C.blue, 'YETKAZISH ZONASI') +
       // yashil belgi
       '<rect x="' + X(107.5) + '" y="' + Y(22.5) + '" width="5" height="5" fill="' + C.green + '"/>' +
       '<text x="' + X(114) + '" y="' + (Y(13) + 1) + '" fill="' + C.green +
@@ -164,19 +165,19 @@
       frame('MISSIYA 3 — TO\'SIQLI YO\'L VA RICHAG', 'Zigzag majburiy: 1-to\'siq YUQORIDAN, 2-to\'siq PASTDAN aylanadi') +
       base() +
       // 1-to'siq: x 65..75, y 0..55 (pastdan)
-      '<rect x="' + X(65) + '" y="' + Y(55) + '" width="10" height="55" fill="rgba(239,83,80,0.18)" stroke="' +
+      '<rect x="' + X(65) + '" y="' + Y(55) + '" width="10" height="55" fill="rgba(192,57,43,0.16)" stroke="' +
       C.red + '" stroke-width="0.9"/>' +
       '<text x="' + X(70) + '" y="' + (Y(55) - 4) + '" fill="' + C.red +
       '" font-size="6" text-anchor="middle" font-weight="600">1-to\'siq</text>' +
       '<text x="' + X(70) + '" y="' + Y(28) + '" fill="' + C.red +
       '" font-size="5" text-anchor="middle" font-family="monospace" transform="rotate(-90 ' + X(70) + ' ' + Y(28) + ')">h=55</text>' +
       // 2-to'siq: x 110..120, y 45..100 (yuqoridan)
-      '<rect x="' + X(110) + '" y="' + Y(100) + '" width="10" height="55" fill="rgba(239,83,80,0.18)" stroke="' +
+      '<rect x="' + X(110) + '" y="' + Y(100) + '" width="10" height="55" fill="rgba(192,57,43,0.16)" stroke="' +
       C.red + '" stroke-width="0.9"/>' +
       '<text x="' + X(115) + '" y="' + (Y(45) + 9) + '" fill="' + C.red +
       '" font-size="6" text-anchor="middle" font-weight="600">2-to\'siq</text>' +
       // richag
-      box(175, 25, 16, 16, 'rgba(199,146,234,0.12)', C.purple, 'RICHAG') +
+      box(175, 25, 16, 16, 'rgba(107,63,160,0.13)', C.purple, 'RICHAG') +
       '<line x1="' + X(170) + '" y1="' + Y(25) + '" x2="' + X(180) + '" y2="' + Y(32) +
       '" stroke="' + C.purple + '" stroke-width="1.6" stroke-linecap="round"/>' +
       '<text x="' + X(175) + '" y="' + (Y(17) + 6) + '" fill="' + C.dim +
@@ -210,10 +211,10 @@
       '<text x="' + X(72) + '" y="' + (Y(50) + 2) + '" fill="' + C.dim +
       '" font-size="5" text-anchor="start" font-family="monospace">(60,50)</text>' +
       // yuklar
-      box(120, 80, 12, 12, 'rgba(239,83,80,0.15)', C.red, 'A yuk') +
-      box(120, 20, 12, 12, 'rgba(125,211,252,0.15)', C.blue, 'B yuk') +
+      box(120, 80, 12, 12, 'rgba(192,57,43,0.14)', C.red, 'A yuk') +
+      box(120, 20, 12, 12, 'rgba(11,107,143,0.14)', C.blue, 'B yuk') +
       // platforma
-      box(175, 50, 25, 25, 'rgba(102,217,166,0.12)', C.green, 'PLATFORMA') +
+      box(175, 50, 25, 25, 'rgba(23,128,74,0.13)', C.green, 'PLATFORMA') +
       '<text x="' + X(175) + '" y="' + Y(46) + '" fill="' + C.green +
       '" font-size="5" text-anchor="middle" font-family="monospace">h = 10 sm</text>' +
       // yo'llar
