@@ -1,2 +1,8 @@
-# Vaqtinchalik ko'rish sahifasi (curriculum/../scratchpad/mk_preview.py yaratadi)
+# Vaqtinchalik ko'rish sahifasi (scratchpad/mk_preview.py yaratadi)
 _preview_tmp.html
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
