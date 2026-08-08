@@ -367,6 +367,10 @@ footer{
   text-align:center; padding:20px; font-family:var(--font-mono); font-size:11px;
   color:var(--text-faint); border-top:1px solid var(--border);
 }
+/* Ishlab chiquvchi va bog'lanish — asosiy qatordan pastda, biroz xiraroq */
+.foot-dev{margin-top:6px; font-size:10.5px; letter-spacing:0.3px;}
+.foot-dev a{color:var(--accent); text-decoration:none;}
+.foot-dev a:hover{text-decoration:underline;}
 /* ================= PLANSHET va TELEFON ================= */
 @media (max-width: 860px){
   .nav-toggle{display:flex;}
@@ -503,7 +507,10 @@ footer{
   </main>
 </div>
 
-<footer>TARBION XUSUSIY MAKTABI — ROBOTOTEXNIKA VA IT DASTURI · 0–4-SINF, 1–2-YIL · MAKERZOID ROBOT MASTER + LEGO SPIKE PRIME</footer>
+<footer>
+  <div class="foot-main">TARBION XUSUSIY MAKTABI — ROBOTOTEXNIKA VA IT DASTURI</div>
+  <div class="foot-dev">EcoDev · <a href="tel:+998993757532">+998 99 375 75 32</a></div>
+</footer>
 
 <script src="tree_data.js"></script>
 <script src="sample_lessons.js"></script>
