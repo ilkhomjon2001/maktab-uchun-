@@ -54,6 +54,36 @@ window.INSTRUCTION_INDEX = {
   "slug": "bus",
   "zip": "7.Jr Programming/16.Bus"
  },
+ "Car Puller": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 77,
+  "slug": "car-puller",
+  "zip": "4.Electric Engineering/11. Car puller"
+ },
+ "Car with YL Man 1": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 56,
+  "slug": "car-with-yl-man-1",
+  "zip": "3.YL Corps/5. Car with YL Man 1"
+ },
+ "Car with YL Man 2": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 54,
+  "slug": "car-with-yl-man-2",
+  "zip": "3.YL Corps/6. Car with YL Man 2"
+ },
+ "Car with YL Man 3": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 60,
+  "slug": "car-with-yl-man-3",
+  "zip": "3.YL Corps/7. Car with YL Man 3"
+ },
+ "Car with YL Man 4": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 68,
+  "slug": "car-with-yl-man-4",
+  "zip": "3.YL Corps/8. Car with YL Man 4"
+ },
  "Cat And Mouse (AI)": {
   "manba": "Makerzoid Robot Master (PM)",
   "qadam": 60,
@@ -90,6 +120,12 @@ window.INSTRUCTION_INDEX = {
   "slug": "counter-scale",
   "zip": "1.Basic/31.Counter Scale"
  },
+ "Crab (AI)": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 67,
+  "slug": "crab-ai",
+  "zip": "7.Jr Programming/6.Crab(AI)"
+ },
  "Crab (electric)": {
   "manba": "Makerzoid Robot Master (PM)",
   "qadam": 66,
@@ -113,6 +149,12 @@ window.INSTRUCTION_INDEX = {
   "qadam": 73,
   "slug": "crocodile-ai",
   "zip": "7.Jr Programming/4.Crocodile(AI)"
+ },
+ "Dancing Man": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 30,
+  "slug": "dancing-man",
+  "zip": "4.Electric Engineering/14. Dancing Man"
  },
  "Elasti-Car": {
   "manba": "Makerzoid Robot Master (PM)",
@@ -138,6 +180,12 @@ window.INSTRUCTION_INDEX = {
   "slug": "electric-fan",
   "zip": "4.Electric Engineering/25. Electric Fan"
  },
+ "Electric Helicopter": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 55,
+  "slug": "electric-helicopter",
+  "zip": "4.Electric Engineering/27. Electric Helicopter"
+ },
  "Electric Mouse": {
   "manba": "Makerzoid Robot Master (PM)",
   "qadam": 60,
@@ -162,6 +210,12 @@ window.INSTRUCTION_INDEX = {
   "slug": "flytrap",
   "zip": "2.Mechanical/10.Flytrap"
  },
+ "Forklift": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 69,
+  "slug": "forklift",
+  "zip": "4.Electric Engineering/15. Forklift"
+ },
  "Gear Shifting Fan": {
   "manba": "Makerzoid Robot Master (PM)",
   "qadam": 47,
@@ -173,6 +227,12 @@ window.INSTRUCTION_INDEX = {
   "qadam": 34,
   "slug": "grinding-machine",
   "zip": "1.Basic/32.Grinding Machine"
+ },
+ "Hammer Machine": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 54,
+  "slug": "hammer-machine",
+  "zip": "4.Electric Engineering/16. Hammer Machine"
  },
  "Hand Drill": {
   "manba": "Makerzoid Robot Master (PM)",
@@ -191,6 +251,12 @@ window.INSTRUCTION_INDEX = {
   "qadam": 12,
   "slug": "hayfork",
   "zip": "1.Basic/37.Hayfork"
+ },
+ "Hoeing Man": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 113,
+  "slug": "hoeing-man",
+  "zip": "4.Electric Engineering/12. Hoeing Man"
  },
  "Inertia Car 1": {
   "manba": "Makerzoid Robot Master (PM)",
@@ -264,6 +330,78 @@ window.INSTRUCTION_INDEX = {
   "slug": "little-lantern-4",
   "zip": "1.Basic/4.Little Lantern 4"
  },
+ "Manual Buhr Mill": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 46,
+  "slug": "manual-buhr-mill",
+  "zip": "3.YL Corps/3. Manual Buhr Mill"
+ },
+ "Manual Drill Car": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 47,
+  "slug": "manual-drill-car",
+  "zip": "3.YL Corps/4. Manual Drill Car"
+ },
+ "Manual Gatling Gun": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 62,
+  "slug": "manual-gatling-gun",
+  "zip": "3.YL Corps/2. Manual Gatling Gun"
+ },
+ "Manual Joint Motion 1": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 59,
+  "slug": "manual-joint-motion-1",
+  "zip": "3.YL Corps/9. Manual Joint Motion 1"
+ },
+ "Manual Joint Motion 2": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 60,
+  "slug": "manual-joint-motion-2",
+  "zip": "3.YL Corps/10. Manual Joint Motion 2"
+ },
+ "Manual Joint Motion 3": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 50,
+  "slug": "manual-joint-motion-3",
+  "zip": "3.YL Corps/11. Manual Joint Motion 3"
+ },
+ "Manual Joint Motion 4": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 60,
+  "slug": "manual-joint-motion-4",
+  "zip": "3.YL Corps/12. Manual Joint Motion 4"
+ },
+ "Manual Jumping YL Man 1": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 43,
+  "slug": "manual-jumping-yl-man-1",
+  "zip": "3.YL Corps/13. Manual Jumping YL Man 1"
+ },
+ "Manual Jumping YL Man 2": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 35,
+  "slug": "manual-jumping-yl-man-2",
+  "zip": "3.YL Corps/14. Manual Jumping YL Man 2"
+ },
+ "Manual Jumping YL Man 3": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 52,
+  "slug": "manual-jumping-yl-man-3",
+  "zip": "3.YL Corps/15. Manual Jumping YL Man 3"
+ },
+ "Manual Rocking YL Man 1": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 64,
+  "slug": "manual-rocking-yl-man-1",
+  "zip": "3.YL Corps/30. Manual Rocking YL Man 1"
+ },
+ "Manual Rotating YL Man 1": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 45,
+  "slug": "manual-rotating-yl-man-1",
+  "zip": "3.YL Corps/23. Manual Rotating YL Man 1"
+ },
  "Mouse (AI)": {
   "manba": "Makerzoid Robot Master (PM)",
   "qadam": 60,
@@ -287,6 +425,12 @@ window.INSTRUCTION_INDEX = {
   "qadam": 47,
   "slug": "pivoting-fan",
   "zip": "4.Electric Engineering/8.Pivoting Fan"
+ },
+ "Programmable Car (AI)": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 48,
+  "slug": "programmable-car-ai",
+  "zip": "7.Jr Programming/12.Programmable Car(AI)"
  },
  "Pulley Crane": {
   "manba": "Makerzoid Robot Master (PM)",
@@ -342,11 +486,23 @@ window.INSTRUCTION_INDEX = {
   "slug": "santas-sleigh",
   "zip": "4.Electric Engineering/1.Santa_s Sleigh"
  },
+ "Scarecrow": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 44,
+  "slug": "scarecrow",
+  "zip": "4.Electric Engineering/18. Scarecrow"
+ },
  "Score Indicator": {
   "manba": "Makerzoid Robot Master (PM)",
   "qadam": 33,
   "slug": "score-indicator",
   "zip": "7.Jr Programming/9.Score Indicator"
+ },
+ "Score Maker (AI)": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 35,
+  "slug": "score-maker-ai",
+  "zip": "7.Jr Programming/10.Score Maker(AI)"
  },
  "Sewing Machine": {
   "manba": "Makerzoid Robot Master (PM)",
@@ -378,6 +534,24 @@ window.INSTRUCTION_INDEX = {
   "slug": "spinning-top-4",
   "zip": "1.Basic/23.Spinning Top 4"
  },
+ "Stegosaurus (AI)": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 153,
+  "slug": "stegosaurus-ai",
+  "zip": "7.Jr Programming/5.Stegosaurus(AI)"
+ },
+ "Step Man": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 55,
+  "slug": "step-man",
+  "zip": "4.Electric Engineering/24. Step Man"
+ },
+ "Sweeper": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 60,
+  "slug": "sweeper",
+  "zip": "4.Electric Engineering/17. Sweeper"
+ },
  "Swing": {
   "manba": "Makerzoid Robot Master (PM)",
   "qadam": 31,
@@ -402,6 +576,12 @@ window.INSTRUCTION_INDEX = {
   "slug": "triangle",
   "zip": "1.Basic/13.Triangle"
  },
+ "Tumbler": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 43,
+  "slug": "tumbler",
+  "zip": "3.YL Corps/1. Tumbler"
+ },
  "Tyrannosaurus (AI)": {
   "manba": "Makerzoid Robot Master (PM)",
   "qadam": 118,
@@ -413,6 +593,12 @@ window.INSTRUCTION_INDEX = {
   "qadam": 24,
   "slug": "vigorous-extrusion-machine",
   "zip": "1.Basic/33. Vigorous Extrusion Machine"
+ },
+ "Weighting Man": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 81,
+  "slug": "weighting-man",
+  "zip": "4.Electric Engineering/13. Weighting Man"
  },
  "Weirdo Clock": {
   "manba": "Makerzoid Robot Master (PM)",
@@ -437,5 +623,11 @@ window.INSTRUCTION_INDEX = {
   "qadam": 13,
   "slug": "wheelbarrow",
   "zip": "1.Basic/18.Wheelbarrow"
+ },
+ "Wings Car": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 58,
+  "slug": "wings-car",
+  "zip": "3.YL Corps/40. Wings car"
  }
 };
