@@ -6,17 +6,41 @@
  * Manba:   Robot master(PM) instruction (Makerzoid rasmiy to'plami)
  */
 window.INSTRUCTION_INDEX = {
+ "Alien Reconnaissance Aircraft": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 63,
+  "slug": "alien-reconnaissance-aircraft",
+  "zip": "10.Space Series/13.Alien Reconnaissance Aircraft"
+ },
+ "Animal Trap": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 62,
+  "slug": "animal-trap",
+  "zip": "11. NEWLY-UPDATED Programming/25.Animal Trap"
+ },
  "Armoured Vehicle": {
   "manba": "Makerzoid Robot Master (PM)",
   "qadam": 118,
   "slug": "armoured-vehicle",
   "zip": "4.Electric Engineering/3.Armoured Vehicle"
  },
+ "Armoured Vehicle (Space)": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 118,
+  "slug": "armoured-vehicle-space",
+  "zip": "10.Space Series/3.Armoured Vehicle"
+ },
  "Automatic Gate": {
   "manba": "Makerzoid Robot Master (PM)",
   "qadam": 34,
   "slug": "automatic-gate",
   "zip": "7.Jr Programming/13.Automatic Gate"
+ },
+ "Automatic Gate (Prog)": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 93,
+  "slug": "automatic-gate-prog",
+  "zip": "11. NEWLY-UPDATED Programming/23.Automatic Gate"
  },
  "Balance": {
   "manba": "Makerzoid Robot Master (PM)",
@@ -29,6 +53,12 @@ window.INSTRUCTION_INDEX = {
   "qadam": 19,
   "slug": "barbecue-grill",
   "zip": "1.Basic/10. Barbecue Grill"
+ },
+ "Batmobile": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 82,
+  "slug": "batmobile",
+  "zip": "10.Space Series/10.Batmobile"
  },
  "Battle Robot": {
   "manba": "Makerzoid Robot Master (PM)",
@@ -138,6 +168,12 @@ window.INSTRUCTION_INDEX = {
   "slug": "circling-machine",
   "zip": "4.Electric Engineering/29. Circling Machine"
  },
+ "Collection Robot": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 116,
+  "slug": "collection-robot",
+  "zip": "10.Space Series/23.Collection Robot"
+ },
  "Color Sorting": {
   "manba": "Makerzoid Robot Master (PM)",
   "qadam": 62,
@@ -149,6 +185,12 @@ window.INSTRUCTION_INDEX = {
   "qadam": 66,
   "slug": "combat-forklift",
   "zip": "11. NEWLY-UPDATED Programming/17.Combat Forklift"
+ },
+ "Combat Robot": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 96,
+  "slug": "combat-robot",
+  "zip": "10.Space Series/20.Combat Robot"
  },
  "Conveyor": {
   "manba": "Makerzoid Robot Master (PM)",
@@ -276,6 +318,12 @@ window.INSTRUCTION_INDEX = {
   "slug": "electric-crocodile",
   "zip": "6.Electric Animal/4.Electric Crocodile"
  },
+ "Electric Crocodile 2.0": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 102,
+  "slug": "electric-crocodile-2-0",
+  "zip": "11. NEWLY-UPDATED Programming/24.Electric Crocodile 2.0"
+ },
  "Electric Fan": {
   "manba": "Makerzoid Robot Master (PM)",
   "qadam": 36,
@@ -353,6 +401,12 @@ window.INSTRUCTION_INDEX = {
   "qadam": 12,
   "slug": "expansion-clamp",
   "zip": "1.Basic/19.Expansion Clamp"
+ },
+ "Exploration Robot": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 44,
+  "slug": "exploration-robot",
+  "zip": "10.Space Series/19.Exploration Robot"
  },
  "Ferris Wheel": {
   "manba": "Makerzoid Robot Master (PM)",
@@ -498,17 +552,53 @@ window.INSTRUCTION_INDEX = {
   "slug": "inspection-robot",
   "zip": "9.Advanced Programming/14.Inspection Robot"
  },
+ "Intelligent Forklift": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 79,
+  "slug": "intelligent-forklift",
+  "zip": "11. NEWLY-UPDATED Programming/20.Intelligent Forklift"
+ },
  "Intelligent Gate": {
   "manba": "Makerzoid Robot Master (PM)",
   "qadam": 59,
   "slug": "intelligent-gate",
   "zip": "11. NEWLY-UPDATED Programming/1.Intelligent Gate"
  },
+ "Interplanetary Jet": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 63,
+  "slug": "interplanetary-jet",
+  "zip": "10.Space Series/15.Interplanetary Jet"
+ },
+ "Interplanetary Repair Station": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 100,
+  "slug": "interplanetary-repair-station",
+  "zip": "10.Space Series/31.Interplanetary Repair Station"
+ },
+ "Interstellar Cannon": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 110,
+  "slug": "interstellar-cannon",
+  "zip": "10.Space Series/14.Interstellar Cannon"
+ },
  "Interstellar Train": {
   "manba": "Makerzoid Robot Master (PM)",
   "qadam": 63,
   "slug": "interstellar-train",
   "zip": "11. NEWLY-UPDATED Programming/15.Interstellar Train"
+ },
+ "Intersteller Pathfinder Robot": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 113,
+  "slug": "intersteller-pathfinder-robot",
+  "zip": "10.Space Series/17.Intersteller Pathfinder Robot"
+ },
+ "Intersteller Radar Forklift": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 64,
+  "slug": "intersteller-radar-forklift",
+  "zip": "10.Space Series/11.Intersteller Radar Forklift"
  },
  "Jack": {
   "manba": "Makerzoid Robot Master (PM)",
@@ -659,6 +749,12 @@ window.INSTRUCTION_INDEX = {
   "qadam": 37,
   "slug": "little-lantern-4",
   "zip": "1.Basic/4.Little Lantern 4"
+ },
+ "Lunar Transporter": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 89,
+  "slug": "lunar-transporter",
+  "zip": "10.Space Series/21.Lunar Transporter"
  },
  "Manual Buhr Mill": {
   "manba": "Makerzoid Robot Master (PM)",
@@ -816,17 +912,53 @@ window.INSTRUCTION_INDEX = {
   "slug": "mine-clearance",
   "zip": "7.Jr Programming/15.Mine Clearance Vechicle"
  },
+ "Moon Collection Rover": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 97,
+  "slug": "moon-collection-rover",
+  "zip": "10.Space Series/25.Moon Collection Rover"
+ },
+ "Moon Exploration Vehicle": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 123,
+  "slug": "moon-exploration-vehicle",
+  "zip": "10.Space Series/7.Moon Exploration Vehicle"
+ },
+ "Moon Rover": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 51,
+  "slug": "moon-rover",
+  "zip": "10.Space Series/1.Moon Rover"
+ },
  "Mouse (AI)": {
   "manba": "Makerzoid Robot Master (PM)",
   "qadam": 60,
   "slug": "mouse-ai",
   "zip": "7.Jr Programming/8.Mouse(AI)"
  },
+ "Obstacle Avoiding (2)": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 98,
+  "slug": "obstacle-avoiding-2",
+  "zip": "11. NEWLY-UPDATED Programming/18.Obstacle Avoiding Robot"
+ },
+ "Obstacle Avoiding (3)": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 47,
+  "slug": "obstacle-avoiding-3",
+  "zip": "11. NEWLY-UPDATED Programming/19.Obstacle Avoiding Dragon"
+ },
  "Obstacle Avoiding Car": {
   "manba": "Makerzoid Robot Master (PM)",
   "qadam": 79,
   "slug": "obstacle-avoiding-car",
   "zip": "11. NEWLY-UPDATED Programming/3.Obstacle Avoiding Car"
+ },
+ "Off-road Rover": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 74,
+  "slug": "off-road-rover",
+  "zip": "10.Space Series/28.Off-road Rover"
  },
  "Oil Extractor": {
   "manba": "Makerzoid Robot Master (PM)",
@@ -846,6 +978,12 @@ window.INSTRUCTION_INDEX = {
   "slug": "parallelogram",
   "zip": "1.Basic/15.Parallelogram"
  },
+ "Pastry Chef": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 68,
+  "slug": "pastry-chef",
+  "zip": "11. NEWLY-UPDATED Programming/21.Pastry Chef"
+ },
  "Patrol Car": {
   "manba": "Makerzoid Robot Master (PM)",
   "qadam": 53,
@@ -864,11 +1002,23 @@ window.INSTRUCTION_INDEX = {
   "slug": "pivoting-fan",
   "zip": "4.Electric Engineering/8.Pivoting Fan"
  },
+ "Plantary System": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 63,
+  "slug": "plantary-system",
+  "zip": "10.Space Series/24.Plantary System"
+ },
  "Ploughing Tractor": {
   "manba": "Makerzoid Robot Master (PM)",
   "qadam": 111,
   "slug": "ploughing-tractor",
   "zip": "8.Advanced Building/8.Ploughing Tractor"
+ },
+ "Probe Robot": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 75,
+  "slug": "probe-robot",
+  "zip": "10.Space Series/30.Probe Robot"
  },
  "Programmable Car (AI)": {
   "manba": "Makerzoid Robot Master (PM)",
@@ -923,6 +1073,12 @@ window.INSTRUCTION_INDEX = {
   "qadam": 13,
   "slug": "rake",
   "zip": "1.Basic/35.Rake"
+ },
+ "Reconnaissance Walker": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 152,
+  "slug": "reconnaissance-walker",
+  "zip": "10.Space Series/6.Reconnaissance Walker"
  },
  "Roating YL Man 1": {
   "manba": "Makerzoid Robot Master (PM)",
@@ -996,6 +1152,18 @@ window.INSTRUCTION_INDEX = {
   "slug": "santas-sleigh",
   "zip": "4.Electric Engineering/1.Santa_s Sleigh"
  },
+ "Satellite Car": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 64,
+  "slug": "satellite-car",
+  "zip": "10.Space Series/16.Satellite Car"
+ },
+ "Satellite Rover": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 68,
+  "slug": "satellite-rover",
+  "zip": "10.Space Series/27.Satellite Rover"
+ },
  "Scarecrow": {
   "manba": "Makerzoid Robot Master (PM)",
   "qadam": 44,
@@ -1044,6 +1212,18 @@ window.INSTRUCTION_INDEX = {
   "slug": "sorting-box",
   "zip": "7.Jr Programming/17.Sorting Box"
  },
+ "Space Shuttle": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 140,
+  "slug": "space-shuttle",
+  "zip": "10.Space Series/8.Space Shuttle"
+ },
+ "Space Transport Aircraft": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 93,
+  "slug": "space-transport-aircraft",
+  "zip": "10.Space Series/22.Space Transport Aircraft"
+ },
  "Speeding Car": {
   "manba": "Makerzoid Robot Master (PM)",
   "qadam": 48,
@@ -1061,6 +1241,18 @@ window.INSTRUCTION_INDEX = {
   "qadam": 6,
   "slug": "spinning-top-4",
   "zip": "1.Basic/23.Spinning Top 4"
+ },
+ "Star Fighting": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 102,
+  "slug": "star-fighting",
+  "zip": "10.Space Series/9.Star Fighting"
+ },
+ "Star War Aircraft": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 28,
+  "slug": "star-war-aircraft",
+  "zip": "10.Space Series/2.Star War Aircraft"
  },
  "Steam Train": {
   "manba": "Makerzoid Robot Master (PM)",
@@ -1146,6 +1338,12 @@ window.INSTRUCTION_INDEX = {
   "slug": "transport-helicopter",
   "zip": "8.Advanced Building/15.Transport Helicopter"
  },
+ "Transport Walker": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 109,
+  "slug": "transport-walker",
+  "zip": "10.Space Series/5.Transport Walker"
+ },
  "Triangle": {
   "manba": "Makerzoid Robot Master (PM)",
   "qadam": 8,
@@ -1170,6 +1368,12 @@ window.INSTRUCTION_INDEX = {
   "slug": "turnable-f1",
   "zip": "11. NEWLY-UPDATED Programming/11.Turnable F1"
  },
+ "Twin Propeller Aircraft": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 130,
+  "slug": "twin-propeller-aircraft",
+  "zip": "10.Space Series/4.Twin Propeller Aircraft"
+ },
  "Tyannosaurus Rex (Adv)": {
   "manba": "Makerzoid Robot Master (PM)",
   "qadam": 87,
@@ -1193,6 +1397,12 @@ window.INSTRUCTION_INDEX = {
   "qadam": 24,
   "slug": "vigorous-extrusion-machine",
   "zip": "1.Basic/33. Vigorous Extrusion Machine"
+ },
+ "War Robot": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 82,
+  "slug": "war-robot",
+  "zip": "10.Space Series/26.War Robot"
  },
  "Weighting Man": {
   "manba": "Makerzoid Robot Master (PM)",
@@ -1235,5 +1445,11 @@ window.INSTRUCTION_INDEX = {
   "qadam": 123,
   "slug": "woodpecker",
   "zip": "9.Advanced Programming/5.Woodpecker"
+ },
+ "X Fighter": {
+  "manba": "Makerzoid Robot Master (PM)",
+  "qadam": 73,
+  "slug": "x-fighter",
+  "zip": "10.Space Series/12.X Fighter"
  }
 };
