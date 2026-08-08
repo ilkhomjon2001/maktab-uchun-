@@ -11,6 +11,8 @@ Natija: generate_lessons_5_8.py orqali site/sample_lessons.js ga qo'shiladi.
 
 import re
 
+from ulanish import bolim as ulanish_bolim
+
 # ============================================================ ATAMALAR BAZASI
 # Kalit so'z -> "Atama (inglizcha) – ta'rif"
 # Dars mavzusida kalit so'z uchrasa, shu atama lug'atga tushadi.
@@ -432,7 +434,10 @@ def build_resurslar(track, mavzu):
 
 
 def build_lesson(mavzu, track, tur, sinf, yil, chorak, idx, hafta, modul):
-    return {
+    # Ulanish sxemasi va kutubxona — 07 dan keyingi qo'shimcha bo'lim.
+    # ESP32 yo'nalishlarida pinlar boshqacha, shuning uchun esp bayrog'i beriladi.
+    ulanish_bloklari = ulanish_bolim(mavzu, esp=(track in ("esp32", "ai")))
+    d = {
         "maqsad": build_maqsad(mavzu, track, sinf, tur),
         "lugat": pick_terms(mavzu, track),
         "softSkill": SOFT_SKILLS[idx % len(SOFT_SKILLS)],
@@ -449,3 +454,6 @@ def build_lesson(mavzu, track, tur, sinf, yil, chorak, idx, hafta, modul):
             "davomiyligi": "45 daqiqa",
         },
     }
+    if ulanish_bloklari:
+        d["ulanish"] = ulanish_bloklari
+    return d

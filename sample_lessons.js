@@ -67558,7 +67558,19 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektr toki va oddiy zanjir",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "PIR HC-SR501 (harakat)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "OUT -> Arduino Uno D2 (raqamli kirish, HIGH = harakat bor)",
+     "GND -> Arduino Uno GND",
+     "DIQQAT: Yoqilgandan keyin 30-60 sekund \"isinadi\" — bu vaqtda noto'g'ri signal beradi. Moduldagi ikki vint sezgirlik va kechikishni sozlaydi."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|1-chorak|3": {
   "maqsad": [
@@ -67963,7 +67975,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektr toki va oddiy zanjir",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|1-chorak|8": {
   "maqsad": [
@@ -68044,7 +68067,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektr toki va oddiy zanjir",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|1-chorak|9": {
   "maqsad": [
@@ -68287,7 +68321,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektr toki va oddiy zanjir",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|1-chorak|12": {
   "maqsad": [
@@ -68368,7 +68413,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektr toki va oddiy zanjir",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|1-chorak|13": {
   "maqsad": [
@@ -68449,7 +68505,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektr toki va oddiy zanjir",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|1-chorak|14": {
   "maqsad": [
@@ -68530,7 +68597,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektr toki va oddiy zanjir",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tugma (push button)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (10 kOm tortuvchi rezistor bilan 5V ga, yoki INPUT_PULLUP)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Rezistorsiz ulansa pin \"suzib\" qoladi va tasodifiy qiymat o'qiladi. Eng oson yo'l: pinMode(2, INPUT_PULLUP) — ichki rezistor ishlatiladi, bu holda bosilganda LOW o'qiladi."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|1-chorak|15": {
   "maqsad": [
@@ -68611,7 +68689,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektr toki va oddiy zanjir",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tugma (push button)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (10 kOm tortuvchi rezistor bilan 5V ga, yoki INPUT_PULLUP)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Rezistorsiz ulansa pin \"suzib\" qoladi va tasodifiy qiymat o'qiladi. Eng oson yo'l: pinMode(2, INPUT_PULLUP) — ichki rezistor ishlatiladi, bu holda bosilganda LOW o'qiladi."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|1-chorak|16": {
   "maqsad": [
@@ -68692,7 +68781,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektr toki va oddiy zanjir",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tugma (push button)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (10 kOm tortuvchi rezistor bilan 5V ga, yoki INPUT_PULLUP)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Rezistorsiz ulansa pin \"suzib\" qoladi va tasodifiy qiymat o'qiladi. Eng oson yo'l: pinMode(2, INPUT_PULLUP) — ichki rezistor ishlatiladi, bu holda bosilganda LOW o'qiladi."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|1-chorak|17": {
   "maqsad": [
@@ -68773,7 +68873,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektr toki va oddiy zanjir",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tugma (push button)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (10 kOm tortuvchi rezistor bilan 5V ga, yoki INPUT_PULLUP)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Rezistorsiz ulansa pin \"suzib\" qoladi va tasodifiy qiymat o'qiladi. Eng oson yo'l: pinMode(2, INPUT_PULLUP) — ichki rezistor ishlatiladi, bu holda bosilganda LOW o'qiladi."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|1-chorak|18": {
   "maqsad": [
@@ -68978,7 +69089,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektr toki va oddiy zanjir",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tugma (push button)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (10 kOm tortuvchi rezistor bilan 5V ga, yoki INPUT_PULLUP)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Rezistorsiz ulansa pin \"suzib\" qoladi va tasodifiy qiymat o'qiladi. Eng oson yo'l: pinMode(2, INPUT_PULLUP) — ichki rezistor ishlatiladi, bu holda bosilganda LOW o'qiladi."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|2-chorak|0": {
   "maqsad": [
@@ -69774,7 +69896,18 @@ window.LESSON_CONTENT = {
    "modul": "M2. O'lchov va Om qonuni",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|2-chorak|10": {
   "maqsad": [
@@ -70260,7 +70393,19 @@ window.LESSON_CONTENT = {
    "modul": "M2. O'lchov va Om qonuni",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Potensiometr 10 kOm",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Chap chetdagi oyoq -> Arduino Uno GND",
+     "O'rtadagi oyoq (chiqish) -> Arduino Uno A0 (analog pin)",
+     "O'ng chetdagi oyoq -> Arduino Uno 5V",
+     "DIQQAT: O'rta oyoq albatta analog pinga ulanadi. Chetdagi ikki oyoq o'rin almashsa, faqat burash yo'nalishi teskari bo'ladi — zarari yo'q."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|2-chorak|16": {
   "maqsad": [
@@ -70627,7 +70772,19 @@ window.LESSON_CONTENT = {
    "modul": "M2. O'lchov va Om qonuni",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Potensiometr 10 kOm",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Chap chetdagi oyoq -> Arduino Uno GND",
+     "O'rtadagi oyoq (chiqish) -> Arduino Uno A0 (analog pin)",
+     "O'ng chetdagi oyoq -> Arduino Uno 5V",
+     "DIQQAT: O'rta oyoq albatta analog pinga ulanadi. Chetdagi ikki oyoq o'rin almashsa, faqat burash yo'nalishi teskari bo'ladi — zarari yo'q."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|3-chorak|0": {
   "maqsad": [
@@ -71261,7 +71418,18 @@ window.LESSON_CONTENT = {
    "modul": "M3. Komponentlar dunyosi",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tugma (push button)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (10 kOm tortuvchi rezistor bilan 5V ga, yoki INPUT_PULLUP)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Rezistorsiz ulansa pin \"suzib\" qoladi va tasodifiy qiymat o'qiladi. Eng oson yo'l: pinMode(2, INPUT_PULLUP) — ichki rezistor ishlatiladi, bu holda bosilganda LOW o'qiladi."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|3-chorak|8": {
   "maqsad": [
@@ -71342,7 +71510,29 @@ window.LESSON_CONTENT = {
    "modul": "M3. Komponentlar dunyosi",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   },
+   {
+    "nom": "RGB LED (umumiy katod)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "R oyoq -> Arduino Uno D9 (PWM) (220 Om rezistor orqali)",
+     "G oyoq -> Arduino Uno D10 (PWM) (220 Om rezistor orqali)",
+     "B oyoq -> Arduino Uno D11 (PWM) (220 Om rezistor orqali)",
+     "Eng uzun oyoq (umumiy katod) -> Arduino Uno GND",
+     "DIQQAT: Uchta pin ham PWM (~ belgisi bor) bo'lishi kerak, aks holda rang aralashtirilmaydi. Umumiy ANOD turida GND o'rniga 5V ga ulanadi."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|3-chorak|9": {
   "maqsad": [
@@ -71423,7 +71613,20 @@ window.LESSON_CONTENT = {
    "modul": "M3. Komponentlar dunyosi",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "RGB LED (umumiy katod)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "R oyoq -> Arduino Uno D9 (PWM) (220 Om rezistor orqali)",
+     "G oyoq -> Arduino Uno D10 (PWM) (220 Om rezistor orqali)",
+     "B oyoq -> Arduino Uno D11 (PWM) (220 Om rezistor orqali)",
+     "Eng uzun oyoq (umumiy katod) -> Arduino Uno GND",
+     "DIQQAT: Uchta pin ham PWM (~ belgisi bor) bo'lishi kerak, aks holda rang aralashtirilmaydi. Umumiy ANOD turida GND o'rniga 5V ga ulanadi."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|3-chorak|10": {
   "maqsad": [
@@ -71504,7 +71707,18 @@ window.LESSON_CONTENT = {
    "modul": "M3. Komponentlar dunyosi",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "7-segment indikator (1 razryad)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "a, b, c, d, e, f, g segmentlari -> Arduino Uno D2...D8 (har biri 220 Om rezistor orqali)",
+     "Umumiy katod (COM) -> Arduino Uno GND (umumiy anod turida 5V ga)",
+     "DIQQAT: 7 ta rezistor kerak — har segmentga bittadan. Umumiy katod va umumiy anod turlari teskari ishlaydi, avval multimetr bilan aniqlang."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|3-chorak|11": {
   "maqsad": [
@@ -71585,7 +71799,18 @@ window.LESSON_CONTENT = {
    "modul": "M3. Komponentlar dunyosi",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "7-segment indikator (1 razryad)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "a, b, c, d, e, f, g segmentlari -> Arduino Uno D2...D8 (har biri 220 Om rezistor orqali)",
+     "Umumiy katod (COM) -> Arduino Uno GND (umumiy anod turida 5V ga)",
+     "DIQQAT: 7 ta rezistor kerak — har segmentga bittadan. Umumiy katod va umumiy anod turlari teskari ishlaydi, avval multimetr bilan aniqlang."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|3-chorak|12": {
   "maqsad": [
@@ -71666,7 +71891,18 @@ window.LESSON_CONTENT = {
    "modul": "M3. Komponentlar dunyosi",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Passiv zummer",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "+ (uzun oyoq) -> Arduino Uno D8 (to'g'ridan-to'g'ri yoki 100 Om orqali)",
+     "- (kalta oyoq) -> Arduino Uno GND",
+     "DIQQAT: Passiv zummer o'zi tovush chiqarmaydi — tone() funksiyasi bilan chastota berish kerak. Aktiv zummerga esa faqat kuchlanish berilsa yetadi."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|3-chorak|13": {
   "maqsad": [
@@ -71828,7 +72064,31 @@ window.LESSON_CONTENT = {
    "modul": "M3. Komponentlar dunyosi",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "PIR HC-SR501 (harakat)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "OUT -> Arduino Uno D2 (raqamli kirish, HIGH = harakat bor)",
+     "GND -> Arduino Uno GND",
+     "DIQQAT: Yoqilgandan keyin 30-60 sekund \"isinadi\" — bu vaqtda noto'g'ri signal beradi. Moduldagi ikki vint sezgirlik va kechikishni sozlaydi."
+    ]
+   },
+   {
+    "nom": "DC motor (tranzistor orqali)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Motor bir chiqishi -> Arduino Uno 5V yoki tashqi +",
+     "Motor ikkinchi chiqishi -> Arduino Uno Tranzistor kollektori (BC547)",
+     "Tranzistor bazasi -> Arduino Uno D9 (1 kOm rezistor orqali)",
+     "Tranzistor emitteri -> Arduino Uno GND",
+     "Motor uchlariga -> Arduino Uno 1N4007 diod (teskari qutblab — himoya uchun)",
+     "DIQQAT: Diodsiz ulash tranzistorni kuydiradi: motor to'xtaganda teskari kuchlanish (EMK) hosil bo'ladi. Motorni to'g'ridan-to'g'ri plata piniga ULASH MUMKIN EMAS — pin 40 mA, motor esa bir necha yuz mA tortadi."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|3-chorak|15": {
   "maqsad": [
@@ -71990,7 +72250,20 @@ window.LESSON_CONTENT = {
    "modul": "M3. Komponentlar dunyosi",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Rele moduli",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "IN / S -> Arduino Uno D7 (raqamli chiqish)",
+     "COM, NO, NC -> Arduino Uno Yuklama zanjiri (kuchli tomon — plataga ULANMAYDI)",
+     "DIQQAT: Ko'p modullar TESKARI mantiqda ishlaydi: LOW berilganda ulanadi. 220V bilan ishlash O'QITUVCHI NAZORATIDA va faqat namoyish tarzida bo'lishi kerak — o'quvchilarga 220V tegishi mumkin emas."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|3-chorak|17": {
   "maqsad": [
@@ -72071,7 +72344,18 @@ window.LESSON_CONTENT = {
    "modul": "M3. Komponentlar dunyosi",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Fotorezistor (LDR)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno 5V",
+     "Ikkinchi oyoq -> Arduino Uno A0 (shu nuqtadan 10 kOm rezistor GND ga — kuchlanish bo'luvchi)",
+     "DIQQAT: LDR yolg'iz ishlamaydi — u 10 kOm rezistor bilan kuchlanish bo'luvchi hosil qilishi kerak, aks holda A0 da o'zgarish bo'lmaydi."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|3-chorak|18": {
   "maqsad": [
@@ -72152,7 +72436,30 @@ window.LESSON_CONTENT = {
    "modul": "M3. Komponentlar dunyosi",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "NTC termistor",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno 5V",
+     "Ikkinchi oyoq -> Arduino Uno A0 (shu nuqtadan 10 kOm rezistor GND ga)",
+     "DIQQAT: Fotorezistor bilan bir xil sxema. Haroratni gradusga aylantirish uchun Shteynhart-Xart formulasi yoki jadval kerak."
+    ]
+   },
+   {
+    "nom": "DHT22 (harorat va namlik)",
+    "points": [
+     "Kutubxona: DHT sensor library (Adafruit) — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <DHT.h>",
+     "VCC (1-pin) -> Arduino Uno 5V (3.3V da ham ishlaydi)",
+     "DATA (2-pin) -> Arduino Uno D2 (VCC bilan orasiga 10 kOm tortuvchi rezistor)",
+     "NC (3-pin) -> Arduino Uno — (ulanmaydi)",
+     "GND (4-pin) -> Arduino Uno GND",
+     "DIQQAT: Tortuvchi rezistorsiz o'qish \"nan\" qaytaradi. DHT22 sekundda faqat bir marta o'qiladi — tezroq so'rov qilsa eski qiymat keladi."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|3-chorak|19": {
   "maqsad": [
@@ -72276,7 +72583,18 @@ window.LESSON_CONTENT = {
    "modul": "M3. Komponentlar dunyosi",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Fotorezistor (LDR)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno 5V",
+     "Ikkinchi oyoq -> Arduino Uno A0 (shu nuqtadan 10 kOm rezistor GND ga — kuchlanish bo'luvchi)",
+     "DIQQAT: LDR yolg'iz ishlamaydi — u 10 kOm rezistor bilan kuchlanish bo'luvchi hosil qilishi kerak, aks holda A0 da o'zgarish bo'lmaydi."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|4-chorak|0": {
   "maqsad": [
@@ -72505,7 +72823,30 @@ window.LESSON_CONTENT = {
    "modul": "M4. Sensorlar va yig'ma qurilma",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "NTC termistor",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno 5V",
+     "Ikkinchi oyoq -> Arduino Uno A0 (shu nuqtadan 10 kOm rezistor GND ga)",
+     "DIQQAT: Fotorezistor bilan bir xil sxema. Haroratni gradusga aylantirish uchun Shteynhart-Xart formulasi yoki jadval kerak."
+    ]
+   },
+   {
+    "nom": "DHT22 (harorat va namlik)",
+    "points": [
+     "Kutubxona: DHT sensor library (Adafruit) — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <DHT.h>",
+     "VCC (1-pin) -> Arduino Uno 5V (3.3V da ham ishlaydi)",
+     "DATA (2-pin) -> Arduino Uno D2 (VCC bilan orasiga 10 kOm tortuvchi rezistor)",
+     "NC (3-pin) -> Arduino Uno — (ulanmaydi)",
+     "GND (4-pin) -> Arduino Uno GND",
+     "DIQQAT: Tortuvchi rezistorsiz o'qish \"nan\" qaytaradi. DHT22 sekundda faqat bir marta o'qiladi — tezroq so'rov qilsa eski qiymat keladi."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|4-chorak|3": {
   "maqsad": [
@@ -72586,7 +72927,18 @@ window.LESSON_CONTENT = {
    "modul": "M4. Sensorlar va yig'ma qurilma",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Reed datchigi (magnit kalit)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (INPUT_PULLUP bilan)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Oddiy tugma kabi ishlaydi — magnit yaqinlashganda ulanadi. Eshik/deraza ochilishini aniqlash uchun ishlatiladi."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|4-chorak|4": {
   "maqsad": [
@@ -72667,7 +73019,19 @@ window.LESSON_CONTENT = {
    "modul": "M4. Sensorlar va yig'ma qurilma",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Hall datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "OUT -> Arduino Uno D2 (raqamli turida; analog turida A0 ga)",
+     "DIQQAT: Magnitning qaysi qutbi yaqinlashganiga sezgir bo'lgan turlari bor — ishlamasa magnitni teskari o'girib ko'ring."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|4-chorak|5": {
   "maqsad": [
@@ -72748,7 +73112,33 @@ window.LESSON_CONTENT = {
    "modul": "M4. Sensorlar va yig'ma qurilma",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Ovoz (mikrofon) datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "OUT / AO -> Arduino Uno A0 (analog — tovush kuchi)",
+     "DO -> Arduino Uno D4 (raqamli — chegaradan oshganda, ixtiyoriy)",
+     "DIQQAT: Moduldagi potensiometr sezgirlikni sozlaydi. Qarsakni aniqlash uchun raqamli chiqish qulayroq."
+    ]
+   },
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|4-chorak|6": {
   "maqsad": [
@@ -72829,7 +73219,19 @@ window.LESSON_CONTENT = {
    "modul": "M4. Sensorlar va yig'ma qurilma",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Suv sathi datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC / + -> Arduino Uno 5V",
+     "GND / - -> Arduino Uno GND",
+     "S (signal) -> Arduino Uno A0 (suv qancha baland bo'lsa, qiymat katta)",
+     "DIQQAT: Datchik faqat suvga tegib turgan qismini o'lchaydi. Kalibrlash uchun quruq va to'liq botgan holatdagi qiymatlar yozib olinadi."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|4-chorak|7": {
   "maqsad": [
@@ -72910,7 +73312,20 @@ window.LESSON_CONTENT = {
    "modul": "M4. Sensorlar va yig'ma qurilma",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tuproq namligi datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "A0 (analog chiqish) -> Arduino Uno A0 (namlik darajasi)",
+     "D0 (raqamli chiqish) -> Arduino Uno D3 (chegaradan o'tganda, ixtiyoriy)",
+     "DIQQAT: Doimiy kuchlanish berilsa elektrodlar tez korroziyaga uchraydi — VCC ni raqamli pinga ulab, faqat o'lchash paytida yoqish tavsiya etiladi."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|4-chorak|8": {
   "maqsad": [
@@ -72991,7 +73406,18 @@ window.LESSON_CONTENT = {
    "modul": "M4. Sensorlar va yig'ma qurilma",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Qiyalik (tilt) datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (INPUT_PULLUP bilan)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Ichidagi sharcha zanjirni ulaydi — qattiq silkitilganda ham signal beradi, shuning uchun dasturda kichik kechikish qo'yish kerak."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|4-chorak|9": {
   "maqsad": [
@@ -73072,7 +73498,20 @@ window.LESSON_CONTENT = {
    "modul": "M4. Sensorlar va yig'ma qurilma",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Olov (flame) datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "AO -> Arduino Uno A0 (olov kuchi)",
+     "DO -> Arduino Uno D3 (olov bor/yo'q)",
+     "DIQQAT: Infraqizil nurga sezgir — quyosh nuri va lampa ham signal berishi mumkin. Sinovda oddiy chiroqdan uzoqroqda tekshiring."
+    ]
+   }
+  ]
  },
  "1-yil|5-sinf|4-chorak|10": {
   "maqsad": [
@@ -74154,7 +74593,19 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektr va sxema tili",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "PIR HC-SR501 (harakat)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "OUT -> Arduino Uno D2 (raqamli kirish, HIGH = harakat bor)",
+     "GND -> Arduino Uno GND",
+     "DIQQAT: Yoqilgandan keyin 30-60 sekund \"isinadi\" — bu vaqtda noto'g'ri signal beradi. Moduldagi ikki vint sezgirlik va kechikishni sozlaydi."
+    ]
+   }
+  ]
  },
  "1-yil|6-sinf|1-chorak|3": {
   "maqsad": [
@@ -74235,7 +74686,19 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektr va sxema tili",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "PIR HC-SR501 (harakat)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "OUT -> Arduino Uno D2 (raqamli kirish, HIGH = harakat bor)",
+     "GND -> Arduino Uno GND",
+     "DIQQAT: Yoqilgandan keyin 30-60 sekund \"isinadi\" — bu vaqtda noto'g'ri signal beradi. Moduldagi ikki vint sezgirlik va kechikishni sozlaydi."
+    ]
+   }
+  ]
  },
  "1-yil|6-sinf|1-chorak|4": {
   "maqsad": [
@@ -74883,7 +75346,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektr va sxema tili",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "1-yil|6-sinf|1-chorak|12": {
   "maqsad": [
@@ -74964,7 +75438,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektr va sxema tili",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "1-yil|6-sinf|1-chorak|13": {
   "maqsad": [
@@ -75288,7 +75773,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektr va sxema tili",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tugma (push button)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (10 kOm tortuvchi rezistor bilan 5V ga, yoki INPUT_PULLUP)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Rezistorsiz ulansa pin \"suzib\" qoladi va tasodifiy qiymat o'qiladi. Eng oson yo'l: pinMode(2, INPUT_PULLUP) — ichki rezistor ishlatiladi, bu holda bosilganda LOW o'qiladi."
+    ]
+   }
+  ]
  },
  "1-yil|6-sinf|1-chorak|17": {
   "maqsad": [
@@ -76370,7 +76866,19 @@ window.LESSON_CONTENT = {
    "modul": "M2. Om qonuni, quvvat va energiya",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Potensiometr 10 kOm",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Chap chetdagi oyoq -> Arduino Uno GND",
+     "O'rtadagi oyoq (chiqish) -> Arduino Uno A0 (analog pin)",
+     "O'ng chetdagi oyoq -> Arduino Uno 5V",
+     "DIQQAT: O'rta oyoq albatta analog pinga ulanadi. Chetdagi ikki oyoq o'rin almashsa, faqat burash yo'nalishi teskari bo'ladi — zarari yo'q."
+    ]
+   }
+  ]
  },
  "1-yil|6-sinf|2-chorak|10": {
   "maqsad": [
@@ -76613,7 +77121,21 @@ window.LESSON_CONTENT = {
    "modul": "M2. Om qonuni, quvvat va energiya",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "RTC DS3231 (real vaqt soati)",
+    "points": [
+     "Kutubxona: RTClib (Adafruit) — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <RTClib.h> va #include <Wire.h>",
+     "VCC -> Arduino Uno 5V (3.3V da ham ishlaydi)",
+     "GND -> Arduino Uno GND",
+     "SDA -> Arduino Uno A4",
+     "SCL -> Arduino Uno A5",
+     "DIQQAT: Ichida CR2032 batareya bo'lishi kerak — u bo'lmasa quvvat o'chganda vaqt nolga qaytadi. Vaqtni bir marta o'rnatib, keyin o'rnatish kodini izohga olish kerak."
+    ]
+   }
+  ]
  },
  "1-yil|6-sinf|2-chorak|13": {
   "maqsad": [
@@ -78100,7 +78622,18 @@ window.LESSON_CONTENT = {
    "modul": "M3. Yarimo'tkazgichlar va komponentlar",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tugma (push button)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (10 kOm tortuvchi rezistor bilan 5V ga, yoki INPUT_PULLUP)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Rezistorsiz ulansa pin \"suzib\" qoladi va tasodifiy qiymat o'qiladi. Eng oson yo'l: pinMode(2, INPUT_PULLUP) — ichki rezistor ishlatiladi, bu holda bosilganda LOW o'qiladi."
+    ]
+   }
+  ]
  },
  "1-yil|6-sinf|3-chorak|11": {
   "maqsad": [
@@ -78343,7 +78876,38 @@ window.LESSON_CONTENT = {
    "modul": "M3. Yarimo'tkazgichlar va komponentlar",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tugma (push button)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (10 kOm tortuvchi rezistor bilan 5V ga, yoki INPUT_PULLUP)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Rezistorsiz ulansa pin \"suzib\" qoladi va tasodifiy qiymat o'qiladi. Eng oson yo'l: pinMode(2, INPUT_PULLUP) — ichki rezistor ishlatiladi, bu holda bosilganda LOW o'qiladi."
+    ]
+   },
+   {
+    "nom": "Reed datchigi (magnit kalit)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (INPUT_PULLUP bilan)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Oddiy tugma kabi ishlaydi — magnit yaqinlashganda ulanadi. Eshik/deraza ochilishini aniqlash uchun ishlatiladi."
+    ]
+   },
+   {
+    "nom": "Rele moduli",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "IN / S -> Arduino Uno D7 (raqamli chiqish)",
+     "COM, NO, NC -> Arduino Uno Yuklama zanjiri (kuchli tomon — plataga ULANMAYDI)",
+     "DIQQAT: Ko'p modullar TESKARI mantiqda ishlaydi: LOW berilganda ulanadi. 220V bilan ishlash O'QITUVCHI NAZORATIDA va faqat namoyish tarzida bo'lishi kerak — o'quvchilarga 220V tegishi mumkin emas."
+    ]
+   }
+  ]
  },
  "1-yil|6-sinf|3-chorak|14": {
   "maqsad": [
@@ -78424,7 +78988,20 @@ window.LESSON_CONTENT = {
    "modul": "M3. Yarimo'tkazgichlar va komponentlar",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Rele moduli",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "IN / S -> Arduino Uno D7 (raqamli chiqish)",
+     "COM, NO, NC -> Arduino Uno Yuklama zanjiri (kuchli tomon — plataga ULANMAYDI)",
+     "DIQQAT: Ko'p modullar TESKARI mantiqda ishlaydi: LOW berilganda ulanadi. 220V bilan ishlash O'QITUVCHI NAZORATIDA va faqat namoyish tarzida bo'lishi kerak — o'quvchilarga 220V tegishi mumkin emas."
+    ]
+   }
+  ]
  },
  "1-yil|6-sinf|3-chorak|15": {
   "maqsad": [
@@ -78586,7 +79163,29 @@ window.LESSON_CONTENT = {
    "modul": "M3. Yarimo'tkazgichlar va komponentlar",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   },
+   {
+    "nom": "RGB LED (umumiy katod)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "R oyoq -> Arduino Uno D9 (PWM) (220 Om rezistor orqali)",
+     "G oyoq -> Arduino Uno D10 (PWM) (220 Om rezistor orqali)",
+     "B oyoq -> Arduino Uno D11 (PWM) (220 Om rezistor orqali)",
+     "Eng uzun oyoq (umumiy katod) -> Arduino Uno GND",
+     "DIQQAT: Uchta pin ham PWM (~ belgisi bor) bo'lishi kerak, aks holda rang aralashtirilmaydi. Umumiy ANOD turida GND o'rniga 5V ga ulanadi."
+    ]
+   }
+  ]
  },
  "1-yil|6-sinf|3-chorak|17": {
   "maqsad": [
@@ -78667,7 +79266,18 @@ window.LESSON_CONTENT = {
    "modul": "M3. Yarimo'tkazgichlar va komponentlar",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "7-segment indikator (1 razryad)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "a, b, c, d, e, f, g segmentlari -> Arduino Uno D2...D8 (har biri 220 Om rezistor orqali)",
+     "Umumiy katod (COM) -> Arduino Uno GND (umumiy anod turida 5V ga)",
+     "DIQQAT: 7 ta rezistor kerak — har segmentga bittadan. Umumiy katod va umumiy anod turlari teskari ishlaydi, avval multimetr bilan aniqlang."
+    ]
+   }
+  ]
  },
  "1-yil|6-sinf|3-chorak|18": {
   "maqsad": [
@@ -78807,7 +79417,20 @@ window.LESSON_CONTENT = {
    "modul": "M3. Yarimo'tkazgichlar va komponentlar",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Rele moduli",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "IN / S -> Arduino Uno D7 (raqamli chiqish)",
+     "COM, NO, NC -> Arduino Uno Yuklama zanjiri (kuchli tomon — plataga ULANMAYDI)",
+     "DIQQAT: Ko'p modullar TESKARI mantiqda ishlaydi: LOW berilganda ulanadi. 220V bilan ishlash O'QITUVCHI NAZORATIDA va faqat namoyish tarzida bo'lishi kerak — o'quvchilarga 220V tegishi mumkin emas."
+    ]
+   }
+  ]
  },
  "1-yil|6-sinf|3-chorak|20": {
   "maqsad": [
@@ -79101,7 +79724,18 @@ window.LESSON_CONTENT = {
    "modul": "M4. Sensorlar va elektromexanika",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Fotorezistor (LDR)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno 5V",
+     "Ikkinchi oyoq -> Arduino Uno A0 (shu nuqtadan 10 kOm rezistor GND ga — kuchlanish bo'luvchi)",
+     "DIQQAT: LDR yolg'iz ishlamaydi — u 10 kOm rezistor bilan kuchlanish bo'luvchi hosil qilishi kerak, aks holda A0 da o'zgarish bo'lmaydi."
+    ]
+   }
+  ]
  },
  "1-yil|6-sinf|4-chorak|3": {
   "maqsad": [
@@ -79182,7 +79816,18 @@ window.LESSON_CONTENT = {
    "modul": "M4. Sensorlar va elektromexanika",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Fotorezistor (LDR)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno 5V",
+     "Ikkinchi oyoq -> Arduino Uno A0 (shu nuqtadan 10 kOm rezistor GND ga — kuchlanish bo'luvchi)",
+     "DIQQAT: LDR yolg'iz ishlamaydi — u 10 kOm rezistor bilan kuchlanish bo'luvchi hosil qilishi kerak, aks holda A0 da o'zgarish bo'lmaydi."
+    ]
+   }
+  ]
  },
  "1-yil|6-sinf|4-chorak|4": {
   "maqsad": [
@@ -79263,7 +79908,30 @@ window.LESSON_CONTENT = {
    "modul": "M4. Sensorlar va elektromexanika",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "NTC termistor",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno 5V",
+     "Ikkinchi oyoq -> Arduino Uno A0 (shu nuqtadan 10 kOm rezistor GND ga)",
+     "DIQQAT: Fotorezistor bilan bir xil sxema. Haroratni gradusga aylantirish uchun Shteynhart-Xart formulasi yoki jadval kerak."
+    ]
+   },
+   {
+    "nom": "DHT22 (harorat va namlik)",
+    "points": [
+     "Kutubxona: DHT sensor library (Adafruit) — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <DHT.h>",
+     "VCC (1-pin) -> Arduino Uno 5V (3.3V da ham ishlaydi)",
+     "DATA (2-pin) -> Arduino Uno D2 (VCC bilan orasiga 10 kOm tortuvchi rezistor)",
+     "NC (3-pin) -> Arduino Uno — (ulanmaydi)",
+     "GND (4-pin) -> Arduino Uno GND",
+     "DIQQAT: Tortuvchi rezistorsiz o'qish \"nan\" qaytaradi. DHT22 sekundda faqat bir marta o'qiladi — tezroq so'rov qilsa eski qiymat keladi."
+    ]
+   }
+  ]
  },
  "1-yil|6-sinf|4-chorak|5": {
   "maqsad": [
@@ -79344,7 +80012,21 @@ window.LESSON_CONTENT = {
    "modul": "M4. Sensorlar va elektromexanika",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "DHT22 (harorat va namlik)",
+    "points": [
+     "Kutubxona: DHT sensor library (Adafruit) — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <DHT.h>",
+     "VCC (1-pin) -> Arduino Uno 5V (3.3V da ham ishlaydi)",
+     "DATA (2-pin) -> Arduino Uno D2 (VCC bilan orasiga 10 kOm tortuvchi rezistor)",
+     "NC (3-pin) -> Arduino Uno — (ulanmaydi)",
+     "GND (4-pin) -> Arduino Uno GND",
+     "DIQQAT: Tortuvchi rezistorsiz o'qish \"nan\" qaytaradi. DHT22 sekundda faqat bir marta o'qiladi — tezroq so'rov qilsa eski qiymat keladi."
+    ]
+   }
+  ]
  },
  "1-yil|6-sinf|4-chorak|6": {
   "maqsad": [
@@ -79425,7 +80107,28 @@ window.LESSON_CONTENT = {
    "modul": "M4. Sensorlar va elektromexanika",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Reed datchigi (magnit kalit)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (INPUT_PULLUP bilan)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Oddiy tugma kabi ishlaydi — magnit yaqinlashganda ulanadi. Eshik/deraza ochilishini aniqlash uchun ishlatiladi."
+    ]
+   },
+   {
+    "nom": "Hall datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "OUT -> Arduino Uno D2 (raqamli turida; analog turida A0 ga)",
+     "DIQQAT: Magnitning qaysi qutbi yaqinlashganiga sezgir bo'lgan turlari bor — ishlamasa magnitni teskari o'girib ko'ring."
+    ]
+   }
+  ]
  },
  "1-yil|6-sinf|4-chorak|7": {
   "maqsad": [
@@ -79587,7 +80290,30 @@ window.LESSON_CONTENT = {
    "modul": "M4. Sensorlar va elektromexanika",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tuproq namligi datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "A0 (analog chiqish) -> Arduino Uno A0 (namlik darajasi)",
+     "D0 (raqamli chiqish) -> Arduino Uno D3 (chegaradan o'tganda, ixtiyoriy)",
+     "DIQQAT: Doimiy kuchlanish berilsa elektrodlar tez korroziyaga uchraydi — VCC ni raqamli pinga ulab, faqat o'lchash paytida yoqish tavsiya etiladi."
+    ]
+   },
+   {
+    "nom": "Suv sathi datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC / + -> Arduino Uno 5V",
+     "GND / - -> Arduino Uno GND",
+     "S (signal) -> Arduino Uno A0 (suv qancha baland bo'lsa, qiymat katta)",
+     "DIQQAT: Datchik faqat suvga tegib turgan qismini o'lchaydi. Kalibrlash uchun quruq va to'liq botgan holatdagi qiymatlar yozib olinadi."
+    ]
+   }
+  ]
  },
  "1-yil|6-sinf|4-chorak|9": {
   "maqsad": [
@@ -79668,7 +80394,18 @@ window.LESSON_CONTENT = {
    "modul": "M4. Sensorlar va elektromexanika",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Qiyalik (tilt) datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (INPUT_PULLUP bilan)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Ichidagi sharcha zanjirni ulaydi — qattiq silkitilganda ham signal beradi, shuning uchun dasturda kichik kechikish qo'yish kerak."
+    ]
+   }
+  ]
  },
  "1-yil|6-sinf|4-chorak|10": {
   "maqsad": [
@@ -79749,7 +80486,21 @@ window.LESSON_CONTENT = {
    "modul": "M4. Sensorlar va elektromexanika",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "DC motor (tranzistor orqali)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Motor bir chiqishi -> Arduino Uno 5V yoki tashqi +",
+     "Motor ikkinchi chiqishi -> Arduino Uno Tranzistor kollektori (BC547)",
+     "Tranzistor bazasi -> Arduino Uno D9 (1 kOm rezistor orqali)",
+     "Tranzistor emitteri -> Arduino Uno GND",
+     "Motor uchlariga -> Arduino Uno 1N4007 diod (teskari qutblab — himoya uchun)",
+     "DIQQAT: Diodsiz ulash tranzistorni kuydiradi: motor to'xtaganda teskari kuchlanish (EMK) hosil bo'ladi. Motorni to'g'ridan-to'g'ri plata piniga ULASH MUMKIN EMAS — pin 40 mA, motor esa bir necha yuz mA tortadi."
+    ]
+   }
+  ]
  },
  "1-yil|6-sinf|4-chorak|11": {
   "maqsad": [
@@ -79992,7 +80743,30 @@ window.LESSON_CONTENT = {
    "modul": "M4. Sensorlar va elektromexanika",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "PIR HC-SR501 (harakat)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "OUT -> Arduino Uno D2 (raqamli kirish, HIGH = harakat bor)",
+     "GND -> Arduino Uno GND",
+     "DIQQAT: Yoqilgandan keyin 30-60 sekund \"isinadi\" — bu vaqtda noto'g'ri signal beradi. Moduldagi ikki vint sezgirlik va kechikishni sozlaydi."
+    ]
+   },
+   {
+    "nom": "Servo SG90",
+    "points": [
+     "Kutubxona: Servo — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Servo.h>",
+     "Qizil sim -> Arduino Uno 5V (3 dan ko'p servo bo'lsa tashqi 5V manba)",
+     "Jigarrang / qora sim -> Arduino Uno GND (tashqi manba GND si bilan birlashtiriladi)",
+     "Sariq / to'q sariq sim -> Arduino Uno D9 (PWM pin)",
+     "DIQQAT: Servo ishga tushganda kuchlanish cho'kadi va plata qayta yuklanadi — shuning uchun quvvat liniyasiga 100 uF kondensator qo'yiladi. ESP32 uchun \"ESP32Servo\" kutubxonasi kerak."
+    ]
+   }
+  ]
  },
  "1-yil|6-sinf|4-chorak|14": {
   "maqsad": [
@@ -80073,7 +80847,24 @@ window.LESSON_CONTENT = {
    "modul": "M4. Sensorlar va elektromexanika",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Qadamli motor 28BYJ-48 + ULN2003",
+    "points": [
+     "Kutubxona: Stepper — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Stepper.h>",
+     "IN1 -> Arduino Uno D8",
+     "IN2 -> Arduino Uno D9",
+     "IN3 -> Arduino Uno D10",
+     "IN4 -> Arduino Uno D11",
+     "VCC (+) -> Arduino Uno 5V (tashqi 5V manba yaxshiroq)",
+     "GND (-) -> Arduino Uno GND",
+     "Motor shlangi -> Arduino Uno ULN2003 rozetkasi (faqat bir tomonga kiradi)",
+     "DIQQAT: Stepper kutubxonasida pin tartibi 8, 10, 9, 11 tarzida beriladi (IN1, IN3, IN2, IN4) — tartib buzilsa motor titraydi, aylanmaydi. Bir to'liq aylanish 2048 qadam (yarim qadam rejimida 4096)."
+    ]
+   }
+  ]
  },
  "1-yil|6-sinf|4-chorak|15": {
   "maqsad": [
@@ -80521,7 +81312,20 @@ window.LESSON_CONTENT = {
    "modul": "M4. Sensorlar va elektromexanika",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tuproq namligi datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "A0 (analog chiqish) -> Arduino Uno A0 (namlik darajasi)",
+     "D0 (raqamli chiqish) -> Arduino Uno D3 (chegaradan o'tganda, ixtiyoriy)",
+     "DIQQAT: Doimiy kuchlanish berilsa elektrodlar tez korroziyaga uchraydi — VCC ni raqamli pinga ulab, faqat o'lchash paytida yoqish tavsiya etiladi."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|1-chorak|0": {
   "maqsad": [
@@ -80993,7 +81797,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektronika asoslari (jadal kurs)",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|1-chorak|6": {
   "maqsad": [
@@ -81398,7 +82213,19 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektronika asoslari (jadal kurs)",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Potensiometr 10 kOm",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Chap chetdagi oyoq -> Arduino Uno GND",
+     "O'rtadagi oyoq (chiqish) -> Arduino Uno A0 (analog pin)",
+     "O'ng chetdagi oyoq -> Arduino Uno 5V",
+     "DIQQAT: O'rta oyoq albatta analog pinga ulanadi. Chetdagi ikki oyoq o'rin almashsa, faqat burash yo'nalishi teskari bo'ladi — zarari yo'q."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|1-chorak|11": {
   "maqsad": [
@@ -81479,7 +82306,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektronika asoslari (jadal kurs)",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tugma (push button)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (10 kOm tortuvchi rezistor bilan 5V ga, yoki INPUT_PULLUP)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Rezistorsiz ulansa pin \"suzib\" qoladi va tasodifiy qiymat o'qiladi. Eng oson yo'l: pinMode(2, INPUT_PULLUP) — ichki rezistor ishlatiladi, bu holda bosilganda LOW o'qiladi."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|1-chorak|12": {
   "maqsad": [
@@ -81722,7 +82560,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektronika asoslari (jadal kurs)",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tugma (push button)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (10 kOm tortuvchi rezistor bilan 5V ga, yoki INPUT_PULLUP)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Rezistorsiz ulansa pin \"suzib\" qoladi va tasodifiy qiymat o'qiladi. Eng oson yo'l: pinMode(2, INPUT_PULLUP) — ichki rezistor ishlatiladi, bu holda bosilganda LOW o'qiladi."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|1-chorak|15": {
   "maqsad": [
@@ -81803,7 +82652,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektronika asoslari (jadal kurs)",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Passiv zummer",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "+ (uzun oyoq) -> Arduino Uno D8 (to'g'ridan-to'g'ri yoki 100 Om orqali)",
+     "- (kalta oyoq) -> Arduino Uno GND",
+     "DIQQAT: Passiv zummer o'zi tovush chiqarmaydi — tone() funksiyasi bilan chastota berish kerak. Aktiv zummerga esa faqat kuchlanish berilsa yetadi."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|1-chorak|16": {
   "maqsad": [
@@ -81884,7 +82744,32 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektronika asoslari (jadal kurs)",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "DC motor (tranzistor orqali)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Motor bir chiqishi -> Arduino Uno 5V yoki tashqi +",
+     "Motor ikkinchi chiqishi -> Arduino Uno Tranzistor kollektori (BC547)",
+     "Tranzistor bazasi -> Arduino Uno D9 (1 kOm rezistor orqali)",
+     "Tranzistor emitteri -> Arduino Uno GND",
+     "Motor uchlariga -> Arduino Uno 1N4007 diod (teskari qutblab — himoya uchun)",
+     "DIQQAT: Diodsiz ulash tranzistorni kuydiradi: motor to'xtaganda teskari kuchlanish (EMK) hosil bo'ladi. Motorni to'g'ridan-to'g'ri plata piniga ULASH MUMKIN EMAS — pin 40 mA, motor esa bir necha yuz mA tortadi."
+    ]
+   },
+   {
+    "nom": "Rele moduli",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "IN / S -> Arduino Uno D7 (raqamli chiqish)",
+     "COM, NO, NC -> Arduino Uno Yuklama zanjiri (kuchli tomon — plataga ULANMAYDI)",
+     "DIQQAT: Ko'p modullar TESKARI mantiqda ishlaydi: LOW berilganda ulanadi. 220V bilan ishlash O'QITUVCHI NAZORATIDA va faqat namoyish tarzida bo'lishi kerak — o'quvchilarga 220V tegishi mumkin emas."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|1-chorak|17": {
   "maqsad": [
@@ -82804,7 +83689,18 @@ window.LESSON_CONTENT = {
    "modul": "M2. Arduino: birinchi qadamlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|2-chorak|8": {
   "maqsad": [
@@ -82885,7 +83781,18 @@ window.LESSON_CONTENT = {
    "modul": "M2. Arduino: birinchi qadamlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|2-chorak|9": {
   "maqsad": [
@@ -83290,7 +84197,18 @@ window.LESSON_CONTENT = {
    "modul": "M2. Arduino: birinchi qadamlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tugma (push button)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (10 kOm tortuvchi rezistor bilan 5V ga, yoki INPUT_PULLUP)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Rezistorsiz ulansa pin \"suzib\" qoladi va tasodifiy qiymat o'qiladi. Eng oson yo'l: pinMode(2, INPUT_PULLUP) — ichki rezistor ishlatiladi, bu holda bosilganda LOW o'qiladi."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|2-chorak|14": {
   "maqsad": [
@@ -83533,7 +84451,18 @@ window.LESSON_CONTENT = {
    "modul": "M2. Arduino: birinchi qadamlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tugma (push button)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (10 kOm tortuvchi rezistor bilan 5V ga, yoki INPUT_PULLUP)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Rezistorsiz ulansa pin \"suzib\" qoladi va tasodifiy qiymat o'qiladi. Eng oson yo'l: pinMode(2, INPUT_PULLUP) — ichki rezistor ishlatiladi, bu holda bosilganda LOW o'qiladi."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|2-chorak|17": {
   "maqsad": [
@@ -83967,7 +84896,19 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Potensiometr 10 kOm",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Chap chetdagi oyoq -> Arduino Uno GND",
+     "O'rtadagi oyoq (chiqish) -> Arduino Uno A0 (analog pin)",
+     "O'ng chetdagi oyoq -> Arduino Uno 5V",
+     "DIQQAT: O'rta oyoq albatta analog pinga ulanadi. Chetdagi ikki oyoq o'rin almashsa, faqat burash yo'nalishi teskari bo'ladi — zarari yo'q."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|3-chorak|2": {
   "maqsad": [
@@ -84291,7 +85232,18 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|3-chorak|6": {
   "maqsad": [
@@ -84372,7 +85324,29 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   },
+   {
+    "nom": "RGB LED (umumiy katod)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "R oyoq -> Arduino Uno D9 (PWM) (220 Om rezistor orqali)",
+     "G oyoq -> Arduino Uno D10 (PWM) (220 Om rezistor orqali)",
+     "B oyoq -> Arduino Uno D11 (PWM) (220 Om rezistor orqali)",
+     "Eng uzun oyoq (umumiy katod) -> Arduino Uno GND",
+     "DIQQAT: Uchta pin ham PWM (~ belgisi bor) bo'lishi kerak, aks holda rang aralashtirilmaydi. Umumiy ANOD turida GND o'rniga 5V ga ulanadi."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|3-chorak|7": {
   "maqsad": [
@@ -84453,7 +85427,18 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Fotorezistor (LDR)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno 5V",
+     "Ikkinchi oyoq -> Arduino Uno A0 (shu nuqtadan 10 kOm rezistor GND ga — kuchlanish bo'luvchi)",
+     "DIQQAT: LDR yolg'iz ishlamaydi — u 10 kOm rezistor bilan kuchlanish bo'luvchi hosil qilishi kerak, aks holda A0 da o'zgarish bo'lmaydi."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|3-chorak|8": {
   "maqsad": [
@@ -84534,7 +85519,18 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Fotorezistor (LDR)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno 5V",
+     "Ikkinchi oyoq -> Arduino Uno A0 (shu nuqtadan 10 kOm rezistor GND ga — kuchlanish bo'luvchi)",
+     "DIQQAT: LDR yolg'iz ishlamaydi — u 10 kOm rezistor bilan kuchlanish bo'luvchi hosil qilishi kerak, aks holda A0 da o'zgarish bo'lmaydi."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|3-chorak|9": {
   "maqsad": [
@@ -84615,7 +85611,30 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "NTC termistor",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno 5V",
+     "Ikkinchi oyoq -> Arduino Uno A0 (shu nuqtadan 10 kOm rezistor GND ga)",
+     "DIQQAT: Fotorezistor bilan bir xil sxema. Haroratni gradusga aylantirish uchun Shteynhart-Xart formulasi yoki jadval kerak."
+    ]
+   },
+   {
+    "nom": "DHT22 (harorat va namlik)",
+    "points": [
+     "Kutubxona: DHT sensor library (Adafruit) — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <DHT.h>",
+     "VCC (1-pin) -> Arduino Uno 5V (3.3V da ham ishlaydi)",
+     "DATA (2-pin) -> Arduino Uno D2 (VCC bilan orasiga 10 kOm tortuvchi rezistor)",
+     "NC (3-pin) -> Arduino Uno — (ulanmaydi)",
+     "GND (4-pin) -> Arduino Uno GND",
+     "DIQQAT: Tortuvchi rezistorsiz o'qish \"nan\" qaytaradi. DHT22 sekundda faqat bir marta o'qiladi — tezroq so'rov qilsa eski qiymat keladi."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|3-chorak|10": {
   "maqsad": [
@@ -84696,7 +85715,21 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "DHT22 (harorat va namlik)",
+    "points": [
+     "Kutubxona: DHT sensor library (Adafruit) — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <DHT.h>",
+     "VCC (1-pin) -> Arduino Uno 5V (3.3V da ham ishlaydi)",
+     "DATA (2-pin) -> Arduino Uno D2 (VCC bilan orasiga 10 kOm tortuvchi rezistor)",
+     "NC (3-pin) -> Arduino Uno — (ulanmaydi)",
+     "GND (4-pin) -> Arduino Uno GND",
+     "DIQQAT: Tortuvchi rezistorsiz o'qish \"nan\" qaytaradi. DHT22 sekundda faqat bir marta o'qiladi — tezroq so'rov qilsa eski qiymat keladi."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|3-chorak|11": {
   "maqsad": [
@@ -84858,7 +85891,20 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "HC-SR04 (ultratovush masofa)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V (3.3V da ishonchsiz ishlaydi)",
+     "TRIG -> Arduino Uno D9 (chiqish — impuls yuboriladi)",
+     "ECHO -> Arduino Uno D10 (kirish — qaytgan vaqt o'lchanadi)",
+     "GND -> Arduino Uno GND",
+     "DIQQAT: ESP32 da ECHO to'g'ridan-to'g'ri ulanmaydi: 5V signal 3.3V pinni shikastlaydi. Ikki rezistor (1 kOm + 2 kOm) bilan bo'luvchi qo'yiladi. Masofa = vaqt * 0.034 / 2."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|3-chorak|13": {
   "maqsad": [
@@ -84939,7 +85985,20 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "HC-SR04 (ultratovush masofa)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V (3.3V da ishonchsiz ishlaydi)",
+     "TRIG -> Arduino Uno D9 (chiqish — impuls yuboriladi)",
+     "ECHO -> Arduino Uno D10 (kirish — qaytgan vaqt o'lchanadi)",
+     "GND -> Arduino Uno GND",
+     "DIQQAT: ESP32 da ECHO to'g'ridan-to'g'ri ulanmaydi: 5V signal 3.3V pinni shikastlaydi. Ikki rezistor (1 kOm + 2 kOm) bilan bo'luvchi qo'yiladi. Masofa = vaqt * 0.034 / 2."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|3-chorak|14": {
   "maqsad": [
@@ -85020,7 +86079,19 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "PIR HC-SR501 (harakat)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "OUT -> Arduino Uno D2 (raqamli kirish, HIGH = harakat bor)",
+     "GND -> Arduino Uno GND",
+     "DIQQAT: Yoqilgandan keyin 30-60 sekund \"isinadi\" — bu vaqtda noto'g'ri signal beradi. Moduldagi ikki vint sezgirlik va kechikishni sozlaydi."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|3-chorak|15": {
   "maqsad": [
@@ -85101,7 +86172,20 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tuproq namligi datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "A0 (analog chiqish) -> Arduino Uno A0 (namlik darajasi)",
+     "D0 (raqamli chiqish) -> Arduino Uno D3 (chegaradan o'tganda, ixtiyoriy)",
+     "DIQQAT: Doimiy kuchlanish berilsa elektrodlar tez korroziyaga uchraydi — VCC ni raqamli pinga ulab, faqat o'lchash paytida yoqish tavsiya etiladi."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|3-chorak|16": {
   "maqsad": [
@@ -85182,7 +86266,20 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Olov (flame) datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "AO -> Arduino Uno A0 (olov kuchi)",
+     "DO -> Arduino Uno D3 (olov bor/yo'q)",
+     "DIQQAT: Infraqizil nurga sezgir — quyosh nuri va lampa ham signal berishi mumkin. Sinovda oddiy chiroqdan uzoqroqda tekshiring."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|3-chorak|17": {
   "maqsad": [
@@ -85468,7 +86565,21 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "DHT22 (harorat va namlik)",
+    "points": [
+     "Kutubxona: DHT sensor library (Adafruit) — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <DHT.h>",
+     "VCC (1-pin) -> Arduino Uno 5V (3.3V da ham ishlaydi)",
+     "DATA (2-pin) -> Arduino Uno D2 (VCC bilan orasiga 10 kOm tortuvchi rezistor)",
+     "NC (3-pin) -> Arduino Uno — (ulanmaydi)",
+     "GND (4-pin) -> Arduino Uno GND",
+     "DIQQAT: Tortuvchi rezistorsiz o'qish \"nan\" qaytaradi. DHT22 sekundda faqat bir marta o'qiladi — tezroq so'rov qilsa eski qiymat keladi."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|4-chorak|0": {
   "maqsad": [
@@ -85535,7 +86646,19 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va ekran",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "PIR HC-SR501 (harakat)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "OUT -> Arduino Uno D2 (raqamli kirish, HIGH = harakat bor)",
+     "GND -> Arduino Uno GND",
+     "DIQQAT: Yoqilgandan keyin 30-60 sekund \"isinadi\" — bu vaqtda noto'g'ri signal beradi. Moduldagi ikki vint sezgirlik va kechikishni sozlaydi."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|4-chorak|1": {
   "maqsad": [
@@ -85616,7 +86739,20 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va ekran",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Servo SG90",
+    "points": [
+     "Kutubxona: Servo — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Servo.h>",
+     "Qizil sim -> Arduino Uno 5V (3 dan ko'p servo bo'lsa tashqi 5V manba)",
+     "Jigarrang / qora sim -> Arduino Uno GND (tashqi manba GND si bilan birlashtiriladi)",
+     "Sariq / to'q sariq sim -> Arduino Uno D9 (PWM pin)",
+     "DIQQAT: Servo ishga tushganda kuchlanish cho'kadi va plata qayta yuklanadi — shuning uchun quvvat liniyasiga 100 uF kondensator qo'yiladi. ESP32 uchun \"ESP32Servo\" kutubxonasi kerak."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|4-chorak|2": {
   "maqsad": [
@@ -85697,7 +86833,30 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va ekran",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Potensiometr 10 kOm",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Chap chetdagi oyoq -> Arduino Uno GND",
+     "O'rtadagi oyoq (chiqish) -> Arduino Uno A0 (analog pin)",
+     "O'ng chetdagi oyoq -> Arduino Uno 5V",
+     "DIQQAT: O'rta oyoq albatta analog pinga ulanadi. Chetdagi ikki oyoq o'rin almashsa, faqat burash yo'nalishi teskari bo'ladi — zarari yo'q."
+    ]
+   },
+   {
+    "nom": "Servo SG90",
+    "points": [
+     "Kutubxona: Servo — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Servo.h>",
+     "Qizil sim -> Arduino Uno 5V (3 dan ko'p servo bo'lsa tashqi 5V manba)",
+     "Jigarrang / qora sim -> Arduino Uno GND (tashqi manba GND si bilan birlashtiriladi)",
+     "Sariq / to'q sariq sim -> Arduino Uno D9 (PWM pin)",
+     "DIQQAT: Servo ishga tushganda kuchlanish cho'kadi va plata qayta yuklanadi — shuning uchun quvvat liniyasiga 100 uF kondensator qo'yiladi. ESP32 uchun \"ESP32Servo\" kutubxonasi kerak."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|4-chorak|3": {
   "maqsad": [
@@ -85778,7 +86937,21 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va ekran",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "DC motor (tranzistor orqali)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Motor bir chiqishi -> Arduino Uno 5V yoki tashqi +",
+     "Motor ikkinchi chiqishi -> Arduino Uno Tranzistor kollektori (BC547)",
+     "Tranzistor bazasi -> Arduino Uno D9 (1 kOm rezistor orqali)",
+     "Tranzistor emitteri -> Arduino Uno GND",
+     "Motor uchlariga -> Arduino Uno 1N4007 diod (teskari qutblab — himoya uchun)",
+     "DIQQAT: Diodsiz ulash tranzistorni kuydiradi: motor to'xtaganda teskari kuchlanish (EMK) hosil bo'ladi. Motorni to'g'ridan-to'g'ri plata piniga ULASH MUMKIN EMAS — pin 40 mA, motor esa bir necha yuz mA tortadi."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|4-chorak|4": {
   "maqsad": [
@@ -85859,7 +87032,27 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va ekran",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "L298N motor drayveri",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC / +12V -> Arduino Uno Tashqi 6-12V manba + (batareya bloki)",
+     "GND -> Arduino Uno GND (Arduino GND si bilan BIRLASHTIRILADI)",
+     "5V -> Arduino Uno Arduino 5V (jumper turgan bo'lsa drayver o'zi 5V beradi)",
+     "IN1 -> Arduino Uno D8 (1-motor yo'nalishi)",
+     "IN2 -> Arduino Uno D9 (1-motor yo'nalishi)",
+     "ENA -> Arduino Uno D10 (PWM) (1-motor tezligi)",
+     "IN3 -> Arduino Uno D6 (2-motor yo'nalishi)",
+     "IN4 -> Arduino Uno D7 (2-motor yo'nalishi)",
+     "ENB -> Arduino Uno D5 (PWM) (2-motor tezligi)",
+     "OUT1, OUT2 -> Arduino Uno 1-motor simlari",
+     "OUT3, OUT4 -> Arduino Uno 2-motor simlari",
+     "DIQQAT: Umumiy GND eng muhim shart — Arduino va drayver GND si ulanmasa boshqaruv signali ishlamaydi. IN1=HIGH, IN2=LOW -> bir yo'nalish; teskarisi -> ikkinchi yo'nalish; ikkisi bir xil -> to'xtaydi."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|4-chorak|5": {
   "maqsad": [
@@ -85940,7 +87133,27 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va ekran",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "L298N motor drayveri",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC / +12V -> Arduino Uno Tashqi 6-12V manba + (batareya bloki)",
+     "GND -> Arduino Uno GND (Arduino GND si bilan BIRLASHTIRILADI)",
+     "5V -> Arduino Uno Arduino 5V (jumper turgan bo'lsa drayver o'zi 5V beradi)",
+     "IN1 -> Arduino Uno D8 (1-motor yo'nalishi)",
+     "IN2 -> Arduino Uno D9 (1-motor yo'nalishi)",
+     "ENA -> Arduino Uno D10 (PWM) (1-motor tezligi)",
+     "IN3 -> Arduino Uno D6 (2-motor yo'nalishi)",
+     "IN4 -> Arduino Uno D7 (2-motor yo'nalishi)",
+     "ENB -> Arduino Uno D5 (PWM) (2-motor tezligi)",
+     "OUT1, OUT2 -> Arduino Uno 1-motor simlari",
+     "OUT3, OUT4 -> Arduino Uno 2-motor simlari",
+     "DIQQAT: Umumiy GND eng muhim shart — Arduino va drayver GND si ulanmasa boshqaruv signali ishlamaydi. IN1=HIGH, IN2=LOW -> bir yo'nalish; teskarisi -> ikkinchi yo'nalish; ikkisi bir xil -> to'xtaydi."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|4-chorak|6": {
   "maqsad": [
@@ -86021,7 +87234,24 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va ekran",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Qadamli motor 28BYJ-48 + ULN2003",
+    "points": [
+     "Kutubxona: Stepper — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Stepper.h>",
+     "IN1 -> Arduino Uno D8",
+     "IN2 -> Arduino Uno D9",
+     "IN3 -> Arduino Uno D10",
+     "IN4 -> Arduino Uno D11",
+     "VCC (+) -> Arduino Uno 5V (tashqi 5V manba yaxshiroq)",
+     "GND (-) -> Arduino Uno GND",
+     "Motor shlangi -> Arduino Uno ULN2003 rozetkasi (faqat bir tomonga kiradi)",
+     "DIQQAT: Stepper kutubxonasida pin tartibi 8, 10, 9, 11 tarzida beriladi (IN1, IN3, IN2, IN4) — tartib buzilsa motor titraydi, aylanmaydi. Bir to'liq aylanish 2048 qadam (yarim qadam rejimida 4096)."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|4-chorak|7": {
   "maqsad": [
@@ -86102,7 +87332,18 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va ekran",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Passiv zummer",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "+ (uzun oyoq) -> Arduino Uno D8 (to'g'ridan-to'g'ri yoki 100 Om orqali)",
+     "- (kalta oyoq) -> Arduino Uno GND",
+     "DIQQAT: Passiv zummer o'zi tovush chiqarmaydi — tone() funksiyasi bilan chastota berish kerak. Aktiv zummerga esa faqat kuchlanish berilsa yetadi."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|4-chorak|8": {
   "maqsad": [
@@ -86183,7 +87424,18 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va ekran",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Passiv zummer",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "+ (uzun oyoq) -> Arduino Uno D8 (to'g'ridan-to'g'ri yoki 100 Om orqali)",
+     "- (kalta oyoq) -> Arduino Uno GND",
+     "DIQQAT: Passiv zummer o'zi tovush chiqarmaydi — tone() funksiyasi bilan chastota berish kerak. Aktiv zummerga esa faqat kuchlanish berilsa yetadi."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|4-chorak|9": {
   "maqsad": [
@@ -86264,7 +87516,21 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va ekran",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LCD 1602 (I2C moduli bilan)",
+    "points": [
+     "Kutubxona: LiquidCrystal I2C — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <LiquidCrystal_I2C.h>",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "SDA -> Arduino Uno A4 (Uno'da SDA = A4)",
+     "SCL -> Arduino Uno A5 (Uno'da SCL = A5)",
+     "DIQQAT: I2C manzili odatda 0x27 yoki 0x3F. Ekran yonib turib matn ko'rinmasa — manzil noto'g'ri yoki kontrast vintini burash kerak."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|4-chorak|10": {
   "maqsad": [
@@ -86345,7 +87611,21 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va ekran",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LCD 1602 (I2C moduli bilan)",
+    "points": [
+     "Kutubxona: LiquidCrystal I2C — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <LiquidCrystal_I2C.h>",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "SDA -> Arduino Uno A4 (Uno'da SDA = A4)",
+     "SCL -> Arduino Uno A5 (Uno'da SCL = A5)",
+     "DIQQAT: I2C manzili odatda 0x27 yoki 0x3F. Ekran yonib turib matn ko'rinmasa — manzil noto'g'ri yoki kontrast vintini burash kerak."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|4-chorak|11": {
   "maqsad": [
@@ -86426,7 +87706,21 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va ekran",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LCD 1602 (I2C moduli bilan)",
+    "points": [
+     "Kutubxona: LiquidCrystal I2C — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <LiquidCrystal_I2C.h>",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "SDA -> Arduino Uno A4 (Uno'da SDA = A4)",
+     "SCL -> Arduino Uno A5 (Uno'da SCL = A5)",
+     "DIQQAT: I2C manzili odatda 0x27 yoki 0x3F. Ekran yonib turib matn ko'rinmasa — manzil noto'g'ri yoki kontrast vintini burash kerak."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|4-chorak|12": {
   "maqsad": [
@@ -86507,7 +87801,21 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va ekran",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LCD 1602 (I2C moduli bilan)",
+    "points": [
+     "Kutubxona: LiquidCrystal I2C — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <LiquidCrystal_I2C.h>",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "SDA -> Arduino Uno A4 (Uno'da SDA = A4)",
+     "SCL -> Arduino Uno A5 (Uno'da SCL = A5)",
+     "DIQQAT: I2C manzili odatda 0x27 yoki 0x3F. Ekran yonib turib matn ko'rinmasa — manzil noto'g'ri yoki kontrast vintini burash kerak."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|4-chorak|13": {
   "maqsad": [
@@ -86588,7 +87896,18 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va ekran",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "7-segment indikator (1 razryad)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "a, b, c, d, e, f, g segmentlari -> Arduino Uno D2...D8 (har biri 220 Om rezistor orqali)",
+     "Umumiy katod (COM) -> Arduino Uno GND (umumiy anod turida 5V ga)",
+     "DIQQAT: 7 ta rezistor kerak — har segmentga bittadan. Umumiy katod va umumiy anod turlari teskari ishlaydi, avval multimetr bilan aniqlang."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|4-chorak|14": {
   "maqsad": [
@@ -86669,7 +87988,23 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va ekran",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "74HC595 siljish registri",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "DS / SER (14-pin) -> Arduino Uno D11 (ma'lumot (data))",
+     "SH_CP / SRCLK (11-pin) -> Arduino Uno D12 (siljish taktı (clock))",
+     "ST_CP / RCLK (12-pin) -> Arduino Uno D8 (yozish (latch))",
+     "VCC (16-pin) -> Arduino Uno 5V",
+     "GND (8-pin) -> Arduino Uno GND",
+     "OE (13-pin) -> Arduino Uno GND (chiqishni yoqib turadi)",
+     "MR (10-pin) -> Arduino Uno 5V (tozalashni o'chirib turadi)",
+     "DIQQAT: OE va MR pinlarini ulashni unutish eng ko'p uchraydigan xato — ularsiz chiqish umuman ishlamaydi."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|4-chorak|15": {
   "maqsad": [
@@ -86750,7 +88085,31 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va ekran",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "HC-SR04 (ultratovush masofa)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V (3.3V da ishonchsiz ishlaydi)",
+     "TRIG -> Arduino Uno D9 (chiqish — impuls yuboriladi)",
+     "ECHO -> Arduino Uno D10 (kirish — qaytgan vaqt o'lchanadi)",
+     "GND -> Arduino Uno GND",
+     "DIQQAT: ESP32 da ECHO to'g'ridan-to'g'ri ulanmaydi: 5V signal 3.3V pinni shikastlaydi. Ikki rezistor (1 kOm + 2 kOm) bilan bo'luvchi qo'yiladi. Masofa = vaqt * 0.034 / 2."
+    ]
+   },
+   {
+    "nom": "IR qabul qilgich VS1838",
+    "points": [
+     "Kutubxona: IRremote — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <IRremote.h>",
+     "OUT (signal) -> Arduino Uno D2 (modul oldidan qaraganda chap pin)",
+     "GND -> Arduino Uno GND (o'rta pin)",
+     "VCC -> Arduino Uno 5V (o'ng pin)",
+     "DIQQAT: Pin tartibi ko'p modullarda OUT-GND-VCC — teskari ulansa qiziydi. Avval pult kodlarini Serial monitorda chiqarib yozib olish kerak, har bir pultda kodlar boshqacha."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|4-chorak|16": {
   "maqsad": [
@@ -86831,7 +88190,20 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va ekran",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Rele moduli",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "IN / S -> Arduino Uno D7 (raqamli chiqish)",
+     "COM, NO, NC -> Arduino Uno Yuklama zanjiri (kuchli tomon — plataga ULANMAYDI)",
+     "DIQQAT: Ko'p modullar TESKARI mantiqda ishlaydi: LOW berilganda ulanadi. 220V bilan ishlash O'QITUVCHI NAZORATIDA va faqat namoyish tarzida bo'lishi kerak — o'quvchilarga 220V tegishi mumkin emas."
+    ]
+   }
+  ]
  },
  "1-yil|7-sinf|4-chorak|17": {
   "maqsad": [
@@ -87427,7 +88799,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektronika va Arduino asoslari (jadal)",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|1-chorak|4": {
   "maqsad": [
@@ -88075,7 +89458,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektronika va Arduino asoslari (jadal)",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tugma (push button)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (10 kOm tortuvchi rezistor bilan 5V ga, yoki INPUT_PULLUP)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Rezistorsiz ulansa pin \"suzib\" qoladi va tasodifiy qiymat o'qiladi. Eng oson yo'l: pinMode(2, INPUT_PULLUP) — ichki rezistor ishlatiladi, bu holda bosilganda LOW o'qiladi."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|1-chorak|12": {
   "maqsad": [
@@ -88399,7 +89793,19 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektronika va Arduino asoslari (jadal)",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Potensiometr 10 kOm",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Chap chetdagi oyoq -> Arduino Uno GND",
+     "O'rtadagi oyoq (chiqish) -> Arduino Uno A0 (analog pin)",
+     "O'ng chetdagi oyoq -> Arduino Uno 5V",
+     "DIQQAT: O'rta oyoq albatta analog pinga ulanadi. Chetdagi ikki oyoq o'rin almashsa, faqat burash yo'nalishi teskari bo'ladi — zarari yo'q."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|1-chorak|16": {
   "maqsad": [
@@ -89076,7 +90482,27 @@ window.LESSON_CONTENT = {
    "modul": "M2. Arduino: sensorlar va ijro (yakun)",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Fotorezistor (LDR)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno 5V",
+     "Ikkinchi oyoq -> Arduino Uno A0 (shu nuqtadan 10 kOm rezistor GND ga — kuchlanish bo'luvchi)",
+     "DIQQAT: LDR yolg'iz ishlamaydi — u 10 kOm rezistor bilan kuchlanish bo'luvchi hosil qilishi kerak, aks holda A0 da o'zgarish bo'lmaydi."
+    ]
+   },
+   {
+    "nom": "NTC termistor",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno 5V",
+     "Ikkinchi oyoq -> Arduino Uno A0 (shu nuqtadan 10 kOm rezistor GND ga)",
+     "DIQQAT: Fotorezistor bilan bir xil sxema. Haroratni gradusga aylantirish uchun Shteynhart-Xart formulasi yoki jadval kerak."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|2-chorak|4": {
   "maqsad": [
@@ -89157,7 +90583,21 @@ window.LESSON_CONTENT = {
    "modul": "M2. Arduino: sensorlar va ijro (yakun)",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "DHT22 (harorat va namlik)",
+    "points": [
+     "Kutubxona: DHT sensor library (Adafruit) — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <DHT.h>",
+     "VCC (1-pin) -> Arduino Uno 5V (3.3V da ham ishlaydi)",
+     "DATA (2-pin) -> Arduino Uno D2 (VCC bilan orasiga 10 kOm tortuvchi rezistor)",
+     "NC (3-pin) -> Arduino Uno — (ulanmaydi)",
+     "GND (4-pin) -> Arduino Uno GND",
+     "DIQQAT: Tortuvchi rezistorsiz o'qish \"nan\" qaytaradi. DHT22 sekundda faqat bir marta o'qiladi — tezroq so'rov qilsa eski qiymat keladi."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|2-chorak|5": {
   "maqsad": [
@@ -89238,7 +90678,20 @@ window.LESSON_CONTENT = {
    "modul": "M2. Arduino: sensorlar va ijro (yakun)",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "HC-SR04 (ultratovush masofa)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V (3.3V da ishonchsiz ishlaydi)",
+     "TRIG -> Arduino Uno D9 (chiqish — impuls yuboriladi)",
+     "ECHO -> Arduino Uno D10 (kirish — qaytgan vaqt o'lchanadi)",
+     "GND -> Arduino Uno GND",
+     "DIQQAT: ESP32 da ECHO to'g'ridan-to'g'ri ulanmaydi: 5V signal 3.3V pinni shikastlaydi. Ikki rezistor (1 kOm + 2 kOm) bilan bo'luvchi qo'yiladi. Masofa = vaqt * 0.034 / 2."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|2-chorak|6": {
   "maqsad": [
@@ -89319,7 +90772,19 @@ window.LESSON_CONTENT = {
    "modul": "M2. Arduino: sensorlar va ijro (yakun)",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "PIR HC-SR501 (harakat)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "OUT -> Arduino Uno D2 (raqamli kirish, HIGH = harakat bor)",
+     "GND -> Arduino Uno GND",
+     "DIQQAT: Yoqilgandan keyin 30-60 sekund \"isinadi\" — bu vaqtda noto'g'ri signal beradi. Moduldagi ikki vint sezgirlik va kechikishni sozlaydi."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|2-chorak|7": {
   "maqsad": [
@@ -89400,7 +90865,31 @@ window.LESSON_CONTENT = {
    "modul": "M2. Arduino: sensorlar va ijro (yakun)",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tuproq namligi datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "A0 (analog chiqish) -> Arduino Uno A0 (namlik darajasi)",
+     "D0 (raqamli chiqish) -> Arduino Uno D3 (chegaradan o'tganda, ixtiyoriy)",
+     "DIQQAT: Doimiy kuchlanish berilsa elektrodlar tez korroziyaga uchraydi — VCC ni raqamli pinga ulab, faqat o'lchash paytida yoqish tavsiya etiladi."
+    ]
+   },
+   {
+    "nom": "Olov (flame) datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "AO -> Arduino Uno A0 (olov kuchi)",
+     "DO -> Arduino Uno D3 (olov bor/yo'q)",
+     "DIQQAT: Infraqizil nurga sezgir — quyosh nuri va lampa ham signal berishi mumkin. Sinovda oddiy chiroqdan uzoqroqda tekshiring."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|2-chorak|8": {
   "maqsad": [
@@ -89481,7 +90970,20 @@ window.LESSON_CONTENT = {
    "modul": "M2. Arduino: sensorlar va ijro (yakun)",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Ovoz (mikrofon) datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "OUT / AO -> Arduino Uno A0 (analog — tovush kuchi)",
+     "DO -> Arduino Uno D4 (raqamli — chegaradan oshganda, ixtiyoriy)",
+     "DIQQAT: Moduldagi potensiometr sezgirlikni sozlaydi. Qarsakni aniqlash uchun raqamli chiqish qulayroq."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|2-chorak|9": {
   "maqsad": [
@@ -89562,7 +91064,20 @@ window.LESSON_CONTENT = {
    "modul": "M2. Arduino: sensorlar va ijro (yakun)",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Servo SG90",
+    "points": [
+     "Kutubxona: Servo — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Servo.h>",
+     "Qizil sim -> Arduino Uno 5V (3 dan ko'p servo bo'lsa tashqi 5V manba)",
+     "Jigarrang / qora sim -> Arduino Uno GND (tashqi manba GND si bilan birlashtiriladi)",
+     "Sariq / to'q sariq sim -> Arduino Uno D9 (PWM pin)",
+     "DIQQAT: Servo ishga tushganda kuchlanish cho'kadi va plata qayta yuklanadi — shuning uchun quvvat liniyasiga 100 uF kondensator qo'yiladi. ESP32 uchun \"ESP32Servo\" kutubxonasi kerak."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|2-chorak|10": {
   "maqsad": [
@@ -89643,7 +91158,39 @@ window.LESSON_CONTENT = {
    "modul": "M2. Arduino: sensorlar va ijro (yakun)",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "DC motor (tranzistor orqali)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Motor bir chiqishi -> Arduino Uno 5V yoki tashqi +",
+     "Motor ikkinchi chiqishi -> Arduino Uno Tranzistor kollektori (BC547)",
+     "Tranzistor bazasi -> Arduino Uno D9 (1 kOm rezistor orqali)",
+     "Tranzistor emitteri -> Arduino Uno GND",
+     "Motor uchlariga -> Arduino Uno 1N4007 diod (teskari qutblab — himoya uchun)",
+     "DIQQAT: Diodsiz ulash tranzistorni kuydiradi: motor to'xtaganda teskari kuchlanish (EMK) hosil bo'ladi. Motorni to'g'ridan-to'g'ri plata piniga ULASH MUMKIN EMAS — pin 40 mA, motor esa bir necha yuz mA tortadi."
+    ]
+   },
+   {
+    "nom": "L298N motor drayveri",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC / +12V -> Arduino Uno Tashqi 6-12V manba + (batareya bloki)",
+     "GND -> Arduino Uno GND (Arduino GND si bilan BIRLASHTIRILADI)",
+     "5V -> Arduino Uno Arduino 5V (jumper turgan bo'lsa drayver o'zi 5V beradi)",
+     "IN1 -> Arduino Uno D8 (1-motor yo'nalishi)",
+     "IN2 -> Arduino Uno D9 (1-motor yo'nalishi)",
+     "ENA -> Arduino Uno D10 (PWM) (1-motor tezligi)",
+     "IN3 -> Arduino Uno D6 (2-motor yo'nalishi)",
+     "IN4 -> Arduino Uno D7 (2-motor yo'nalishi)",
+     "ENB -> Arduino Uno D5 (PWM) (2-motor tezligi)",
+     "OUT1, OUT2 -> Arduino Uno 1-motor simlari",
+     "OUT3, OUT4 -> Arduino Uno 2-motor simlari",
+     "DIQQAT: Umumiy GND eng muhim shart — Arduino va drayver GND si ulanmasa boshqaruv signali ishlamaydi. IN1=HIGH, IN2=LOW -> bir yo'nalish; teskarisi -> ikkinchi yo'nalish; ikkisi bir xil -> to'xtaydi."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|2-chorak|11": {
   "maqsad": [
@@ -89724,7 +91271,24 @@ window.LESSON_CONTENT = {
    "modul": "M2. Arduino: sensorlar va ijro (yakun)",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Qadamli motor 28BYJ-48 + ULN2003",
+    "points": [
+     "Kutubxona: Stepper — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Stepper.h>",
+     "IN1 -> Arduino Uno D8",
+     "IN2 -> Arduino Uno D9",
+     "IN3 -> Arduino Uno D10",
+     "IN4 -> Arduino Uno D11",
+     "VCC (+) -> Arduino Uno 5V (tashqi 5V manba yaxshiroq)",
+     "GND (-) -> Arduino Uno GND",
+     "Motor shlangi -> Arduino Uno ULN2003 rozetkasi (faqat bir tomonga kiradi)",
+     "DIQQAT: Stepper kutubxonasida pin tartibi 8, 10, 9, 11 tarzida beriladi (IN1, IN3, IN2, IN4) — tartib buzilsa motor titraydi, aylanmaydi. Bir to'liq aylanish 2048 qadam (yarim qadam rejimida 4096)."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|2-chorak|12": {
   "maqsad": [
@@ -89805,7 +91369,20 @@ window.LESSON_CONTENT = {
    "modul": "M2. Arduino: sensorlar va ijro (yakun)",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Rele moduli",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "IN / S -> Arduino Uno D7 (raqamli chiqish)",
+     "COM, NO, NC -> Arduino Uno Yuklama zanjiri (kuchli tomon — plataga ULANMAYDI)",
+     "DIQQAT: Ko'p modullar TESKARI mantiqda ishlaydi: LOW berilganda ulanadi. 220V bilan ishlash O'QITUVCHI NAZORATIDA va faqat namoyish tarzida bo'lishi kerak — o'quvchilarga 220V tegishi mumkin emas."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|2-chorak|13": {
   "maqsad": [
@@ -89886,7 +91463,18 @@ window.LESSON_CONTENT = {
    "modul": "M2. Arduino: sensorlar va ijro (yakun)",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Passiv zummer",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "+ (uzun oyoq) -> Arduino Uno D8 (to'g'ridan-to'g'ri yoki 100 Om orqali)",
+     "- (kalta oyoq) -> Arduino Uno GND",
+     "DIQQAT: Passiv zummer o'zi tovush chiqarmaydi — tone() funksiyasi bilan chastota berish kerak. Aktiv zummerga esa faqat kuchlanish berilsa yetadi."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|2-chorak|14": {
   "maqsad": [
@@ -89967,7 +91555,21 @@ window.LESSON_CONTENT = {
    "modul": "M2. Arduino: sensorlar va ijro (yakun)",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LCD 1602 (I2C moduli bilan)",
+    "points": [
+     "Kutubxona: LiquidCrystal I2C — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <LiquidCrystal_I2C.h>",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "SDA -> Arduino Uno A4 (Uno'da SDA = A4)",
+     "SCL -> Arduino Uno A5 (Uno'da SCL = A5)",
+     "DIQQAT: I2C manzili odatda 0x27 yoki 0x3F. Ekran yonib turib matn ko'rinmasa — manzil noto'g'ri yoki kontrast vintini burash kerak."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|2-chorak|15": {
   "maqsad": [
@@ -90048,7 +91650,32 @@ window.LESSON_CONTENT = {
    "modul": "M2. Arduino: sensorlar va ijro (yakun)",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "7-segment indikator (1 razryad)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "a, b, c, d, e, f, g segmentlari -> Arduino Uno D2...D8 (har biri 220 Om rezistor orqali)",
+     "Umumiy katod (COM) -> Arduino Uno GND (umumiy anod turida 5V ga)",
+     "DIQQAT: 7 ta rezistor kerak — har segmentga bittadan. Umumiy katod va umumiy anod turlari teskari ishlaydi, avval multimetr bilan aniqlang."
+    ]
+   },
+   {
+    "nom": "74HC595 siljish registri",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "DS / SER (14-pin) -> Arduino Uno D11 (ma'lumot (data))",
+     "SH_CP / SRCLK (11-pin) -> Arduino Uno D12 (siljish taktı (clock))",
+     "ST_CP / RCLK (12-pin) -> Arduino Uno D8 (yozish (latch))",
+     "VCC (16-pin) -> Arduino Uno 5V",
+     "GND (8-pin) -> Arduino Uno GND",
+     "OE (13-pin) -> Arduino Uno GND (chiqishni yoqib turadi)",
+     "MR (10-pin) -> Arduino Uno 5V (tozalashni o'chirib turadi)",
+     "DIQQAT: OE va MR pinlarini ulashni unutish eng ko'p uchraydigan xato — ularsiz chiqish umuman ishlamaydi."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|2-chorak|16": {
   "maqsad": [
@@ -90129,7 +91756,20 @@ window.LESSON_CONTENT = {
    "modul": "M2. Arduino: sensorlar va ijro (yakun)",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "IR qabul qilgich VS1838",
+    "points": [
+     "Kutubxona: IRremote — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <IRremote.h>",
+     "OUT (signal) -> Arduino Uno D2 (modul oldidan qaraganda chap pin)",
+     "GND -> Arduino Uno GND (o'rta pin)",
+     "VCC -> Arduino Uno 5V (o'ng pin)",
+     "DIQQAT: Pin tartibi ko'p modullarda OUT-GND-VCC — teskari ulansa qiziydi. Avval pult kodlarini Serial monitorda chiqarib yozib olish kerak, har bir pultda kodlar boshqacha."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|2-chorak|17": {
   "maqsad": [
@@ -90210,7 +91850,25 @@ window.LESSON_CONTENT = {
    "modul": "M2. Arduino: sensorlar va ijro (yakun)",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "RFID RC522",
+    "points": [
+     "Kutubxona: MFRC522 — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <MFRC522.h> va #include <SPI.h>",
+     "SDA / SS -> Arduino Uno D10",
+     "SCK -> Arduino Uno D13 (SPI takt)",
+     "MOSI -> Arduino Uno D11",
+     "MISO -> Arduino Uno D12",
+     "IRQ -> Arduino Uno — (ulanmaydi)",
+     "GND -> Arduino Uno GND",
+     "RST -> Arduino Uno D9",
+     "3.3V -> Arduino Uno 3.3V (5V BERILMAYDI — modul kuyadi)",
+     "DIQQAT: RC522 faqat 3.3V bilan ishlaydi. 5V ga ulash eng ko'p uchraydigan va modulni butunlay ishdan chiqaradigan xato."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|2-chorak|18": {
   "maqsad": [
@@ -90415,7 +92073,36 @@ window.LESSON_CONTENT = {
    "modul": "M2. Arduino: sensorlar va ijro (yakun)",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Servo SG90",
+    "points": [
+     "Kutubxona: Servo — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Servo.h>",
+     "Qizil sim -> Arduino Uno 5V (3 dan ko'p servo bo'lsa tashqi 5V manba)",
+     "Jigarrang / qora sim -> Arduino Uno GND (tashqi manba GND si bilan birlashtiriladi)",
+     "Sariq / to'q sariq sim -> Arduino Uno D9 (PWM pin)",
+     "DIQQAT: Servo ishga tushganda kuchlanish cho'kadi va plata qayta yuklanadi — shuning uchun quvvat liniyasiga 100 uF kondensator qo'yiladi. ESP32 uchun \"ESP32Servo\" kutubxonasi kerak."
+    ]
+   },
+   {
+    "nom": "RFID RC522",
+    "points": [
+     "Kutubxona: MFRC522 — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <MFRC522.h> va #include <SPI.h>",
+     "SDA / SS -> Arduino Uno D10",
+     "SCK -> Arduino Uno D13 (SPI takt)",
+     "MOSI -> Arduino Uno D11",
+     "MISO -> Arduino Uno D12",
+     "IRQ -> Arduino Uno — (ulanmaydi)",
+     "GND -> Arduino Uno GND",
+     "RST -> Arduino Uno D9",
+     "3.3V -> Arduino Uno 3.3V (5V BERILMAYDI — modul kuyadi)",
+     "DIQQAT: RC522 faqat 3.3V bilan ishlaydi. 5V ga ulash eng ko'p uchraydigan va modulni butunlay ishdan chiqaradigan xato."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|3-chorak|0": {
   "maqsad": [
@@ -91049,7 +92736,19 @@ window.LESSON_CONTENT = {
    "modul": "M3. ESP32 va WiFi",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|3-chorak|8": {
   "maqsad": [
@@ -91211,7 +92910,43 @@ window.LESSON_CONTENT = {
    "modul": "M3. ESP32 va WiFi",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   },
+   {
+    "nom": "LCD 1602 (I2C moduli bilan)",
+    "points": [
+     "Kutubxona: LiquidCrystal I2C — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <LiquidCrystal_I2C.h>",
+     "VCC -> ESP32 3.3V yoki 5V (modul ikkisida ham ishlaydi)",
+     "GND -> ESP32 GND",
+     "SDA -> ESP32 GPIO21",
+     "SCL -> ESP32 GPIO22",
+     "DIQQAT: I2C manzili odatda 0x27 yoki 0x3F. Ekran yonib turib matn ko'rinmasa — manzil noto'g'ri yoki kontrast vintini burash kerak."
+    ]
+   },
+   {
+    "nom": "OLED ekran 0.96\" (SSD1306, I2C)",
+    "points": [
+     "Kutubxona: Adafruit SSD1306 + Adafruit GFX — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Adafruit_SSD1306.h> va #include <Adafruit_GFX.h>",
+     "VCC -> ESP32 3.3V",
+     "GND -> ESP32 GND",
+     "SDA -> ESP32 GPIO21",
+     "SCL -> ESP32 GPIO22",
+     "DIQQAT: I2C manzili 0x3C (ba'zan 0x3D). display.display() chaqirilmasa ekranda hech narsa ko'rinmaydi — bu eng ko'p uchraydigan xato."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|3-chorak|10": {
   "maqsad": [
@@ -91292,7 +93027,31 @@ window.LESSON_CONTENT = {
    "modul": "M3. ESP32 va WiFi",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   },
+   {
+    "nom": "OLED ekran 0.96\" (SSD1306, I2C)",
+    "points": [
+     "Kutubxona: Adafruit SSD1306 + Adafruit GFX — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Adafruit_SSD1306.h> va #include <Adafruit_GFX.h>",
+     "VCC -> ESP32 3.3V",
+     "GND -> ESP32 GND",
+     "SDA -> ESP32 GPIO21",
+     "SCL -> ESP32 GPIO22",
+     "DIQQAT: I2C manzili 0x3C (ba'zan 0x3D). display.display() chaqirilmasa ekranda hech narsa ko'rinmaydi — bu eng ko'p uchraydigan xato."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|3-chorak|11": {
   "maqsad": [
@@ -91373,7 +93132,31 @@ window.LESSON_CONTENT = {
    "modul": "M3. ESP32 va WiFi",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   },
+   {
+    "nom": "OLED ekran 0.96\" (SSD1306, I2C)",
+    "points": [
+     "Kutubxona: Adafruit SSD1306 + Adafruit GFX — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Adafruit_SSD1306.h> va #include <Adafruit_GFX.h>",
+     "VCC -> ESP32 3.3V",
+     "GND -> ESP32 GND",
+     "SDA -> ESP32 GPIO21",
+     "SCL -> ESP32 GPIO22",
+     "DIQQAT: I2C manzili 0x3C (ba'zan 0x3D). display.display() chaqirilmasa ekranda hech narsa ko'rinmaydi — bu eng ko'p uchraydigan xato."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|3-chorak|12": {
   "maqsad": [
@@ -91697,7 +93480,19 @@ window.LESSON_CONTENT = {
    "modul": "M3. ESP32 va WiFi",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|3-chorak|16": {
   "maqsad": [
@@ -92212,7 +94007,24 @@ window.LESSON_CONTENT = {
    "modul": "M4. IoT: internetga ulangan qurilma",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "microSD kart moduli",
+    "points": [
+     "Kutubxona: SD — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <SD.h> va #include <SPI.h>",
+     "CS -> Arduino Uno D4",
+     "SCK -> Arduino Uno D13",
+     "MOSI -> Arduino Uno D11",
+     "MISO -> Arduino Uno D12",
+     "VCC -> Arduino Uno 5V (modulda stabilizator bo'lsa)",
+     "GND -> Arduino Uno GND",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Karta FAT32 formatida bo'lishi kerak. Fayl nomi 8.3 formatida (masalan DATA.TXT) — uzun nomlar ishlamaydi. Yozgandan keyin file.close() qilinmasa ma'lumot saqlanmaydi."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|4-chorak|2": {
   "maqsad": [
@@ -92293,7 +94105,24 @@ window.LESSON_CONTENT = {
    "modul": "M4. IoT: internetga ulangan qurilma",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "microSD kart moduli",
+    "points": [
+     "Kutubxona: SD — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <SD.h> va #include <SPI.h>",
+     "CS -> Arduino Uno D4",
+     "SCK -> Arduino Uno D13",
+     "MOSI -> Arduino Uno D11",
+     "MISO -> Arduino Uno D12",
+     "VCC -> Arduino Uno 5V (modulda stabilizator bo'lsa)",
+     "GND -> Arduino Uno GND",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Karta FAT32 formatida bo'lishi kerak. Fayl nomi 8.3 formatida (masalan DATA.TXT) — uzun nomlar ishlamaydi. Yozgandan keyin file.close() qilinmasa ma'lumot saqlanmaydi."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|4-chorak|3": {
   "maqsad": [
@@ -92374,7 +94203,21 @@ window.LESSON_CONTENT = {
    "modul": "M4. IoT: internetga ulangan qurilma",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "RTC DS3231 (real vaqt soati)",
+    "points": [
+     "Kutubxona: RTClib (Adafruit) — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <RTClib.h> va #include <Wire.h>",
+     "VCC -> ESP32 3.3V",
+     "GND -> ESP32 GND",
+     "SDA -> ESP32 GPIO21",
+     "SCL -> ESP32 GPIO22",
+     "DIQQAT: Ichida CR2032 batareya bo'lishi kerak — u bo'lmasa quvvat o'chganda vaqt nolga qaytadi. Vaqtni bir marta o'rnatib, keyin o'rnatish kodini izohga olish kerak."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|4-chorak|4": {
   "maqsad": [
@@ -93184,7 +95027,22 @@ window.LESSON_CONTENT = {
    "modul": "M4. IoT: internetga ulangan qurilma",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Bluetooth HC-05 / JDY-31",
+    "points": [
+     "Kutubxona: SoftwareSerial — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <SoftwareSerial.h>",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "TXD -> Arduino Uno D10 (RX) (modul TX -> plata RX)",
+     "RXD -> Arduino Uno D11 (TX) (kuchlanish bo'luvchi orqali (5V -> 3.3V))",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: TX va RX KESIB ulanadi: modulning TX i platanining RX iga. Modulning RX pini 3.3V mantiqda — 5V to'g'ridan-to'g'ri berilsa shikastlanadi. Standart parol: 1234 yoki 0000."
+    ]
+   }
+  ]
  },
  "1-yil|8-sinf|4-chorak|14": {
   "maqsad": [
@@ -93713,7 +95571,20 @@ window.LESSON_CONTENT = {
    "modul": "M4. IoT: internetga ulangan qurilma",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "DHT22 (harorat va namlik)",
+    "points": [
+     "Kutubxona: DHT sensor library (Adafruit) — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <DHT.h>",
+     "VCC -> ESP32 3.3V",
+     "DATA -> ESP32 GPIO4 (10 kOm tortuvchi rezistor bilan)",
+     "GND -> ESP32 GND",
+     "DIQQAT: Tortuvchi rezistorsiz o'qish \"nan\" qaytaradi. DHT22 sekundda faqat bir marta o'qiladi — tezroq so'rov qilsa eski qiymat keladi."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|1-chorak|0": {
   "maqsad": [
@@ -94104,7 +95975,19 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektronikani eslash va kengaytirish",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Potensiometr 10 kOm",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Chap chetdagi oyoq -> Arduino Uno GND",
+     "O'rtadagi oyoq (chiqish) -> Arduino Uno A0 (analog pin)",
+     "O'ng chetdagi oyoq -> Arduino Uno 5V",
+     "DIQQAT: O'rta oyoq albatta analog pinga ulanadi. Chetdagi ikki oyoq o'rin almashsa, faqat burash yo'nalishi teskari bo'ladi — zarari yo'q."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|1-chorak|5": {
   "maqsad": [
@@ -94185,7 +96068,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektronikani eslash va kengaytirish",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tugma (push button)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (10 kOm tortuvchi rezistor bilan 5V ga, yoki INPUT_PULLUP)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Rezistorsiz ulansa pin \"suzib\" qoladi va tasodifiy qiymat o'qiladi. Eng oson yo'l: pinMode(2, INPUT_PULLUP) — ichki rezistor ishlatiladi, bu holda bosilganda LOW o'qiladi."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|1-chorak|6": {
   "maqsad": [
@@ -94347,7 +96241,20 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektronikani eslash va kengaytirish",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Rele moduli",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "IN / S -> Arduino Uno D7 (raqamli chiqish)",
+     "COM, NO, NC -> Arduino Uno Yuklama zanjiri (kuchli tomon — plataga ULANMAYDI)",
+     "DIQQAT: Ko'p modullar TESKARI mantiqda ishlaydi: LOW berilganda ulanadi. 220V bilan ishlash O'QITUVCHI NAZORATIDA va faqat namoyish tarzida bo'lishi kerak — o'quvchilarga 220V tegishi mumkin emas."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|1-chorak|8": {
   "maqsad": [
@@ -94995,7 +96902,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektronikani eslash va kengaytirish",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|1-chorak|16": {
   "maqsad": [
@@ -95297,7 +97215,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektronikani eslash va kengaytirish",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|1-chorak|20": {
   "maqsad": [
@@ -95362,7 +97291,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektronikani eslash va kengaytirish",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|2-chorak|0": {
   "maqsad": [
@@ -95591,7 +97531,18 @@ window.LESSON_CONTENT = {
    "modul": "M2. Blokli dasturlash: chiqish qurilmalari",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|2-chorak|3": {
   "maqsad": [
@@ -95672,7 +97623,18 @@ window.LESSON_CONTENT = {
    "modul": "M2. Blokli dasturlash: chiqish qurilmalari",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|2-chorak|4": {
   "maqsad": [
@@ -95753,7 +97715,20 @@ window.LESSON_CONTENT = {
    "modul": "M2. Blokli dasturlash: chiqish qurilmalari",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Olov (flame) datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "AO -> Arduino Uno A0 (olov kuchi)",
+     "DO -> Arduino Uno D3 (olov bor/yo'q)",
+     "DIQQAT: Infraqizil nurga sezgir — quyosh nuri va lampa ham signal berishi mumkin. Sinovda oddiy chiroqdan uzoqroqda tekshiring."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|2-chorak|5": {
   "maqsad": [
@@ -95996,7 +97971,29 @@ window.LESSON_CONTENT = {
    "modul": "M2. Blokli dasturlash: chiqish qurilmalari",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   },
+   {
+    "nom": "RGB LED (umumiy katod)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "R oyoq -> Arduino Uno D9 (PWM) (220 Om rezistor orqali)",
+     "G oyoq -> Arduino Uno D10 (PWM) (220 Om rezistor orqali)",
+     "B oyoq -> Arduino Uno D11 (PWM) (220 Om rezistor orqali)",
+     "Eng uzun oyoq (umumiy katod) -> Arduino Uno GND",
+     "DIQQAT: Uchta pin ham PWM (~ belgisi bor) bo'lishi kerak, aks holda rang aralashtirilmaydi. Umumiy ANOD turida GND o'rniga 5V ga ulanadi."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|2-chorak|8": {
   "maqsad": [
@@ -96158,7 +98155,18 @@ window.LESSON_CONTENT = {
    "modul": "M2. Blokli dasturlash: chiqish qurilmalari",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Passiv zummer",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "+ (uzun oyoq) -> Arduino Uno D8 (to'g'ridan-to'g'ri yoki 100 Om orqali)",
+     "- (kalta oyoq) -> Arduino Uno GND",
+     "DIQQAT: Passiv zummer o'zi tovush chiqarmaydi — tone() funksiyasi bilan chastota berish kerak. Aktiv zummerga esa faqat kuchlanish berilsa yetadi."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|2-chorak|10": {
   "maqsad": [
@@ -96239,7 +98247,18 @@ window.LESSON_CONTENT = {
    "modul": "M2. Blokli dasturlash: chiqish qurilmalari",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Passiv zummer",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "+ (uzun oyoq) -> Arduino Uno D8 (to'g'ridan-to'g'ri yoki 100 Om orqali)",
+     "- (kalta oyoq) -> Arduino Uno GND",
+     "DIQQAT: Passiv zummer o'zi tovush chiqarmaydi — tone() funksiyasi bilan chastota berish kerak. Aktiv zummerga esa faqat kuchlanish berilsa yetadi."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|2-chorak|11": {
   "maqsad": [
@@ -96320,7 +98339,20 @@ window.LESSON_CONTENT = {
    "modul": "M2. Blokli dasturlash: chiqish qurilmalari",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Servo SG90",
+    "points": [
+     "Kutubxona: Servo — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Servo.h>",
+     "Qizil sim -> Arduino Uno 5V (3 dan ko'p servo bo'lsa tashqi 5V manba)",
+     "Jigarrang / qora sim -> Arduino Uno GND (tashqi manba GND si bilan birlashtiriladi)",
+     "Sariq / to'q sariq sim -> Arduino Uno D9 (PWM pin)",
+     "DIQQAT: Servo ishga tushganda kuchlanish cho'kadi va plata qayta yuklanadi — shuning uchun quvvat liniyasiga 100 uF kondensator qo'yiladi. ESP32 uchun \"ESP32Servo\" kutubxonasi kerak."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|2-chorak|12": {
   "maqsad": [
@@ -96401,7 +98433,20 @@ window.LESSON_CONTENT = {
    "modul": "M2. Blokli dasturlash: chiqish qurilmalari",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Servo SG90",
+    "points": [
+     "Kutubxona: Servo — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Servo.h>",
+     "Qizil sim -> Arduino Uno 5V (3 dan ko'p servo bo'lsa tashqi 5V manba)",
+     "Jigarrang / qora sim -> Arduino Uno GND (tashqi manba GND si bilan birlashtiriladi)",
+     "Sariq / to'q sariq sim -> Arduino Uno D9 (PWM pin)",
+     "DIQQAT: Servo ishga tushganda kuchlanish cho'kadi va plata qayta yuklanadi — shuning uchun quvvat liniyasiga 100 uF kondensator qo'yiladi. ESP32 uchun \"ESP32Servo\" kutubxonasi kerak."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|2-chorak|13": {
   "maqsad": [
@@ -96482,7 +98527,21 @@ window.LESSON_CONTENT = {
    "modul": "M2. Blokli dasturlash: chiqish qurilmalari",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "DC motor (tranzistor orqali)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Motor bir chiqishi -> Arduino Uno 5V yoki tashqi +",
+     "Motor ikkinchi chiqishi -> Arduino Uno Tranzistor kollektori (BC547)",
+     "Tranzistor bazasi -> Arduino Uno D9 (1 kOm rezistor orqali)",
+     "Tranzistor emitteri -> Arduino Uno GND",
+     "Motor uchlariga -> Arduino Uno 1N4007 diod (teskari qutblab — himoya uchun)",
+     "DIQQAT: Diodsiz ulash tranzistorni kuydiradi: motor to'xtaganda teskari kuchlanish (EMK) hosil bo'ladi. Motorni to'g'ridan-to'g'ri plata piniga ULASH MUMKIN EMAS — pin 40 mA, motor esa bir necha yuz mA tortadi."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|2-chorak|14": {
   "maqsad": [
@@ -96644,7 +98703,27 @@ window.LESSON_CONTENT = {
    "modul": "M2. Blokli dasturlash: chiqish qurilmalari",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "L298N motor drayveri",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC / +12V -> Arduino Uno Tashqi 6-12V manba + (batareya bloki)",
+     "GND -> Arduino Uno GND (Arduino GND si bilan BIRLASHTIRILADI)",
+     "5V -> Arduino Uno Arduino 5V (jumper turgan bo'lsa drayver o'zi 5V beradi)",
+     "IN1 -> Arduino Uno D8 (1-motor yo'nalishi)",
+     "IN2 -> Arduino Uno D9 (1-motor yo'nalishi)",
+     "ENA -> Arduino Uno D10 (PWM) (1-motor tezligi)",
+     "IN3 -> Arduino Uno D6 (2-motor yo'nalishi)",
+     "IN4 -> Arduino Uno D7 (2-motor yo'nalishi)",
+     "ENB -> Arduino Uno D5 (PWM) (2-motor tezligi)",
+     "OUT1, OUT2 -> Arduino Uno 1-motor simlari",
+     "OUT3, OUT4 -> Arduino Uno 2-motor simlari",
+     "DIQQAT: Umumiy GND eng muhim shart — Arduino va drayver GND si ulanmasa boshqaruv signali ishlamaydi. IN1=HIGH, IN2=LOW -> bir yo'nalish; teskarisi -> ikkinchi yo'nalish; ikkisi bir xil -> to'xtaydi."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|2-chorak|16": {
   "maqsad": [
@@ -96725,7 +98804,19 @@ window.LESSON_CONTENT = {
    "modul": "M2. Blokli dasturlash: chiqish qurilmalari",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "PIR HC-SR501 (harakat)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "OUT -> Arduino Uno D2 (raqamli kirish, HIGH = harakat bor)",
+     "GND -> Arduino Uno GND",
+     "DIQQAT: Yoqilgandan keyin 30-60 sekund \"isinadi\" — bu vaqtda noto'g'ri signal beradi. Moduldagi ikki vint sezgirlik va kechikishni sozlaydi."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|2-chorak|17": {
   "maqsad": [
@@ -97240,7 +99331,18 @@ window.LESSON_CONTENT = {
    "modul": "M3. Blokli dasturlash: sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tugma (push button)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (10 kOm tortuvchi rezistor bilan 5V ga, yoki INPUT_PULLUP)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Rezistorsiz ulansa pin \"suzib\" qoladi va tasodifiy qiymat o'qiladi. Eng oson yo'l: pinMode(2, INPUT_PULLUP) — ichki rezistor ishlatiladi, bu holda bosilganda LOW o'qiladi."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|3-chorak|3": {
   "maqsad": [
@@ -97402,7 +99504,18 @@ window.LESSON_CONTENT = {
    "modul": "M3. Blokli dasturlash: sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tugma (push button)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (10 kOm tortuvchi rezistor bilan 5V ga, yoki INPUT_PULLUP)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Rezistorsiz ulansa pin \"suzib\" qoladi va tasodifiy qiymat o'qiladi. Eng oson yo'l: pinMode(2, INPUT_PULLUP) — ichki rezistor ishlatiladi, bu holda bosilganda LOW o'qiladi."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|3-chorak|5": {
   "maqsad": [
@@ -97483,7 +99596,19 @@ window.LESSON_CONTENT = {
    "modul": "M3. Blokli dasturlash: sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Potensiometr 10 kOm",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Chap chetdagi oyoq -> Arduino Uno GND",
+     "O'rtadagi oyoq (chiqish) -> Arduino Uno A0 (analog pin)",
+     "O'ng chetdagi oyoq -> Arduino Uno 5V",
+     "DIQQAT: O'rta oyoq albatta analog pinga ulanadi. Chetdagi ikki oyoq o'rin almashsa, faqat burash yo'nalishi teskari bo'ladi — zarari yo'q."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|3-chorak|6": {
   "maqsad": [
@@ -97564,7 +99689,19 @@ window.LESSON_CONTENT = {
    "modul": "M3. Blokli dasturlash: sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Potensiometr 10 kOm",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Chap chetdagi oyoq -> Arduino Uno GND",
+     "O'rtadagi oyoq (chiqish) -> Arduino Uno A0 (analog pin)",
+     "O'ng chetdagi oyoq -> Arduino Uno 5V",
+     "DIQQAT: O'rta oyoq albatta analog pinga ulanadi. Chetdagi ikki oyoq o'rin almashsa, faqat burash yo'nalishi teskari bo'ladi — zarari yo'q."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|3-chorak|7": {
   "maqsad": [
@@ -97645,7 +99782,18 @@ window.LESSON_CONTENT = {
    "modul": "M3. Blokli dasturlash: sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Fotorezistor (LDR)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno 5V",
+     "Ikkinchi oyoq -> Arduino Uno A0 (shu nuqtadan 10 kOm rezistor GND ga — kuchlanish bo'luvchi)",
+     "DIQQAT: LDR yolg'iz ishlamaydi — u 10 kOm rezistor bilan kuchlanish bo'luvchi hosil qilishi kerak, aks holda A0 da o'zgarish bo'lmaydi."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|3-chorak|8": {
   "maqsad": [
@@ -97726,7 +99874,18 @@ window.LESSON_CONTENT = {
    "modul": "M3. Blokli dasturlash: sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Fotorezistor (LDR)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno 5V",
+     "Ikkinchi oyoq -> Arduino Uno A0 (shu nuqtadan 10 kOm rezistor GND ga — kuchlanish bo'luvchi)",
+     "DIQQAT: LDR yolg'iz ishlamaydi — u 10 kOm rezistor bilan kuchlanish bo'luvchi hosil qilishi kerak, aks holda A0 da o'zgarish bo'lmaydi."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|3-chorak|9": {
   "maqsad": [
@@ -97807,7 +99966,30 @@ window.LESSON_CONTENT = {
    "modul": "M3. Blokli dasturlash: sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "NTC termistor",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno 5V",
+     "Ikkinchi oyoq -> Arduino Uno A0 (shu nuqtadan 10 kOm rezistor GND ga)",
+     "DIQQAT: Fotorezistor bilan bir xil sxema. Haroratni gradusga aylantirish uchun Shteynhart-Xart formulasi yoki jadval kerak."
+    ]
+   },
+   {
+    "nom": "DHT22 (harorat va namlik)",
+    "points": [
+     "Kutubxona: DHT sensor library (Adafruit) — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <DHT.h>",
+     "VCC (1-pin) -> Arduino Uno 5V (3.3V da ham ishlaydi)",
+     "DATA (2-pin) -> Arduino Uno D2 (VCC bilan orasiga 10 kOm tortuvchi rezistor)",
+     "NC (3-pin) -> Arduino Uno — (ulanmaydi)",
+     "GND (4-pin) -> Arduino Uno GND",
+     "DIQQAT: Tortuvchi rezistorsiz o'qish \"nan\" qaytaradi. DHT22 sekundda faqat bir marta o'qiladi — tezroq so'rov qilsa eski qiymat keladi."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|3-chorak|10": {
   "maqsad": [
@@ -97888,7 +100070,21 @@ window.LESSON_CONTENT = {
    "modul": "M3. Blokli dasturlash: sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "DHT22 (harorat va namlik)",
+    "points": [
+     "Kutubxona: DHT sensor library (Adafruit) — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <DHT.h>",
+     "VCC (1-pin) -> Arduino Uno 5V (3.3V da ham ishlaydi)",
+     "DATA (2-pin) -> Arduino Uno D2 (VCC bilan orasiga 10 kOm tortuvchi rezistor)",
+     "NC (3-pin) -> Arduino Uno — (ulanmaydi)",
+     "GND (4-pin) -> Arduino Uno GND",
+     "DIQQAT: Tortuvchi rezistorsiz o'qish \"nan\" qaytaradi. DHT22 sekundda faqat bir marta o'qiladi — tezroq so'rov qilsa eski qiymat keladi."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|3-chorak|11": {
   "maqsad": [
@@ -97969,7 +100165,20 @@ window.LESSON_CONTENT = {
    "modul": "M3. Blokli dasturlash: sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "HC-SR04 (ultratovush masofa)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V (3.3V da ishonchsiz ishlaydi)",
+     "TRIG -> Arduino Uno D9 (chiqish — impuls yuboriladi)",
+     "ECHO -> Arduino Uno D10 (kirish — qaytgan vaqt o'lchanadi)",
+     "GND -> Arduino Uno GND",
+     "DIQQAT: ESP32 da ECHO to'g'ridan-to'g'ri ulanmaydi: 5V signal 3.3V pinni shikastlaydi. Ikki rezistor (1 kOm + 2 kOm) bilan bo'luvchi qo'yiladi. Masofa = vaqt * 0.034 / 2."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|3-chorak|12": {
   "maqsad": [
@@ -98050,7 +100259,29 @@ window.LESSON_CONTENT = {
    "modul": "M3. Blokli dasturlash: sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Passiv zummer",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "+ (uzun oyoq) -> Arduino Uno D8 (to'g'ridan-to'g'ri yoki 100 Om orqali)",
+     "- (kalta oyoq) -> Arduino Uno GND",
+     "DIQQAT: Passiv zummer o'zi tovush chiqarmaydi — tone() funksiyasi bilan chastota berish kerak. Aktiv zummerga esa faqat kuchlanish berilsa yetadi."
+    ]
+   },
+   {
+    "nom": "HC-SR04 (ultratovush masofa)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V (3.3V da ishonchsiz ishlaydi)",
+     "TRIG -> Arduino Uno D9 (chiqish — impuls yuboriladi)",
+     "ECHO -> Arduino Uno D10 (kirish — qaytgan vaqt o'lchanadi)",
+     "GND -> Arduino Uno GND",
+     "DIQQAT: ESP32 da ECHO to'g'ridan-to'g'ri ulanmaydi: 5V signal 3.3V pinni shikastlaydi. Ikki rezistor (1 kOm + 2 kOm) bilan bo'luvchi qo'yiladi. Masofa = vaqt * 0.034 / 2."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|3-chorak|13": {
   "maqsad": [
@@ -98131,7 +100362,19 @@ window.LESSON_CONTENT = {
    "modul": "M3. Blokli dasturlash: sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "PIR HC-SR501 (harakat)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "OUT -> Arduino Uno D2 (raqamli kirish, HIGH = harakat bor)",
+     "GND -> Arduino Uno GND",
+     "DIQQAT: Yoqilgandan keyin 30-60 sekund \"isinadi\" — bu vaqtda noto'g'ri signal beradi. Moduldagi ikki vint sezgirlik va kechikishni sozlaydi."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|3-chorak|14": {
   "maqsad": [
@@ -98212,7 +100455,20 @@ window.LESSON_CONTENT = {
    "modul": "M3. Blokli dasturlash: sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tuproq namligi datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "A0 (analog chiqish) -> Arduino Uno A0 (namlik darajasi)",
+     "D0 (raqamli chiqish) -> Arduino Uno D3 (chegaradan o'tganda, ixtiyoriy)",
+     "DIQQAT: Doimiy kuchlanish berilsa elektrodlar tez korroziyaga uchraydi — VCC ni raqamli pinga ulab, faqat o'lchash paytida yoqish tavsiya etiladi."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|3-chorak|15": {
   "maqsad": [
@@ -98293,7 +100549,19 @@ window.LESSON_CONTENT = {
    "modul": "M3. Blokli dasturlash: sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Suv sathi datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC / + -> Arduino Uno 5V",
+     "GND / - -> Arduino Uno GND",
+     "S (signal) -> Arduino Uno A0 (suv qancha baland bo'lsa, qiymat katta)",
+     "DIQQAT: Datchik faqat suvga tegib turgan qismini o'lchaydi. Kalibrlash uchun quruq va to'liq botgan holatdagi qiymatlar yozib olinadi."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|3-chorak|16": {
   "maqsad": [
@@ -98808,7 +101076,21 @@ window.LESSON_CONTENT = {
    "modul": "M4. Blokli loyihalar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LCD 1602 (I2C moduli bilan)",
+    "points": [
+     "Kutubxona: LiquidCrystal I2C — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <LiquidCrystal_I2C.h>",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "SDA -> Arduino Uno A4 (Uno'da SDA = A4)",
+     "SCL -> Arduino Uno A5 (Uno'da SCL = A5)",
+     "DIQQAT: I2C manzili odatda 0x27 yoki 0x3F. Ekran yonib turib matn ko'rinmasa — manzil noto'g'ri yoki kontrast vintini burash kerak."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|4-chorak|2": {
   "maqsad": [
@@ -98889,7 +101171,21 @@ window.LESSON_CONTENT = {
    "modul": "M4. Blokli loyihalar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LCD 1602 (I2C moduli bilan)",
+    "points": [
+     "Kutubxona: LiquidCrystal I2C — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <LiquidCrystal_I2C.h>",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "SDA -> Arduino Uno A4 (Uno'da SDA = A4)",
+     "SCL -> Arduino Uno A5 (Uno'da SCL = A5)",
+     "DIQQAT: I2C manzili odatda 0x27 yoki 0x3F. Ekran yonib turib matn ko'rinmasa — manzil noto'g'ri yoki kontrast vintini burash kerak."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|4-chorak|3": {
   "maqsad": [
@@ -98970,7 +101266,21 @@ window.LESSON_CONTENT = {
    "modul": "M4. Blokli loyihalar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LCD 1602 (I2C moduli bilan)",
+    "points": [
+     "Kutubxona: LiquidCrystal I2C — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <LiquidCrystal_I2C.h>",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "SDA -> Arduino Uno A4 (Uno'da SDA = A4)",
+     "SCL -> Arduino Uno A5 (Uno'da SCL = A5)",
+     "DIQQAT: I2C manzili odatda 0x27 yoki 0x3F. Ekran yonib turib matn ko'rinmasa — manzil noto'g'ri yoki kontrast vintini burash kerak."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|4-chorak|4": {
   "maqsad": [
@@ -99051,7 +101361,20 @@ window.LESSON_CONTENT = {
    "modul": "M4. Blokli loyihalar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "IR qabul qilgich VS1838",
+    "points": [
+     "Kutubxona: IRremote — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <IRremote.h>",
+     "OUT (signal) -> Arduino Uno D2 (modul oldidan qaraganda chap pin)",
+     "GND -> Arduino Uno GND (o'rta pin)",
+     "VCC -> Arduino Uno 5V (o'ng pin)",
+     "DIQQAT: Pin tartibi ko'p modullarda OUT-GND-VCC — teskari ulansa qiziydi. Avval pult kodlarini Serial monitorda chiqarib yozib olish kerak, har bir pultda kodlar boshqacha."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|4-chorak|5": {
   "maqsad": [
@@ -99132,7 +101455,29 @@ window.LESSON_CONTENT = {
    "modul": "M4. Blokli loyihalar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tugma (push button)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (10 kOm tortuvchi rezistor bilan 5V ga, yoki INPUT_PULLUP)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Rezistorsiz ulansa pin \"suzib\" qoladi va tasodifiy qiymat o'qiladi. Eng oson yo'l: pinMode(2, INPUT_PULLUP) — ichki rezistor ishlatiladi, bu holda bosilganda LOW o'qiladi."
+    ]
+   },
+   {
+    "nom": "IR qabul qilgich VS1838",
+    "points": [
+     "Kutubxona: IRremote — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <IRremote.h>",
+     "OUT (signal) -> Arduino Uno D2 (modul oldidan qaraganda chap pin)",
+     "GND -> Arduino Uno GND (o'rta pin)",
+     "VCC -> Arduino Uno 5V (o'ng pin)",
+     "DIQQAT: Pin tartibi ko'p modullarda OUT-GND-VCC — teskari ulansa qiziydi. Avval pult kodlarini Serial monitorda chiqarib yozib olish kerak, har bir pultda kodlar boshqacha."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|4-chorak|6": {
   "maqsad": [
@@ -99213,7 +101558,20 @@ window.LESSON_CONTENT = {
    "modul": "M4. Blokli loyihalar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Rele moduli",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "IN / S -> Arduino Uno D7 (raqamli chiqish)",
+     "COM, NO, NC -> Arduino Uno Yuklama zanjiri (kuchli tomon — plataga ULANMAYDI)",
+     "DIQQAT: Ko'p modullar TESKARI mantiqda ishlaydi: LOW berilganda ulanadi. 220V bilan ishlash O'QITUVCHI NAZORATIDA va faqat namoyish tarzida bo'lishi kerak — o'quvchilarga 220V tegishi mumkin emas."
+    ]
+   }
+  ]
  },
  "2-yil|5-sinf|4-chorak|7": {
   "maqsad": [
@@ -100619,7 +102977,20 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektronikadan mikrokontrollerga",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Rele moduli",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "IN / S -> Arduino Uno D7 (raqamli chiqish)",
+     "COM, NO, NC -> Arduino Uno Yuklama zanjiri (kuchli tomon — plataga ULANMAYDI)",
+     "DIQQAT: Ko'p modullar TESKARI mantiqda ishlaydi: LOW berilganda ulanadi. 220V bilan ishlash O'QITUVCHI NAZORATIDA va faqat namoyish tarzida bo'lishi kerak — o'quvchilarga 220V tegishi mumkin emas."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|1-chorak|4": {
   "maqsad": [
@@ -101429,7 +103800,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektronikadan mikrokontrollerga",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|1-chorak|14": {
   "maqsad": [
@@ -101510,7 +103892,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektronikadan mikrokontrollerga",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|1-chorak|15": {
   "maqsad": [
@@ -101958,7 +104351,18 @@ window.LESSON_CONTENT = {
    "modul": "M1. Elektronikadan mikrokontrollerga",
    "jihoz": "SET A — elektronika to'plami (breadboard, multimetr, komponentlar)",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|2-chorak|0": {
   "maqsad": [
@@ -102349,7 +104753,18 @@ window.LESSON_CONTENT = {
    "modul": "M2. Dasturlash asoslari",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|2-chorak|5": {
   "maqsad": [
@@ -102511,7 +104926,18 @@ window.LESSON_CONTENT = {
    "modul": "M2. Dasturlash asoslari",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tugma (push button)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (10 kOm tortuvchi rezistor bilan 5V ga, yoki INPUT_PULLUP)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Rezistorsiz ulansa pin \"suzib\" qoladi va tasodifiy qiymat o'qiladi. Eng oson yo'l: pinMode(2, INPUT_PULLUP) — ichki rezistor ishlatiladi, bu holda bosilganda LOW o'qiladi."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|2-chorak|7": {
   "maqsad": [
@@ -102916,7 +105342,18 @@ window.LESSON_CONTENT = {
    "modul": "M2. Dasturlash asoslari",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tugma (push button)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno D2 (10 kOm tortuvchi rezistor bilan 5V ga, yoki INPUT_PULLUP)",
+     "Ikkinchi oyoq -> Arduino Uno GND",
+     "DIQQAT: Rezistorsiz ulansa pin \"suzib\" qoladi va tasodifiy qiymat o'qiladi. Eng oson yo'l: pinMode(2, INPUT_PULLUP) — ichki rezistor ishlatiladi, bu holda bosilganda LOW o'qiladi."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|2-chorak|12": {
   "maqsad": [
@@ -103755,7 +106192,19 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Potensiometr 10 kOm",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Chap chetdagi oyoq -> Arduino Uno GND",
+     "O'rtadagi oyoq (chiqish) -> Arduino Uno A0 (analog pin)",
+     "O'ng chetdagi oyoq -> Arduino Uno 5V",
+     "DIQQAT: O'rta oyoq albatta analog pinga ulanadi. Chetdagi ikki oyoq o'rin almashsa, faqat burash yo'nalishi teskari bo'ladi — zarari yo'q."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|3-chorak|2": {
   "maqsad": [
@@ -103836,7 +106285,19 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Potensiometr 10 kOm",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Chap chetdagi oyoq -> Arduino Uno GND",
+     "O'rtadagi oyoq (chiqish) -> Arduino Uno A0 (analog pin)",
+     "O'ng chetdagi oyoq -> Arduino Uno 5V",
+     "DIQQAT: O'rta oyoq albatta analog pinga ulanadi. Chetdagi ikki oyoq o'rin almashsa, faqat burash yo'nalishi teskari bo'ladi — zarari yo'q."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|3-chorak|3": {
   "maqsad": [
@@ -104079,7 +106540,18 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|3-chorak|6": {
   "maqsad": [
@@ -104160,7 +106632,29 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   },
+   {
+    "nom": "RGB LED (umumiy katod)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "R oyoq -> Arduino Uno D9 (PWM) (220 Om rezistor orqali)",
+     "G oyoq -> Arduino Uno D10 (PWM) (220 Om rezistor orqali)",
+     "B oyoq -> Arduino Uno D11 (PWM) (220 Om rezistor orqali)",
+     "Eng uzun oyoq (umumiy katod) -> Arduino Uno GND",
+     "DIQQAT: Uchta pin ham PWM (~ belgisi bor) bo'lishi kerak, aks holda rang aralashtirilmaydi. Umumiy ANOD turida GND o'rniga 5V ga ulanadi."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|3-chorak|7": {
   "maqsad": [
@@ -104241,7 +106735,18 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Fotorezistor (LDR)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno 5V",
+     "Ikkinchi oyoq -> Arduino Uno A0 (shu nuqtadan 10 kOm rezistor GND ga — kuchlanish bo'luvchi)",
+     "DIQQAT: LDR yolg'iz ishlamaydi — u 10 kOm rezistor bilan kuchlanish bo'luvchi hosil qilishi kerak, aks holda A0 da o'zgarish bo'lmaydi."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|3-chorak|8": {
   "maqsad": [
@@ -104322,7 +106827,18 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Fotorezistor (LDR)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno 5V",
+     "Ikkinchi oyoq -> Arduino Uno A0 (shu nuqtadan 10 kOm rezistor GND ga — kuchlanish bo'luvchi)",
+     "DIQQAT: LDR yolg'iz ishlamaydi — u 10 kOm rezistor bilan kuchlanish bo'luvchi hosil qilishi kerak, aks holda A0 da o'zgarish bo'lmaydi."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|3-chorak|9": {
   "maqsad": [
@@ -104403,7 +106919,30 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "NTC termistor",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Bir oyoq -> Arduino Uno 5V",
+     "Ikkinchi oyoq -> Arduino Uno A0 (shu nuqtadan 10 kOm rezistor GND ga)",
+     "DIQQAT: Fotorezistor bilan bir xil sxema. Haroratni gradusga aylantirish uchun Shteynhart-Xart formulasi yoki jadval kerak."
+    ]
+   },
+   {
+    "nom": "DHT22 (harorat va namlik)",
+    "points": [
+     "Kutubxona: DHT sensor library (Adafruit) — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <DHT.h>",
+     "VCC (1-pin) -> Arduino Uno 5V (3.3V da ham ishlaydi)",
+     "DATA (2-pin) -> Arduino Uno D2 (VCC bilan orasiga 10 kOm tortuvchi rezistor)",
+     "NC (3-pin) -> Arduino Uno — (ulanmaydi)",
+     "GND (4-pin) -> Arduino Uno GND",
+     "DIQQAT: Tortuvchi rezistorsiz o'qish \"nan\" qaytaradi. DHT22 sekundda faqat bir marta o'qiladi — tezroq so'rov qilsa eski qiymat keladi."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|3-chorak|10": {
   "maqsad": [
@@ -104484,7 +107023,21 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "DHT22 (harorat va namlik)",
+    "points": [
+     "Kutubxona: DHT sensor library (Adafruit) — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <DHT.h>",
+     "VCC (1-pin) -> Arduino Uno 5V (3.3V da ham ishlaydi)",
+     "DATA (2-pin) -> Arduino Uno D2 (VCC bilan orasiga 10 kOm tortuvchi rezistor)",
+     "NC (3-pin) -> Arduino Uno — (ulanmaydi)",
+     "GND (4-pin) -> Arduino Uno GND",
+     "DIQQAT: Tortuvchi rezistorsiz o'qish \"nan\" qaytaradi. DHT22 sekundda faqat bir marta o'qiladi — tezroq so'rov qilsa eski qiymat keladi."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|3-chorak|11": {
   "maqsad": [
@@ -104565,7 +107118,20 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "HC-SR04 (ultratovush masofa)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V (3.3V da ishonchsiz ishlaydi)",
+     "TRIG -> Arduino Uno D9 (chiqish — impuls yuboriladi)",
+     "ECHO -> Arduino Uno D10 (kirish — qaytgan vaqt o'lchanadi)",
+     "GND -> Arduino Uno GND",
+     "DIQQAT: ESP32 da ECHO to'g'ridan-to'g'ri ulanmaydi: 5V signal 3.3V pinni shikastlaydi. Ikki rezistor (1 kOm + 2 kOm) bilan bo'luvchi qo'yiladi. Masofa = vaqt * 0.034 / 2."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|3-chorak|12": {
   "maqsad": [
@@ -104646,7 +107212,20 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "HC-SR04 (ultratovush masofa)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V (3.3V da ishonchsiz ishlaydi)",
+     "TRIG -> Arduino Uno D9 (chiqish — impuls yuboriladi)",
+     "ECHO -> Arduino Uno D10 (kirish — qaytgan vaqt o'lchanadi)",
+     "GND -> Arduino Uno GND",
+     "DIQQAT: ESP32 da ECHO to'g'ridan-to'g'ri ulanmaydi: 5V signal 3.3V pinni shikastlaydi. Ikki rezistor (1 kOm + 2 kOm) bilan bo'luvchi qo'yiladi. Masofa = vaqt * 0.034 / 2."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|3-chorak|13": {
   "maqsad": [
@@ -104727,7 +107306,19 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "PIR HC-SR501 (harakat)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "OUT -> Arduino Uno D2 (raqamli kirish, HIGH = harakat bor)",
+     "GND -> Arduino Uno GND",
+     "DIQQAT: Yoqilgandan keyin 30-60 sekund \"isinadi\" — bu vaqtda noto'g'ri signal beradi. Moduldagi ikki vint sezgirlik va kechikishni sozlaydi."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|3-chorak|14": {
   "maqsad": [
@@ -104808,7 +107399,30 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Tuproq namligi datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "A0 (analog chiqish) -> Arduino Uno A0 (namlik darajasi)",
+     "D0 (raqamli chiqish) -> Arduino Uno D3 (chegaradan o'tganda, ixtiyoriy)",
+     "DIQQAT: Doimiy kuchlanish berilsa elektrodlar tez korroziyaga uchraydi — VCC ni raqamli pinga ulab, faqat o'lchash paytida yoqish tavsiya etiladi."
+    ]
+   },
+   {
+    "nom": "Suv sathi datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC / + -> Arduino Uno 5V",
+     "GND / - -> Arduino Uno GND",
+     "S (signal) -> Arduino Uno A0 (suv qancha baland bo'lsa, qiymat katta)",
+     "DIQQAT: Datchik faqat suvga tegib turgan qismini o'lchaydi. Kalibrlash uchun quruq va to'liq botgan holatdagi qiymatlar yozib olinadi."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|3-chorak|15": {
   "maqsad": [
@@ -104889,7 +107503,20 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Ovoz (mikrofon) datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "OUT / AO -> Arduino Uno A0 (analog — tovush kuchi)",
+     "DO -> Arduino Uno D4 (raqamli — chegaradan oshganda, ixtiyoriy)",
+     "DIQQAT: Moduldagi potensiometr sezgirlikni sozlaydi. Qarsakni aniqlash uchun raqamli chiqish qulayroq."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|3-chorak|16": {
   "maqsad": [
@@ -105256,7 +107883,21 @@ window.LESSON_CONTENT = {
    "modul": "M3. Analog signal va sensorlar",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "DHT22 (harorat va namlik)",
+    "points": [
+     "Kutubxona: DHT sensor library (Adafruit) — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <DHT.h>",
+     "VCC (1-pin) -> Arduino Uno 5V (3.3V da ham ishlaydi)",
+     "DATA (2-pin) -> Arduino Uno D2 (VCC bilan orasiga 10 kOm tortuvchi rezistor)",
+     "NC (3-pin) -> Arduino Uno — (ulanmaydi)",
+     "GND (4-pin) -> Arduino Uno GND",
+     "DIQQAT: Tortuvchi rezistorsiz o'qish \"nan\" qaytaradi. DHT22 sekundda faqat bir marta o'qiladi — tezroq so'rov qilsa eski qiymat keladi."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|4-chorak|0": {
   "maqsad": [
@@ -105323,7 +107964,19 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va loyiha",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "PIR HC-SR501 (harakat)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "OUT -> Arduino Uno D2 (raqamli kirish, HIGH = harakat bor)",
+     "GND -> Arduino Uno GND",
+     "DIQQAT: Yoqilgandan keyin 30-60 sekund \"isinadi\" — bu vaqtda noto'g'ri signal beradi. Moduldagi ikki vint sezgirlik va kechikishni sozlaydi."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|4-chorak|1": {
   "maqsad": [
@@ -105404,7 +108057,20 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va loyiha",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Servo SG90",
+    "points": [
+     "Kutubxona: Servo — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Servo.h>",
+     "Qizil sim -> Arduino Uno 5V (3 dan ko'p servo bo'lsa tashqi 5V manba)",
+     "Jigarrang / qora sim -> Arduino Uno GND (tashqi manba GND si bilan birlashtiriladi)",
+     "Sariq / to'q sariq sim -> Arduino Uno D9 (PWM pin)",
+     "DIQQAT: Servo ishga tushganda kuchlanish cho'kadi va plata qayta yuklanadi — shuning uchun quvvat liniyasiga 100 uF kondensator qo'yiladi. ESP32 uchun \"ESP32Servo\" kutubxonasi kerak."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|4-chorak|2": {
   "maqsad": [
@@ -105485,7 +108151,20 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va loyiha",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Servo SG90",
+    "points": [
+     "Kutubxona: Servo — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Servo.h>",
+     "Qizil sim -> Arduino Uno 5V (3 dan ko'p servo bo'lsa tashqi 5V manba)",
+     "Jigarrang / qora sim -> Arduino Uno GND (tashqi manba GND si bilan birlashtiriladi)",
+     "Sariq / to'q sariq sim -> Arduino Uno D9 (PWM pin)",
+     "DIQQAT: Servo ishga tushganda kuchlanish cho'kadi va plata qayta yuklanadi — shuning uchun quvvat liniyasiga 100 uF kondensator qo'yiladi. ESP32 uchun \"ESP32Servo\" kutubxonasi kerak."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|4-chorak|3": {
   "maqsad": [
@@ -105566,7 +108245,21 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va loyiha",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "DC motor (tranzistor orqali)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Motor bir chiqishi -> Arduino Uno 5V yoki tashqi +",
+     "Motor ikkinchi chiqishi -> Arduino Uno Tranzistor kollektori (BC547)",
+     "Tranzistor bazasi -> Arduino Uno D9 (1 kOm rezistor orqali)",
+     "Tranzistor emitteri -> Arduino Uno GND",
+     "Motor uchlariga -> Arduino Uno 1N4007 diod (teskari qutblab — himoya uchun)",
+     "DIQQAT: Diodsiz ulash tranzistorni kuydiradi: motor to'xtaganda teskari kuchlanish (EMK) hosil bo'ladi. Motorni to'g'ridan-to'g'ri plata piniga ULASH MUMKIN EMAS — pin 40 mA, motor esa bir necha yuz mA tortadi."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|4-chorak|4": {
   "maqsad": [
@@ -105647,7 +108340,27 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va loyiha",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "L298N motor drayveri",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC / +12V -> Arduino Uno Tashqi 6-12V manba + (batareya bloki)",
+     "GND -> Arduino Uno GND (Arduino GND si bilan BIRLASHTIRILADI)",
+     "5V -> Arduino Uno Arduino 5V (jumper turgan bo'lsa drayver o'zi 5V beradi)",
+     "IN1 -> Arduino Uno D8 (1-motor yo'nalishi)",
+     "IN2 -> Arduino Uno D9 (1-motor yo'nalishi)",
+     "ENA -> Arduino Uno D10 (PWM) (1-motor tezligi)",
+     "IN3 -> Arduino Uno D6 (2-motor yo'nalishi)",
+     "IN4 -> Arduino Uno D7 (2-motor yo'nalishi)",
+     "ENB -> Arduino Uno D5 (PWM) (2-motor tezligi)",
+     "OUT1, OUT2 -> Arduino Uno 1-motor simlari",
+     "OUT3, OUT4 -> Arduino Uno 2-motor simlari",
+     "DIQQAT: Umumiy GND eng muhim shart — Arduino va drayver GND si ulanmasa boshqaruv signali ishlamaydi. IN1=HIGH, IN2=LOW -> bir yo'nalish; teskarisi -> ikkinchi yo'nalish; ikkisi bir xil -> to'xtaydi."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|4-chorak|5": {
   "maqsad": [
@@ -105728,7 +108441,27 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va loyiha",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "L298N motor drayveri",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC / +12V -> Arduino Uno Tashqi 6-12V manba + (batareya bloki)",
+     "GND -> Arduino Uno GND (Arduino GND si bilan BIRLASHTIRILADI)",
+     "5V -> Arduino Uno Arduino 5V (jumper turgan bo'lsa drayver o'zi 5V beradi)",
+     "IN1 -> Arduino Uno D8 (1-motor yo'nalishi)",
+     "IN2 -> Arduino Uno D9 (1-motor yo'nalishi)",
+     "ENA -> Arduino Uno D10 (PWM) (1-motor tezligi)",
+     "IN3 -> Arduino Uno D6 (2-motor yo'nalishi)",
+     "IN4 -> Arduino Uno D7 (2-motor yo'nalishi)",
+     "ENB -> Arduino Uno D5 (PWM) (2-motor tezligi)",
+     "OUT1, OUT2 -> Arduino Uno 1-motor simlari",
+     "OUT3, OUT4 -> Arduino Uno 2-motor simlari",
+     "DIQQAT: Umumiy GND eng muhim shart — Arduino va drayver GND si ulanmasa boshqaruv signali ishlamaydi. IN1=HIGH, IN2=LOW -> bir yo'nalish; teskarisi -> ikkinchi yo'nalish; ikkisi bir xil -> to'xtaydi."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|4-chorak|6": {
   "maqsad": [
@@ -105809,7 +108542,24 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va loyiha",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Qadamli motor 28BYJ-48 + ULN2003",
+    "points": [
+     "Kutubxona: Stepper — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Stepper.h>",
+     "IN1 -> Arduino Uno D8",
+     "IN2 -> Arduino Uno D9",
+     "IN3 -> Arduino Uno D10",
+     "IN4 -> Arduino Uno D11",
+     "VCC (+) -> Arduino Uno 5V (tashqi 5V manba yaxshiroq)",
+     "GND (-) -> Arduino Uno GND",
+     "Motor shlangi -> Arduino Uno ULN2003 rozetkasi (faqat bir tomonga kiradi)",
+     "DIQQAT: Stepper kutubxonasida pin tartibi 8, 10, 9, 11 tarzida beriladi (IN1, IN3, IN2, IN4) — tartib buzilsa motor titraydi, aylanmaydi. Bir to'liq aylanish 2048 qadam (yarim qadam rejimida 4096)."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|4-chorak|7": {
   "maqsad": [
@@ -105890,7 +108640,18 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va loyiha",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Passiv zummer",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "+ (uzun oyoq) -> Arduino Uno D8 (to'g'ridan-to'g'ri yoki 100 Om orqali)",
+     "- (kalta oyoq) -> Arduino Uno GND",
+     "DIQQAT: Passiv zummer o'zi tovush chiqarmaydi — tone() funksiyasi bilan chastota berish kerak. Aktiv zummerga esa faqat kuchlanish berilsa yetadi."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|4-chorak|8": {
   "maqsad": [
@@ -105971,7 +108732,21 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va loyiha",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LCD 1602 (I2C moduli bilan)",
+    "points": [
+     "Kutubxona: LiquidCrystal I2C — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <LiquidCrystal_I2C.h>",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "SDA -> Arduino Uno A4 (Uno'da SDA = A4)",
+     "SCL -> Arduino Uno A5 (Uno'da SCL = A5)",
+     "DIQQAT: I2C manzili odatda 0x27 yoki 0x3F. Ekran yonib turib matn ko'rinmasa — manzil noto'g'ri yoki kontrast vintini burash kerak."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|4-chorak|9": {
   "maqsad": [
@@ -106052,7 +108827,21 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va loyiha",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LCD 1602 (I2C moduli bilan)",
+    "points": [
+     "Kutubxona: LiquidCrystal I2C — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <LiquidCrystal_I2C.h>",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "SDA -> Arduino Uno A4 (Uno'da SDA = A4)",
+     "SCL -> Arduino Uno A5 (Uno'da SCL = A5)",
+     "DIQQAT: I2C manzili odatda 0x27 yoki 0x3F. Ekran yonib turib matn ko'rinmasa — manzil noto'g'ri yoki kontrast vintini burash kerak."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|4-chorak|10": {
   "maqsad": [
@@ -106133,7 +108922,18 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va loyiha",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "7-segment indikator (1 razryad)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "a, b, c, d, e, f, g segmentlari -> Arduino Uno D2...D8 (har biri 220 Om rezistor orqali)",
+     "Umumiy katod (COM) -> Arduino Uno GND (umumiy anod turida 5V ga)",
+     "DIQQAT: 7 ta rezistor kerak — har segmentga bittadan. Umumiy katod va umumiy anod turlari teskari ishlaydi, avval multimetr bilan aniqlang."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|4-chorak|11": {
   "maqsad": [
@@ -106214,7 +109014,23 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va loyiha",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "74HC595 siljish registri",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "DS / SER (14-pin) -> Arduino Uno D11 (ma'lumot (data))",
+     "SH_CP / SRCLK (11-pin) -> Arduino Uno D12 (siljish taktı (clock))",
+     "ST_CP / RCLK (12-pin) -> Arduino Uno D8 (yozish (latch))",
+     "VCC (16-pin) -> Arduino Uno 5V",
+     "GND (8-pin) -> Arduino Uno GND",
+     "OE (13-pin) -> Arduino Uno GND (chiqishni yoqib turadi)",
+     "MR (10-pin) -> Arduino Uno 5V (tozalashni o'chirib turadi)",
+     "DIQQAT: OE va MR pinlarini ulashni unutish eng ko'p uchraydigan xato — ularsiz chiqish umuman ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|4-chorak|12": {
   "maqsad": [
@@ -106295,7 +109111,20 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va loyiha",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "IR qabul qilgich VS1838",
+    "points": [
+     "Kutubxona: IRremote — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <IRremote.h>",
+     "OUT (signal) -> Arduino Uno D2 (modul oldidan qaraganda chap pin)",
+     "GND -> Arduino Uno GND (o'rta pin)",
+     "VCC -> Arduino Uno 5V (o'ng pin)",
+     "DIQQAT: Pin tartibi ko'p modullarda OUT-GND-VCC — teskari ulansa qiziydi. Avval pult kodlarini Serial monitorda chiqarib yozib olish kerak, har bir pultda kodlar boshqacha."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|4-chorak|13": {
   "maqsad": [
@@ -106376,7 +109205,20 @@ window.LESSON_CONTENT = {
    "modul": "M4. Ijro qurilmalari va loyiha",
    "jihoz": "SET A — Arduino Uno va elektronika to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Rele moduli",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "IN / S -> Arduino Uno D7 (raqamli chiqish)",
+     "COM, NO, NC -> Arduino Uno Yuklama zanjiri (kuchli tomon — plataga ULANMAYDI)",
+     "DIQQAT: Ko'p modullar TESKARI mantiqda ishlaydi: LOW berilganda ulanadi. 220V bilan ishlash O'QITUVCHI NAZORATIDA va faqat namoyish tarzida bo'lishi kerak — o'quvchilarga 220V tegishi mumkin emas."
+    ]
+   }
+  ]
  },
  "2-yil|6-sinf|4-chorak|14": {
   "maqsad": [
@@ -107539,7 +110381,19 @@ window.LESSON_CONTENT = {
    "modul": "M1. ESP32 platformasi",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|1-chorak|8": {
   "maqsad": [
@@ -107701,7 +110555,20 @@ window.LESSON_CONTENT = {
    "modul": "M1. ESP32 platformasi",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Hall datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "OUT -> Arduino Uno D2 (raqamli turida; analog turida A0 ga)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Magnitning qaysi qutbi yaqinlashganiga sezgir bo'lgan turlari bor — ishlamasa magnitni teskari o'girib ko'ring."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|1-chorak|10": {
   "maqsad": [
@@ -107782,7 +110649,21 @@ window.LESSON_CONTENT = {
    "modul": "M1. ESP32 platformasi",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LCD 1602 (I2C moduli bilan)",
+    "points": [
+     "Kutubxona: LiquidCrystal I2C — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <LiquidCrystal_I2C.h>",
+     "VCC -> ESP32 3.3V yoki 5V (modul ikkisida ham ishlaydi)",
+     "GND -> ESP32 GND",
+     "SDA -> ESP32 GPIO21",
+     "SCL -> ESP32 GPIO22",
+     "DIQQAT: I2C manzili odatda 0x27 yoki 0x3F. Ekran yonib turib matn ko'rinmasa — manzil noto'g'ri yoki kontrast vintini burash kerak."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|1-chorak|11": {
   "maqsad": [
@@ -107863,7 +110744,31 @@ window.LESSON_CONTENT = {
    "modul": "M1. ESP32 platformasi",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   },
+   {
+    "nom": "OLED ekran 0.96\" (SSD1306, I2C)",
+    "points": [
+     "Kutubxona: Adafruit SSD1306 + Adafruit GFX — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Adafruit_SSD1306.h> va #include <Adafruit_GFX.h>",
+     "VCC -> ESP32 3.3V",
+     "GND -> ESP32 GND",
+     "SDA -> ESP32 GPIO21",
+     "SCL -> ESP32 GPIO22",
+     "DIQQAT: I2C manzili 0x3C (ba'zan 0x3D). display.display() chaqirilmasa ekranda hech narsa ko'rinmaydi — bu eng ko'p uchraydigan xato."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|1-chorak|12": {
   "maqsad": [
@@ -107944,7 +110849,31 @@ window.LESSON_CONTENT = {
    "modul": "M1. ESP32 platformasi",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   },
+   {
+    "nom": "OLED ekran 0.96\" (SSD1306, I2C)",
+    "points": [
+     "Kutubxona: Adafruit SSD1306 + Adafruit GFX — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Adafruit_SSD1306.h> va #include <Adafruit_GFX.h>",
+     "VCC -> ESP32 3.3V",
+     "GND -> ESP32 GND",
+     "SDA -> ESP32 GPIO21",
+     "SCL -> ESP32 GPIO22",
+     "DIQQAT: I2C manzili 0x3C (ba'zan 0x3D). display.display() chaqirilmasa ekranda hech narsa ko'rinmaydi — bu eng ko'p uchraydigan xato."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|1-chorak|13": {
   "maqsad": [
@@ -108025,7 +110954,31 @@ window.LESSON_CONTENT = {
    "modul": "M1. ESP32 platformasi",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   },
+   {
+    "nom": "OLED ekran 0.96\" (SSD1306, I2C)",
+    "points": [
+     "Kutubxona: Adafruit SSD1306 + Adafruit GFX — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Adafruit_SSD1306.h> va #include <Adafruit_GFX.h>",
+     "VCC -> ESP32 3.3V",
+     "GND -> ESP32 GND",
+     "SDA -> ESP32 GPIO21",
+     "SCL -> ESP32 GPIO22",
+     "DIQQAT: I2C manzili 0x3C (ba'zan 0x3D). display.display() chaqirilmasa ekranda hech narsa ko'rinmaydi — bu eng ko'p uchraydigan xato."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|1-chorak|14": {
   "maqsad": [
@@ -108187,7 +111140,24 @@ window.LESSON_CONTENT = {
    "modul": "M1. ESP32 platformasi",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "microSD kart moduli",
+    "points": [
+     "Kutubxona: SD — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <SD.h> va #include <SPI.h>",
+     "CS -> Arduino Uno D4",
+     "SCK -> Arduino Uno D13",
+     "MOSI -> Arduino Uno D11",
+     "MISO -> Arduino Uno D12",
+     "VCC -> Arduino Uno 5V (modulda stabilizator bo'lsa)",
+     "GND -> Arduino Uno GND",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Karta FAT32 formatida bo'lishi kerak. Fayl nomi 8.3 formatida (masalan DATA.TXT) — uzun nomlar ishlamaydi. Yozgandan keyin file.close() qilinmasa ma'lumot saqlanmaydi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|1-chorak|16": {
   "maqsad": [
@@ -108268,7 +111238,21 @@ window.LESSON_CONTENT = {
    "modul": "M1. ESP32 platformasi",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "RTC DS3231 (real vaqt soati)",
+    "points": [
+     "Kutubxona: RTClib (Adafruit) — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <RTClib.h> va #include <Wire.h>",
+     "VCC -> ESP32 3.3V",
+     "GND -> ESP32 GND",
+     "SDA -> ESP32 GPIO21",
+     "SCL -> ESP32 GPIO22",
+     "DIQQAT: Ichida CR2032 batareya bo'lishi kerak — u bo'lmasa quvvat o'chganda vaqt nolga qaytadi. Vaqtni bir marta o'rnatib, keyin o'rnatish kodini izohga olish kerak."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|1-chorak|17": {
   "maqsad": [
@@ -108489,7 +111473,31 @@ window.LESSON_CONTENT = {
    "modul": "M1. ESP32 platformasi",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   },
+   {
+    "nom": "OLED ekran 0.96\" (SSD1306, I2C)",
+    "points": [
+     "Kutubxona: Adafruit SSD1306 + Adafruit GFX — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Adafruit_SSD1306.h> va #include <Adafruit_GFX.h>",
+     "VCC -> ESP32 3.3V",
+     "GND -> ESP32 GND",
+     "SDA -> ESP32 GPIO21",
+     "SCL -> ESP32 GPIO22",
+     "DIQQAT: I2C manzili 0x3C (ba'zan 0x3D). display.display() chaqirilmasa ekranda hech narsa ko'rinmaydi — bu eng ko'p uchraydigan xato."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|1-chorak|20": {
   "maqsad": [
@@ -108554,7 +111562,24 @@ window.LESSON_CONTENT = {
    "modul": "M1. ESP32 platformasi",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "microSD kart moduli",
+    "points": [
+     "Kutubxona: SD — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <SD.h> va #include <SPI.h>",
+     "CS -> Arduino Uno D4",
+     "SCK -> Arduino Uno D13",
+     "MOSI -> Arduino Uno D11",
+     "MISO -> Arduino Uno D12",
+     "VCC -> Arduino Uno 5V (modulda stabilizator bo'lsa)",
+     "GND -> Arduino Uno GND",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Karta FAT32 formatida bo'lishi kerak. Fayl nomi 8.3 formatida (masalan DATA.TXT) — uzun nomlar ishlamaydi. Yozgandan keyin file.close() qilinmasa ma'lumot saqlanmaydi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|2-chorak|0": {
   "maqsad": [
@@ -109998,7 +113023,22 @@ window.LESSON_CONTENT = {
    "modul": "M2. WiFi, veb va IoT",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Bluetooth HC-05 / JDY-31",
+    "points": [
+     "Kutubxona: SoftwareSerial — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <SoftwareSerial.h>",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "TXD -> Arduino Uno D10 (RX) (modul TX -> plata RX)",
+     "RXD -> Arduino Uno D11 (TX) (kuchlanish bo'luvchi orqali (5V -> 3.3V))",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: TX va RX KESIB ulanadi: modulning TX i platanining RX iga. Modulning RX pini 3.3V mantiqda — 5V to'g'ridan-to'g'ri berilsa shikastlanadi. Standart parol: 1234 yoki 0000."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|2-chorak|18": {
   "maqsad": [
@@ -110353,7 +113393,23 @@ window.LESSON_CONTENT = {
    "modul": "M3. Sun'iy intellekt asoslari",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|3-chorak|2": {
   "maqsad": [
@@ -110435,7 +113491,23 @@ window.LESSON_CONTENT = {
    "modul": "M3. Sun'iy intellekt asoslari",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|3-chorak|3": {
   "maqsad": [
@@ -110681,7 +113753,23 @@ window.LESSON_CONTENT = {
    "modul": "M3. Sun'iy intellekt asoslari",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|3-chorak|6": {
   "maqsad": [
@@ -110763,7 +113851,23 @@ window.LESSON_CONTENT = {
    "modul": "M3. Sun'iy intellekt asoslari",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|3-chorak|7": {
   "maqsad": [
@@ -110927,7 +114031,33 @@ window.LESSON_CONTENT = {
    "modul": "M3. Sun'iy intellekt asoslari",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "PIR HC-SR501 (harakat)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "OUT -> Arduino Uno D2 (raqamli kirish, HIGH = harakat bor)",
+     "GND -> Arduino Uno GND",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Yoqilgandan keyin 30-60 sekund \"isinadi\" — bu vaqtda noto'g'ri signal beradi. Moduldagi ikki vint sezgirlik va kechikishni sozlaydi."
+    ]
+   },
+   {
+    "nom": "MPU6050 (akselerometr va giroskop)",
+    "points": [
+     "Kutubxona: Adafruit MPU6050 + Adafruit Unified Sensor — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Adafruit_MPU6050.h> va #include <Wire.h>",
+     "VCC -> ESP32 3.3V",
+     "GND -> ESP32 GND",
+     "SDA -> ESP32 GPIO21",
+     "SCL -> ESP32 GPIO22",
+     "AD0 -> ESP32 GND",
+     "DIQQAT: AI uchun ma'lumot yig'ishda namuna olish tezligi (masalan 100 Hz) butun yig'ish davomida BIR XIL bo'lishi kerak — aks holda model noto'g'ri o'rganadi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|3-chorak|9": {
   "maqsad": [
@@ -111009,7 +114139,22 @@ window.LESSON_CONTENT = {
    "modul": "M3. Sun'iy intellekt asoslari",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "MPU6050 (akselerometr va giroskop)",
+    "points": [
+     "Kutubxona: Adafruit MPU6050 + Adafruit Unified Sensor — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Adafruit_MPU6050.h> va #include <Wire.h>",
+     "VCC -> ESP32 3.3V",
+     "GND -> ESP32 GND",
+     "SDA -> ESP32 GPIO21",
+     "SCL -> ESP32 GPIO22",
+     "AD0 -> ESP32 GND",
+     "DIQQAT: AI uchun ma'lumot yig'ishda namuna olish tezligi (masalan 100 Hz) butun yig'ish davomida BIR XIL bo'lishi kerak — aks holda model noto'g'ri o'rganadi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|3-chorak|10": {
   "maqsad": [
@@ -111255,7 +114400,23 @@ window.LESSON_CONTENT = {
    "modul": "M3. Sun'iy intellekt asoslari",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|3-chorak|13": {
   "maqsad": [
@@ -111337,7 +114498,23 @@ window.LESSON_CONTENT = {
    "modul": "M3. Sun'iy intellekt asoslari",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED matritsa 8x8 (MAX7219)",
+    "points": [
+     "Kutubxona: LedControl — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <LedControl.h>",
+     "DIN -> Arduino Uno D12 (ma'lumot)",
+     "CLK -> Arduino Uno D11 (takt)",
+     "CS / LOAD -> Arduino Uno D10 (tanlash)",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Yorqinlik setIntensity(0..15) bilan sozlanadi — maksimalda modul ko'p tok tortadi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|3-chorak|14": {
   "maqsad": [
@@ -111419,7 +114596,23 @@ window.LESSON_CONTENT = {
    "modul": "M3. Sun'iy intellekt asoslari",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|3-chorak|15": {
   "maqsad": [
@@ -111501,7 +114694,34 @@ window.LESSON_CONTENT = {
    "modul": "M3. Sun'iy intellekt asoslari",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "RTC DS3231 (real vaqt soati)",
+    "points": [
+     "Kutubxona: RTClib (Adafruit) — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <RTClib.h> va #include <Wire.h>",
+     "VCC -> ESP32 3.3V",
+     "GND -> ESP32 GND",
+     "SDA -> ESP32 GPIO21",
+     "SCL -> ESP32 GPIO22",
+     "DIQQAT: Ichida CR2032 batareya bo'lishi kerak — u bo'lmasa quvvat o'chganda vaqt nolga qaytadi. Vaqtni bir marta o'rnatib, keyin o'rnatish kodini izohga olish kerak."
+    ]
+   },
+   {
+    "nom": "MPU6050 (akselerometr va giroskop)",
+    "points": [
+     "Kutubxona: Adafruit MPU6050 + Adafruit Unified Sensor — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Adafruit_MPU6050.h> va #include <Wire.h>",
+     "VCC -> ESP32 3.3V",
+     "GND -> ESP32 GND",
+     "SDA -> ESP32 GPIO21",
+     "SCL -> ESP32 GPIO22",
+     "AD0 -> ESP32 GND",
+     "DIQQAT: AI uchun ma'lumot yig'ishda namuna olish tezligi (masalan 100 Hz) butun yig'ish davomida BIR XIL bo'lishi kerak — aks holda model noto'g'ri o'rganadi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|3-chorak|16": {
   "maqsad": [
@@ -111583,7 +114803,23 @@ window.LESSON_CONTENT = {
    "modul": "M3. Sun'iy intellekt asoslari",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|3-chorak|17": {
   "maqsad": [
@@ -111807,7 +115043,36 @@ window.LESSON_CONTENT = {
    "modul": "M3. Sun'iy intellekt asoslari",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "MPU6050 (akselerometr va giroskop)",
+    "points": [
+     "Kutubxona: Adafruit MPU6050 + Adafruit Unified Sensor — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Adafruit_MPU6050.h> va #include <Wire.h>",
+     "VCC -> ESP32 3.3V",
+     "GND -> ESP32 GND",
+     "SDA -> ESP32 GPIO21",
+     "SCL -> ESP32 GPIO22",
+     "AD0 -> ESP32 GND",
+     "DIQQAT: AI uchun ma'lumot yig'ishda namuna olish tezligi (masalan 100 Hz) butun yig'ish davomida BIR XIL bo'lishi kerak — aks holda model noto'g'ri o'rganadi."
+    ]
+   },
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|3-chorak|20": {
   "maqsad": [
@@ -111873,7 +115138,22 @@ window.LESSON_CONTENT = {
    "modul": "M3. Sun'iy intellekt asoslari",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "MPU6050 (akselerometr va giroskop)",
+    "points": [
+     "Kutubxona: Adafruit MPU6050 + Adafruit Unified Sensor — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Adafruit_MPU6050.h> va #include <Wire.h>",
+     "VCC -> ESP32 3.3V",
+     "GND -> ESP32 GND",
+     "SDA -> ESP32 GPIO21",
+     "SCL -> ESP32 GPIO22",
+     "AD0 -> ESP32 GND",
+     "DIQQAT: AI uchun ma'lumot yig'ishda namuna olish tezligi (masalan 100 Hz) butun yig'ish davomida BIR XIL bo'lishi kerak — aks holda model noto'g'ri o'rganadi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|4-chorak|0": {
   "maqsad": [
@@ -111941,7 +115221,35 @@ window.LESSON_CONTENT = {
    "modul": "M4. AI qurilmasi: ovoz va tasvir",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Ovoz (mikrofon) datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "OUT / AO -> Arduino Uno A0 (analog — tovush kuchi)",
+     "DO -> Arduino Uno D4 (raqamli — chegaradan oshganda, ixtiyoriy)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Moduldagi potensiometr sezgirlikni sozlaydi. Qarsakni aniqlash uchun raqamli chiqish qulayroq."
+    ]
+   },
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|4-chorak|1": {
   "maqsad": [
@@ -112023,7 +115331,23 @@ window.LESSON_CONTENT = {
    "modul": "M4. AI qurilmasi: ovoz va tasvir",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|4-chorak|2": {
   "maqsad": [
@@ -112105,7 +115429,35 @@ window.LESSON_CONTENT = {
    "modul": "M4. AI qurilmasi: ovoz va tasvir",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Ovoz (mikrofon) datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "OUT / AO -> Arduino Uno A0 (analog — tovush kuchi)",
+     "DO -> Arduino Uno D4 (raqamli — chegaradan oshganda, ixtiyoriy)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Moduldagi potensiometr sezgirlikni sozlaydi. Qarsakni aniqlash uchun raqamli chiqish qulayroq."
+    ]
+   },
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|4-chorak|3": {
   "maqsad": [
@@ -112187,7 +115539,21 @@ window.LESSON_CONTENT = {
    "modul": "M4. AI qurilmasi: ovoz va tasvir",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Ovoz (mikrofon) datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "OUT / AO -> Arduino Uno A0 (analog — tovush kuchi)",
+     "DO -> Arduino Uno D4 (raqamli — chegaradan oshganda, ixtiyoriy)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Moduldagi potensiometr sezgirlikni sozlaydi. Qarsakni aniqlash uchun raqamli chiqish qulayroq."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|4-chorak|4": {
   "maqsad": [
@@ -112269,7 +115635,35 @@ window.LESSON_CONTENT = {
    "modul": "M4. AI qurilmasi: ovoz va tasvir",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Ovoz (mikrofon) datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "OUT / AO -> Arduino Uno A0 (analog — tovush kuchi)",
+     "DO -> Arduino Uno D4 (raqamli — chegaradan oshganda, ixtiyoriy)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Moduldagi potensiometr sezgirlikni sozlaydi. Qarsakni aniqlash uchun raqamli chiqish qulayroq."
+    ]
+   },
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|4-chorak|5": {
   "maqsad": [
@@ -112351,7 +115745,21 @@ window.LESSON_CONTENT = {
    "modul": "M4. AI qurilmasi: ovoz va tasvir",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Ovoz (mikrofon) datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "OUT / AO -> Arduino Uno A0 (analog — tovush kuchi)",
+     "DO -> Arduino Uno D4 (raqamli — chegaradan oshganda, ixtiyoriy)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Moduldagi potensiometr sezgirlikni sozlaydi. Qarsakni aniqlash uchun raqamli chiqish qulayroq."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|4-chorak|6": {
   "maqsad": [
@@ -112433,7 +115841,23 @@ window.LESSON_CONTENT = {
    "modul": "M4. AI qurilmasi: ovoz va tasvir",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|4-chorak|7": {
   "maqsad": [
@@ -112679,7 +116103,23 @@ window.LESSON_CONTENT = {
    "modul": "M4. AI qurilmasi: ovoz va tasvir",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|4-chorak|10": {
   "maqsad": [
@@ -112761,7 +116201,23 @@ window.LESSON_CONTENT = {
    "modul": "M4. AI qurilmasi: ovoz va tasvir",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|4-chorak|11": {
   "maqsad": [
@@ -112925,7 +116381,23 @@ window.LESSON_CONTENT = {
    "modul": "M4. AI qurilmasi: ovoz va tasvir",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|4-chorak|13": {
   "maqsad": [
@@ -113253,7 +116725,23 @@ window.LESSON_CONTENT = {
    "modul": "M4. AI qurilmasi: ovoz va tasvir",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|4-chorak|17": {
   "maqsad": [
@@ -113477,7 +116965,35 @@ window.LESSON_CONTENT = {
    "modul": "M4. AI qurilmasi: ovoz va tasvir",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Ovoz (mikrofon) datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "OUT / AO -> Arduino Uno A0 (analog — tovush kuchi)",
+     "DO -> Arduino Uno D4 (raqamli — chegaradan oshganda, ixtiyoriy)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Moduldagi potensiometr sezgirlikni sozlaydi. Qarsakni aniqlash uchun raqamli chiqish qulayroq."
+    ]
+   },
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|7-sinf|4-chorak|20": {
   "maqsad": [
@@ -113853,7 +117369,20 @@ window.LESSON_CONTENT = {
    "modul": "M1. ESP32: ilg'or imkoniyatlar",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Hall datchigi",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "OUT -> Arduino Uno D2 (raqamli turida; analog turida A0 ga)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Magnitning qaysi qutbi yaqinlashganiga sezgir bo'lgan turlari bor — ishlamasa magnitni teskari o'girib ko'ring."
+    ]
+   }
+  ]
  },
  "2-yil|8-sinf|1-chorak|4": {
   "maqsad": [
@@ -113934,7 +117463,21 @@ window.LESSON_CONTENT = {
    "modul": "M1. ESP32: ilg'or imkoniyatlar",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LCD 1602 (I2C moduli bilan)",
+    "points": [
+     "Kutubxona: LiquidCrystal I2C — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <LiquidCrystal_I2C.h>",
+     "VCC -> ESP32 3.3V yoki 5V (modul ikkisida ham ishlaydi)",
+     "GND -> ESP32 GND",
+     "SDA -> ESP32 GPIO21",
+     "SCL -> ESP32 GPIO22",
+     "DIQQAT: I2C manzili odatda 0x27 yoki 0x3F. Ekran yonib turib matn ko'rinmasa — manzil noto'g'ri yoki kontrast vintini burash kerak."
+    ]
+   }
+  ]
  },
  "2-yil|8-sinf|1-chorak|5": {
   "maqsad": [
@@ -114015,7 +117558,31 @@ window.LESSON_CONTENT = {
    "modul": "M1. ESP32: ilg'or imkoniyatlar",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "Uzun oyoq (anod, +) -> Arduino Uno D9 (yoki istalgan raqamli pin) (220 Om rezistor orqali)",
+     "Kalta oyoq (katod, -) -> Arduino Uno GND (to'g'ridan-to'g'ri)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Rezistorsiz ulash LEDni ham, plata pinini ham kuydiradi. 220 Om — 5V uchun standart qiymat."
+    ]
+   },
+   {
+    "nom": "OLED ekran 0.96\" (SSD1306, I2C)",
+    "points": [
+     "Kutubxona: Adafruit SSD1306 + Adafruit GFX — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Adafruit_SSD1306.h> va #include <Adafruit_GFX.h>",
+     "VCC -> ESP32 3.3V",
+     "GND -> ESP32 GND",
+     "SDA -> ESP32 GPIO21",
+     "SCL -> ESP32 GPIO22",
+     "DIQQAT: I2C manzili 0x3C (ba'zan 0x3D). display.display() chaqirilmasa ekranda hech narsa ko'rinmaydi — bu eng ko'p uchraydigan xato."
+    ]
+   }
+  ]
  },
  "2-yil|8-sinf|1-chorak|6": {
   "maqsad": [
@@ -114096,7 +117663,24 @@ window.LESSON_CONTENT = {
    "modul": "M1. ESP32: ilg'or imkoniyatlar",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "microSD kart moduli",
+    "points": [
+     "Kutubxona: SD — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <SD.h> va #include <SPI.h>",
+     "CS -> Arduino Uno D4",
+     "SCK -> Arduino Uno D13",
+     "MOSI -> Arduino Uno D11",
+     "MISO -> Arduino Uno D12",
+     "VCC -> Arduino Uno 5V (modulda stabilizator bo'lsa)",
+     "GND -> Arduino Uno GND",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Karta FAT32 formatida bo'lishi kerak. Fayl nomi 8.3 formatida (masalan DATA.TXT) — uzun nomlar ishlamaydi. Yozgandan keyin file.close() qilinmasa ma'lumot saqlanmaydi."
+    ]
+   }
+  ]
  },
  "2-yil|8-sinf|1-chorak|7": {
   "maqsad": [
@@ -114177,7 +117761,21 @@ window.LESSON_CONTENT = {
    "modul": "M1. ESP32: ilg'or imkoniyatlar",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "RTC DS3231 (real vaqt soati)",
+    "points": [
+     "Kutubxona: RTClib (Adafruit) — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <RTClib.h> va #include <Wire.h>",
+     "VCC -> ESP32 3.3V",
+     "GND -> ESP32 GND",
+     "SDA -> ESP32 GPIO21",
+     "SCL -> ESP32 GPIO22",
+     "DIQQAT: Ichida CR2032 batareya bo'lishi kerak — u bo'lmasa quvvat o'chganda vaqt nolga qaytadi. Vaqtni bir marta o'rnatib, keyin o'rnatish kodini izohga olish kerak."
+    ]
+   }
+  ]
  },
  "2-yil|8-sinf|1-chorak|8": {
   "maqsad": [
@@ -114258,7 +117856,24 @@ window.LESSON_CONTENT = {
    "modul": "M1. ESP32: ilg'or imkoniyatlar",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "INA219 (tok va quvvat o'lchagich)",
+    "points": [
+     "Kutubxona: Adafruit INA219 — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Adafruit_INA219.h> va #include <Wire.h>",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "SDA -> Arduino Uno A4",
+     "SCL -> Arduino Uno A5",
+     "VIN+ -> Arduino Uno Manba + (o'lchanadigan zanjir kirishi)",
+     "VIN- -> Arduino Uno Yuklama + (o'lchanadigan zanjir chiqishi)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Modul zanjirga KETMA-KET ulanadi (tok o'lchash uchun), parallel emas. VIN+ va VIN- ni almashtirish manfiy qiymat beradi."
+    ]
+   }
+  ]
  },
  "2-yil|8-sinf|1-chorak|9": {
   "maqsad": [
@@ -114339,7 +117954,22 @@ window.LESSON_CONTENT = {
    "modul": "M1. ESP32: ilg'or imkoniyatlar",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "BMP280 (bosim va balandlik)",
+    "points": [
+     "Kutubxona: Adafruit BMP280 — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Adafruit_BMP280.h> va #include <Wire.h>",
+     "VCC / VIN -> Arduino Uno 3.3V",
+     "GND -> Arduino Uno GND",
+     "SDA / SDI -> Arduino Uno A4",
+     "SCL / SCK -> Arduino Uno A5",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: I2C manzili 0x76 yoki 0x77. Balandlikni hisoblash uchun joydagi dengiz sathi bosimini kiritish kerak, aks holda xato katta bo'ladi."
+    ]
+   }
+  ]
  },
  "2-yil|8-sinf|1-chorak|10": {
   "maqsad": [
@@ -114420,7 +118050,23 @@ window.LESSON_CONTENT = {
    "modul": "M1. ESP32: ilg'or imkoniyatlar",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "HX711 + tenzodatchik (og'irlik)",
+    "points": [
+     "Kutubxona: HX711 — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <HX711.h>",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "DT / DOUT -> Arduino Uno D3",
+     "SCK -> Arduino Uno D2",
+     "E+, E-, A+, A- -> Arduino Uno Tenzodatchik simlari (qizil-qora-yashil-oq tartibda)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Har bir tenzodatchik uchun kalibrlash koeffitsientini o'zi topish kerak: ma'lum og'irlikni qo'yib, qiymatni shunga bo'lish. Tenzodatchik qattiq asosga mahkamlanmasa ko'rsatkich suzadi."
+    ]
+   }
+  ]
  },
  "2-yil|8-sinf|1-chorak|11": {
   "maqsad": [
@@ -116312,7 +119958,20 @@ window.LESSON_CONTENT = {
    "modul": "M2. IoT tizimlari",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "Klaviatura 4x4 (keypad)",
+    "points": [
+     "Kutubxona: Keypad — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <Keypad.h>",
+     "R1, R2, R3, R4 (qatorlar) -> Arduino Uno D9, D8, D7, D6 (chiqish sifatida skanerlanadi)",
+     "C1, C2, C3, C4 (ustunlar) -> Arduino Uno D5, D4, D3, D2 (kirish sifatida o'qiladi)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: 8 pin bilan 16 tugma aniqlanadi — bu matritsa skanerlash usuli. Simlar tartibi chalkashsa, tugmalar noto'g'ri javob beradi."
+    ]
+   }
+  ]
  },
  "2-yil|8-sinf|2-chorak|14": {
   "maqsad": [
@@ -116393,7 +120052,20 @@ window.LESSON_CONTENT = {
    "modul": "M2. IoT tizimlari",
    "jihoz": "SET B — ESP32 va sensorlar to'plami",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "HC-SR04 (ultratovush masofa)",
+    "points": [
+     "Kutubxona kerak emas — oddiy pin buyruqlari bilan ishlaydi.",
+     "VCC -> ESP32 5V (VIN pinidan)",
+     "TRIG -> ESP32 GPIO5",
+     "ECHO -> ESP32 GPIO18 (kuchlanish bo'luvchi orqali (5V -> 3.3V))",
+     "GND -> ESP32 GND",
+     "DIQQAT: ESP32 da ECHO to'g'ridan-to'g'ri ulanmaydi: 5V signal 3.3V pinni shikastlaydi. Ikki rezistor (1 kOm + 2 kOm) bilan bo'luvchi qo'yiladi. Masofa = vaqt * 0.034 / 2."
+    ]
+   }
+  ]
  },
  "2-yil|8-sinf|2-chorak|15": {
   "maqsad": [
@@ -117237,7 +120909,23 @@ window.LESSON_CONTENT = {
    "modul": "M3. Mashinaviy o'rganish va TinyML",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|8-sinf|3-chorak|5": {
   "maqsad": [
@@ -117319,7 +121007,23 @@ window.LESSON_CONTENT = {
    "modul": "M3. Mashinaviy o'rganish va TinyML",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|8-sinf|3-chorak|6": {
   "maqsad": [
@@ -117647,7 +121351,23 @@ window.LESSON_CONTENT = {
    "modul": "M3. Mashinaviy o'rganish va TinyML",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|8-sinf|3-chorak|10": {
   "maqsad": [
@@ -117811,7 +121531,23 @@ window.LESSON_CONTENT = {
    "modul": "M3. Mashinaviy o'rganish va TinyML",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "LED matritsa 8x8 (MAX7219)",
+    "points": [
+     "Kutubxona: LedControl — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <LedControl.h>",
+     "DIN -> Arduino Uno D12 (ma'lumot)",
+     "CLK -> Arduino Uno D11 (takt)",
+     "CS / LOAD -> Arduino Uno D10 (tanlash)",
+     "VCC -> Arduino Uno 5V",
+     "GND -> Arduino Uno GND",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Yorqinlik setIntensity(0..15) bilan sozlanadi — maksimalda modul ko'p tok tortadi."
+    ]
+   }
+  ]
  },
  "2-yil|8-sinf|3-chorak|12": {
   "maqsad": [
@@ -117975,7 +121711,23 @@ window.LESSON_CONTENT = {
    "modul": "M3. Mashinaviy o'rganish va TinyML",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|8-sinf|3-chorak|14": {
   "maqsad": [
@@ -118057,7 +121809,23 @@ window.LESSON_CONTENT = {
    "modul": "M3. Mashinaviy o'rganish va TinyML",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|8-sinf|3-chorak|15": {
   "maqsad": [
@@ -118139,7 +121907,21 @@ window.LESSON_CONTENT = {
    "modul": "M3. Mashinaviy o'rganish va TinyML",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "RTC DS3231 (real vaqt soati)",
+    "points": [
+     "Kutubxona: RTClib (Adafruit) — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <RTClib.h> va #include <Wire.h>",
+     "VCC -> ESP32 3.3V",
+     "GND -> ESP32 GND",
+     "SDA -> ESP32 GPIO21",
+     "SCL -> ESP32 GPIO22",
+     "DIQQAT: Ichida CR2032 batareya bo'lishi kerak — u bo'lmasa quvvat o'chganda vaqt nolga qaytadi. Vaqtni bir marta o'rnatib, keyin o'rnatish kodini izohga olish kerak."
+    ]
+   }
+  ]
  },
  "2-yil|8-sinf|3-chorak|16": {
   "maqsad": [
@@ -118303,7 +122085,23 @@ window.LESSON_CONTENT = {
    "modul": "M3. Mashinaviy o'rganish va TinyML",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|8-sinf|3-chorak|18": {
   "maqsad": [
@@ -118445,7 +122243,23 @@ window.LESSON_CONTENT = {
    "modul": "M3. Mashinaviy o'rganish va TinyML",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|8-sinf|3-chorak|20": {
   "maqsad": [
@@ -119399,7 +123213,23 @@ window.LESSON_CONTENT = {
    "modul": "M4. Yakuniy muhandislik loyihasi",
    "jihoz": "SET B — XIAO ESP32S3 Sense, MPU6050, Edge Impulse",
    "davomiyligi": "45 daqiqa"
-  }
+  },
+  "ulanish": [
+   {
+    "nom": "XIAO ESP32S3 Sense (kamera va mikrofon)",
+    "points": [
+     "Kutubxona: Edge Impulse chiqargan Arduino kutubxonasi — Arduino IDE > Sketch > Include Library > Manage Libraries orqali o'rnatiladi.",
+     "Kodda: #include <loyiha_nomi_inferencing.h>",
+     "Kamera -> Arduino Uno Plataga o'rnatilgan shlang orqali (alohida sim kerak emas)",
+     "Mikrofon -> Arduino Uno Plataga o'rnatilgan (alohida sim kerak emas)",
+     "USB-C -> Arduino Uno Kompyuter (dastur yuklash va quvvat)",
+     "Qo'shimcha sensor SDA -> Arduino Uno D5 (GPIO6) (I2C uchun)",
+     "Qo'shimcha sensor SCL -> Arduino Uno D4 (GPIO5) (I2C uchun)",
+     "ESP32 da: D2, D9 kabi raqamli pinlar o'rniga bo'sh GPIO (masalan GPIO4, GPIO5) olinadi; 5V o'rniga VIN, mantiq darajasi esa 3.3V ekanini hisobga olish kerak.",
+     "DIQQAT: Kamera va mikrofon plataning o'zida — bu AI darslari uchun tanlangan asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi."
+    ]
+   }
+  ]
  },
  "2-yil|8-sinf|4-chorak|11": {
   "maqsad": [

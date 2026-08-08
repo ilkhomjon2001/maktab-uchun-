@@ -365,6 +365,23 @@ function maydonSection(content, num){
     </div>`;
 }
 
+// 5-8-sinf darslari uchun: komponentni qaysi portga ulash va qaysi kutubxona kerak.
+// Kichik bo'lim raqamlari (8.1, 8.2 ...) shu yerda beriladi — ma'lumotda raqam yo'q,
+// shuning uchun bo'lim tartibi o'zgarsa raqamlar o'zi to'g'rilanadi.
+function ulanishSection(content, num){
+  const u = content && content.ulanish;
+  if (!u || !u.length) return '';
+  const bloklar = u.map((b, i)=>`
+    <div class="subhead">${parseInt(num,10)}.${i+1}. ${esc(b.nom)} — ulanish va kutubxona</div>
+    <ul>${b.points.map(p=>`<li>${esc(p)}</li>`).join('')}</ul>`).join('');
+  return `
+    <div class="section">
+      <div class="section-num">${num}</div>
+      <h2>Ulanish sxemasi va kutubxona</h2>
+      ${bloklar}
+    </div>`;
+}
+
 // 01–07 — tasdiqlangan asosiy shablon (o'zgarmaydi).
 // Undan keyingi bo'limlar bor bo'lsa, ketma-ket raqamlanadi: 08, 09, 10...
 function extraSections(l, content){
@@ -375,6 +392,7 @@ function extraSections(l, content){
   if (content) {
     push(k=> topshiriqSection(content, k));
     push(k=> maydonSection(content, k));
+    push(k=> ulanishSection(content, k));
   }
   push(k=> instructionSection(l, k));
   return parts.join('');
