@@ -1,4 +1,5 @@
-const TYPE_LABELS = {qurish:"Qurish", nazorat:"Nazorat / Musobaqa", loyiha:"Loyiha", dasturlash:"Dasturlash", spike:"SPIKE"};
+const TYPE_LABELS = {qurish:"Qurish", nazorat:"Nazorat / Musobaqa", loyiha:"Loyiha", dasturlash:"Dasturlash", spike:"SPIKE",
+                     elektronika:"Elektronika", arduino:"Arduino", esp32:"ESP32", ai:"Sun'iy intellekt"};
 let activeYil = "1-yil";
 let activeKey = null;
 
