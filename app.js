@@ -2,6 +2,26 @@ const TYPE_LABELS = {qurish:"Qurish", nazorat:"Nazorat / Musobaqa", loyiha:"Loyi
 let activeYil = "1-yil";
 let activeKey = null;
 
+// --- Telefon: darslar ro'yxati chetdan chiqadigan panel sifatida ochiladi ---
+// (860px dan keng ekranda panel doim ko'rinib turadi va bu funksiya hech narsaga ta'sir qilmaydi)
+function setNav(open){
+  const nav = document.getElementById('treeNav');
+  const bd  = document.getElementById('navBackdrop');
+  const btn = document.getElementById('navToggle');
+  nav.classList.toggle('mobile-open', open);
+  bd.classList.toggle('on', open);
+  btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+  document.body.style.overflow = open ? 'hidden' : '';
+}
+function isMobile(){ return window.matchMedia('(max-width: 860px)').matches; }
+
+// Sarlavha balandligini o'lchab CSS ga uzatadi (telefonda u ikki qatorga bo'linadi,
+// shuning uchun qiymat qat'iy yozib qo'yilmaydi).
+function syncHeaderHeight(){
+  const h = document.querySelector('header').offsetHeight;
+  document.documentElement.style.setProperty('--hdr', h + 'px');
+}
+
 // Noyob kalit: yil|sinf|chorak|index. Bir xil model bir nechta sinf/choraqda takrorlansa ham
 // (masalan "Crane" 0/1/2-sinfda), har birining joylashuvi bo'yicha ALOHIDA kalit hosil bo'ladi —
 // shu sababli har bir sinf darajasiga mos alohida kontent yozish mumkin (title+model kaliti bilan
@@ -195,6 +215,22 @@ function initGallery(){
 
   document.getElementById('igPrev').onclick = ()=> show(INSTR.i - 1);
   document.getElementById('igNext').onclick = ()=> show(INSTR.i + 1);
+
+  // Telefonda barmoq bilan chapga/o'ngga surib qadam almashtirish
+  const stage = root.querySelector('.instr-stage');
+  let sx = 0, sy = 0, moved = false;
+  stage.addEventListener('touchstart', (e)=>{
+    sx = e.touches[0].clientX; sy = e.touches[0].clientY; moved = false;
+  }, {passive:true});
+  stage.addEventListener('touchmove', (e)=>{
+    if (Math.abs(e.touches[0].clientX - sx) > 12) moved = true;
+  }, {passive:true});
+  stage.addEventListener('touchend', (e)=>{
+    const dx = e.changedTouches[0].clientX - sx;
+    const dy = e.changedTouches[0].clientY - sy;
+    if (!moved || Math.abs(dx) < 45 || Math.abs(dx) < Math.abs(dy)) return;  // vertikal aylantirishga xalaqit bermaslik
+    show(INSTR.i + (dx < 0 ? 1 : -1));
+  }, {passive:true});
   document.getElementById('igAll').onclick = (e)=>{
     grid.hidden = !grid.hidden;
     e.currentTarget.classList.toggle('on', !grid.hidden);
@@ -202,7 +238,8 @@ function initGallery(){
   grid.querySelectorAll('.ig-thumb').forEach(b=>{
     b.onclick = ()=>{ show(parseInt(b.dataset.i, 10)); root.scrollIntoView({block:'start', behavior:'smooth'}); };
   });
-  main.onclick = ()=> show(INSTR.i + 1);
+  // Rasmni bosish = keyingi qadam. Svaypdan keyin click ham otiladi — shuning uchun tekshiramiz.
+  main.onclick = ()=>{ if (!moved) show(INSTR.i + 1); moved = false; };
 }
 
 document.addEventListener('keydown', (e)=>{
@@ -237,11 +274,13 @@ function topshiriqSection(content, num){
         <div class="task-mezon"><b>Muvaffaqiyat mezoni:</b> ${esc(t.mezon)}</div>
       </div>
       <div class="subhead">${t.missiya}-missiya ("${esc(t.missiyaNomi)}") — to'liq ball jadvali</div>
-      <table class="score-table">
-        <thead><tr><th>Kod</th><th>Topshiriq</th><th>Ball</th></tr></thead>
-        <tbody>${rows}</tbody>
-        <tfoot><tr><td></td><td>Jami · vaqt cheklovi ${t.vaqt} soniya</td><td class="tb">${t.jamiBall}</td></tr></tfoot>
-      </table>
+      <div class="score-wrap">
+        <table class="score-table">
+          <thead><tr><th>Kod</th><th>Topshiriq</th><th>Ball</th></tr></thead>
+          <tbody>${rows}</tbody>
+          <tfoot><tr><td></td><td>Jami · vaqt cheklovi ${t.vaqt} soniya</td><td class="tb">${t.jamiBall}</td></tr></tfoot>
+        </table>
+      </div>
     </div>`;
 }
 
@@ -254,6 +293,7 @@ function maydonSection(content, num){
       <div class="section-num">${num}</div>
       <h2>Musobaqa maydonchasi</h2>
       <div class="field-wrap">${f.svg}</div>
+      <div class="scroll-hint">← chizmani yon tomonga surib ko'ring →</div>
       <p class="field-note">${esc(f.izoh)}</p>
     </div>`;
 }
@@ -277,6 +317,7 @@ function selectLesson(l, key, itemEl){
   activeKey = key;
   document.querySelectorAll('.dars-item.active').forEach(e=>e.classList.remove('active'));
   if (itemEl) itemEl.classList.add('active');
+  if (isMobile()) setNav(false);   // telefonda dars tanlangach panel yopiladi
 
   const main = document.getElementById('mainContent');
   const content = LESSON_CONTENT[key];
@@ -378,7 +419,27 @@ document.getElementById('searchInput').addEventListener('input', (e)=>{
       item.closest('.sinf-block').querySelector('.sinf-head').classList.add('open');
     }
   });
+  // Telefonda qidirilganda natijani ko'rish uchun panel o'zi ochiladi
+  if (q && isMobile()) setNav(true);
 });
+
+// --- Panel boshqaruvi ---
+document.getElementById('navToggle').addEventListener('click', ()=>{
+  setNav(!document.getElementById('treeNav').classList.contains('mobile-open'));
+});
+document.getElementById('navBackdrop').addEventListener('click', ()=> setNav(false));
+document.addEventListener('keydown', (e)=>{
+  if (e.key === 'Escape') setNav(false);
+});
+// Telefondan planshet/kompyuterga o'tilsa (ekran burilishi) holat tozalanadi
+window.matchMedia('(max-width: 860px)').addEventListener('change', (e)=>{
+  if (!e.matches) setNav(false);
+});
+window.addEventListener('resize', syncHeaderHeight);
+window.addEventListener('orientationchange', syncHeaderHeight);
 
 renderTree();
 countAll();
+syncHeaderHeight();
+// Shriftlar yuklangach sarlavha balandligi biroz o'zgarishi mumkin
+if (document.fonts && document.fonts.ready) document.fonts.ready.then(syncHeaderHeight);
