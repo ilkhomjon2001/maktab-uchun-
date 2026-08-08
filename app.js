@@ -175,6 +175,7 @@ function galleryHtml(info){
         <span class="ig-pos"><b id="igNow">1</b> / ${info.qadam}</span>
         <button class="ig-btn" id="igNext" type="button">Keyingi ▶</button>
         <button class="ig-btn ig-toggle" id="igAll" type="button">Barcha qadamlar</button>
+        <button class="ig-btn ig-full" id="igFull" type="button">⛶ To'liq ekran</button>
       </div>
       <div class="instr-grid" id="igGrid" hidden>${thumbs.join('')}</div>
     </div>`;
@@ -193,9 +194,68 @@ function instructionSection(l, num){
     </div>`;
 }
 
+// --- Galereyaning to'liq ekran rejimi ---
+// Asosiy yo'l — brauzerning Fullscreen API'si. iPhone Safari oddiy element uchun
+// uni bermaydi, shuning uchun zaxira sifatida .ig-fs klassi (position:fixed) ishlatiladi.
+function igFsEl(){
+  return document.fullscreenElement || document.webkitFullscreenElement || null;
+}
+
+function igFsActive(){
+  const root = document.querySelector('.instr');
+  return !!root && (igFsEl() === root || root.classList.contains('ig-fs'));
+}
+
+function igSyncFullBtn(){
+  const b = document.getElementById('igFull');
+  if (!b) return;
+  const on = igFsActive();
+  b.textContent = on ? '✕ Chiqish' : '⛶ To\'liq ekran';
+  b.classList.toggle('on', on);
+}
+
+function igEnterFs(){
+  const root = document.querySelector('.instr');
+  if (!root) return;
+  const req = root.requestFullscreen || root.webkitRequestFullscreen;
+  if (req){
+    try {
+      const p = req.call(root);
+      // Ruxsat berilmasa yoki qo'llab-quvvatlanmasa — zaxira rejimga tushamiz
+      if (p && p.catch) p.catch(igFallbackOn); else igSyncFullBtn();
+      return;
+    } catch (e) { /* pastda zaxira rejim */ }
+  }
+  igFallbackOn();
+}
+
+function igFallbackOn(){
+  const root = document.querySelector('.instr');
+  if (root) root.classList.add('ig-fs');
+  document.body.classList.add('ig-fs-open');
+  igSyncFullBtn();
+}
+
+function igExitFs(){
+  const root = document.querySelector('.instr');
+  if (igFsEl()){
+    const ex = document.exitFullscreen || document.webkitExitFullscreen;
+    if (ex) ex.call(document);
+  }
+  if (root) root.classList.remove('ig-fs');
+  document.body.classList.remove('ig-fs-open');
+  igSyncFullBtn();
+}
+
+// Bir marta ulanadi: initGallery har darsda chaqiriladi, listener to'planib qolmasligi kerak.
+document.addEventListener('fullscreenchange', igSyncFullBtn);
+document.addEventListener('webkitfullscreenchange', igSyncFullBtn);   // eski Safari/Chrome
+
 // innerHTML almashtirilgandan keyin galereyani jonlantiradi.
 function initGallery(){
   const root = document.querySelector('.instr');
+  // Boshqa darsga o'tilganda zaxira rejimning izlari qolib ketmasin
+  document.body.classList.remove('ig-fs-open');
   if (!root) { INSTR.slug = null; return; }
   INSTR.slug = root.dataset.slug;
   INSTR.n = parseInt(root.dataset.n, 10);
@@ -238,6 +298,9 @@ function initGallery(){
   grid.querySelectorAll('.ig-thumb').forEach(b=>{
     b.onclick = ()=>{ show(parseInt(b.dataset.i, 10)); root.scrollIntoView({block:'start', behavior:'smooth'}); };
   });
+  document.getElementById('igFull').onclick = ()=> igFsActive() ? igExitFs() : igEnterFs();
+  igSyncFullBtn();
+
   // Rasmni bosish = keyingi qadam. Svaypdan keyin click ham otiladi — shuning uchun tekshiramiz.
   main.onclick = ()=>{ if (!moved) show(INSTR.i + 1); moved = false; };
 }
@@ -247,6 +310,9 @@ document.addEventListener('keydown', (e)=>{
   if (document.activeElement && document.activeElement.id === 'searchInput') return;
   if (e.key === 'ArrowRight') document.getElementById('igNext')?.click();
   else if (e.key === 'ArrowLeft') document.getElementById('igPrev')?.click();
+  // Brauzerning o'z to'liq ekrani Escape'ni o'zi ushlaydi; bu zaxira rejim uchun
+  else if (e.key === 'Escape' && document.querySelector('.instr.ig-fs')) igExitFs();
+  else if (e.key === 'f' || e.key === 'F') document.getElementById('igFull')?.click();
 });
 
 // Missiya darslari uchun: shu darsning aniq topshirig'i + butun missiyaning ball jadvali.
