@@ -62402,7 +62402,7 @@ window.LESSON_CONTENT = {
    "Kalibrlash (Calibration) – sensorni aniq ishlashi uchun sozlash",
    "Blok (Block) – dastur buyrug'i"
   ],
-  "softSkill": "Kuzatuvchanlik — sensor qiymatlarining turli rangларда qanday o'zgarishini diqqat bilan kuzatish.",
+  "softSkill": "Kuzatuvchanlik — sensor qiymatlarining turli ranglarda qanday o'zgarishini diqqat bilan kuzatish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami",
    "Rang sensor mount (oldingi darsda yig'ilgan)",
@@ -63870,8 +63870,8 @@ window.LESSON_CONTENT = {
  },
  "2-yil|4-sinf|3-chorak|2": {
   "maqsad": [
-   "O'quvchilar 1-missiya vazifasini diqqat bilan tahlil qiladilar.",
-   "O'quvchilar 1-missiyani bajarish uchun dastlabki rejani tuzadilar.",
+   "O'quvchilar 1-missiya (\"Yuk tashish\") vazifasini diqqat bilan tahlil qiladilar.",
+   "O'quvchilar missiyani 4 ta kichik topshiriqqa (1.1–1.4) bo'lib, har biriga ball va kerakli jihozni belgilaydilar.",
    "O'quvchilar jamoa bo'lib ishlash va vazifa taqsimotini o'rganadilar."
   ],
   "lugat": [
@@ -63884,28 +63884,30 @@ window.LESSON_CONTENT = {
   "softSkill": "Tahliliy o'qish va rejalashtirish — vazifa shartlarini diqqat bilan o'qib, uni bosqichlarga bo'lib rejalashtirish ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (1-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)",
-   "Qog'oz va qalam (reja uchun)"
+   "Qog'oz va qalam (reja uchun)",
+   "Maydoncha chizmasi (chop etilgan yoki ekranda)"
   ],
   "nazariya": [
    {
     "title": "5.1. Kirish (5 daqiqa)",
     "points": [
-     "1-missiya vazifasi sinfga o'qib eshittiriladi va tushuntiriladi."
+     "1-missiya \"Yuk tashish\" vazifasi sinfga o'qib eshittiriladi: Robot bazadan chiqib, maydonchaning o'rtasidagi yuk zonasiga boradi, u yerdagi yukni (5x5 sm quti yoki katta LEGO detali) oladi va yuk bilan birga bazaga qaytadi."
     ]
    },
    {
     "title": "5.2. Vazifani tahlil qilish (7 daqiqa)",
     "points": [
-     "Vazifaning asosiy talablari (nima qilish kerak, qayerda, qancha ball) ajratib olinadi.",
-     "Vazifani bajarish uchun qanday attachment kerak bo'lishi muhokama qilinadi."
+     "Maydonchadagi elementlar va ularning joylashuvi chizma orqali ko'rsatiladi (2 ta element).",
+     "4 ta kichik topshiriq va ularning balli tahlil qilinadi (jami 25 ball).",
+     "Bu missiya uchun taxminan qanday attachment kerakligi muhokama qilinadi (Gripper (ushlagich) yoki Scoop (cho'mich))."
     ]
    },
    {
     "title": "5.3. Yakunlash (3 daqiqa)",
     "points": [
-     "Jamoalar ichida dastlabki vazifa taqsimoti qilinadi."
+     "Vaqt cheklovi (35 soniya) eslatiladi va jamoalar ichida dastlabki vazifa taqsimoti qilinadi."
     ]
    }
   ],
@@ -63913,20 +63915,58 @@ window.LESSON_CONTENT = {
    {
     "title": "6.1. Reja tuzish (20 daqiqa)",
     "points": [
-     "Jamoalar 1-missiyani bajarish rejasini qog'ozga yozadilar.",
-     "Kerakli attachment va dastur mantig'i haqida dastlabki g'oyalar belgilanadi."
+     "Jamoalar 1.A topshirig'ini bajaradilar: 4 ta kichik topshiriqni ball va kerakli jihozi bilan daftarga yozadilar.",
+     "Topshiriqlarni bajarish tartibi raqamlanadi."
     ]
    },
    {
     "title": "6.2. Muhokama (10 daqiqa)",
     "points": [
-     "Har bir jamoa rejasini qisqacha o'qituvchiga tushuntiradi."
+     "Har bir jamoa rejasini qisqacha o'qituvchiga tushuntiradi va tartibini asoslaydi."
     ]
    }
   ],
   "uyga": [
    "1-missiya uchun rejangizni to'ldirib, keyingi darsga tayyor holda olib keling."
   ],
+  "topshiriq": {
+   "missiya": 1,
+   "missiyaNomi": "Yuk tashish",
+   "kod": "1.A",
+   "sarlavha": "Vazifani bo'laklash (qog'ozda)",
+   "talablar": [
+    "1-missiyaning 4 ta kichik topshirig'ini (1.1, 1.2, 1.3, 1.4) daftarga ko'chirib yozing.",
+    "Har bir topshiriq yoniga u necha ball berishini yozing.",
+    "Har bir topshiriq uchun qaysi attachment va qaysi sensor kerakligini yozing.",
+    "Topshiriqlarni bajarish TARTIBINI raqamlab chiqing."
+   ],
+   "mezon": "Jamoa 4 ta topshiriqni ham to'g'ri yozgan va har biriga kerakli attachment/sensorni ko'rsatgan bo'lsa — bajarilgan.",
+   "vaqt": 35,
+   "ballJadvali": [
+    {
+     "kod": "1.1",
+     "matn": "Robot bazadan mustaqil chiqib, yuk zonasiga yetib boradi va u yerda to'xtaydi (yukni turtib yubormaydi).",
+     "ball": 5
+    },
+    {
+     "kod": "1.2",
+     "matn": "Robot yukni ushlaydi yoki cho'michga oladi (yuk yerdan uziladi yoki attachment ichiga to'liq kiradi).",
+     "ball": 5
+    },
+    {
+     "kod": "1.3",
+     "matn": "Robot yuk bilan birga bazaga qaytadi — robot ham, yuk ham baza chegarasi ichida bo'lishi kerak.",
+     "ball": 10
+    },
+    {
+     "kod": "1.4",
+     "matn": "Butun harakat 35 soniyadan kam vaqtda, qo'l tekkizmasdan bajariladi.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 1,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
@@ -63939,9 +63979,9 @@ window.LESSON_CONTENT = {
  },
  "2-yil|4-sinf|3-chorak|3": {
   "maqsad": [
-   "O'quvchilar 1-missiyani bajarish uchun kerakli attachment dizaynini ishlab chiqadilar.",
+   "O'quvchilar 1-missiya (\"Yuk tashish\") uchun kerakli attachment dizaynini ishlab chiqadilar.",
    "O'quvchilar dizaynni tanlashda muhandislik mulohazalarini (mustahkamlik, vazifaga moslik) hisobga oladilar.",
-   "O'quvchilar dizaynni eskiz shaklida chizadilar."
+   "O'quvchilar kamida 2 xil variantni eskiz qilib, birini asoslangan holda tanlaydilar (1.B topshirig'i)."
   ],
   "lugat": [
    "Missiya (Mission) – bajarilishi kerak bo'lgan aniq vazifa",
@@ -63953,7 +63993,7 @@ window.LESSON_CONTENT = {
   "softSkill": "Muhandislik dizayni fikrlashi — bir nechta dizayn variantini solishtirib, eng mosini tanlash ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (1-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)",
    "Qog'oz va qalam (eskiz uchun)"
   ],
@@ -63961,20 +64001,20 @@ window.LESSON_CONTENT = {
    {
     "title": "5.1. Kirish (5 daqiqa)",
     "points": [
-     "1-missiya rejasi qisqacha eslanadi."
+     "1-missiya rejasi va 1.2 topshirig'i qisqacha eslanadi."
     ]
    },
    {
     "title": "5.2. Dizayn variantlari (7 daqiqa)",
     "points": [
-     "Vazifani bajarish uchun mumkin bo'lgan bir nechta attachment dizayni muhokama qilinadi (masalan, gripper vs scoop).",
-     "Har bir variantning afzallik va kamchiliklari solishtiriladi."
+     "Bu missiya uchun mos keladigan qurilma turlari muhokama qilinadi: Gripper (ushlagich) yoki Scoop (cho'mich).",
+     "Har bir variantning afzallik va kamchiliklari solishtiriladi (mustahkamlik, tezlik, aniqlik)."
     ]
    },
    {
     "title": "5.3. Yakunlash (3 daqiqa)",
     "points": [
-     "Jamoa eng mos dizaynni tanlaydi."
+     "Jamoa eng mos dizaynni tanlab, tanlovini bir gapda asoslaydi."
     ]
    }
   ],
@@ -63982,19 +64022,57 @@ window.LESSON_CONTENT = {
    {
     "title": "6.1. Eskiz chizish (15 daqiqa)",
     "points": [
-     "Jamoalar tanlagan attachment dizaynining eskizini chizadilar."
+     "Jamoalar 1.B topshirig'ini bajaradilar: 2 xil attachment eskizini chizib, har biriga afzallik va kamchilik yozadilar."
     ]
    },
    {
-    "title": "6.2. Muhokama (15 daqiqa)",
+    "title": "6.2. Tanlov va muhokama (15 daqiqa)",
     "points": [
-     "Eskizlar jamoa ichida va o'qituvchi bilan muhokama qilinadi."
+     "Jamoa bittasini tanlaydi va tanlovini o'qituvchiga asoslab beradi."
     ]
    }
   ],
   "uyga": [
-   "1-missiya attachmenti uchun dizaynni yakunlab, keyingi darsga tayyor holda olib keling."
+   "1-missiya attachmenti uchun tanlangan eskizni toza qog'ozga ko'chirib, keyingi darsga olib keling."
   ],
+  "topshiriq": {
+   "missiya": 1,
+   "missiyaNomi": "Yuk tashish",
+   "kod": "1.B",
+   "sarlavha": "Ikki xil dizayn eskizi va tanlov",
+   "talablar": [
+    "\"Gripper (ushlagich) yoki Scoop (cho'mich)\" vazifasini bajaradigan KAMIDA 2 xil attachment eskizini chizing.",
+    "Har bir eskiz yonida uning 1 ta afzalligi va 1 ta kamchiligini yozing.",
+    "Ikkitasidan bittasini tanlang va nega tanlaganingizni 1 gapda asoslang.",
+    "Tanlagan dizayn 1.2 topshirig'ini bajara olishini eskizda ko'rsating."
+   ],
+   "mezon": "2 ta eskiz chizilgan, afzallik/kamchilik yozilgan va tanlov asoslangan bo'lsa — bajarilgan.",
+   "vaqt": 35,
+   "ballJadvali": [
+    {
+     "kod": "1.1",
+     "matn": "Robot bazadan mustaqil chiqib, yuk zonasiga yetib boradi va u yerda to'xtaydi (yukni turtib yubormaydi).",
+     "ball": 5
+    },
+    {
+     "kod": "1.2",
+     "matn": "Robot yukni ushlaydi yoki cho'michga oladi (yuk yerdan uziladi yoki attachment ichiga to'liq kiradi).",
+     "ball": 5
+    },
+    {
+     "kod": "1.3",
+     "matn": "Robot yuk bilan birga bazaga qaytadi — robot ham, yuk ham baza chegarasi ichida bo'lishi kerak.",
+     "ball": 10
+    },
+    {
+     "kod": "1.4",
+     "matn": "Butun harakat 35 soniyadan kam vaqtda, qo'l tekkizmasdan bajariladi.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 1,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
@@ -64021,7 +64099,7 @@ window.LESSON_CONTENT = {
   "softSkill": "Amaliy ijro — eskizdan haqiqiy qurilmaga o'tish jarayonida aniqlik va sabr-toqatni saqlash ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (1-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)"
   ],
   "nazariya": [
@@ -64034,7 +64112,8 @@ window.LESSON_CONTENT = {
    {
     "title": "5.2. Yig'ish rejasi (5 daqiqa)",
     "points": [
-     "Attachmentni qanday tartibda yig'ish qulayligi qisqacha muhokama qilinadi."
+     "Attachmentni qanday tartibda yig'ish qulayligi qisqacha muhokama qilinadi.",
+     "Bugungi maqsad — 1.C topshirig'i: attachment DASTURSIZ, qo'lda ishlashi kerak."
     ]
    }
   ],
@@ -64047,15 +64126,53 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "6.2. Dastlabki sinov (5 daqiqa)",
+    "title": "6.2. Mexanik sinov (5 daqiqa)",
     "points": [
-     "Attachment qo'lda harakatlantirilib, mexanik ishlashi tekshiriladi."
+     "Robot qo'lda surib maydonchadan o'tkaziladi va 1.2 topshirig'i qo'lda bajarib ko'riladi."
     ]
    }
   ],
   "uyga": [
    "Yig'ilgan 1-missiya attachmentingizning rasmini oling yoki chizing."
   ],
+  "topshiriq": {
+   "missiya": 1,
+   "missiyaNomi": "Yuk tashish",
+   "kod": "1.C",
+   "sarlavha": "Mexanik sinov — dastursiz",
+   "talablar": [
+    "Tanlangan attachmentni yig'ing va Driving Base'ga mahkam ulang.",
+    "Attachmentni QO'LDA harakatlantirib, 1.2 topshirig'ini bajarib ko'ring (hali dastur yozilmaydi).",
+    "Robotni qo'lda surib, maydonchadagi yo'l bo'ylab o'tkazing — attachment hech narsaga ilashmasligi kerak.",
+    "Ilashib qolsa yoki bo'shab ketsa — konstruksiyani tuzating va qayta sinang."
+   ],
+   "mezon": "Attachment mahkam turadi va 1.2 topshirig'i qo'lda bajarilsa — bajarilgan.",
+   "vaqt": 35,
+   "ballJadvali": [
+    {
+     "kod": "1.1",
+     "matn": "Robot bazadan mustaqil chiqib, yuk zonasiga yetib boradi va u yerda to'xtaydi (yukni turtib yubormaydi).",
+     "ball": 5
+    },
+    {
+     "kod": "1.2",
+     "matn": "Robot yukni ushlaydi yoki cho'michga oladi (yuk yerdan uziladi yoki attachment ichiga to'liq kiradi).",
+     "ball": 5
+    },
+    {
+     "kod": "1.3",
+     "matn": "Robot yuk bilan birga bazaga qaytadi — robot ham, yuk ham baza chegarasi ichida bo'lishi kerak.",
+     "ball": 10
+    },
+    {
+     "kod": "1.4",
+     "matn": "Butun harakat 35 soniyadan kam vaqtda, qo'l tekkizmasdan bajariladi.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 1,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
@@ -64082,7 +64199,7 @@ window.LESSON_CONTENT = {
   "softSkill": "Kod orqali g'oyani amalga oshirish — rejalashtirilgan harakatlarni aniq dastur bloklariga aylantirish ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (1-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)"
   ],
   "nazariya": [
@@ -64095,13 +64212,14 @@ window.LESSON_CONTENT = {
    {
     "title": "5.2. Dastur tuzilishi (10 daqiqa)",
     "points": [
-     "Driving Base harakati (masofa/burilish) va attachment harakati (motor) qanday birlashtirilishi ko'rsatiladi."
+     "Driving Base harakati (masofa/burilish) va attachment harakati (motor) qanday birlashtirilishi ko'rsatiladi.",
+     "Bu missiyada ishlatiladigan sensorlar: Shart emas (ixtiyoriy: masofa sensori aniqroq to'xtash uchun)."
     ]
    },
    {
     "title": "5.3. Yakunlash (3 daqiqa)",
     "points": [
-     "Dasturni bosqichma-bosqich sinash tavsiya etiladi."
+     "Bugungi maqsad — 1.D topshirig'i: birinchi IKKI topshiriqni bitta dasturda bajarish."
     ]
    }
   ],
@@ -64109,19 +64227,58 @@ window.LESSON_CONTENT = {
    {
     "title": "6.1. Dastur yozish (22 daqiqa)",
     "points": [
-     "Jamoalar 1-missiya uchun to'liq dasturni yozadilar."
+     "Jamoalar 1.1 va 1.2 topshiriqlarini bitta dasturda yozadilar.",
+     "Ulgurgan jamoalar 1.3 uchun bloklarni boshlaydilar."
     ]
    },
    {
     "title": "6.2. Qisman sinov (3 daqiqa)",
     "points": [
-     "Dasturning tayyor qismlari qisman sinaladi."
+     "Yozilgan qism maydonchada sinab ko'riladi."
     ]
    }
   ],
   "uyga": [
    "1-missiya dasturingizning eng qiyin qismi qaysi ekanini va nega ekanini yozing."
   ],
+  "topshiriq": {
+   "missiya": 1,
+   "missiyaNomi": "Yuk tashish",
+   "kod": "1.D",
+   "sarlavha": "Birinchi yarmini dasturlash",
+   "talablar": [
+    "1.1 topshirig'ini to'liq dasturlang va sinang.",
+    "1.2 topshirig'ini dasturlang va sinang.",
+    "Ikkala qismni BITTA dasturga birlashtiring — robot to'xtamasdan ketma-ket bajarsin.",
+    "1.3 uchun bloklarni boshlang (yakunlash shart emas)."
+   ],
+   "mezon": "Robot bitta dastur bilan 1.1 va 1.2 topshiriqlarini ketma-ket bajarsa — bajarilgan (10 ball qiymatida).",
+   "vaqt": 35,
+   "ballJadvali": [
+    {
+     "kod": "1.1",
+     "matn": "Robot bazadan mustaqil chiqib, yuk zonasiga yetib boradi va u yerda to'xtaydi (yukni turtib yubormaydi).",
+     "ball": 5
+    },
+    {
+     "kod": "1.2",
+     "matn": "Robot yukni ushlaydi yoki cho'michga oladi (yuk yerdan uziladi yoki attachment ichiga to'liq kiradi).",
+     "ball": 5
+    },
+    {
+     "kod": "1.3",
+     "matn": "Robot yuk bilan birga bazaga qaytadi — robot ham, yuk ham baza chegarasi ichida bo'lishi kerak.",
+     "ball": 10
+    },
+    {
+     "kod": "1.4",
+     "matn": "Butun harakat 35 soniyadan kam vaqtda, qo'l tekkizmasdan bajariladi.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 1,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
@@ -64148,7 +64305,7 @@ window.LESSON_CONTENT = {
   "softSkill": "Barqarorlikka intilish — bir marta ishlashi bilan cheklanmasdan, bir necha marta takrorlab sinab ishonchni oshirish ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (1-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)"
   ],
   "nazariya": [
@@ -64161,7 +64318,7 @@ window.LESSON_CONTENT = {
    {
     "title": "5.2. Tizimli sinov (5 daqiqa)",
     "points": [
-     "Missiyani bir necha marta ketma-ket sinab, natijalar bir xilligini tekshirish tavsiya etiladi."
+     "Bugungi maqsad — 1.E topshirig'i: 4 ta topshiriqni to'liq bajarish va 3 marta ketma-ket sinab, natija bir xilligini tekshirish."
     ]
    }
   ],
@@ -64169,19 +64326,58 @@ window.LESSON_CONTENT = {
    {
     "title": "6.1. Sinov (20 daqiqa)",
     "points": [
-     "Jamoalar 1-missiyani maydonchada bir necha marta sinaydilar."
+     "Jamoalar 1-missiyani maydonchada 3 marta ketma-ket sinaydilar.",
+     "Har bir urinishda nechta topshiriq bajarilgani va sarflangan vaqt jadvalga yoziladi."
     ]
    },
    {
     "title": "6.2. Tuzatish (15 daqiqa)",
     "points": [
-     "Aniqlangan mexanik yoki dasturiy xatolar tuzatiladi."
+     "Takrorlanadigan xatoning sababi (mexanik yoki dasturiy) aniqlanib, tuzatiladi va qayta sinaladi."
     ]
    }
   ],
   "uyga": [
    "1-missiyada aniqlagan va tuzatgan bitta xatoni tasvirlab yozing."
   ],
+  "topshiriq": {
+   "missiya": 1,
+   "missiyaNomi": "Yuk tashish",
+   "kod": "1.E",
+   "sarlavha": "To'liq missiya — barqarorlik sinovi",
+   "talablar": [
+    "4 ta topshiriqni (1.1-1.4) bitta dasturda to'liq bajaring.",
+    "Missiyani KETMA-KET 3 marta sinang va har safar nechta topshiriq bajarilganini jadvalga yozing.",
+    "Xato takrorlansa — sababini toping (mexanik yoki dasturiy) va tuzating.",
+    "Vaqtni xronometr bilan o'lchang — maqsad 35 soniyadan kam."
+   ],
+   "mezon": "3 urinishdan kamida 2 tasida barcha 4 topshiriq bajarilsa — bajarilgan.",
+   "vaqt": 35,
+   "ballJadvali": [
+    {
+     "kod": "1.1",
+     "matn": "Robot bazadan mustaqil chiqib, yuk zonasiga yetib boradi va u yerda to'xtaydi (yukni turtib yubormaydi).",
+     "ball": 5
+    },
+    {
+     "kod": "1.2",
+     "matn": "Robot yukni ushlaydi yoki cho'michga oladi (yuk yerdan uziladi yoki attachment ichiga to'liq kiradi).",
+     "ball": 5
+    },
+    {
+     "kod": "1.3",
+     "matn": "Robot yuk bilan birga bazaga qaytadi — robot ham, yuk ham baza chegarasi ichida bo'lishi kerak.",
+     "ball": 10
+    },
+    {
+     "kod": "1.4",
+     "matn": "Butun harakat 35 soniyadan kam vaqtda, qo'l tekkizmasdan bajariladi.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 1,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
@@ -64208,7 +64404,7 @@ window.LESSON_CONTENT = {
   "softSkill": "Bosim ostida ishlash — baholanayotganini bilgan holda ham tinch va tizimli harakat qilish ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (1-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)",
    "Ball jadvali"
   ],
@@ -64216,13 +64412,14 @@ window.LESSON_CONTENT = {
    {
     "title": "5.1. Kirish (5 daqiqa)",
     "points": [
-     "1-missiyaning rasmiy baholash qoidalari eslatiladi (25 ball, muvaffaqiyatli bajarilsa to'liq beriladi)."
+     "1-missiyaning rasmiy baholash qoidalari eslatiladi: 4 ta topshiriq, jami 25 ball, vaqt 35 soniya.",
+     "Har bir jamoaga 2 ta urinish berilishi va yaxshirog'i hisobga olinishi aytiladi."
     ]
    },
    {
     "title": "5.2. Yakuniy tayyorgarlik (5 daqiqa)",
     "points": [
-     "Robot va attachment yakuniy marta tekshiriladi."
+     "Robot va attachment yakuniy marta tekshiriladi, batareya quvvati nazorat qilinadi."
     ]
    }
   ],
@@ -64230,20 +64427,59 @@ window.LESSON_CONTENT = {
    {
     "title": "6.1. Yakuniy urinish (15 daqiqa)",
     "points": [
-     "Har bir jamoa 1-missiyani rasmiy qoidalar asosida bajaradi."
+     "Har bir jamoa 1-missiyani rasmiy qoidalar asosida bajaradi (2 urinish).",
+     "Har bir topshiriq alohida belgilanadi — qisman bajarilgan topshiriq uchun ball berilmaydi."
     ]
    },
    {
     "title": "6.2. Ball qo'yish va muhokama (20 daqiqa)",
     "points": [
-     "O'qituvchi natijani ball jadvaliga yozadi.",
-     "Natija jamoa bilan muhokama qilinadi."
+     "O'qituvchi natijani topshiriqlar jadvali bo'yicha ballga aylantiradi.",
+     "Qaysi topshiriq bajarilmagani va nima uchun — jamoa bilan muhokama qilinadi."
     ]
    }
   ],
   "uyga": [
    "1-missiyadagi natijangizdan nimani o'rganganingizni yozing."
   ],
+  "topshiriq": {
+   "missiya": 1,
+   "missiyaNomi": "Yuk tashish",
+   "kod": "1.F",
+   "sarlavha": "Rasmiy urinish — ballga qo'yiladi",
+   "talablar": [
+    "Robot bazada, dastur tayyor holatda boshlanadi.",
+    "Vaqt: 35 soniya. Vaqt tugagach urinish to'xtatiladi.",
+    "Urinish davomida robotga qo'l tekkizilmaydi. Tekkizilsa — o'sha topshiriq balli berilmaydi.",
+    "Har bir jamoaga 2 ta urinish beriladi, YAXSHIROQ natija hisobga olinadi."
+   ],
+   "mezon": "Ball topshiriqlar jadvali bo'yicha qo'yiladi (jami 25 ball).",
+   "vaqt": 35,
+   "ballJadvali": [
+    {
+     "kod": "1.1",
+     "matn": "Robot bazadan mustaqil chiqib, yuk zonasiga yetib boradi va u yerda to'xtaydi (yukni turtib yubormaydi).",
+     "ball": 5
+    },
+    {
+     "kod": "1.2",
+     "matn": "Robot yukni ushlaydi yoki cho'michga oladi (yuk yerdan uziladi yoki attachment ichiga to'liq kiradi).",
+     "ball": 5
+    },
+    {
+     "kod": "1.3",
+     "matn": "Robot yuk bilan birga bazaga qaytadi — robot ham, yuk ham baza chegarasi ichida bo'lishi kerak.",
+     "ball": 10
+    },
+    {
+     "kod": "1.4",
+     "matn": "Butun harakat 35 soniyadan kam vaqtda, qo'l tekkizmasdan bajariladi.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 1,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
@@ -64256,8 +64492,8 @@ window.LESSON_CONTENT = {
  },
  "2-yil|4-sinf|3-chorak|8": {
   "maqsad": [
-   "O'quvchilar 2-missiya vazifasini diqqat bilan tahlil qiladilar.",
-   "O'quvchilar 2-missiyani bajarish uchun dastlabki rejani tuzadilar.",
+   "O'quvchilar 2-missiya (\"Chiziq bo'ylab yetkazish\") vazifasini diqqat bilan tahlil qiladilar.",
+   "O'quvchilar missiyani 4 ta kichik topshiriqqa (2.1–2.4) bo'lib, har biriga ball va kerakli jihozni belgilaydilar.",
    "O'quvchilar jamoa bo'lib ishlash va vazifa taqsimotini o'rganadilar."
   ],
   "lugat": [
@@ -64270,28 +64506,30 @@ window.LESSON_CONTENT = {
   "softSkill": "Tahliliy o'qish va rejalashtirish — vazifa shartlarini diqqat bilan o'qib, uni bosqichlarga bo'lib rejalashtirish ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (2-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)",
-   "Qog'oz va qalam (reja uchun)"
+   "Qog'oz va qalam (reja uchun)",
+   "Maydoncha chizmasi (chop etilgan yoki ekranda)"
   ],
   "nazariya": [
    {
     "title": "5.1. Kirish (5 daqiqa)",
     "points": [
-     "2-missiya vazifasi sinfga o'qib eshittiriladi va tushuntiriladi."
+     "2-missiya \"Chiziq bo'ylab yetkazish\" vazifasi sinfga o'qib eshittiriladi: Robot bazadan chiqib, qora chiziq bo'ylab yuradi. Chiziq ustidagi yashil belgini sezib to'xtaydi, o'sha yerdagi yukni oladi va chiziqning oxiridagi yetkazish zonasiga qo'yadi, so'ng bazaga qaytadi."
     ]
    },
    {
     "title": "5.2. Vazifani tahlil qilish (7 daqiqa)",
     "points": [
-     "Vazifaning asosiy talablari (nima qilish kerak, qayerda, qancha ball) ajratib olinadi.",
-     "Vazifani bajarish uchun qanday attachment kerak bo'lishi muhokama qilinadi."
+     "Maydonchadagi elementlar va ularning joylashuvi chizma orqali ko'rsatiladi (4 ta element).",
+     "4 ta kichik topshiriq va ularning balli tahlil qilinadi (jami 25 ball).",
+     "Bu missiya uchun taxminan qanday attachment kerakligi muhokama qilinadi (Line Follower attachment + Gripper)."
     ]
    },
    {
     "title": "5.3. Yakunlash (3 daqiqa)",
     "points": [
-     "Jamoalar ichida dastlabki vazifa taqsimoti qilinadi."
+     "Vaqt cheklovi (35 soniya) eslatiladi va jamoalar ichida dastlabki vazifa taqsimoti qilinadi."
     ]
    }
   ],
@@ -64299,20 +64537,58 @@ window.LESSON_CONTENT = {
    {
     "title": "6.1. Reja tuzish (20 daqiqa)",
     "points": [
-     "Jamoalar 2-missiyani bajarish rejasini qog'ozga yozadilar.",
-     "Kerakli attachment va dastur mantig'i haqida dastlabki g'oyalar belgilanadi."
+     "Jamoalar 2.A topshirig'ini bajaradilar: 4 ta kichik topshiriqni ball va kerakli jihozi bilan daftarga yozadilar.",
+     "Topshiriqlarni bajarish tartibi raqamlanadi."
     ]
    },
    {
     "title": "6.2. Muhokama (10 daqiqa)",
     "points": [
-     "Har bir jamoa rejasini qisqacha o'qituvchiga tushuntiradi."
+     "Har bir jamoa rejasini qisqacha o'qituvchiga tushuntiradi va tartibini asoslaydi."
     ]
    }
   ],
   "uyga": [
    "2-missiya uchun rejangizni to'ldirib, keyingi darsga tayyor holda olib keling."
   ],
+  "topshiriq": {
+   "missiya": 2,
+   "missiyaNomi": "Chiziq bo'ylab yetkazish",
+   "kod": "2.A",
+   "sarlavha": "Vazifani bo'laklash (qog'ozda)",
+   "talablar": [
+    "2-missiyaning 4 ta kichik topshirig'ini (2.1, 2.2, 2.3, 2.4) daftarga ko'chirib yozing.",
+    "Har bir topshiriq yoniga u necha ball berishini yozing.",
+    "Har bir topshiriq uchun qaysi attachment va qaysi sensor kerakligini yozing.",
+    "Topshiriqlarni bajarish TARTIBINI raqamlab chiqing."
+   ],
+   "mezon": "Jamoa 4 ta topshiriqni ham to'g'ri yozgan va har biriga kerakli attachment/sensorni ko'rsatgan bo'lsa — bajarilgan.",
+   "vaqt": 35,
+   "ballJadvali": [
+    {
+     "kod": "2.1",
+     "matn": "Robot qora chiziqdan to'liq chiqib ketmasdan kamida 50 sm masofani bosib o'tadi.",
+     "ball": 5
+    },
+    {
+     "kod": "2.2",
+     "matn": "Robot chiziq ustidagi yashil belgini sezib, undan 10 sm dan uzoqlashmasdan to'xtaydi.",
+     "ball": 5
+    },
+    {
+     "kod": "2.3",
+     "matn": "Robot yukni oladi va yetkazish zonasi ichiga qo'yadi (yuk zona chizig'i ichida bo'lishi kerak).",
+     "ball": 10
+    },
+    {
+     "kod": "2.4",
+     "matn": "Robot vazifani bajargach, qo'l tekkizmasdan mustaqil bazaga qaytadi.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 2,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
@@ -64325,9 +64601,9 @@ window.LESSON_CONTENT = {
  },
  "2-yil|4-sinf|3-chorak|9": {
   "maqsad": [
-   "O'quvchilar 2-missiyani bajarish uchun kerakli attachment dizaynini ishlab chiqadilar.",
+   "O'quvchilar 2-missiya (\"Chiziq bo'ylab yetkazish\") uchun kerakli attachment dizaynini ishlab chiqadilar.",
    "O'quvchilar dizaynni tanlashda muhandislik mulohazalarini (mustahkamlik, vazifaga moslik) hisobga oladilar.",
-   "O'quvchilar dizaynni eskiz shaklida chizadilar."
+   "O'quvchilar kamida 2 xil variantni eskiz qilib, birini asoslangan holda tanlaydilar (2.B topshirig'i)."
   ],
   "lugat": [
    "Missiya (Mission) – bajarilishi kerak bo'lgan aniq vazifa",
@@ -64339,7 +64615,7 @@ window.LESSON_CONTENT = {
   "softSkill": "Muhandislik dizayni fikrlashi — bir nechta dizayn variantini solishtirib, eng mosini tanlash ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (2-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)",
    "Qog'oz va qalam (eskiz uchun)"
   ],
@@ -64347,20 +64623,20 @@ window.LESSON_CONTENT = {
    {
     "title": "5.1. Kirish (5 daqiqa)",
     "points": [
-     "2-missiya rejasi qisqacha eslanadi."
+     "2-missiya rejasi va 2.2 topshirig'i qisqacha eslanadi."
     ]
    },
    {
     "title": "5.2. Dizayn variantlari (7 daqiqa)",
     "points": [
-     "Vazifani bajarish uchun mumkin bo'lgan bir nechta attachment dizayni muhokama qilinadi (masalan, gripper vs scoop).",
-     "Har bir variantning afzallik va kamchiliklari solishtiriladi."
+     "Bu missiya uchun mos keladigan qurilma turlari muhokama qilinadi: Line Follower attachment + Gripper.",
+     "Har bir variantning afzallik va kamchiliklari solishtiriladi (mustahkamlik, tezlik, aniqlik)."
     ]
    },
    {
     "title": "5.3. Yakunlash (3 daqiqa)",
     "points": [
-     "Jamoa eng mos dizaynni tanlaydi."
+     "Jamoa eng mos dizaynni tanlab, tanlovini bir gapda asoslaydi."
     ]
    }
   ],
@@ -64368,19 +64644,57 @@ window.LESSON_CONTENT = {
    {
     "title": "6.1. Eskiz chizish (15 daqiqa)",
     "points": [
-     "Jamoalar tanlagan attachment dizaynining eskizini chizadilar."
+     "Jamoalar 2.B topshirig'ini bajaradilar: 2 xil attachment eskizini chizib, har biriga afzallik va kamchilik yozadilar."
     ]
    },
    {
-    "title": "6.2. Muhokama (15 daqiqa)",
+    "title": "6.2. Tanlov va muhokama (15 daqiqa)",
     "points": [
-     "Eskizlar jamoa ichida va o'qituvchi bilan muhokama qilinadi."
+     "Jamoa bittasini tanlaydi va tanlovini o'qituvchiga asoslab beradi."
     ]
    }
   ],
   "uyga": [
-   "2-missiya attachmenti uchun dizaynni yakunlab, keyingi darsga tayyor holda olib keling."
+   "2-missiya attachmenti uchun tanlangan eskizni toza qog'ozga ko'chirib, keyingi darsga olib keling."
   ],
+  "topshiriq": {
+   "missiya": 2,
+   "missiyaNomi": "Chiziq bo'ylab yetkazish",
+   "kod": "2.B",
+   "sarlavha": "Ikki xil dizayn eskizi va tanlov",
+   "talablar": [
+    "\"Line Follower attachment + Gripper\" vazifasini bajaradigan KAMIDA 2 xil attachment eskizini chizing.",
+    "Har bir eskiz yonida uning 1 ta afzalligi va 1 ta kamchiligini yozing.",
+    "Ikkitasidan bittasini tanlang va nega tanlaganingizni 1 gapda asoslang.",
+    "Tanlagan dizayn 2.2 topshirig'ini bajara olishini eskizda ko'rsating."
+   ],
+   "mezon": "2 ta eskiz chizilgan, afzallik/kamchilik yozilgan va tanlov asoslangan bo'lsa — bajarilgan.",
+   "vaqt": 35,
+   "ballJadvali": [
+    {
+     "kod": "2.1",
+     "matn": "Robot qora chiziqdan to'liq chiqib ketmasdan kamida 50 sm masofani bosib o'tadi.",
+     "ball": 5
+    },
+    {
+     "kod": "2.2",
+     "matn": "Robot chiziq ustidagi yashil belgini sezib, undan 10 sm dan uzoqlashmasdan to'xtaydi.",
+     "ball": 5
+    },
+    {
+     "kod": "2.3",
+     "matn": "Robot yukni oladi va yetkazish zonasi ichiga qo'yadi (yuk zona chizig'i ichida bo'lishi kerak).",
+     "ball": 10
+    },
+    {
+     "kod": "2.4",
+     "matn": "Robot vazifani bajargach, qo'l tekkizmasdan mustaqil bazaga qaytadi.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 2,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
@@ -64407,7 +64721,7 @@ window.LESSON_CONTENT = {
   "softSkill": "Amaliy ijro — eskizdan haqiqiy qurilmaga o'tish jarayonida aniqlik va sabr-toqatni saqlash ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (2-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)"
   ],
   "nazariya": [
@@ -64420,7 +64734,8 @@ window.LESSON_CONTENT = {
    {
     "title": "5.2. Yig'ish rejasi (5 daqiqa)",
     "points": [
-     "Attachmentni qanday tartibda yig'ish qulayligi qisqacha muhokama qilinadi."
+     "Attachmentni qanday tartibda yig'ish qulayligi qisqacha muhokama qilinadi.",
+     "Bugungi maqsad — 2.C topshirig'i: attachment DASTURSIZ, qo'lda ishlashi kerak."
     ]
    }
   ],
@@ -64433,15 +64748,53 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "6.2. Dastlabki sinov (5 daqiqa)",
+    "title": "6.2. Mexanik sinov (5 daqiqa)",
     "points": [
-     "Attachment qo'lda harakatlantirilib, mexanik ishlashi tekshiriladi."
+     "Robot qo'lda surib maydonchadan o'tkaziladi va 2.2 topshirig'i qo'lda bajarib ko'riladi."
     ]
    }
   ],
   "uyga": [
    "Yig'ilgan 2-missiya attachmentingizning rasmini oling yoki chizing."
   ],
+  "topshiriq": {
+   "missiya": 2,
+   "missiyaNomi": "Chiziq bo'ylab yetkazish",
+   "kod": "2.C",
+   "sarlavha": "Mexanik sinov — dastursiz",
+   "talablar": [
+    "Tanlangan attachmentni yig'ing va Driving Base'ga mahkam ulang.",
+    "Attachmentni QO'LDA harakatlantirib, 2.2 topshirig'ini bajarib ko'ring (hali dastur yozilmaydi).",
+    "Robotni qo'lda surib, maydonchadagi yo'l bo'ylab o'tkazing — attachment hech narsaga ilashmasligi kerak.",
+    "Ilashib qolsa yoki bo'shab ketsa — konstruksiyani tuzating va qayta sinang."
+   ],
+   "mezon": "Attachment mahkam turadi va 2.2 topshirig'i qo'lda bajarilsa — bajarilgan.",
+   "vaqt": 35,
+   "ballJadvali": [
+    {
+     "kod": "2.1",
+     "matn": "Robot qora chiziqdan to'liq chiqib ketmasdan kamida 50 sm masofani bosib o'tadi.",
+     "ball": 5
+    },
+    {
+     "kod": "2.2",
+     "matn": "Robot chiziq ustidagi yashil belgini sezib, undan 10 sm dan uzoqlashmasdan to'xtaydi.",
+     "ball": 5
+    },
+    {
+     "kod": "2.3",
+     "matn": "Robot yukni oladi va yetkazish zonasi ichiga qo'yadi (yuk zona chizig'i ichida bo'lishi kerak).",
+     "ball": 10
+    },
+    {
+     "kod": "2.4",
+     "matn": "Robot vazifani bajargach, qo'l tekkizmasdan mustaqil bazaga qaytadi.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 2,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
@@ -64468,7 +64821,7 @@ window.LESSON_CONTENT = {
   "softSkill": "Kod orqali g'oyani amalga oshirish — rejalashtirilgan harakatlarni aniq dastur bloklariga aylantirish ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (2-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)"
   ],
   "nazariya": [
@@ -64481,13 +64834,14 @@ window.LESSON_CONTENT = {
    {
     "title": "5.2. Dastur tuzilishi (10 daqiqa)",
     "points": [
-     "Driving Base harakati (masofa/burilish) va attachment harakati (motor) qanday birlashtirilishi ko'rsatiladi."
+     "Driving Base harakati (masofa/burilish) va attachment harakati (motor) qanday birlashtirilishi ko'rsatiladi.",
+     "Bu missiyada ishlatiladigan sensorlar: Rang sensori (chiziq va yashil belgi uchun)."
     ]
    },
    {
     "title": "5.3. Yakunlash (3 daqiqa)",
     "points": [
-     "Dasturni bosqichma-bosqich sinash tavsiya etiladi."
+     "Bugungi maqsad — 2.D topshirig'i: birinchi IKKI topshiriqni bitta dasturda bajarish."
     ]
    }
   ],
@@ -64495,19 +64849,58 @@ window.LESSON_CONTENT = {
    {
     "title": "6.1. Dastur yozish (22 daqiqa)",
     "points": [
-     "Jamoalar 2-missiya uchun to'liq dasturni yozadilar."
+     "Jamoalar 2.1 va 2.2 topshiriqlarini bitta dasturda yozadilar.",
+     "Ulgurgan jamoalar 2.3 uchun bloklarni boshlaydilar."
     ]
    },
    {
     "title": "6.2. Qisman sinov (3 daqiqa)",
     "points": [
-     "Dasturning tayyor qismlari qisman sinaladi."
+     "Yozilgan qism maydonchada sinab ko'riladi."
     ]
    }
   ],
   "uyga": [
    "2-missiya dasturingizning eng qiyin qismi qaysi ekanini va nega ekanini yozing."
   ],
+  "topshiriq": {
+   "missiya": 2,
+   "missiyaNomi": "Chiziq bo'ylab yetkazish",
+   "kod": "2.D",
+   "sarlavha": "Birinchi yarmini dasturlash",
+   "talablar": [
+    "2.1 topshirig'ini to'liq dasturlang va sinang.",
+    "2.2 topshirig'ini dasturlang va sinang.",
+    "Ikkala qismni BITTA dasturga birlashtiring — robot to'xtamasdan ketma-ket bajarsin.",
+    "2.3 uchun bloklarni boshlang (yakunlash shart emas)."
+   ],
+   "mezon": "Robot bitta dastur bilan 2.1 va 2.2 topshiriqlarini ketma-ket bajarsa — bajarilgan (10 ball qiymatida).",
+   "vaqt": 35,
+   "ballJadvali": [
+    {
+     "kod": "2.1",
+     "matn": "Robot qora chiziqdan to'liq chiqib ketmasdan kamida 50 sm masofani bosib o'tadi.",
+     "ball": 5
+    },
+    {
+     "kod": "2.2",
+     "matn": "Robot chiziq ustidagi yashil belgini sezib, undan 10 sm dan uzoqlashmasdan to'xtaydi.",
+     "ball": 5
+    },
+    {
+     "kod": "2.3",
+     "matn": "Robot yukni oladi va yetkazish zonasi ichiga qo'yadi (yuk zona chizig'i ichida bo'lishi kerak).",
+     "ball": 10
+    },
+    {
+     "kod": "2.4",
+     "matn": "Robot vazifani bajargach, qo'l tekkizmasdan mustaqil bazaga qaytadi.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 2,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
@@ -64534,7 +64927,7 @@ window.LESSON_CONTENT = {
   "softSkill": "Barqarorlikka intilish — bir marta ishlashi bilan cheklanmasdan, bir necha marta takrorlab sinab ishonchni oshirish ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (2-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)"
   ],
   "nazariya": [
@@ -64547,7 +64940,7 @@ window.LESSON_CONTENT = {
    {
     "title": "5.2. Tizimli sinov (5 daqiqa)",
     "points": [
-     "Missiyani bir necha marta ketma-ket sinab, natijalar bir xilligini tekshirish tavsiya etiladi."
+     "Bugungi maqsad — 2.E topshirig'i: 4 ta topshiriqni to'liq bajarish va 3 marta ketma-ket sinab, natija bir xilligini tekshirish."
     ]
    }
   ],
@@ -64555,19 +64948,58 @@ window.LESSON_CONTENT = {
    {
     "title": "6.1. Sinov (20 daqiqa)",
     "points": [
-     "Jamoalar 2-missiyani maydonchada bir necha marta sinaydilar."
+     "Jamoalar 2-missiyani maydonchada 3 marta ketma-ket sinaydilar.",
+     "Har bir urinishda nechta topshiriq bajarilgani va sarflangan vaqt jadvalga yoziladi."
     ]
    },
    {
     "title": "6.2. Tuzatish (15 daqiqa)",
     "points": [
-     "Aniqlangan mexanik yoki dasturiy xatolar tuzatiladi."
+     "Takrorlanadigan xatoning sababi (mexanik yoki dasturiy) aniqlanib, tuzatiladi va qayta sinaladi."
     ]
    }
   ],
   "uyga": [
    "2-missiyada aniqlagan va tuzatgan bitta xatoni tasvirlab yozing."
   ],
+  "topshiriq": {
+   "missiya": 2,
+   "missiyaNomi": "Chiziq bo'ylab yetkazish",
+   "kod": "2.E",
+   "sarlavha": "To'liq missiya — barqarorlik sinovi",
+   "talablar": [
+    "4 ta topshiriqni (2.1-2.4) bitta dasturda to'liq bajaring.",
+    "Missiyani KETMA-KET 3 marta sinang va har safar nechta topshiriq bajarilganini jadvalga yozing.",
+    "Xato takrorlansa — sababini toping (mexanik yoki dasturiy) va tuzating.",
+    "Vaqtni xronometr bilan o'lchang — maqsad 35 soniyadan kam."
+   ],
+   "mezon": "3 urinishdan kamida 2 tasida barcha 4 topshiriq bajarilsa — bajarilgan.",
+   "vaqt": 35,
+   "ballJadvali": [
+    {
+     "kod": "2.1",
+     "matn": "Robot qora chiziqdan to'liq chiqib ketmasdan kamida 50 sm masofani bosib o'tadi.",
+     "ball": 5
+    },
+    {
+     "kod": "2.2",
+     "matn": "Robot chiziq ustidagi yashil belgini sezib, undan 10 sm dan uzoqlashmasdan to'xtaydi.",
+     "ball": 5
+    },
+    {
+     "kod": "2.3",
+     "matn": "Robot yukni oladi va yetkazish zonasi ichiga qo'yadi (yuk zona chizig'i ichida bo'lishi kerak).",
+     "ball": 10
+    },
+    {
+     "kod": "2.4",
+     "matn": "Robot vazifani bajargach, qo'l tekkizmasdan mustaqil bazaga qaytadi.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 2,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
@@ -64594,7 +65026,7 @@ window.LESSON_CONTENT = {
   "softSkill": "Bosim ostida ishlash — baholanayotganini bilgan holda ham tinch va tizimli harakat qilish ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (2-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)",
    "Ball jadvali"
   ],
@@ -64602,13 +65034,14 @@ window.LESSON_CONTENT = {
    {
     "title": "5.1. Kirish (5 daqiqa)",
     "points": [
-     "2-missiyaning rasmiy baholash qoidalari eslatiladi (25 ball, muvaffaqiyatli bajarilsa to'liq beriladi)."
+     "2-missiyaning rasmiy baholash qoidalari eslatiladi: 4 ta topshiriq, jami 25 ball, vaqt 35 soniya.",
+     "Har bir jamoaga 2 ta urinish berilishi va yaxshirog'i hisobga olinishi aytiladi."
     ]
    },
    {
     "title": "5.2. Yakuniy tayyorgarlik (5 daqiqa)",
     "points": [
-     "Robot va attachment yakuniy marta tekshiriladi."
+     "Robot va attachment yakuniy marta tekshiriladi, batareya quvvati nazorat qilinadi."
     ]
    }
   ],
@@ -64616,20 +65049,59 @@ window.LESSON_CONTENT = {
    {
     "title": "6.1. Yakuniy urinish (15 daqiqa)",
     "points": [
-     "Har bir jamoa 2-missiyani rasmiy qoidalar asosida bajaradi."
+     "Har bir jamoa 2-missiyani rasmiy qoidalar asosida bajaradi (2 urinish).",
+     "Har bir topshiriq alohida belgilanadi — qisman bajarilgan topshiriq uchun ball berilmaydi."
     ]
    },
    {
     "title": "6.2. Ball qo'yish va muhokama (20 daqiqa)",
     "points": [
-     "O'qituvchi natijani ball jadvaliga yozadi.",
-     "Natija jamoa bilan muhokama qilinadi."
+     "O'qituvchi natijani topshiriqlar jadvali bo'yicha ballga aylantiradi.",
+     "Qaysi topshiriq bajarilmagani va nima uchun — jamoa bilan muhokama qilinadi."
     ]
    }
   ],
   "uyga": [
    "2-missiyadagi natijangizdan nimani o'rganganingizni yozing."
   ],
+  "topshiriq": {
+   "missiya": 2,
+   "missiyaNomi": "Chiziq bo'ylab yetkazish",
+   "kod": "2.F",
+   "sarlavha": "Rasmiy urinish — ballga qo'yiladi",
+   "talablar": [
+    "Robot bazada, dastur tayyor holatda boshlanadi.",
+    "Vaqt: 35 soniya. Vaqt tugagach urinish to'xtatiladi.",
+    "Urinish davomida robotga qo'l tekkizilmaydi. Tekkizilsa — o'sha topshiriq balli berilmaydi.",
+    "Har bir jamoaga 2 ta urinish beriladi, YAXSHIROQ natija hisobga olinadi."
+   ],
+   "mezon": "Ball topshiriqlar jadvali bo'yicha qo'yiladi (jami 25 ball).",
+   "vaqt": 35,
+   "ballJadvali": [
+    {
+     "kod": "2.1",
+     "matn": "Robot qora chiziqdan to'liq chiqib ketmasdan kamida 50 sm masofani bosib o'tadi.",
+     "ball": 5
+    },
+    {
+     "kod": "2.2",
+     "matn": "Robot chiziq ustidagi yashil belgini sezib, undan 10 sm dan uzoqlashmasdan to'xtaydi.",
+     "ball": 5
+    },
+    {
+     "kod": "2.3",
+     "matn": "Robot yukni oladi va yetkazish zonasi ichiga qo'yadi (yuk zona chizig'i ichida bo'lishi kerak).",
+     "ball": 10
+    },
+    {
+     "kod": "2.4",
+     "matn": "Robot vazifani bajargach, qo'l tekkizmasdan mustaqil bazaga qaytadi.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 2,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
@@ -65073,8 +65545,8 @@ window.LESSON_CONTENT = {
  },
  "2-yil|4-sinf|4-chorak|0": {
   "maqsad": [
-   "O'quvchilar 3-missiya vazifasini diqqat bilan tahlil qiladilar.",
-   "O'quvchilar 3-missiyani bajarish uchun dastlabki rejani tuzadilar.",
+   "O'quvchilar 3-missiya (\"To'siqli yo'l va richag\") vazifasini diqqat bilan tahlil qiladilar.",
+   "O'quvchilar missiyani 4 ta kichik topshiriqqa (3.1–3.4) bo'lib, har biriga ball va kerakli jihozni belgilaydilar.",
    "O'quvchilar jamoa bo'lib ishlash va vazifa taqsimotini o'rganadilar."
   ],
   "lugat": [
@@ -65087,28 +65559,30 @@ window.LESSON_CONTENT = {
   "softSkill": "Tahliliy o'qish va rejalashtirish — vazifa shartlarini diqqat bilan o'qib, uni bosqichlarga bo'lib rejalashtirish ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (3-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)",
-   "Qog'oz va qalam (reja uchun)"
+   "Qog'oz va qalam (reja uchun)",
+   "Maydoncha chizmasi (chop etilgan yoki ekranda)"
   ],
   "nazariya": [
    {
     "title": "5.1. Kirish (5 daqiqa)",
     "points": [
-     "3-missiya vazifasi sinfga o'qib eshittiriladi va tushuntiriladi."
+     "3-missiya \"To'siqli yo'l va richag\" vazifasi sinfga o'qib eshittiriladi: Robot bazadan chiqib, yo'lidagi ikkita to'siqni masofa sensori bilan sezadi va gyroskop yordamida aniq 90° burilishlar qilib ularni aylanib o'tadi. Yo'l oxirida maydonchadagi richagni surib qo'yadi."
     ]
    },
    {
     "title": "5.2. Vazifani tahlil qilish (7 daqiqa)",
     "points": [
-     "Vazifaning asosiy talablari (nima qilish kerak, qayerda, qancha ball) ajratib olinadi.",
-     "Vazifani bajarish uchun qanday attachment kerak bo'lishi muhokama qilinadi."
+     "Maydonchadagi elementlar va ularning joylashuvi chizma orqali ko'rsatiladi (5 ta element).",
+     "4 ta kichik topshiriq va ularning balli tahlil qilinadi (jami 25 ball).",
+     "Bu missiya uchun taxminan qanday attachment kerakligi muhokama qilinadi (Ultrasonic sensor mount + Plow (belkurak) yoki Bumper)."
     ]
    },
    {
     "title": "5.3. Yakunlash (3 daqiqa)",
     "points": [
-     "Jamoalar ichida dastlabki vazifa taqsimoti qilinadi."
+     "Vaqt cheklovi (40 soniya) eslatiladi va jamoalar ichida dastlabki vazifa taqsimoti qilinadi."
     ]
    }
   ],
@@ -65116,20 +65590,58 @@ window.LESSON_CONTENT = {
    {
     "title": "6.1. Reja tuzish (20 daqiqa)",
     "points": [
-     "Jamoalar 3-missiyani bajarish rejasini qog'ozga yozadilar.",
-     "Kerakli attachment va dastur mantig'i haqida dastlabki g'oyalar belgilanadi."
+     "Jamoalar 3.A topshirig'ini bajaradilar: 4 ta kichik topshiriqni ball va kerakli jihozi bilan daftarga yozadilar.",
+     "Topshiriqlarni bajarish tartibi raqamlanadi."
     ]
    },
    {
     "title": "6.2. Muhokama (10 daqiqa)",
     "points": [
-     "Har bir jamoa rejasini qisqacha o'qituvchiga tushuntiradi."
+     "Har bir jamoa rejasini qisqacha o'qituvchiga tushuntiradi va tartibini asoslaydi."
     ]
    }
   ],
   "uyga": [
    "3-missiya uchun rejangizni to'ldirib, keyingi darsga tayyor holda olib keling."
   ],
+  "topshiriq": {
+   "missiya": 3,
+   "missiyaNomi": "To'siqli yo'l va richag",
+   "kod": "3.A",
+   "sarlavha": "Vazifani bo'laklash (qog'ozda)",
+   "talablar": [
+    "3-missiyaning 4 ta kichik topshirig'ini (3.1, 3.2, 3.3, 3.4) daftarga ko'chirib yozing.",
+    "Har bir topshiriq yoniga u necha ball berishini yozing.",
+    "Har bir topshiriq uchun qaysi attachment va qaysi sensor kerakligini yozing.",
+    "Topshiriqlarni bajarish TARTIBINI raqamlab chiqing."
+   ],
+   "mezon": "Jamoa 4 ta topshiriqni ham to'g'ri yozgan va har biriga kerakli attachment/sensorni ko'rsatgan bo'lsa — bajarilgan.",
+   "vaqt": 40,
+   "ballJadvali": [
+    {
+     "kod": "3.1",
+     "matn": "Robot 1-to'siqqa urilmasdan, undan 15 sm yoki yaqinroq masofada masofa sensori bilan sezib to'xtaydi.",
+     "ball": 5
+    },
+    {
+     "kod": "3.2",
+     "matn": "Robot gyroskop yordamida aniq 90° burilishlar qilib, 1-to'siqni YUQORIDAN aylanib o'tadi (to'siqqa tegmaydi).",
+     "ball": 7
+    },
+    {
+     "kod": "3.3",
+     "matn": "Robot 2-to'siqni PASTDAN aylanib o'tib, richag zonasiga (x = 170-180 sm oralig'iga) yetib boradi.",
+     "ball": 8
+    },
+    {
+     "kod": "3.4",
+     "matn": "Robot richagni to'liq suradi — belgi qizildan yashilga o'tishi kerak.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 3,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
@@ -65142,9 +65654,9 @@ window.LESSON_CONTENT = {
  },
  "2-yil|4-sinf|4-chorak|1": {
   "maqsad": [
-   "O'quvchilar 3-missiyani bajarish uchun kerakli attachment dizaynini ishlab chiqadilar.",
+   "O'quvchilar 3-missiya (\"To'siqli yo'l va richag\") uchun kerakli attachment dizaynini ishlab chiqadilar.",
    "O'quvchilar dizaynni tanlashda muhandislik mulohazalarini (mustahkamlik, vazifaga moslik) hisobga oladilar.",
-   "O'quvchilar dizaynni eskiz shaklida chizadilar."
+   "O'quvchilar kamida 2 xil variantni eskiz qilib, birini asoslangan holda tanlaydilar (3.B topshirig'i)."
   ],
   "lugat": [
    "Missiya (Mission) – bajarilishi kerak bo'lgan aniq vazifa",
@@ -65156,7 +65668,7 @@ window.LESSON_CONTENT = {
   "softSkill": "Muhandislik dizayni fikrlashi — bir nechta dizayn variantini solishtirib, eng mosini tanlash ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (3-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)",
    "Qog'oz va qalam (eskiz uchun)"
   ],
@@ -65164,20 +65676,20 @@ window.LESSON_CONTENT = {
    {
     "title": "5.1. Kirish (5 daqiqa)",
     "points": [
-     "3-missiya rejasi qisqacha eslanadi."
+     "3-missiya rejasi va 3.2 topshirig'i qisqacha eslanadi."
     ]
    },
    {
     "title": "5.2. Dizayn variantlari (7 daqiqa)",
     "points": [
-     "Vazifani bajarish uchun mumkin bo'lgan bir nechta attachment dizayni muhokama qilinadi (masalan, gripper vs scoop).",
-     "Har bir variantning afzallik va kamchiliklari solishtiriladi."
+     "Bu missiya uchun mos keladigan qurilma turlari muhokama qilinadi: Ultrasonic sensor mount + Plow (belkurak) yoki Bumper.",
+     "Har bir variantning afzallik va kamchiliklari solishtiriladi (mustahkamlik, tezlik, aniqlik)."
     ]
    },
    {
     "title": "5.3. Yakunlash (3 daqiqa)",
     "points": [
-     "Jamoa eng mos dizaynni tanlaydi."
+     "Jamoa eng mos dizaynni tanlab, tanlovini bir gapda asoslaydi."
     ]
    }
   ],
@@ -65185,19 +65697,57 @@ window.LESSON_CONTENT = {
    {
     "title": "6.1. Eskiz chizish (15 daqiqa)",
     "points": [
-     "Jamoalar tanlagan attachment dizaynining eskizini chizadilar."
+     "Jamoalar 3.B topshirig'ini bajaradilar: 2 xil attachment eskizini chizib, har biriga afzallik va kamchilik yozadilar."
     ]
    },
    {
-    "title": "6.2. Muhokama (15 daqiqa)",
+    "title": "6.2. Tanlov va muhokama (15 daqiqa)",
     "points": [
-     "Eskizlar jamoa ichida va o'qituvchi bilan muhokama qilinadi."
+     "Jamoa bittasini tanlaydi va tanlovini o'qituvchiga asoslab beradi."
     ]
    }
   ],
   "uyga": [
-   "3-missiya attachmenti uchun dizaynni yakunlab, keyingi darsga tayyor holda olib keling."
+   "3-missiya attachmenti uchun tanlangan eskizni toza qog'ozga ko'chirib, keyingi darsga olib keling."
   ],
+  "topshiriq": {
+   "missiya": 3,
+   "missiyaNomi": "To'siqli yo'l va richag",
+   "kod": "3.B",
+   "sarlavha": "Ikki xil dizayn eskizi va tanlov",
+   "talablar": [
+    "\"Ultrasonic sensor mount + Plow (belkurak) yoki Bumper\" vazifasini bajaradigan KAMIDA 2 xil attachment eskizini chizing.",
+    "Har bir eskiz yonida uning 1 ta afzalligi va 1 ta kamchiligini yozing.",
+    "Ikkitasidan bittasini tanlang va nega tanlaganingizni 1 gapda asoslang.",
+    "Tanlagan dizayn 3.2 topshirig'ini bajara olishini eskizda ko'rsating."
+   ],
+   "mezon": "2 ta eskiz chizilgan, afzallik/kamchilik yozilgan va tanlov asoslangan bo'lsa — bajarilgan.",
+   "vaqt": 40,
+   "ballJadvali": [
+    {
+     "kod": "3.1",
+     "matn": "Robot 1-to'siqqa urilmasdan, undan 15 sm yoki yaqinroq masofada masofa sensori bilan sezib to'xtaydi.",
+     "ball": 5
+    },
+    {
+     "kod": "3.2",
+     "matn": "Robot gyroskop yordamida aniq 90° burilishlar qilib, 1-to'siqni YUQORIDAN aylanib o'tadi (to'siqqa tegmaydi).",
+     "ball": 7
+    },
+    {
+     "kod": "3.3",
+     "matn": "Robot 2-to'siqni PASTDAN aylanib o'tib, richag zonasiga (x = 170-180 sm oralig'iga) yetib boradi.",
+     "ball": 8
+    },
+    {
+     "kod": "3.4",
+     "matn": "Robot richagni to'liq suradi — belgi qizildan yashilga o'tishi kerak.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 3,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
@@ -65224,7 +65774,7 @@ window.LESSON_CONTENT = {
   "softSkill": "Amaliy ijro — eskizdan haqiqiy qurilmaga o'tish jarayonida aniqlik va sabr-toqatni saqlash ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (3-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)"
   ],
   "nazariya": [
@@ -65237,7 +65787,8 @@ window.LESSON_CONTENT = {
    {
     "title": "5.2. Yig'ish rejasi (5 daqiqa)",
     "points": [
-     "Attachmentni qanday tartibda yig'ish qulayligi qisqacha muhokama qilinadi."
+     "Attachmentni qanday tartibda yig'ish qulayligi qisqacha muhokama qilinadi.",
+     "Bugungi maqsad — 3.C topshirig'i: attachment DASTURSIZ, qo'lda ishlashi kerak."
     ]
    }
   ],
@@ -65250,15 +65801,53 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "6.2. Dastlabki sinov (5 daqiqa)",
+    "title": "6.2. Mexanik sinov (5 daqiqa)",
     "points": [
-     "Attachment qo'lda harakatlantirilib, mexanik ishlashi tekshiriladi."
+     "Robot qo'lda surib maydonchadan o'tkaziladi va 3.2 topshirig'i qo'lda bajarib ko'riladi."
     ]
    }
   ],
   "uyga": [
    "Yig'ilgan 3-missiya attachmentingizning rasmini oling yoki chizing."
   ],
+  "topshiriq": {
+   "missiya": 3,
+   "missiyaNomi": "To'siqli yo'l va richag",
+   "kod": "3.C",
+   "sarlavha": "Mexanik sinov — dastursiz",
+   "talablar": [
+    "Tanlangan attachmentni yig'ing va Driving Base'ga mahkam ulang.",
+    "Attachmentni QO'LDA harakatlantirib, 3.2 topshirig'ini bajarib ko'ring (hali dastur yozilmaydi).",
+    "Robotni qo'lda surib, maydonchadagi yo'l bo'ylab o'tkazing — attachment hech narsaga ilashmasligi kerak.",
+    "Ilashib qolsa yoki bo'shab ketsa — konstruksiyani tuzating va qayta sinang."
+   ],
+   "mezon": "Attachment mahkam turadi va 3.2 topshirig'i qo'lda bajarilsa — bajarilgan.",
+   "vaqt": 40,
+   "ballJadvali": [
+    {
+     "kod": "3.1",
+     "matn": "Robot 1-to'siqqa urilmasdan, undan 15 sm yoki yaqinroq masofada masofa sensori bilan sezib to'xtaydi.",
+     "ball": 5
+    },
+    {
+     "kod": "3.2",
+     "matn": "Robot gyroskop yordamida aniq 90° burilishlar qilib, 1-to'siqni YUQORIDAN aylanib o'tadi (to'siqqa tegmaydi).",
+     "ball": 7
+    },
+    {
+     "kod": "3.3",
+     "matn": "Robot 2-to'siqni PASTDAN aylanib o'tib, richag zonasiga (x = 170-180 sm oralig'iga) yetib boradi.",
+     "ball": 8
+    },
+    {
+     "kod": "3.4",
+     "matn": "Robot richagni to'liq suradi — belgi qizildan yashilga o'tishi kerak.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 3,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
@@ -65285,7 +65874,7 @@ window.LESSON_CONTENT = {
   "softSkill": "Kod orqali g'oyani amalga oshirish — rejalashtirilgan harakatlarni aniq dastur bloklariga aylantirish ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (3-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)"
   ],
   "nazariya": [
@@ -65298,13 +65887,14 @@ window.LESSON_CONTENT = {
    {
     "title": "5.2. Dastur tuzilishi (10 daqiqa)",
     "points": [
-     "Driving Base harakati (masofa/burilish) va attachment harakati (motor) qanday birlashtirilishi ko'rsatiladi."
+     "Driving Base harakati (masofa/burilish) va attachment harakati (motor) qanday birlashtirilishi ko'rsatiladi.",
+     "Bu missiyada ishlatiladigan sensorlar: Ultratovush (masofa) sensori + Hub ichidagi gyroskop."
     ]
    },
    {
     "title": "5.3. Yakunlash (3 daqiqa)",
     "points": [
-     "Dasturni bosqichma-bosqich sinash tavsiya etiladi."
+     "Bugungi maqsad — 3.D topshirig'i: birinchi IKKI topshiriqni bitta dasturda bajarish."
     ]
    }
   ],
@@ -65312,19 +65902,58 @@ window.LESSON_CONTENT = {
    {
     "title": "6.1. Dastur yozish (22 daqiqa)",
     "points": [
-     "Jamoalar 3-missiya uchun to'liq dasturni yozadilar."
+     "Jamoalar 3.1 va 3.2 topshiriqlarini bitta dasturda yozadilar.",
+     "Ulgurgan jamoalar 3.3 uchun bloklarni boshlaydilar."
     ]
    },
    {
     "title": "6.2. Qisman sinov (3 daqiqa)",
     "points": [
-     "Dasturning tayyor qismlari qisman sinaladi."
+     "Yozilgan qism maydonchada sinab ko'riladi."
     ]
    }
   ],
   "uyga": [
    "3-missiya dasturingizning eng qiyin qismi qaysi ekanini va nega ekanini yozing."
   ],
+  "topshiriq": {
+   "missiya": 3,
+   "missiyaNomi": "To'siqli yo'l va richag",
+   "kod": "3.D",
+   "sarlavha": "Birinchi yarmini dasturlash",
+   "talablar": [
+    "3.1 topshirig'ini to'liq dasturlang va sinang.",
+    "3.2 topshirig'ini dasturlang va sinang.",
+    "Ikkala qismni BITTA dasturga birlashtiring — robot to'xtamasdan ketma-ket bajarsin.",
+    "3.3 uchun bloklarni boshlang (yakunlash shart emas)."
+   ],
+   "mezon": "Robot bitta dastur bilan 3.1 va 3.2 topshiriqlarini ketma-ket bajarsa — bajarilgan (10 ball qiymatida).",
+   "vaqt": 40,
+   "ballJadvali": [
+    {
+     "kod": "3.1",
+     "matn": "Robot 1-to'siqqa urilmasdan, undan 15 sm yoki yaqinroq masofada masofa sensori bilan sezib to'xtaydi.",
+     "ball": 5
+    },
+    {
+     "kod": "3.2",
+     "matn": "Robot gyroskop yordamida aniq 90° burilishlar qilib, 1-to'siqni YUQORIDAN aylanib o'tadi (to'siqqa tegmaydi).",
+     "ball": 7
+    },
+    {
+     "kod": "3.3",
+     "matn": "Robot 2-to'siqni PASTDAN aylanib o'tib, richag zonasiga (x = 170-180 sm oralig'iga) yetib boradi.",
+     "ball": 8
+    },
+    {
+     "kod": "3.4",
+     "matn": "Robot richagni to'liq suradi — belgi qizildan yashilga o'tishi kerak.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 3,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
@@ -65351,7 +65980,7 @@ window.LESSON_CONTENT = {
   "softSkill": "Barqarorlikka intilish — bir marta ishlashi bilan cheklanmasdan, bir necha marta takrorlab sinab ishonchni oshirish ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (3-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)"
   ],
   "nazariya": [
@@ -65364,7 +65993,7 @@ window.LESSON_CONTENT = {
    {
     "title": "5.2. Tizimli sinov (5 daqiqa)",
     "points": [
-     "Missiyani bir necha marta ketma-ket sinab, natijalar bir xilligini tekshirish tavsiya etiladi."
+     "Bugungi maqsad — 3.E topshirig'i: 4 ta topshiriqni to'liq bajarish va 3 marta ketma-ket sinab, natija bir xilligini tekshirish."
     ]
    }
   ],
@@ -65372,19 +66001,58 @@ window.LESSON_CONTENT = {
    {
     "title": "6.1. Sinov (20 daqiqa)",
     "points": [
-     "Jamoalar 3-missiyani maydonchada bir necha marta sinaydilar."
+     "Jamoalar 3-missiyani maydonchada 3 marta ketma-ket sinaydilar.",
+     "Har bir urinishda nechta topshiriq bajarilgani va sarflangan vaqt jadvalga yoziladi."
     ]
    },
    {
     "title": "6.2. Tuzatish (15 daqiqa)",
     "points": [
-     "Aniqlangan mexanik yoki dasturiy xatolar tuzatiladi."
+     "Takrorlanadigan xatoning sababi (mexanik yoki dasturiy) aniqlanib, tuzatiladi va qayta sinaladi."
     ]
    }
   ],
   "uyga": [
    "3-missiyada aniqlagan va tuzatgan bitta xatoni tasvirlab yozing."
   ],
+  "topshiriq": {
+   "missiya": 3,
+   "missiyaNomi": "To'siqli yo'l va richag",
+   "kod": "3.E",
+   "sarlavha": "To'liq missiya — barqarorlik sinovi",
+   "talablar": [
+    "4 ta topshiriqni (3.1-3.4) bitta dasturda to'liq bajaring.",
+    "Missiyani KETMA-KET 3 marta sinang va har safar nechta topshiriq bajarilganini jadvalga yozing.",
+    "Xato takrorlansa — sababini toping (mexanik yoki dasturiy) va tuzating.",
+    "Vaqtni xronometr bilan o'lchang — maqsad 40 soniyadan kam."
+   ],
+   "mezon": "3 urinishdan kamida 2 tasida barcha 4 topshiriq bajarilsa — bajarilgan.",
+   "vaqt": 40,
+   "ballJadvali": [
+    {
+     "kod": "3.1",
+     "matn": "Robot 1-to'siqqa urilmasdan, undan 15 sm yoki yaqinroq masofada masofa sensori bilan sezib to'xtaydi.",
+     "ball": 5
+    },
+    {
+     "kod": "3.2",
+     "matn": "Robot gyroskop yordamida aniq 90° burilishlar qilib, 1-to'siqni YUQORIDAN aylanib o'tadi (to'siqqa tegmaydi).",
+     "ball": 7
+    },
+    {
+     "kod": "3.3",
+     "matn": "Robot 2-to'siqni PASTDAN aylanib o'tib, richag zonasiga (x = 170-180 sm oralig'iga) yetib boradi.",
+     "ball": 8
+    },
+    {
+     "kod": "3.4",
+     "matn": "Robot richagni to'liq suradi — belgi qizildan yashilga o'tishi kerak.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 3,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
@@ -65411,7 +66079,7 @@ window.LESSON_CONTENT = {
   "softSkill": "Bosim ostida ishlash — baholanayotganini bilgan holda ham tinch va tizimli harakat qilish ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (3-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)",
    "Ball jadvali"
   ],
@@ -65419,13 +66087,14 @@ window.LESSON_CONTENT = {
    {
     "title": "5.1. Kirish (5 daqiqa)",
     "points": [
-     "3-missiyaning rasmiy baholash qoidalari eslatiladi (25 ball, muvaffaqiyatli bajarilsa to'liq beriladi)."
+     "3-missiyaning rasmiy baholash qoidalari eslatiladi: 4 ta topshiriq, jami 25 ball, vaqt 40 soniya.",
+     "Har bir jamoaga 2 ta urinish berilishi va yaxshirog'i hisobga olinishi aytiladi."
     ]
    },
    {
     "title": "5.2. Yakuniy tayyorgarlik (5 daqiqa)",
     "points": [
-     "Robot va attachment yakuniy marta tekshiriladi."
+     "Robot va attachment yakuniy marta tekshiriladi, batareya quvvati nazorat qilinadi."
     ]
    }
   ],
@@ -65433,20 +66102,59 @@ window.LESSON_CONTENT = {
    {
     "title": "6.1. Yakuniy urinish (15 daqiqa)",
     "points": [
-     "Har bir jamoa 3-missiyani rasmiy qoidalar asosida bajaradi."
+     "Har bir jamoa 3-missiyani rasmiy qoidalar asosida bajaradi (2 urinish).",
+     "Har bir topshiriq alohida belgilanadi — qisman bajarilgan topshiriq uchun ball berilmaydi."
     ]
    },
    {
     "title": "6.2. Ball qo'yish va muhokama (20 daqiqa)",
     "points": [
-     "O'qituvchi natijani ball jadvaliga yozadi.",
-     "Natija jamoa bilan muhokama qilinadi."
+     "O'qituvchi natijani topshiriqlar jadvali bo'yicha ballga aylantiradi.",
+     "Qaysi topshiriq bajarilmagani va nima uchun — jamoa bilan muhokama qilinadi."
     ]
    }
   ],
   "uyga": [
    "3-missiyadagi natijangizdan nimani o'rganganingizni yozing."
   ],
+  "topshiriq": {
+   "missiya": 3,
+   "missiyaNomi": "To'siqli yo'l va richag",
+   "kod": "3.F",
+   "sarlavha": "Rasmiy urinish — ballga qo'yiladi",
+   "talablar": [
+    "Robot bazada, dastur tayyor holatda boshlanadi.",
+    "Vaqt: 40 soniya. Vaqt tugagach urinish to'xtatiladi.",
+    "Urinish davomida robotga qo'l tekkizilmaydi. Tekkizilsa — o'sha topshiriq balli berilmaydi.",
+    "Har bir jamoaga 2 ta urinish beriladi, YAXSHIROQ natija hisobga olinadi."
+   ],
+   "mezon": "Ball topshiriqlar jadvali bo'yicha qo'yiladi (jami 25 ball).",
+   "vaqt": 40,
+   "ballJadvali": [
+    {
+     "kod": "3.1",
+     "matn": "Robot 1-to'siqqa urilmasdan, undan 15 sm yoki yaqinroq masofada masofa sensori bilan sezib to'xtaydi.",
+     "ball": 5
+    },
+    {
+     "kod": "3.2",
+     "matn": "Robot gyroskop yordamida aniq 90° burilishlar qilib, 1-to'siqni YUQORIDAN aylanib o'tadi (to'siqqa tegmaydi).",
+     "ball": 7
+    },
+    {
+     "kod": "3.3",
+     "matn": "Robot 2-to'siqni PASTDAN aylanib o'tib, richag zonasiga (x = 170-180 sm oralig'iga) yetib boradi.",
+     "ball": 8
+    },
+    {
+     "kod": "3.4",
+     "matn": "Robot richagni to'liq suradi — belgi qizildan yashilga o'tishi kerak.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 3,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
@@ -65459,8 +66167,8 @@ window.LESSON_CONTENT = {
  },
  "2-yil|4-sinf|4-chorak|6": {
   "maqsad": [
-   "O'quvchilar 4-missiya vazifasini diqqat bilan tahlil qiladilar.",
-   "O'quvchilar 4-missiyani bajarish uchun dastlabki rejani tuzadilar.",
+   "O'quvchilar 4-missiya (\"Aqlli saralash va ko'tarish\") vazifasini diqqat bilan tahlil qiladilar.",
+   "O'quvchilar missiyani 4 ta kichik topshiriqqa (4.1–4.4) bo'lib, har biriga ball va kerakli jihozni belgilaydilar.",
    "O'quvchilar jamoa bo'lib ishlash va vazifa taqsimotini o'rganadilar."
   ],
   "lugat": [
@@ -65473,28 +66181,30 @@ window.LESSON_CONTENT = {
   "softSkill": "Tahliliy o'qish va rejalashtirish — vazifa shartlarini diqqat bilan o'qib, uni bosqichlarga bo'lib rejalashtirish ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (4-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)",
-   "Qog'oz va qalam (reja uchun)"
+   "Qog'oz va qalam (reja uchun)",
+   "Maydoncha chizmasi (chop etilgan yoki ekranda)"
   ],
   "nazariya": [
    {
     "title": "5.1. Kirish (5 daqiqa)",
     "points": [
-     "4-missiya vazifasi sinfga o'qib eshittiriladi va tushuntiriladi."
+     "4-missiya \"Aqlli saralash va ko'tarish\" vazifasi sinfga o'qib eshittiriladi: Robot bazadan chiqib, signal kartochkasining rangini o'qiydi. QIZIL bo'lsa — chapdagi A yukiga, KO'K bo'lsa — o'ngdagi B yukiga boradi (kartochkani o'qituvchi har urinishdan oldin tasodifiy almashtiradi). Kerakli yukni fork-lift bilan ko'taradi, 10 sm balandlikdagi platformaga qo'yadi va bazaga qaytadi."
     ]
    },
    {
     "title": "5.2. Vazifani tahlil qilish (7 daqiqa)",
     "points": [
-     "Vazifaning asosiy talablari (nima qilish kerak, qayerda, qancha ball) ajratib olinadi.",
-     "Vazifani bajarish uchun qanday attachment kerak bo'lishi muhokama qilinadi."
+     "Maydonchadagi elementlar va ularning joylashuvi chizma orqali ko'rsatiladi (4 ta element).",
+     "4 ta kichik topshiriq va ularning balli tahlil qilinadi (jami 25 ball).",
+     "Bu missiya uchun taxminan qanday attachment kerakligi muhokama qilinadi (Fork-lift attachment + Color sensor mount)."
     ]
    },
    {
     "title": "5.3. Yakunlash (3 daqiqa)",
     "points": [
-     "Jamoalar ichida dastlabki vazifa taqsimoti qilinadi."
+     "Vaqt cheklovi (40 soniya) eslatiladi va jamoalar ichida dastlabki vazifa taqsimoti qilinadi."
     ]
    }
   ],
@@ -65502,20 +66212,58 @@ window.LESSON_CONTENT = {
    {
     "title": "6.1. Reja tuzish (20 daqiqa)",
     "points": [
-     "Jamoalar 4-missiyani bajarish rejasini qog'ozga yozadilar.",
-     "Kerakli attachment va dastur mantig'i haqida dastlabki g'oyalar belgilanadi."
+     "Jamoalar 4.A topshirig'ini bajaradilar: 4 ta kichik topshiriqni ball va kerakli jihozi bilan daftarga yozadilar.",
+     "Topshiriqlarni bajarish tartibi raqamlanadi."
     ]
    },
    {
     "title": "6.2. Muhokama (10 daqiqa)",
     "points": [
-     "Har bir jamoa rejasini qisqacha o'qituvchiga tushuntiradi."
+     "Har bir jamoa rejasini qisqacha o'qituvchiga tushuntiradi va tartibini asoslaydi."
     ]
    }
   ],
   "uyga": [
    "4-missiya uchun rejangizni to'ldirib, keyingi darsga tayyor holda olib keling."
   ],
+  "topshiriq": {
+   "missiya": 4,
+   "missiyaNomi": "Aqlli saralash va ko'tarish",
+   "kod": "4.A",
+   "sarlavha": "Vazifani bo'laklash (qog'ozda)",
+   "talablar": [
+    "4-missiyaning 4 ta kichik topshirig'ini (4.1, 4.2, 4.3, 4.4) daftarga ko'chirib yozing.",
+    "Har bir topshiriq yoniga u necha ball berishini yozing.",
+    "Har bir topshiriq uchun qaysi attachment va qaysi sensor kerakligini yozing.",
+    "Topshiriqlarni bajarish TARTIBINI raqamlab chiqing."
+   ],
+   "mezon": "Jamoa 4 ta topshiriqni ham to'g'ri yozgan va har biriga kerakli attachment/sensorni ko'rsatgan bo'lsa — bajarilgan.",
+   "vaqt": 40,
+   "ballJadvali": [
+    {
+     "kod": "4.1",
+     "matn": "Robot signal kartochkasi rangini to'g'ri o'qiydi va to'g'ri yo'nalishni (A yoki B) tanlaydi.",
+     "ball": 6
+    },
+    {
+     "kod": "4.2",
+     "matn": "Robot to'g'ri yukni topib, fork-lift bilan uni yerdan to'liq ko'taradi.",
+     "ball": 6
+    },
+    {
+     "kod": "4.3",
+     "matn": "Robot yukni 10 sm balandlikdagi platforma ustiga qo'yadi va yuk platformadan tushib ketmaydi.",
+     "ball": 8
+    },
+    {
+     "kod": "4.4",
+     "matn": "Robot bazaga qaytadi va butun urinish davomida hech kim robotga qo'l tekkizmaydi.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 4,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
@@ -65528,9 +66276,9 @@ window.LESSON_CONTENT = {
  },
  "2-yil|4-sinf|4-chorak|7": {
   "maqsad": [
-   "O'quvchilar 4-missiyani bajarish uchun kerakli attachment dizaynini ishlab chiqadilar.",
+   "O'quvchilar 4-missiya (\"Aqlli saralash va ko'tarish\") uchun kerakli attachment dizaynini ishlab chiqadilar.",
    "O'quvchilar dizaynni tanlashda muhandislik mulohazalarini (mustahkamlik, vazifaga moslik) hisobga oladilar.",
-   "O'quvchilar dizaynni eskiz shaklida chizadilar."
+   "O'quvchilar kamida 2 xil variantni eskiz qilib, birini asoslangan holda tanlaydilar (4.B topshirig'i)."
   ],
   "lugat": [
    "Missiya (Mission) – bajarilishi kerak bo'lgan aniq vazifa",
@@ -65542,7 +66290,7 @@ window.LESSON_CONTENT = {
   "softSkill": "Muhandislik dizayni fikrlashi — bir nechta dizayn variantini solishtirib, eng mosini tanlash ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (4-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)",
    "Qog'oz va qalam (eskiz uchun)"
   ],
@@ -65550,20 +66298,20 @@ window.LESSON_CONTENT = {
    {
     "title": "5.1. Kirish (5 daqiqa)",
     "points": [
-     "4-missiya rejasi qisqacha eslanadi."
+     "4-missiya rejasi va 4.2 topshirig'i qisqacha eslanadi."
     ]
    },
    {
     "title": "5.2. Dizayn variantlari (7 daqiqa)",
     "points": [
-     "Vazifani bajarish uchun mumkin bo'lgan bir nechta attachment dizayni muhokama qilinadi (masalan, gripper vs scoop).",
-     "Har bir variantning afzallik va kamchiliklari solishtiriladi."
+     "Bu missiya uchun mos keladigan qurilma turlari muhokama qilinadi: Fork-lift attachment + Color sensor mount.",
+     "Har bir variantning afzallik va kamchiliklari solishtiriladi (mustahkamlik, tezlik, aniqlik)."
     ]
    },
    {
     "title": "5.3. Yakunlash (3 daqiqa)",
     "points": [
-     "Jamoa eng mos dizaynni tanlaydi."
+     "Jamoa eng mos dizaynni tanlab, tanlovini bir gapda asoslaydi."
     ]
    }
   ],
@@ -65571,19 +66319,57 @@ window.LESSON_CONTENT = {
    {
     "title": "6.1. Eskiz chizish (15 daqiqa)",
     "points": [
-     "Jamoalar tanlagan attachment dizaynining eskizini chizadilar."
+     "Jamoalar 4.B topshirig'ini bajaradilar: 2 xil attachment eskizini chizib, har biriga afzallik va kamchilik yozadilar."
     ]
    },
    {
-    "title": "6.2. Muhokama (15 daqiqa)",
+    "title": "6.2. Tanlov va muhokama (15 daqiqa)",
     "points": [
-     "Eskizlar jamoa ichida va o'qituvchi bilan muhokama qilinadi."
+     "Jamoa bittasini tanlaydi va tanlovini o'qituvchiga asoslab beradi."
     ]
    }
   ],
   "uyga": [
-   "4-missiya attachmenti uchun dizaynni yakunlab, keyingi darsga tayyor holda olib keling."
+   "4-missiya attachmenti uchun tanlangan eskizni toza qog'ozga ko'chirib, keyingi darsga olib keling."
   ],
+  "topshiriq": {
+   "missiya": 4,
+   "missiyaNomi": "Aqlli saralash va ko'tarish",
+   "kod": "4.B",
+   "sarlavha": "Ikki xil dizayn eskizi va tanlov",
+   "talablar": [
+    "\"Fork-lift attachment + Color sensor mount\" vazifasini bajaradigan KAMIDA 2 xil attachment eskizini chizing.",
+    "Har bir eskiz yonida uning 1 ta afzalligi va 1 ta kamchiligini yozing.",
+    "Ikkitasidan bittasini tanlang va nega tanlaganingizni 1 gapda asoslang.",
+    "Tanlagan dizayn 4.2 topshirig'ini bajara olishini eskizda ko'rsating."
+   ],
+   "mezon": "2 ta eskiz chizilgan, afzallik/kamchilik yozilgan va tanlov asoslangan bo'lsa — bajarilgan.",
+   "vaqt": 40,
+   "ballJadvali": [
+    {
+     "kod": "4.1",
+     "matn": "Robot signal kartochkasi rangini to'g'ri o'qiydi va to'g'ri yo'nalishni (A yoki B) tanlaydi.",
+     "ball": 6
+    },
+    {
+     "kod": "4.2",
+     "matn": "Robot to'g'ri yukni topib, fork-lift bilan uni yerdan to'liq ko'taradi.",
+     "ball": 6
+    },
+    {
+     "kod": "4.3",
+     "matn": "Robot yukni 10 sm balandlikdagi platforma ustiga qo'yadi va yuk platformadan tushib ketmaydi.",
+     "ball": 8
+    },
+    {
+     "kod": "4.4",
+     "matn": "Robot bazaga qaytadi va butun urinish davomida hech kim robotga qo'l tekkizmaydi.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 4,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
@@ -65610,7 +66396,7 @@ window.LESSON_CONTENT = {
   "softSkill": "Amaliy ijro — eskizdan haqiqiy qurilmaga o'tish jarayonida aniqlik va sabr-toqatni saqlash ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (4-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)"
   ],
   "nazariya": [
@@ -65623,7 +66409,8 @@ window.LESSON_CONTENT = {
    {
     "title": "5.2. Yig'ish rejasi (5 daqiqa)",
     "points": [
-     "Attachmentni qanday tartibda yig'ish qulayligi qisqacha muhokama qilinadi."
+     "Attachmentni qanday tartibda yig'ish qulayligi qisqacha muhokama qilinadi.",
+     "Bugungi maqsad — 4.C topshirig'i: attachment DASTURSIZ, qo'lda ishlashi kerak."
     ]
    }
   ],
@@ -65636,15 +66423,53 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "6.2. Dastlabki sinov (5 daqiqa)",
+    "title": "6.2. Mexanik sinov (5 daqiqa)",
     "points": [
-     "Attachment qo'lda harakatlantirilib, mexanik ishlashi tekshiriladi."
+     "Robot qo'lda surib maydonchadan o'tkaziladi va 4.2 topshirig'i qo'lda bajarib ko'riladi."
     ]
    }
   ],
   "uyga": [
    "Yig'ilgan 4-missiya attachmentingizning rasmini oling yoki chizing."
   ],
+  "topshiriq": {
+   "missiya": 4,
+   "missiyaNomi": "Aqlli saralash va ko'tarish",
+   "kod": "4.C",
+   "sarlavha": "Mexanik sinov — dastursiz",
+   "talablar": [
+    "Tanlangan attachmentni yig'ing va Driving Base'ga mahkam ulang.",
+    "Attachmentni QO'LDA harakatlantirib, 4.2 topshirig'ini bajarib ko'ring (hali dastur yozilmaydi).",
+    "Robotni qo'lda surib, maydonchadagi yo'l bo'ylab o'tkazing — attachment hech narsaga ilashmasligi kerak.",
+    "Ilashib qolsa yoki bo'shab ketsa — konstruksiyani tuzating va qayta sinang."
+   ],
+   "mezon": "Attachment mahkam turadi va 4.2 topshirig'i qo'lda bajarilsa — bajarilgan.",
+   "vaqt": 40,
+   "ballJadvali": [
+    {
+     "kod": "4.1",
+     "matn": "Robot signal kartochkasi rangini to'g'ri o'qiydi va to'g'ri yo'nalishni (A yoki B) tanlaydi.",
+     "ball": 6
+    },
+    {
+     "kod": "4.2",
+     "matn": "Robot to'g'ri yukni topib, fork-lift bilan uni yerdan to'liq ko'taradi.",
+     "ball": 6
+    },
+    {
+     "kod": "4.3",
+     "matn": "Robot yukni 10 sm balandlikdagi platforma ustiga qo'yadi va yuk platformadan tushib ketmaydi.",
+     "ball": 8
+    },
+    {
+     "kod": "4.4",
+     "matn": "Robot bazaga qaytadi va butun urinish davomida hech kim robotga qo'l tekkizmaydi.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 4,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
@@ -65671,7 +66496,7 @@ window.LESSON_CONTENT = {
   "softSkill": "Kod orqali g'oyani amalga oshirish — rejalashtirilgan harakatlarni aniq dastur bloklariga aylantirish ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (4-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)"
   ],
   "nazariya": [
@@ -65684,13 +66509,14 @@ window.LESSON_CONTENT = {
    {
     "title": "5.2. Dastur tuzilishi (10 daqiqa)",
     "points": [
-     "Driving Base harakati (masofa/burilish) va attachment harakati (motor) qanday birlashtirilishi ko'rsatiladi."
+     "Driving Base harakati (masofa/burilish) va attachment harakati (motor) qanday birlashtirilishi ko'rsatiladi.",
+     "Bu missiyada ishlatiladigan sensorlar: Rang sensori (signal kartochkasi uchun) + gyroskop (aniq burilish uchun)."
     ]
    },
    {
     "title": "5.3. Yakunlash (3 daqiqa)",
     "points": [
-     "Dasturni bosqichma-bosqich sinash tavsiya etiladi."
+     "Bugungi maqsad — 4.D topshirig'i: birinchi IKKI topshiriqni bitta dasturda bajarish."
     ]
    }
   ],
@@ -65698,19 +66524,58 @@ window.LESSON_CONTENT = {
    {
     "title": "6.1. Dastur yozish (22 daqiqa)",
     "points": [
-     "Jamoalar 4-missiya uchun to'liq dasturni yozadilar."
+     "Jamoalar 4.1 va 4.2 topshiriqlarini bitta dasturda yozadilar.",
+     "Ulgurgan jamoalar 4.3 uchun bloklarni boshlaydilar."
     ]
    },
    {
     "title": "6.2. Qisman sinov (3 daqiqa)",
     "points": [
-     "Dasturning tayyor qismlari qisman sinaladi."
+     "Yozilgan qism maydonchada sinab ko'riladi."
     ]
    }
   ],
   "uyga": [
    "4-missiya dasturingizning eng qiyin qismi qaysi ekanini va nega ekanini yozing."
   ],
+  "topshiriq": {
+   "missiya": 4,
+   "missiyaNomi": "Aqlli saralash va ko'tarish",
+   "kod": "4.D",
+   "sarlavha": "Birinchi yarmini dasturlash",
+   "talablar": [
+    "4.1 topshirig'ini to'liq dasturlang va sinang.",
+    "4.2 topshirig'ini dasturlang va sinang.",
+    "Ikkala qismni BITTA dasturga birlashtiring — robot to'xtamasdan ketma-ket bajarsin.",
+    "4.3 uchun bloklarni boshlang (yakunlash shart emas)."
+   ],
+   "mezon": "Robot bitta dastur bilan 4.1 va 4.2 topshiriqlarini ketma-ket bajarsa — bajarilgan (10 ball qiymatida).",
+   "vaqt": 40,
+   "ballJadvali": [
+    {
+     "kod": "4.1",
+     "matn": "Robot signal kartochkasi rangini to'g'ri o'qiydi va to'g'ri yo'nalishni (A yoki B) tanlaydi.",
+     "ball": 6
+    },
+    {
+     "kod": "4.2",
+     "matn": "Robot to'g'ri yukni topib, fork-lift bilan uni yerdan to'liq ko'taradi.",
+     "ball": 6
+    },
+    {
+     "kod": "4.3",
+     "matn": "Robot yukni 10 sm balandlikdagi platforma ustiga qo'yadi va yuk platformadan tushib ketmaydi.",
+     "ball": 8
+    },
+    {
+     "kod": "4.4",
+     "matn": "Robot bazaga qaytadi va butun urinish davomida hech kim robotga qo'l tekkizmaydi.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 4,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
@@ -65737,7 +66602,7 @@ window.LESSON_CONTENT = {
   "softSkill": "Barqarorlikka intilish — bir marta ishlashi bilan cheklanmasdan, bir necha marta takrorlab sinab ishonchni oshirish ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (4-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)"
   ],
   "nazariya": [
@@ -65750,7 +66615,7 @@ window.LESSON_CONTENT = {
    {
     "title": "5.2. Tizimli sinov (5 daqiqa)",
     "points": [
-     "Missiyani bir necha marta ketma-ket sinab, natijalar bir xilligini tekshirish tavsiya etiladi."
+     "Bugungi maqsad — 4.E topshirig'i: 4 ta topshiriqni to'liq bajarish va 3 marta ketma-ket sinab, natija bir xilligini tekshirish."
     ]
    }
   ],
@@ -65758,19 +66623,58 @@ window.LESSON_CONTENT = {
    {
     "title": "6.1. Sinov (20 daqiqa)",
     "points": [
-     "Jamoalar 4-missiyani maydonchada bir necha marta sinaydilar."
+     "Jamoalar 4-missiyani maydonchada 3 marta ketma-ket sinaydilar.",
+     "Har bir urinishda nechta topshiriq bajarilgani va sarflangan vaqt jadvalga yoziladi."
     ]
    },
    {
     "title": "6.2. Tuzatish (15 daqiqa)",
     "points": [
-     "Aniqlangan mexanik yoki dasturiy xatolar tuzatiladi."
+     "Takrorlanadigan xatoning sababi (mexanik yoki dasturiy) aniqlanib, tuzatiladi va qayta sinaladi."
     ]
    }
   ],
   "uyga": [
    "4-missiyada aniqlagan va tuzatgan bitta xatoni tasvirlab yozing."
   ],
+  "topshiriq": {
+   "missiya": 4,
+   "missiyaNomi": "Aqlli saralash va ko'tarish",
+   "kod": "4.E",
+   "sarlavha": "To'liq missiya — barqarorlik sinovi",
+   "talablar": [
+    "4 ta topshiriqni (4.1-4.4) bitta dasturda to'liq bajaring.",
+    "Missiyani KETMA-KET 3 marta sinang va har safar nechta topshiriq bajarilganini jadvalga yozing.",
+    "Xato takrorlansa — sababini toping (mexanik yoki dasturiy) va tuzating.",
+    "Vaqtni xronometr bilan o'lchang — maqsad 40 soniyadan kam."
+   ],
+   "mezon": "3 urinishdan kamida 2 tasida barcha 4 topshiriq bajarilsa — bajarilgan.",
+   "vaqt": 40,
+   "ballJadvali": [
+    {
+     "kod": "4.1",
+     "matn": "Robot signal kartochkasi rangini to'g'ri o'qiydi va to'g'ri yo'nalishni (A yoki B) tanlaydi.",
+     "ball": 6
+    },
+    {
+     "kod": "4.2",
+     "matn": "Robot to'g'ri yukni topib, fork-lift bilan uni yerdan to'liq ko'taradi.",
+     "ball": 6
+    },
+    {
+     "kod": "4.3",
+     "matn": "Robot yukni 10 sm balandlikdagi platforma ustiga qo'yadi va yuk platformadan tushib ketmaydi.",
+     "ball": 8
+    },
+    {
+     "kod": "4.4",
+     "matn": "Robot bazaga qaytadi va butun urinish davomida hech kim robotga qo'l tekkizmaydi.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 4,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
@@ -65797,7 +66701,7 @@ window.LESSON_CONTENT = {
   "softSkill": "Bosim ostida ishlash — baholanayotganini bilgan holda ham tinch va tizimli harakat qilish ko'nikmasini rivojlantirish.",
   "resurslar": [
    "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (yoki uning maketi)",
+   "Musobaqa maydonchasi 200x100 sm (4-missiya elementlari o'rnatilgan)",
    "Planshet/noutbuk (SPIKE ilovasi)",
    "Ball jadvali"
   ],
@@ -65805,13 +66709,14 @@ window.LESSON_CONTENT = {
    {
     "title": "5.1. Kirish (5 daqiqa)",
     "points": [
-     "4-missiyaning rasmiy baholash qoidalari eslatiladi (25 ball, muvaffaqiyatli bajarilsa to'liq beriladi)."
+     "4-missiyaning rasmiy baholash qoidalari eslatiladi: 4 ta topshiriq, jami 25 ball, vaqt 40 soniya.",
+     "Har bir jamoaga 2 ta urinish berilishi va yaxshirog'i hisobga olinishi aytiladi."
     ]
    },
    {
     "title": "5.2. Yakuniy tayyorgarlik (5 daqiqa)",
     "points": [
-     "Robot va attachment yakuniy marta tekshiriladi."
+     "Robot va attachment yakuniy marta tekshiriladi, batareya quvvati nazorat qilinadi."
     ]
    }
   ],
@@ -65819,20 +66724,59 @@ window.LESSON_CONTENT = {
    {
     "title": "6.1. Yakuniy urinish (15 daqiqa)",
     "points": [
-     "Har bir jamoa 4-missiyani rasmiy qoidalar asosida bajaradi."
+     "Har bir jamoa 4-missiyani rasmiy qoidalar asosida bajaradi (2 urinish).",
+     "Har bir topshiriq alohida belgilanadi — qisman bajarilgan topshiriq uchun ball berilmaydi."
     ]
    },
    {
     "title": "6.2. Ball qo'yish va muhokama (20 daqiqa)",
     "points": [
-     "O'qituvchi natijani ball jadvaliga yozadi.",
-     "Natija jamoa bilan muhokama qilinadi."
+     "O'qituvchi natijani topshiriqlar jadvali bo'yicha ballga aylantiradi.",
+     "Qaysi topshiriq bajarilmagani va nima uchun — jamoa bilan muhokama qilinadi."
     ]
    }
   ],
   "uyga": [
    "4-missiyadagi natijangizdan nimani o'rganganingizni yozing."
   ],
+  "topshiriq": {
+   "missiya": 4,
+   "missiyaNomi": "Aqlli saralash va ko'tarish",
+   "kod": "4.F",
+   "sarlavha": "Rasmiy urinish — ballga qo'yiladi",
+   "talablar": [
+    "Robot bazada, dastur tayyor holatda boshlanadi.",
+    "Vaqt: 40 soniya. Vaqt tugagach urinish to'xtatiladi.",
+    "Urinish davomida robotga qo'l tekkizilmaydi. Tekkizilsa — o'sha topshiriq balli berilmaydi.",
+    "Har bir jamoaga 2 ta urinish beriladi, YAXSHIROQ natija hisobga olinadi."
+   ],
+   "mezon": "Ball topshiriqlar jadvali bo'yicha qo'yiladi (jami 25 ball).",
+   "vaqt": 40,
+   "ballJadvali": [
+    {
+     "kod": "4.1",
+     "matn": "Robot signal kartochkasi rangini to'g'ri o'qiydi va to'g'ri yo'nalishni (A yoki B) tanlaydi.",
+     "ball": 6
+    },
+    {
+     "kod": "4.2",
+     "matn": "Robot to'g'ri yukni topib, fork-lift bilan uni yerdan to'liq ko'taradi.",
+     "ball": 6
+    },
+    {
+     "kod": "4.3",
+     "matn": "Robot yukni 10 sm balandlikdagi platforma ustiga qo'yadi va yuk platformadan tushib ketmaydi.",
+     "ball": 8
+    },
+    {
+     "kod": "4.4",
+     "matn": "Robot bazaga qaytadi va butun urinish davomida hech kim robotga qo'l tekkizmaydi.",
+     "ball": 5
+    }
+   ],
+   "jamiBall": 25
+  },
+  "maydon": 4,
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",

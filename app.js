@@ -105,7 +105,7 @@ function findResources(l){
   return null;
 }
 
-function resourceSection(l){
+function resourceSection(l, num){
   const res = findResources(l);
   if (!res || !res.length) return '';
   const items = res.map(r=>{
@@ -120,10 +120,71 @@ function resourceSection(l){
   }).join('');
   return `
     <div class="section">
-      <div class="section-num">08</div>
+      <div class="section-num">${num}</div>
       <h2>Qurish instruksiyasi</h2>
       <ul class="res-list">${items}</ul>
     </div>`;
+}
+
+// Missiya darslari uchun: shu darsning aniq topshirig'i + butun missiyaning ball jadvali.
+// Topshiriqlar darsdan darsga qiyinlashadi (n.A qog'ozda -> n.F rasmiy urinish).
+function topshiriqSection(content, num){
+  const t = content.topshiriq;
+  if (!t) return '';
+  const talablar = t.talablar.map(x=>`<li>${esc(x)}</li>`).join('');
+  const rows = t.ballJadvali.map(r=>`
+    <tr>
+      <td class="tk">${esc(r.kod)}</td>
+      <td>${esc(r.matn)}</td>
+      <td class="tb">${r.ball}</td>
+    </tr>`).join('');
+  return `
+    <div class="section">
+      <div class="section-num">${num}</div>
+      <h2>Dars topshirig'i</h2>
+      <div class="task-box">
+        <div class="task-head">
+          <span class="task-code">${esc(t.kod)}</span>
+          <span class="task-title">${esc(t.sarlavha)}</span>
+        </div>
+        <ol class="task-list">${talablar}</ol>
+        <div class="task-mezon"><b>Muvaffaqiyat mezoni:</b> ${esc(t.mezon)}</div>
+      </div>
+      <div class="subhead">${t.missiya}-missiya ("${esc(t.missiyaNomi)}") — to'liq ball jadvali</div>
+      <table class="score-table">
+        <thead><tr><th>Kod</th><th>Topshiriq</th><th>Ball</th></tr></thead>
+        <tbody>${rows}</tbody>
+        <tfoot><tr><td></td><td>Jami · vaqt cheklovi ${t.vaqt} soniya</td><td class="tb">${t.jamiBall}</td></tr></tfoot>
+      </table>
+    </div>`;
+}
+
+function maydonSection(content, num){
+  const F = window.MISSION_FIELDS || {};
+  const f = F[content.maydon];
+  if (!f) return '';
+  return `
+    <div class="section">
+      <div class="section-num">${num}</div>
+      <h2>Musobaqa maydonchasi</h2>
+      <div class="field-wrap">${f.svg}</div>
+      <p class="field-note">${esc(f.izoh)}</p>
+    </div>`;
+}
+
+// 01–07 — tasdiqlangan asosiy shablon (o'zgarmaydi).
+// Undan keyingi bo'limlar bor bo'lsa, ketma-ket raqamlanadi: 08, 09, 10...
+function extraSections(l, content){
+  let n = 7;
+  const num = ()=> String(++n).padStart(2, '0');
+  const parts = [];
+  const push = (fn)=>{ const h = fn(num()); if (h) parts.push(h); else n--; };
+  if (content) {
+    push(k=> topshiriqSection(content, k));
+    push(k=> maydonSection(content, k));
+  }
+  push(k=> resourceSection(l, k));
+  return parts.join('');
 }
 
 function selectLesson(l, key, itemEl){
@@ -146,7 +207,7 @@ function selectLesson(l, key, itemEl){
         <p>Bu darsning to'liq ishlanmasi (maqsad, lug'at, nazariya, amaliyot, uyga vazifa) hali tayyorlanmagan.<br>
         Iltimos, boshqa darsni tanlang.</p>
       </div>
-      ${resourceSection(l)}`;
+      ${extraSections(l, null)}`;
     main.scrollTop = 0;
     return;
   }
@@ -210,7 +271,7 @@ function selectLesson(l, key, itemEl){
       <ol>${content.uyga.map(t=>`<li>${esc(t)}</li>`).join('')}</ol>
     </div>
 
-    ${resourceSection(l)}
+    ${extraSections(l, content)}
   `;
   main.scrollTop = 0;
 }
