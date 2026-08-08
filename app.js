@@ -94,6 +94,38 @@ function renderTree(){
 
 function esc(s){ const d=document.createElement('div'); d.textContent=s; return d.innerHTML; }
 
+// Dars uchun qurish instruksiyasini topadi.
+// Makerzoid darslarida kalit = model nomi; SPIKE darslarida model bo'sh, shuning uchun
+// sarlavhadan " — yig'ish (1 darslik)" qismini olib tashlab qidiriladi.
+function findResources(l){
+  const R = window.LESSON_RESOURCES || {};
+  if (l.model && R[l.model]) return R[l.model];
+  const base = l.title.split(' — ')[0].trim();
+  if (R[base]) return R[base];
+  return null;
+}
+
+function resourceSection(l){
+  const res = findResources(l);
+  if (!res || !res.length) return '';
+  const items = res.map(r=>{
+    const icon = r.tur === 'pdf' ? 'PDF' : (r.tur === 'video' ? 'VIDEO' : (r.tur === 'lokal' ? 'FAYL' : 'WEB'));
+    return `<li class="res-item">
+      <a class="res-link" href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">
+        <span class="res-type ${r.tur}">${icon}</span>
+        <span class="res-name">${esc(r.nom)}</span>
+      </a>
+      <span class="res-src">${esc(r.manba)}</span>
+    </li>`;
+  }).join('');
+  return `
+    <div class="section">
+      <div class="section-num">08</div>
+      <h2>Qurish instruksiyasi</h2>
+      <ul class="res-list">${items}</ul>
+    </div>`;
+}
+
 function selectLesson(l, key, itemEl){
   activeKey = key;
   document.querySelectorAll('.dars-item.active').forEach(e=>e.classList.remove('active'));
@@ -113,7 +145,8 @@ function selectLesson(l, key, itemEl){
         <div class="tag">TAYYORLANMOQDA</div>
         <p>Bu darsning to'liq ishlanmasi (maqsad, lug'at, nazariya, amaliyot, uyga vazifa) hali tayyorlanmagan.<br>
         Iltimos, boshqa darsni tanlang.</p>
-      </div>`;
+      </div>
+      ${resourceSection(l)}`;
     main.scrollTop = 0;
     return;
   }
@@ -176,6 +209,8 @@ function selectLesson(l, key, itemEl){
       <h2>Uyga vazifalar</h2>
       <ol>${content.uyga.map(t=>`<li>${esc(t)}</li>`).join('')}</ol>
     </div>
+
+    ${resourceSection(l)}
   `;
   main.scrollTop = 0;
 }
