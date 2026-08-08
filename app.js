@@ -112,7 +112,7 @@ function selectLesson(l, key, itemEl){
       <div class="not-ready">
         <div class="tag">TAYYORLANMOQDA</div>
         <p>Bu darsning to'liq ishlanmasi (maqsad, lug'at, nazariya, amaliyot, uyga vazifa) hali tayyorlanmagan.<br>
-        Hozircha 5 ta namunaviy dars to'liq ishlangan — chapdagi ● belgili darslarni ko'ring.</p>
+        Iltimos, boshqa darsni tanlang.</p>
       </div>`;
     main.scrollTop = 0;
     return;
