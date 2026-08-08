@@ -105,7 +105,7 @@ function findResources(l){
   return null;
 }
 
-function resourceSection(l, num){
+function resourceList(l){
   const res = findResources(l);
   if (!res || !res.length) return '';
   const items = res.map(r=>{
@@ -118,13 +118,99 @@ function resourceSection(l, num){
       <span class="res-src">${esc(r.manba)}</span>
     </li>`;
   }).join('');
+  return `<ul class="res-list">${items}</ul>`;
+}
+
+// Makerzoid modellari uchun bosqichma-bosqich rasmli instruksiya (zipdan chiqarilgan WebP).
+const INSTR = { slug:null, n:0, i:1 };
+
+function findInstruction(l){
+  const IX = window.INSTRUCTION_INDEX || {};
+  return (l.model && IX[l.model]) ? IX[l.model] : null;
+}
+
+function instrSrc(slug, i){
+  return 'instructions/makerzoid/' + slug + '/' + String(i).padStart(3, '0') + '.webp';
+}
+
+function galleryHtml(info){
+  const thumbs = [];
+  for (let i = 1; i <= info.qadam; i++){
+    thumbs.push(`<button class="ig-thumb" data-i="${i}" type="button">
+      <img loading="lazy" src="${instrSrc(info.slug, i)}" alt="${i}-qadam">
+      <span>${i}</span>
+    </button>`);
+  }
+  return `
+    <div class="instr" data-slug="${esc(info.slug)}" data-n="${info.qadam}">
+      <div class="instr-bar">
+        <span class="instr-src">${esc(info.manba)}</span>
+        <span class="instr-count">${info.qadam} qadam</span>
+      </div>
+      <div class="instr-stage">
+        <img id="igMain" src="${instrSrc(info.slug, 1)}" alt="1-qadam">
+      </div>
+      <div class="instr-nav">
+        <button class="ig-btn" id="igPrev" type="button">◀ Oldingi</button>
+        <span class="ig-pos"><b id="igNow">1</b> / ${info.qadam}</span>
+        <button class="ig-btn" id="igNext" type="button">Keyingi ▶</button>
+        <button class="ig-btn ig-toggle" id="igAll" type="button">Barcha qadamlar</button>
+      </div>
+      <div class="instr-grid" id="igGrid" hidden>${thumbs.join('')}</div>
+    </div>`;
+}
+
+function instructionSection(l, num){
+  const info = findInstruction(l);
+  const links = resourceList(l);
+  if (!info && !links) return '';
   return `
     <div class="section">
       <div class="section-num">${num}</div>
       <h2>Qurish instruksiyasi</h2>
-      <ul class="res-list">${items}</ul>
+      ${info ? galleryHtml(info) : ''}
+      ${links}
     </div>`;
 }
+
+// innerHTML almashtirilgandan keyin galereyani jonlantiradi.
+function initGallery(){
+  const root = document.querySelector('.instr');
+  if (!root) { INSTR.slug = null; return; }
+  INSTR.slug = root.dataset.slug;
+  INSTR.n = parseInt(root.dataset.n, 10);
+  INSTR.i = 1;
+
+  const main = document.getElementById('igMain');
+  const now  = document.getElementById('igNow');
+  const grid = document.getElementById('igGrid');
+
+  function show(i){
+    INSTR.i = Math.min(Math.max(i, 1), INSTR.n);
+    main.src = instrSrc(INSTR.slug, INSTR.i);
+    main.alt = INSTR.i + '-qadam';
+    now.textContent = INSTR.i;
+    if (INSTR.i < INSTR.n) new Image().src = instrSrc(INSTR.slug, INSTR.i + 1);  // keyingisini oldindan yuklash
+  }
+
+  document.getElementById('igPrev').onclick = ()=> show(INSTR.i - 1);
+  document.getElementById('igNext').onclick = ()=> show(INSTR.i + 1);
+  document.getElementById('igAll').onclick = (e)=>{
+    grid.hidden = !grid.hidden;
+    e.currentTarget.classList.toggle('on', !grid.hidden);
+  };
+  grid.querySelectorAll('.ig-thumb').forEach(b=>{
+    b.onclick = ()=>{ show(parseInt(b.dataset.i, 10)); root.scrollIntoView({block:'start', behavior:'smooth'}); };
+  });
+  main.onclick = ()=> show(INSTR.i + 1);
+}
+
+document.addEventListener('keydown', (e)=>{
+  if (!INSTR.slug) return;
+  if (document.activeElement && document.activeElement.id === 'searchInput') return;
+  if (e.key === 'ArrowRight') document.getElementById('igNext')?.click();
+  else if (e.key === 'ArrowLeft') document.getElementById('igPrev')?.click();
+});
 
 // Missiya darslari uchun: shu darsning aniq topshirig'i + butun missiyaning ball jadvali.
 // Topshiriqlar darsdan darsga qiyinlashadi (n.A qog'ozda -> n.F rasmiy urinish).
@@ -183,7 +269,7 @@ function extraSections(l, content){
     push(k=> topshiriqSection(content, k));
     push(k=> maydonSection(content, k));
   }
-  push(k=> resourceSection(l, k));
+  push(k=> instructionSection(l, k));
   return parts.join('');
 }
 
@@ -208,6 +294,7 @@ function selectLesson(l, key, itemEl){
         Iltimos, boshqa darsni tanlang.</p>
       </div>
       ${extraSections(l, null)}`;
+    initGallery();
     main.scrollTop = 0;
     return;
   }
@@ -273,6 +360,7 @@ function selectLesson(l, key, itemEl){
 
     ${extraSections(l, content)}
   `;
+  initGallery();
   main.scrollTop = 0;
 }
 
