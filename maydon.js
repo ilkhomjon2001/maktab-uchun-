@@ -15,8 +15,8 @@
     bg: '#ffffff',
     field: '#f3f7f3',
     border: '#bed0c1',
-    grid: 'rgba(21,104,60,0.14)',
-    cyan: '#15683C',   // asosiy urg'u — brend yashili
+    grid: 'rgba(23,96,45,0.14)',
+    cyan: '#17602D',   // asosiy urg'u — brend yashili
     amber: '#9a6410',
     green: '#17804a',
     red: '#c0392b',
@@ -62,7 +62,7 @@
   // odatda y=20 sm balandlikda bazadan chiqadi va pastki qismni band qiladi.
   function base() {
     return '<rect x="' + X(0) + '" y="' + Y(40) + '" width="40" height="40" ' +
-           'fill="rgba(21,104,60,0.10)" stroke="' + C.cyan + '" stroke-width="0.9" stroke-dasharray="3 2"/>' +
+           'fill="rgba(23,96,45,0.10)" stroke="' + C.cyan + '" stroke-width="0.9" stroke-dasharray="3 2"/>' +
            '<text x="' + X(20) + '" y="' + Y(32) + '" fill="' + C.cyan +
            '" font-size="7" text-anchor="middle" font-weight="600">BAZA</text>' +
            '<text x="' + X(20) + '" y="' + Y(26) + '" fill="' + C.dim +
