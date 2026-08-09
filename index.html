@@ -218,6 +218,28 @@ main{flex:1; min-width:0; overflow-y:auto; padding:36px 44px 80px;}
 .xato-box b{color:var(--accent2);}
 /* Nazorat va loyiha baholash jadvali */
 .mezon-table td:first-child{white-space:nowrap; font-weight:700; color:var(--accent);}
+/* Komponent pasporti — guruh sarlavhalari va "qayerda uchraydi" yorliqlari */
+.pas-h{
+  font-family:var(--font-mono); font-size:11px; letter-spacing:1.2px; text-transform:uppercase;
+  color:var(--accent); margin:14px 0 4px; padding-left:2px;
+}
+.chips{display:flex; flex-wrap:wrap; gap:7px; margin:6px 0 4px;}
+.chip{
+  font-size:12.5px; color:var(--text-dim); background:var(--panel-2);
+  border:1px solid var(--border); border-radius:20px; padding:4px 12px;
+}
+/* Tayyor kod namunasi */
+.kod-wrap{
+  overflow-x:auto; -webkit-overflow-scrolling:touch;
+  border:1px solid var(--border); border-left:3px solid var(--accent);
+  border-radius:10px; background:var(--panel-2); margin:8px 0 16px;
+}
+pre.kod{
+  margin:0; padding:14px 16px;
+  font-family:var(--font-mono); font-size:12.5px; line-height:1.75;
+  color:var(--text); white-space:pre; tab-size:2;
+}
+pre.kod code{font:inherit; color:inherit; background:none; padding:0;}
 /* Ulanish sxemasi (SVG) — chap tomonda plata, o'ng tomonda komponent,
    orasida rangli simlar: qizil = quvvat, qora = GND, ko'k = signal. */
 .wd-wrap{

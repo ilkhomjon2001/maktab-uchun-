@@ -120,6 +120,18 @@ function renderTree(){
 
 function esc(s){ const d=document.createElement('div'); d.textContent=s; return d.innerHTML; }
 
+// Ro'yxat bandi. "Sarlavha: matn" ko'rinishidagi bandda birinchi qism qalin
+// qilinadi — uzun nazariy matn shunda ancha oson o'qiladi.
+// Faqat qisqa va gap ichida turmagan sarlavhalar ajratiladi.
+function li(p){
+  const s = String(p == null ? '' : p);
+  const i = s.indexOf(': ');
+  if (i > 0 && i <= 46 && !/[.!?—]/.test(s.slice(0, i))) {
+    return `<li><b>${esc(s.slice(0, i + 1))}</b>${esc(s.slice(i + 1))}</li>`;
+  }
+  return `<li>${esc(s)}</li>`;
+}
+
 // Dars uchun qurish instruksiyasini topadi.
 // Makerzoid darslarida kalit = model nomi; SPIKE darslarida model bo'sh, shuning uchun
 // sarlavhadan " — yig'ish (1 darslik)" qismini olib tashlab qidiriladi.
@@ -467,16 +479,69 @@ function wiringSvg(blok){
 }
 
 function ulanishSection(content, num){
-  const u = content && content.ulanish;
-  if (!u || !u.length) return '';
+  // Platasiz elektronika darsida blokda pin xaritasi bo'lmaydi — u yerda
+  // faqat komponent pasporti ko'rsatiladi, ulanish bo'limi esa chiqmaydi.
+  const u = (content && content.ulanish || []).filter(b => b.pinlar && b.pinlar.length);
+  if (!u.length) return '';
   const bloklar = u.map((b, i)=>`
     <div class="subhead">${parseInt(num,10)}.${i+1}. ${esc(b.nom)} — ulanish va kutubxona</div>
     ${wiringSvg(b)}
-    <ul>${b.points.map(p=>`<li>${esc(p)}</li>`).join('')}</ul>`).join('');
+    <ul>${b.points.map(p=>li(p)).join('')}</ul>`).join('');
   return `
     <div class="section">
       <div class="section-num">${num}</div>
       <h2>Ulanish sxemasi va kutubxona</h2>
+      ${bloklar}
+    </div>`;
+}
+
+// Komponentning to'liq texnik pasporti: tasnif, ichida nima sodir bo'ladi,
+// qiymatni qanday o'qish kerak. Manba — curriculum/pasport.py.
+function pasportSection(content, num){
+  const u = content && content.ulanish;
+  if (!u || !u.length) return '';
+  const bor = u.filter(b => (b.tasnif && b.tasnif.length) || (b.ishlash && b.ishlash.length));
+  if (!bor.length) return '';
+
+  const guruh = (nom, arr)=> (arr && arr.length)
+    ? `<div class="pas-h">${nom}</div><ul>${arr.map(p=>li(p)).join('')}</ul>` : '';
+
+  const bloklar = bor.map((b, i)=>`
+    <div class="subhead">${parseInt(num,10)}.${i+1}. ${esc(b.nom)}</div>
+    ${guruh("Texnik tasnif", b.tasnif)}
+    ${guruh("Ichida nima sodir bo'ladi", b.ishlash)}
+    ${guruh("Qiymatni qanday o'qiladi", b.oqish)}
+    ${(b.qollash && b.qollash.length)
+        ? `<div class="pas-h">Hayotda qayerda uchraydi</div>
+           <div class="chips">${b.qollash.map(q=>`<span class="chip">${esc(q)}</span>`).join('')}</div>`
+        : ''}`).join('');
+
+  return `
+    <div class="section">
+      <div class="section-num">${num}</div>
+      <h2>Komponent pasporti — to'liq texnik ma'lumot</h2>
+      ${bloklar}
+    </div>`;
+}
+
+// Ishlaydigan kod namunasi. O'qituvchi doskaga chiqaradi yoki ko'chirib beradi.
+function kodSection(content, num){
+  const manba = [];
+  if (content && content.kod) manba.push({nom: content.kod.nom || 'Dars kodi',
+                                          kod: content.kod.matn, izoh: content.kod.izoh});
+  const u = (content && content.ulanish) || [];
+  u.forEach(b=>{ if (b.kod) manba.push({nom: b.nom, kod: b.kod}); });
+  if (!manba.length) return '';
+
+  const bloklar = manba.map((m, i)=>`
+    <div class="subhead">${parseInt(num,10)}.${i+1}. ${esc(m.nom)}</div>
+    ${m.izoh ? `<ul>${li(m.izoh)}</ul>` : ''}
+    <div class="kod-wrap"><pre class="kod"><code>${esc(m.kod)}</code></pre></div>`).join('');
+
+  return `
+    <div class="section">
+      <div class="section-num">${num}</div>
+      <h2>Tayyor kod namunasi</h2>
       ${bloklar}
     </div>`;
 }
@@ -493,7 +558,9 @@ function extraSections(l, content){
     push(k=> maydonSection(content, k));
     push(k=> qollanmaSection(content, k));
     push(k=> mezonSection(content, k));
+    push(k=> pasportSection(content, k));
     push(k=> ulanishSection(content, k));
+    push(k=> kodSection(content, k));
   }
   push(k=> instructionSection(l, k));
   return parts.join('');
@@ -570,13 +637,13 @@ function selectLesson(l, key, itemEl){
     <div class="section">
       <div class="section-num">05</div>
       <h2>Darsning nazariya qismi</h2>
-      ${content.nazariya.map(sec=>`<div class="subhead">${esc(sec.title)}</div><ul>${sec.points.map(p=>`<li>${esc(p)}</li>`).join('')}</ul>`).join('')}
+      ${content.nazariya.map(sec=>`<div class="subhead">${esc(sec.title)}</div><ul>${sec.points.map(p=>li(p)).join('')}</ul>`).join('')}
     </div>
 
     <div class="section">
       <div class="section-num">06</div>
       <h2>Sinfda bajariladigan amaliy ishlar</h2>
-      ${content.amaliy.map(sec=>`<div class="subhead">${esc(sec.title)}</div><ul>${sec.points.map(p=>`<li>${esc(p)}</li>`).join('')}</ul>`).join('')}
+      ${content.amaliy.map(sec=>`<div class="subhead">${esc(sec.title)}</div><ul>${sec.points.map(p=>li(p)).join('')}</ul>`).join('')}
     </div>
 
     <div class="section">

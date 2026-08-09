@@ -13,6 +13,9 @@ Dars rejasida bu ma'lumot 08-bo'lim sifatida chiqadi
 (CLAUDE.md qoidasi: qo'shimcha bo'limlar faqat 07 dan KEYIN qo'shiladi).
 """
 
+from pasport import olish as pasport_olish
+
+
 # ------------------------------------------------------------------ yordamchi
 def C(kutubxona, include, uno, esp32=None, diqqat=None, kalitlar=()):
     return {"kutubxona": kutubxona, "include": include, "uno": uno,
@@ -548,8 +551,13 @@ def topish(mavzu):
     return natija[:3]
 
 
-def bolim(mavzu, esp=False):
-    """Ulanish bo'limi uchun ma'lumot: [{nom, points}].
+def bolim(mavzu, esp=False, plata=True):
+    """Komponent bo'limi uchun ma'lumot: [{nom, tasnif, ishlash, oqish, ...}].
+
+    plata=False bo'lsa (5-6-sinfning platasiz elektronika darslari) pin
+    xaritasi va Arduino kodi BERILMAYDI — ular o'sha darsda ma'nosiz.
+    Lekin komponentning texnik pasporti (tasnif, ichida nima sodir bo'ladi,
+    hayotda qayerda uchraydi) baribir kerak va u qoladi.
 
     Sarlavhada raqam YO'Q — bo'lim raqami (08, 09, ...) app.js da beriladi,
     shunda boshqa bo'lim qo'shilsa tartib buzilmaydi."""
@@ -558,6 +566,17 @@ def bolim(mavzu, esp=False):
         return []
     bloklar = []
     for nom, d in topilgan:
+        if not plata:
+            p = pasport_olish(nom)
+            if not p:
+                continue
+            bloklar.append({
+                "nom": nom,
+                "tasnif": list(p["tasnif"]),
+                "ishlash": list(p["ishlash"]),
+                "qollash": list(p["qollash"]),
+            })
+            continue
         points = []
         kut = d["kutubxona"]
         if kut:
@@ -586,12 +605,24 @@ def bolim(mavzu, esp=False):
         # Chizma uchun strukturali ma'lumot. app.js shundan SVG sxema chizadi —
         # matn ro'yxati bilan bir xil manbadan, shuning uchun ular hech qachon
         # bir-biridan farq qilib qolmaydi.
-        bloklar.append({
+        blok = {
             "nom": nom,
             "points": points,
             "plata": plata,
             "pinlar": [[pin, port, izoh] for pin, port, izoh in pinlar],
-        })
+        }
+        # To'liq texnik pasport: tasnif, ichida nima sodir bo'lishi, qiymatni
+        # o'qish tartibi va ishlaydigan kod namunasi (pasport.py).
+        p = pasport_olish(nom)
+        if p:
+            blok["tasnif"] = list(p["tasnif"])
+            blok["ishlash"] = list(p["ishlash"])
+            blok["oqish"] = list(p["oqish"])
+            if p["kod"]:
+                blok["kod"] = p["kod"]
+            if p["qollash"]:
+                blok["qollash"] = list(p["qollash"])
+        bloklar.append(blok)
     return bloklar
 
 

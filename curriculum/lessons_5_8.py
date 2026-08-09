@@ -14,6 +14,7 @@ import re
 from ulanish import bolim as ulanish_bolim
 from kb_5_8 import MAVZULAR as KB_MAVZULAR, KIRISH as KB_KIRISH, \
     NAZORAT as KB_NAZORAT, LOYIHA as KB_LOYIHA
+from kb_kod import KODLAR as KB_KODLAR
 
 # ============================================================ ATAMALAR BAZASI
 # Kalit so'z -> "Atama (inglizcha) – ta'rif"
@@ -274,12 +275,25 @@ def kb_topilsin(mavzu, tur):
     return None
 
 
+def kod_topilsin(mavzu, tur):
+    """Sof dasturlash mavzusi uchun kod namunasi (kb_kod.py)."""
+    if tur != "mavzu":
+        return None
+    return KB_KODLAR.get(kb_kalit(mavzu))
+
+
 def amaliy_nomi(mavzu, tur):
     """Darsning AMALIY ISHI nomi.
 
     CLAUDE.md qoidasi: mavzu (ilmiy tema) va amaliy ish AJRATILGAN. Mavzu
     dars sarlavhasida, amaliy ish esa alohida qatorda ko'rsatiladi.
+
+    kb_kod.py da "amaliy" berilgan bo'lsa, u USTUN turadi: sof nazariy
+    amaliyot elektronika bilan bog'langan variantga almashtiriladi.
     """
+    kod = kod_topilsin(mavzu, tur)
+    if kod and kod.get("amaliy"):
+        return kod["amaliy"]
     kb = kb_topilsin(mavzu, tur)
     if not kb:
         return None
@@ -316,9 +330,9 @@ def build_maqsad(mavzu, track, sinf, tur):
         "esp32": ("tushunadilar", "ESP32 platasida qo'llay oladilar", "mustaqil sozlay oladilar"),
         "ai": ("tushunadilar", "amaliy modelda ko'radilar", "mustaqil qo'llay oladilar"),
     }[track]
-    kb = kb_topilsin(mavzu, tur)
-    uchinchi = (f"O'quvchilar amaliy ishni — {_kichik(kb['amaliy'])} — {verbs[2]}."
-                if kb else
+    amaliy = amaliy_nomi(mavzu, tur)
+    uchinchi = (f"O'quvchilar amaliy ishni — {_kichik(amaliy)} — {verbs[2]}."
+                if amaliy else
                 f"O'quvchilar shu mavzu bo'yicha berilgan amaliy vazifani {verbs[2]}.")
     return [
         f"O'quvchilar \"{s}\" mavzusining asosiy tushunchalarini {verbs[0]}.",
@@ -327,7 +341,7 @@ def build_maqsad(mavzu, track, sinf, tur):
     ]
 
 
-def build_nazariya(mavzu, track, tur):
+def build_nazariya(mavzu, track, tur, qurilma_bloklari=None, kod_blok=None):
     s = short(mavzu)
     kb = kb_topilsin(mavzu, tur)
 
@@ -378,16 +392,51 @@ def build_nazariya(mavzu, track, tur):
 
     # --- Oddiy mavzu darsi: bazada aniq matn bo'lsa, o'sha ishlatiladi ---
     if kb:
+        n = [1]
+
+        def raqam():
+            n[0] += 1
+            return f"5.{n[0]}"
+
         bloklar = [
-            {"title": "5.1. Takrorlash va bugungi savol (5 daqiqa)", "points": [
+            {"title": "5.1. Takrorlash va bugungi savol (4 daqiqa)", "points": [
                 "O'tgan darsdagi asosiy natija qisqa takrorlanadi.",
                 f"Bugungi mavzu — \"{s}\" — nima uchun kerakligi hayotiy misol bilan bog'lanadi.",
             ]},
-            {"title": f"5.2. {s} — asosiy tushuncha (14 daqiqa)",
+            {"title": f"5.2. {s} — asosiy tushuncha (8 daqiqa)",
              "points": list(kb["nazariya"])},
         ]
+
+        # Komponentli darsda o'qituvchi aytishi kerak bo'lgan TEXNIK MA'LUMOT
+        # ham nazariya qismiga kiradi: bu darsda gapiriladigan matn, keyingi
+        # bo'limlar esa amalda ishlatiladigan ma'lumotnoma.
+        for b in (qurilma_bloklari or []):
+            if b.get("tasnif"):
+                bloklar.append({
+                    "title": f"{raqam()}. {b['nom']} — texnik tasnif (4 daqiqa)",
+                    "points": list(b["tasnif"]),
+                })
+            if b.get("ishlash"):
+                bloklar.append({
+                    "title": f"{raqam()}. {b['nom']} — ichida nima sodir bo'ladi (4 daqiqa)",
+                    "points": list(b["ishlash"]),
+                })
+
+        # Sof dasturlash mavzusida kod namunasining mazmuni tushuntiriladi
+        if kod_blok and kod_blok.get("izoh"):
+            bloklar.append({
+                "title": f"{raqam()}. Kod namunasi nima qiladi (4 daqiqa)",
+                "points": [
+                    kod_blok["izoh"],
+                    f"Doskaga chiqariladigan namuna: \"{kod_blok['nom']}\" "
+                    f"(quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
+                    "Kod qatorma-qator o'qiladi: har bir qator nima qilishi "
+                    "ovoz chiqarib aytiladi, keyin o'quvchilar takrorlaydi.",
+                ],
+            })
+
         if kb.get("savol"):
-            bloklar.append({"title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+            bloklar.append({"title": f"{raqam()}. Tushunganini tekshirish (4 daqiqa)",
                             "points": [f"Savol: {q}  Javob: {a}" for q, a in kb["savol"]]})
         return bloklar
 
@@ -480,7 +529,7 @@ def build_amaliy(mavzu, track, tur):
                 "Juftliklar vazifani o'zaro bo'lib oladilar.",
             ]},
             {"title": "6.2. Amaliy ish (15 daqiqa)", "points": [
-                "Bajariladigan ish: " + _kichik(kb["amaliy"]) + ".",
+                "Bajariladigan ish: " + _kichik(amaliy_nomi(mavzu, tur) or kb["amaliy"]) + ".",
                 tekshiruv,
             ]},
             {"title": "6.3. Tekshirish va tuzatish (8 daqiqa)", "points": [
@@ -589,15 +638,19 @@ def build_resurslar(track, mavzu):
 def build_lesson(mavzu, track, tur, sinf, yil, chorak, idx, hafta, modul):
     # Ulanish sxemasi va kutubxona — 07 dan keyingi qo'shimcha bo'lim.
     # ESP32 yo'nalishlarida pinlar boshqacha, shuning uchun esp bayrog'i beriladi.
-    ulanish_bloklari = (ulanish_bolim(mavzu, esp=(track in ("esp32", "ai")))
-                        if plataga_ulanadimi(mavzu, track) else [])
+    ulanish_bloklari = ulanish_bolim(
+        mavzu,
+        esp=(track in ("esp32", "ai")),
+        plata=plataga_ulanadimi(mavzu, track),
+    )
     kb = kb_topilsin(mavzu, tur)
     d = {
         "maqsad": build_maqsad(mavzu, track, sinf, tur),
         "lugat": pick_terms(mavzu, track),
         "softSkill": SOFT_SKILLS[idx % len(SOFT_SKILLS)],
         "resurslar": build_resurslar(track, mavzu),
-        "nazariya": build_nazariya(mavzu, track, tur),
+        "nazariya": build_nazariya(mavzu, track, tur,
+                                   ulanish_bloklari, kod_topilsin(mavzu, tur)),
         "amaliy": build_amaliy(mavzu, track, tur),
         "uyga": build_uyga(mavzu, track, tur),
         "meta": {
@@ -620,6 +673,11 @@ def build_lesson(mavzu, track, tur, sinf, yil, chorak, idx, hafta, modul):
     if kb and tur == "loyiha":
         d["mezon"] = {"turi": "loyiha", "nom": kb["nom"], "vaqt": None,
                       "ustunlar": ["Baholanadigan band", "Ball"], "qatorlar": kb["mezon"]}
+    # Sof dasturlash mavzusida komponent pasporti bo'lmaydi, shuning uchun
+    # kod namunasi alohida beriladi (kb_kod.py).
+    kod = kod_topilsin(mavzu, tur)
+    if kod:
+        d["kod"] = {"nom": kod["nom"], "matn": kod["kod"], "izoh": kod.get("izoh")}
     if ulanish_bloklari:
         d["ulanish"] = ulanish_bloklari
     return d
