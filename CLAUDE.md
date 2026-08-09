@@ -42,6 +42,19 @@ site/curriculum/       — Excel dasturini generatsiya qiluvchi Python skriptlar
   lesson_templates_special.py / _nazorat_loyiha.py / _dasturlash.py / _spike.py
   missions.py            — 4 ta SPIKE missiyasi: aniq vazifa, koordinatalar, ball taqsimoti
 
+  --- 5-8-sinf dasturi (2026-08-09 da qo'shildi) ---
+  syllabus_5_8.py        — 672 dars mavzusi (8 sinf-yil x 4 chorak x 21 dars)
+  kb_5_8.py              — kontent bazasi yig'uvchisi (T() shabloni, topilsin())
+  kb_y1_5..kb_y2_8.py    — 545 unikal mavzu uchun ANIQ kontent: o'qituvchi aytadigan
+                           matn, amaliy ish, metodik qo'llanma, 2 savol+javob, tipik xato
+  kb_nazorat.py          — 32 kirish + 32 nazorat-musobaqa (nom va aniq mezon bilan)
+                           + 32 loyiha (100 ballik taqsimot)
+  lessons_5_8.py         — reja generatori (KB dan foydalanadi, shablonga faqat zaxira)
+  ulanish.py             — 45 komponent: kutubxona, #include, pin xaritasi, DIQQAT
+  jihozlar.py + build_jihozlar_xlsx.py — SET A/SET B jihoz ro'yxati va Excel
+  generate_5_8.py        — 5-8 ni tree_data.js va sample_lessons.js ga QO'SHADI
+                           (0-4 ga TEGMAYDI, har ishga tushirishdan keyin tekshiriladi)
+
   --- instruksiya rasmlari ---
   instructions_map.py    — 281 katalog modelini zip papkalariga bog'laydi (25 tasi qo'lda)
   build_instructions.py  — zipdan chiqarib, qirqib, WebP ga siqadi (--yil / --sinf / --all)
@@ -64,6 +77,12 @@ D:\maktab uchun sayt\Robot master(PM) instruction-*.zip  — manba rasmlar (2 ta
 - **Dasturlash faqat 2-yil, 2-sinfdan boshlab**, 3-4-chorakda (haftaning YANGI 3-soatida, Scratch-uslub). 0-1-sinfda 2-yilda ham dasturlash yo'q — 1-yil bilan AYNAN bir xil.
 - **1-chorak nazorat = "RoboRace"** (2m masofa, vaqt bo'yicha 5/4/3/2/FAILED — foydalanuvchi bergan aniq mezon). 2-4-chorak — shu uslubda taklif etilgan (RoboLift/RoboSense/RoboChampionship), aniq vaqt me'yorlari sinov orqali moslashtirilishi mumkin.
 - **"Dars mavzusi" va "Amaliy ish" AJRATILGAN**: mavzu = ilmiy/STEAM tema (masalan "Ishqalanish kuchi"), amaliy ish = model nomi (masalan "Little Lantern 1"). Buni hech qachon birlashtirmaslik kerak.
+  5-8-sinfda ham shunday: `tree_data.js` dagi `model` maydoni AMALIY ISHNI bildiradi
+  (`kb_*` fayllardagi `amaliy`), sarlavha esa mavzuni. app.js 5-8 uchun uni
+  "Amaliy ish: ..." deb belgilaydi (`modelLabel()`).
+- **5-8-sinf nazoratlari nomli musobaqa**: har birining nomi (CircuitSpeed, OhmCheck,
+  GestureML ...) va aniq, o'lchanadigan mezoni bor — 5/4/3/2/Bajarilmadi va vaqt
+  chegarasi. Bu 0-4 dagi RoboRace uslubining davomi. `kb_nazorat.py` da.
 - **SPIKE (2-yil 4-sinf)**: 1-chorak = 100% qurish (LEGO rasmiy nomlari: Driving Base 1/2/3, StarterBot, Robot Arm va h.k., education.lego.com dan). 3-4-chorak = to'liq missiya-asosida (Missiya 1-4), nazoratlar ball tizimi bilan (FLL uslubida).
 - **Dars reja shabloni**: 7 bo'lim — Maqsad (3 band), Lug'at (5 ta), Soft skill, Resurslar, Nazariya qismi (kichik bo'limlarga bo'lingan, har birida daqiqa ko'rsatilgan), Amaliy ishlar (xuddi shunday), Uyga vazifa. Bu format foydalanuvchi tomonidan TASDIQLANGAN, **01–07 raqamlari o'zgarmaydi**. Qo'shimcha bo'limlar faqat 07 dan KEYIN qo'shiladi va ketma-ket raqamlanadi (08, 09, ...).
 - **Bir xil temadagi darslar HAR XIL narsa o'rgatadi.** 5 ta "Richag qonuni" darsi bo'lsa, har biri richagning boshqa jihatini beradi (`lesson_subtopics*.py`, 178 sub-mavzu; `generate_lessons.py` dagi `theme_counter` har sinf ichida navbat bilan aylantiradi). Yangi dars qo'shilsa shu tizim buzilmasligi kerak.
@@ -74,7 +93,11 @@ D:\maktab uchun sayt\Robot master(PM) instruction-*.zip  — manba rasmlar (2 ta
 Buyruqlar `site/` papkasidan turib bajariladi (repo ildizi):
 
 ```
-Dars kontenti o'zgardi        -> python curriculum/generate_lessons.py
+Dars kontenti o'zgardi (0-4)  -> python curriculum/generate_lessons.py
+5-8 kontenti o'zgardi         -> python curriculum/generate_5_8.py
+                                 (keyin 0-4 o'zgarmaganini tekshirish shart:
+                                  git show HEAD:sample_lessons.js bilan solishtirish)
+5-8 jihoz ro'yxati            -> cd curriculum && python build_jihozlar_xlsx.py
 Yangi model / yangi sinf      -> python curriculum/build_instructions.py --yil 1-yil --sinf 2-sinf
 Hammasini tekshirish          -> python curriculum/build_instructions.py --all --dry-run
 Excel                         -> cd curriculum && python build_xlsx.py
@@ -109,6 +132,10 @@ Deploy                        -> site/ da commit + push, keyin serverda:
 
 1. **Missiya vaqt me'yorlari** (35/35/40/40 s) sinovda tekshirilishi kerak.
    Sinovdan keyin `missions.py` dagi raqamlar va ball taqsimoti moslashtiriladi.
+0. **0-4 kontentida qolgan kirill belgilar** (9 ta qator): `lesson_subtopics.py`,
+   `lesson_subtopics2.py`, `lesson_templates.py`, `lesson_templates_special.py`.
+   Masalan "Bosганда", "храповик", "sezilади", "troс", "miksеr". Tuzatish 0-4
+   kontentini o'zgartiradi, shuning uchun foydalanuvchi bilan kelishilishi kerak.
 2. **Serverda nginx qoidasi qo'shilib, `git pull` qilinishi kerak** (yuqoridagi "Git holati").
 
 **Hosting bo'yicha qaror:** sayt faqat o'z serverimizda (169.58.130.201:8081) turadi.

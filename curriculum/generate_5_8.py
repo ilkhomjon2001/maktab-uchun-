@@ -18,7 +18,7 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from syllabus_5_8 import SYLLABUS, CHORAKLAR, SINFLAR, YILLAR      # noqa: E402
-from lessons_5_8 import build_lesson                                # noqa: E402
+from lessons_5_8 import build_lesson, amaliy_nomi                   # noqa: E402
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SITE = os.path.dirname(HERE)
@@ -86,9 +86,11 @@ def build():
 
                 tree_items = []
                 for idx, (mavzu, tur, badge) in enumerate(darslar):
+                    # "model" maydoni — AMALIY ISH nomi. Dars mavzusi (ilmiy tema)
+                    # va amaliy ish ajratilgan holda ko'rsatiladi (CLAUDE.md qoidasi).
                     tree_items.append({
                         "title": mavzu,
-                        "model": None,
+                        "model": amaliy_nomi(mavzu, tur),
                         "type": badge,
                     })
                     content_track = track if tur in ("kirish", "mavzu") else track

@@ -115,6 +115,26 @@ h1.brand span{color:var(--accent);}
   white-space:nowrap;
 }
 .stats-badge b{color:var(--accent2);}
+/* Jihozlar ro'yxatini (Excel) yuklab olish tugmasi */
+.dl-badge{
+  order:5;
+  display:inline-flex; align-items:center; gap:7px;
+  font-family:var(--font-mono); font-size:11px; text-decoration:none;
+  color:var(--accent); background:var(--panel-2);
+  border:1px solid var(--accent-dim); border-radius:20px; padding:6px 14px;
+  white-space:nowrap; transition:background .18s, border-color .18s;
+}
+.dl-badge:hover{background:var(--accent); border-color:var(--accent); color:#fff;}
+.dl-badge .dl-ico{font-size:13px; line-height:1;}
+/* Bosh sahifadagi kattaroq variant */
+.dl-big{
+  display:inline-flex; align-items:center; gap:9px; margin-top:6px;
+  font-family:var(--font-mono); font-size:13px; text-decoration:none;
+  color:#fff; background:var(--accent); border:1px solid var(--accent);
+  border-radius:9px; padding:11px 20px; transition:opacity .18s;
+}
+.dl-big:hover{opacity:.88;}
+.dl-note{font-size:12px; color:var(--text-faint); margin-top:-6px;}
 .layout{display:flex; flex:1; min-height:0; min-width:0;}
 nav.tree{
   width:340px; flex:0 0 auto;
@@ -188,6 +208,36 @@ main{flex:1; min-width:0; overflow-y:auto; padding:36px 44px 80px;}
   display:inline-block; font-family:var(--font-mono); font-size:11px; letter-spacing:1px;
   color:var(--accent2); border:1px solid var(--accent2-dim); border-radius:20px; padding:4px 14px; margin-bottom:16px;
 }
+/* O'qituvchi qo'llanmasidagi "ko'p uchraydigan xato" bandi */
+.xato-box{
+  margin-top:12px; padding:12px 15px;
+  border:1px solid var(--accent2-dim); border-left:3px solid var(--accent2);
+  border-radius:8px; background:var(--panel-2);
+  font-size:14px; line-height:1.65; color:var(--text-dim);
+}
+.xato-box b{color:var(--accent2);}
+/* Nazorat va loyiha baholash jadvali */
+.mezon-table td:first-child{white-space:nowrap; font-weight:700; color:var(--accent);}
+/* Ulanish sxemasi (SVG) — chap tomonda plata, o'ng tomonda komponent,
+   orasida rangli simlar: qizil = quvvat, qora = GND, ko'k = signal. */
+.wd-wrap{
+  overflow-x:auto; -webkit-overflow-scrolling:touch;
+  border:1px solid var(--border); border-radius:10px;
+  background:var(--panel-2); padding:14px 12px 10px; margin:6px 0 12px;
+}
+.wd{display:block; width:100%; min-width:560px; height:auto;}
+.wd-box{fill:var(--panel); stroke:var(--border-light); stroke-width:1.5;}
+.wd-board{stroke:var(--accent);}
+.wd-comp{stroke:var(--accent2);}
+.wd-cap{font-family:var(--font-mono); font-size:12px; font-weight:700; fill:var(--text-dim);}
+.wd-port,.wd-pin{font-family:var(--font-mono); font-size:12px; fill:var(--text);}
+.wd-note{font-family:var(--font-mono); font-size:10px; fill:var(--text-faint);}
+.wd-wire{stroke-width:2.4; fill:none;}
+.wd-dot{stroke:none;}
+.wd-pwr{stroke:#c0392b; fill:#c0392b;}
+.wd-gnd{stroke:#16261b; fill:#16261b;}
+.wd-sig{stroke:#0b6b8f; fill:#0b6b8f;}
+.wd-none{stroke:var(--border-light); stroke-dasharray:5 5; fill:var(--border-light);}
 .lesson-header{margin-bottom:28px;}
 .badge-row{display:flex; gap:8px; flex-wrap:wrap; margin-bottom:14px;}
 .type-badge{
@@ -383,6 +433,7 @@ footer{
   h1.brand{font-size:18px;}
   .brand-sub{display:none;}
   .stats-badge{order:2; margin-left:auto; font-size:10px; padding:5px 10px;}
+  .dl-badge{order:3; font-size:10px; padding:5px 10px;}
   /* Qidiruv maydoni ikkinchi qatorga to'liq kenglikda tushadi */
   .search-wrap{order:5; width:100%; max-width:none; margin-left:0; flex:1 0 100%;}
   .search-wrap input{padding:9px 12px 9px 34px; font-size:16px;} /* 16px — iOS avtomatik kattalashtirmasligi uchun */
@@ -446,7 +497,7 @@ footer{
   .stats-badge{font-size:9px; padding:4px 9px;}
   h1.brand{font-size:16px;}
   /* Juda tor ekranda hisoblagich alohida qator egallamasin */
-  @media (max-width: 400px){ .stats-badge{display:none;} }
+  @media (max-width: 400px){ .stats-badge{display:none;} .dl-badge{margin-left:auto;} }
   main{padding:18px 13px 50px;}
   .lesson-title{font-size:22px;}
   .section h2{font-size:17px;}
@@ -493,6 +544,10 @@ footer{
     <div class="brand-sub">Robototexnika · Dars Rejalar Bazasi</div>
   </div>
   <div class="stats-badge"><b id="readyCount">0</b> / <span id="totalCount">0</span> tayyor</div>
+  <a class="dl-badge" href="jihozlar_5-8-sinf.xlsx" download
+     title="5–8-sinf kursi uchun kerakli komponentlar ro'yxati (Excel)">
+    <span class="dl-ico">⤓</span>Jihozlar ro'yxati
+  </a>
   <div class="search-wrap">
     <span class="search-icon">⌕</span>
     <input type="text" id="searchInput" placeholder="Dars nomi yoki model bo'yicha qidirish...">
@@ -508,6 +563,8 @@ footer{
       <h2>Dars tanlang</h2>
       <p>Ro'yxatdan yil → sinf → chorak → dars bo'yicha tanlang.<br>Yashil nuqta (●) — to'liq tayyorlangan dars rejasi.</p>
       <button class="open-nav-btn" type="button" onclick="setNav(true)">Darslar ro'yxatini ochish</button>
+      <a class="dl-big" href="jihozlar_5-8-sinf.xlsx" download>⤓ 5–8-sinf jihozlari ro'yxati (Excel)</a>
+      <div class="dl-note">SET A (5–6-sinf) va SET B (7–8-sinf) to'plamlari, sinf uchun umumiy jihozlar</div>
     </div>
   </main>
 </div>

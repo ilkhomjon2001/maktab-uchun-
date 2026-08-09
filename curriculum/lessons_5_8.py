@@ -12,6 +12,8 @@ Natija: generate_lessons_5_8.py orqali site/sample_lessons.js ga qo'shiladi.
 import re
 
 from ulanish import bolim as ulanish_bolim
+from kb_5_8 import MAVZULAR as KB_MAVZULAR, KIRISH as KB_KIRISH, \
+    NAZORAT as KB_NAZORAT, LOYIHA as KB_LOYIHA
 
 # ============================================================ ATAMALAR BAZASI
 # Kalit so'z -> "Atama (inglizcha) – ta'rif"
@@ -236,6 +238,56 @@ def short(mavzu):
     return s if s else mavzu
 
 
+# Plataga ulash ma'lumoti faqat plata ishlatiladigan darsda ma'noga ega.
+# 5-6-sinfning platasiz elektronika darslarida "Arduino Uno D9" deyish xato bo'lardi.
+_PLATA_MAVZU = re.compile(r"arduino|plata|blok|mikrokontroller|\bIDE\b", re.I)
+
+
+def plataga_ulanadimi(mavzu, track):
+    if track in ("arduino", "esp32", "ai"):
+        return True
+    return bool(_PLATA_MAVZU.search(mavzu))
+
+
+def _kichik(s):
+    """Gap ichiga qo'yish uchun faqat BIRINCHI harfni kichraytiradi.
+    Butun satrni lower() qilish qisqartma va modul nomlarini buzadi."""
+    return s[:1].lower() + s[1:] if s else s
+
+
+def kb_kalit(mavzu):
+    """Kontent bazasi kaliti — sillabusdagi asl satr (prefikssiz, qavs bilan)."""
+    return _PREFIX.sub("", mavzu).strip()
+
+
+def kb_topilsin(mavzu, tur):
+    """Shu dars uchun aniq kontent. Topilmasa None — shablon ishlatiladi."""
+    k = kb_kalit(mavzu)
+    if tur == "mavzu":
+        return KB_MAVZULAR.get(k)
+    if tur == "kirish":
+        return KB_KIRISH.get(k)
+    if tur == "nazorat":
+        return KB_NAZORAT.get(k)
+    if tur == "loyiha":
+        return KB_LOYIHA.get(k)
+    return None
+
+
+def amaliy_nomi(mavzu, tur):
+    """Darsning AMALIY ISHI nomi.
+
+    CLAUDE.md qoidasi: mavzu (ilmiy tema) va amaliy ish AJRATILGAN. Mavzu
+    dars sarlavhasida, amaliy ish esa alohida qatorda ko'rsatiladi.
+    """
+    kb = kb_topilsin(mavzu, tur)
+    if not kb:
+        return None
+    if tur in ("nazorat", "loyiha"):
+        return kb.get("nom")
+    return kb.get("amaliy")
+
+
 # ============================================================ BO'LIM QURUVCHI
 
 def build_maqsad(mavzu, track, sinf, tur):
@@ -264,40 +316,81 @@ def build_maqsad(mavzu, track, sinf, tur):
         "esp32": ("tushunadilar", "ESP32 platasida qo'llay oladilar", "mustaqil sozlay oladilar"),
         "ai": ("tushunadilar", "amaliy modelda ko'radilar", "mustaqil qo'llay oladilar"),
     }[track]
+    kb = kb_topilsin(mavzu, tur)
+    uchinchi = (f"O'quvchilar amaliy ishni — {_kichik(kb['amaliy'])} — {verbs[2]}."
+                if kb else
+                f"O'quvchilar shu mavzu bo'yicha berilgan amaliy vazifani {verbs[2]}.")
     return [
         f"O'quvchilar \"{s}\" mavzusining asosiy tushunchalarini {verbs[0]}.",
         f"O'quvchilar bu tushunchani {verbs[1]} va natijani izohlay oladilar.",
-        f"O'quvchilar shu mavzu bo'yicha berilgan amaliy vazifani {verbs[2]}.",
+        uchinchi,
     ]
 
 
 def build_nazariya(mavzu, track, tur):
     s = short(mavzu)
+    kb = kb_topilsin(mavzu, tur)
+
     if tur == "kirish":
-        return [
-            {"title": "5.1. Chorak rejasi bilan tanishuv (10 daqiqa)", "points": [
+        bloklar = []
+        if kb:
+            bloklar.append({"title": "5.1. Chorak rejasi va maqsadlar (12 daqiqa)",
+                            "points": list(kb["nazariya"])})
+        else:
+            bloklar.append({"title": "5.1. Chorak rejasi bilan tanishuv (10 daqiqa)", "points": [
                 "O'qituvchi chorak davomida o'rganiladigan mavzularni umumiy ko'rsatadi.",
                 "Chorak oxirida qanday natijaga erishilishi tushuntiriladi.",
-            ]},
-            {"title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)", "points": [
-                "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-                "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi.",
-            ]},
-        ]
+            ]})
+        bloklar.append({"title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)", "points": [
+            "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
+            "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi.",
+        ]})
+        return bloklar
+
     if tur == "nazorat":
+        if kb:
+            points = [f"Musobaqa nomi: {kb['nom']}.", kb["vazifa"]]
+            if kb.get("vaqt"):
+                d = kb["vaqt"] // 60
+                points.append(f"Umumiy vaqt chegarasi — {d} daqiqa. Vaqt sekundomer bilan o'lchanadi.")
+            points.append("Baholash mezonlari oldindan e'lon qilinadi (quyidagi jadvalga qarang).")
+            return [{"title": f"5.1. \"{kb['nom']}\" — shartlar va mezonlar (8 daqiqa)",
+                     "points": points}]
         return [
             {"title": "5.1. Nazorat shartlari (7 daqiqa)", "points": [
                 "O'qituvchi vazifa shartini va baholash mezonlarini e'lon qiladi.",
                 "Vaqt chegarasi va ruxsat etilgan yordam darajasi aytiladi.",
             ]},
         ]
+
     if tur == "loyiha":
+        if kb:
+            return [{"title": f"5.1. \"{kb['nom']}\" — talablar (8 daqiqa)",
+                     "points": ["Loyihaga qo'yiladigan talablar:"] +
+                               [f"— {t}" for t in kb["talablar"]] +
+                               ["Ball taqsimoti quyidagi jadvalda berilgan, jami 100 ball."]}]
         return [
             {"title": "5.1. Loyiha talablari (8 daqiqa)", "points": [
                 "Loyihaga qo'yiladigan talablar va baholash mezonlari tushuntiriladi.",
                 "Namuna sifatida tayyor ish ko'rsatiladi va tahlil qilinadi.",
             ]},
         ]
+
+    # --- Oddiy mavzu darsi: bazada aniq matn bo'lsa, o'sha ishlatiladi ---
+    if kb:
+        bloklar = [
+            {"title": "5.1. Takrorlash va bugungi savol (5 daqiqa)", "points": [
+                "O'tgan darsdagi asosiy natija qisqa takrorlanadi.",
+                f"Bugungi mavzu — \"{s}\" — nima uchun kerakligi hayotiy misol bilan bog'lanadi.",
+            ]},
+            {"title": f"5.2. {s} — asosiy tushuncha (14 daqiqa)",
+             "points": list(kb["nazariya"])},
+        ]
+        if kb.get("savol"):
+            bloklar.append({"title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+                            "points": [f"Savol: {q}  Javob: {a}" for q, a in kb["savol"]]})
+        return bloklar
+
     intro = {
         "elektronika": "O'tgan darsdagi zanjir va o'lchov ko'nikmalari qisqa takrorlanadi.",
         "arduino": "O'tgan darsdagi dastur tuzilishi va sxema qisqa takrorlanadi.",
@@ -337,6 +430,66 @@ def build_nazariya(mavzu, track, tur):
 
 def build_amaliy(mavzu, track, tur):
     s = short(mavzu)
+    kb = kb_topilsin(mavzu, tur)
+
+    if kb and tur == "nazorat":
+        return [
+            {"title": f"6.1. \"{kb['nom']}\" — mustaqil bajarish (25 daqiqa)",
+             "points": [f"{i}) {t}" for i, t in enumerate(kb["talablar"], 1)]},
+            {"title": "6.2. Natijani ko'rsatish va baholash (8 daqiqa)", "points": [
+                "O'quvchi ishini ko'rsatib, qanday qilganini qisqa tushuntiradi.",
+                "O'qituvchi mezon jadvali bo'yicha ball qo'yadi va izoh beradi.",
+            ]},
+        ]
+
+    if kb and tur == "loyiha":
+        return [
+            {"title": f"6.1. \"{kb['nom']}\" — yig'ish va dasturlash (22 daqiqa)",
+             "points": [f"{i}) {t}" for i, t in enumerate(kb["talablar"], 1)]},
+            {"title": "6.2. Sinov va tuzatish (8 daqiqa)", "points": [
+                "Qurilma talablar ro'yxati bo'yicha bandma-band sinaladi.",
+                "Aniqlangan kamchiliklar tuzatiladi va sinov qaytariladi.",
+            ]},
+            {"title": "6.3. Taqdimot (5 daqiqa)", "points": [
+                "Muammo, yechim, namoyish va cheklovlar tartibida qisqacha taqdim etiladi.",
+            ]},
+        ]
+
+    if kb and tur == "kirish":
+        return [
+            {"title": f"6.1. {kb['amaliy']} (15 daqiqa)", "points": [
+                "O'quvchilar berilgan vazifani juftlikda bajaradilar.",
+                "Natija ish daftariga yoziladi.",
+            ]},
+            {"title": "6.2. Ish daftarini boshlash (7 daqiqa)", "points": [
+                "Ish daftarining birinchi sahifasi to'ldiriladi.",
+                "Daftarni qanday yuritish kerakligi namunada ko'rsatiladi.",
+            ]},
+        ]
+
+    if kb and tur == "mavzu":
+        tekshiruv = {
+            "elektronika": "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi.",
+            "arduino": "Natija Serial monitor orqali tekshiriladi va kod izohi bilan daftarga yoziladi.",
+            "esp32": "Natija Serial monitor yoki ekran orqali tekshiriladi va yozib olinadi.",
+            "ai": "Natija qurilmada sinab ko'riladi va o'lchangan qiymat yozib olinadi.",
+        }[track]
+        return [
+            {"title": "6.1. Tayyorgarlik (5 daqiqa)", "points": [
+                "Kerakli komponentlar tanlanadi va ish o'rni tayyorlanadi.",
+                "Juftliklar vazifani o'zaro bo'lib oladilar.",
+            ]},
+            {"title": "6.2. Amaliy ish (15 daqiqa)", "points": [
+                "Bajariladigan ish: " + _kichik(kb["amaliy"]) + ".",
+                tekshiruv,
+            ]},
+            {"title": "6.3. Tekshirish va tuzatish (8 daqiqa)", "points": [
+                (("Ko'p uchraydigan xato: " + kb["xato"]) if kb.get("xato")
+                 else "Ishlamagan holatda xato bosqichma-bosqich izlanadi."),
+                "Natija ish daftariga yoziladi: nima qilindi, nima chiqdi.",
+            ]},
+        ]
+
     if tur == "kirish":
         return [
             {"title": "6.1. Jihoz bilan tanishuv (15 daqiqa)", "points": [
@@ -436,7 +589,9 @@ def build_resurslar(track, mavzu):
 def build_lesson(mavzu, track, tur, sinf, yil, chorak, idx, hafta, modul):
     # Ulanish sxemasi va kutubxona — 07 dan keyingi qo'shimcha bo'lim.
     # ESP32 yo'nalishlarida pinlar boshqacha, shuning uchun esp bayrog'i beriladi.
-    ulanish_bloklari = ulanish_bolim(mavzu, esp=(track in ("esp32", "ai")))
+    ulanish_bloklari = (ulanish_bolim(mavzu, esp=(track in ("esp32", "ai")))
+                        if plataga_ulanadimi(mavzu, track) else [])
+    kb = kb_topilsin(mavzu, tur)
     d = {
         "maqsad": build_maqsad(mavzu, track, sinf, tur),
         "lugat": pick_terms(mavzu, track),
@@ -454,6 +609,17 @@ def build_lesson(mavzu, track, tur, sinf, yil, chorak, idx, hafta, modul):
             "davomiyligi": "45 daqiqa",
         },
     }
+    # --- 07 dan keyingi qo'shimcha bo'limlar ---
+    if kb and kb.get("qollanma"):
+        d["qollanma"] = {"matn": kb["qollanma"]}
+        if kb.get("xato"):
+            d["qollanma"]["xato"] = kb["xato"]
+    if kb and tur == "nazorat":
+        d["mezon"] = {"turi": "nazorat", "nom": kb["nom"], "vaqt": kb.get("vaqt"),
+                      "ustunlar": ["Baho", "Shart"], "qatorlar": kb["mezon"]}
+    if kb and tur == "loyiha":
+        d["mezon"] = {"turi": "loyiha", "nom": kb["nom"], "vaqt": None,
+                      "ustunlar": ["Baholanadigan band", "Ball"], "qatorlar": kb["mezon"]}
     if ulanish_bloklari:
         d["ulanish"] = ulanish_bloklari
     return d

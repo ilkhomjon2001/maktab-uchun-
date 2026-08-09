@@ -78,7 +78,7 @@ ULANISH = {
      ("GND", "GND", "")],
     diqqat="Yorqinlik setIntensity(0..15) bilan sozlanadi — maksimalda modul "
            "ko'p tok tortadi.",
-    kalitlar=["matritsa", "max7219", "8x8"]),
+    kalitlar=["led matritsa", "max7219", "8x8"]),
 
 "WS2812 adreslanadigan LED lenta": C(
     "Adafruit NeoPixel", "#include <Adafruit_NeoPixel.h>",
@@ -126,7 +126,7 @@ ULANISH = {
     diqqat="Rezistorsiz ulansa pin \"suzib\" qoladi va tasodifiy qiymat o'qiladi. "
            "Eng oson yo'l: pinMode(2, INPUT_PULLUP) — ichki rezistor ishlatiladi, "
            "bu holda bosilganda LOW o'qiladi.",
-    kalitlar=["tugma", "button", "debounce", "kalit"]),
+    kalitlar=["tugma", "button", "debounce", "digitalread"]),
 
 "Potensiometr 10 kOm": C(
     None, None,
@@ -167,7 +167,7 @@ ULANISH = {
            ("GND", "GND", "")],
     diqqat="Tortuvchi rezistorsiz o'qish \"nan\" qaytaradi. DHT22 sekundda "
            "faqat bir marta o'qiladi — tezroq so'rov qilsa eski qiymat keladi.",
-    kalitlar=["dht", "harorat", "namlik", "meteo", "ob-havo"]),
+    kalitlar=["dht", "harorat va namlik", "namlik va harorat", "meteo", "ob-havo"]),
 
 "HC-SR04 (ultratovush masofa)": C(
     None, None,
@@ -191,7 +191,7 @@ ULANISH = {
      ("GND", "GND", "")],
     diqqat="Yoqilgandan keyin 30-60 sekund \"isinadi\" — bu vaqtda noto'g'ri "
            "signal beradi. Moduldagi ikki vint sezgirlik va kechikishni sozlaydi.",
-    kalitlar=["pir", "harakat", "hc-sr501"]),
+    kalitlar=["pir", "harakat datchi", "harakatni aniqlash", "hc-sr501"]),
 
 "Tuproq namligi datchigi": C(
     None, None,
@@ -309,7 +309,7 @@ ULANISH = {
     diqqat="Servo ishga tushganda kuchlanish cho'kadi va plata qayta yuklanadi — "
            "shuning uchun quvvat liniyasiga 100 uF kondensator qo'yiladi. "
            "ESP32 uchun \"ESP32Servo\" kutubxonasi kerak.",
-    kalitlar=["servo", "sg90", "shlagbaum", "burchak"]),
+    kalitlar=["servo", "sg90", "shlagbaum"]),
 
 "DC motor (tranzistor orqali)": C(
     None, None,
@@ -364,7 +364,7 @@ ULANISH = {
     diqqat="Ko'p modullar TESKARI mantiqda ishlaydi: LOW berilganda ulanadi. "
            "220V bilan ishlash O'QITUVCHI NAZORATIDA va faqat namoyish tarzida "
            "bo'lishi kerak — o'quvchilarga 220V tegishi mumkin emas.",
-    kalitlar=["rele", "relay", "rozetka", "yuklama"]),
+    kalitlar=["rele", "relay", "rozetka", "kuchli yuklama"]),
 
 "Lazer moduli": C(
     None, None,
@@ -515,8 +515,8 @@ ULANISH = {
            "asosiy sabab. Model Edge Impulse'da o'rgatiladi va ZIP kutubxona "
            "sifatida yuklab olinadi, keyin IDE'ga qo'shiladi. "
            "PSRAM sozlamasi yoqilgan bo'lishi kerak, aks holda kamera ishlamaydi.",
-    kalitlar=["xiao", "esp32s3", "kamera", "mikrofon", "tasvir tan", "ovoz tan",
-              "edge impulse", "tinyml", "model"]),
+    kalitlar=["xiao", "esp32s3", "kamera", "mikrofondan", "tasvir tan", "ovoz tan",
+              "tasvir ma'lumot", "ovoz buyruq", "ovoz modeli"]),
 
 "ESP32-CAM": C(
     None, "#include <esp_camera.h>",
@@ -583,7 +583,15 @@ def bolim(mavzu, esp=False):
                           "darajasi esa 3.3V ekanini hisobga olish kerak.")
         if d["diqqat"]:
             points.append("DIQQAT: " + d["diqqat"])
-        bloklar.append({"nom": nom, "points": points})
+        # Chizma uchun strukturali ma'lumot. app.js shundan SVG sxema chizadi —
+        # matn ro'yxati bilan bir xil manbadan, shuning uchun ular hech qachon
+        # bir-biridan farq qilib qolmaydi.
+        bloklar.append({
+            "nom": nom,
+            "points": points,
+            "plata": plata,
+            "pinlar": [[pin, port, izoh] for pin, port, izoh in pinlar],
+        })
     return bloklar
 
 

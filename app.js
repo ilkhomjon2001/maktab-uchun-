@@ -90,7 +90,12 @@ function renderTree(){
         const item = document.createElement('div');
         const isReady = !!LESSON_CONTENT[key];
         item.className = 'dars-item' + (isReady ? ' ready':'') + (key===activeKey ? ' active':'');
-        const label = l.model ? `${l.title} <span style="color:var(--text-faint)">— ${l.model}</span>` : l.title;
+        // 5-8-sinfda "model" — amaliy ish tavsifi, u uzun bo'lishi mumkin.
+        // Ro'yxatda qisqartiriladi, to'liq matni dars sahifasida ko'rinadi.
+        const qisqa = l.model && l.model.length > 46 ? l.model.slice(0, 44) + '…' : l.model;
+        const label = l.model
+          ? `${esc(l.title)} <span style="color:var(--text-faint)">— ${esc(qisqa)}</span>`
+          : esc(l.title);
         item.innerHTML = `<span class="dnum">${idx+1}.</span><span>${label}</span>`;
         item.onclick = ()=> selectLesson(l, key, item);
         darsList.appendChild(item);
@@ -368,11 +373,105 @@ function maydonSection(content, num){
 // 5-8-sinf darslari uchun: komponentni qaysi portga ulash va qaysi kutubxona kerak.
 // Kichik bo'lim raqamlari (8.1, 8.2 ...) shu yerda beriladi — ma'lumotda raqam yo'q,
 // shuning uchun bo'lim tartibi o'zgarsa raqamlar o'zi to'g'rilanadi.
+// 5-8-sinfda "model" maydoni amaliy ishni bildiradi (0-4 da — qurilgan model nomi).
+// Mavzu va amaliy ish ajratilgani sarlavhada ham ko'rinib turishi kerak.
+function modelLabel(key){
+  const sinf = String(key || '').split('|')[1] || '';
+  return /^[5-8]-sinf$/.test(sinf) ? 'Amaliy ish: ' : '';
+}
+
+// 5-8-sinf: o'qituvchi uchun metodik ko'rsatma — mavzuni qanday tushuntirish
+// kerakligi va shu mavzuda o'quvchilar ko'p qiladigan xato.
+function qollanmaSection(content, num){
+  const q = content && content.qollanma;
+  if (!q || !q.matn) return '';
+  const xato = q.xato
+    ? `<div class="xato-box"><b>Ko'p uchraydigan xato:</b> ${esc(q.xato)}</div>` : '';
+  return `
+    <div class="section">
+      <div class="section-num">${num}</div>
+      <h2>O'qituvchi uchun qo'llanma</h2>
+      <div class="soft-skill-box"><p>${esc(q.matn)}</p></div>
+      ${xato}
+    </div>`;
+}
+
+// Nazorat-musobaqa va loyiha uchun aniq baholash jadvali.
+function mezonSection(content, num){
+  const m = content && content.mezon;
+  if (!m || !m.qatorlar || !m.qatorlar.length) return '';
+  const sarlavha = m.turi === 'loyiha' ? 'Loyihani baholash mezonlari'
+                                       : 'Baholash mezonlari';
+  const rows = m.qatorlar.map(r=>`
+    <tr><td class="tk">${esc(String(r[0]))}</td><td>${esc(String(r[1]))}</td></tr>`).join('');
+  const jami = m.turi === 'loyiha'
+    ? `<tfoot><tr><td></td><td>Jami — ${m.qatorlar.reduce((s,r)=>s+(Number(r[1])||0),0)} ball</td></tr></tfoot>`
+    : (m.vaqt ? `<tfoot><tr><td></td><td>Umumiy vaqt chegarasi — ${Math.round(m.vaqt/60)} daqiqa</td></tr></tfoot>` : '');
+  return `
+    <div class="section">
+      <div class="section-num">${num}</div>
+      <h2>${sarlavha}</h2>
+      <div class="subhead">${esc(m.nom)}</div>
+      <div class="score-wrap">
+        <table class="score-table mezon-table">
+          <thead><tr><th>${esc(m.ustunlar[0])}</th><th>${esc(m.ustunlar[1])}</th></tr></thead>
+          <tbody>${rows}</tbody>
+          ${jami}
+        </table>
+      </div>
+    </div>`;
+}
+
+// Ulanish chizmasi. Matn ro'yxati bilan bir xil manbadan (b.pinlar) chiziladi,
+// shuning uchun chizma va matn hech qachon bir-biridan farq qilib qolmaydi.
+function wireClass(port){
+  const p = (port || '').toUpperCase();
+  if (/\b(5V|3\.3V|VIN|VCC)\b/.test(p)) return 'wd-pwr';    // quvvat — qizil
+  if (/GND/.test(p)) return 'wd-gnd';                        // yer — qora
+  if (/^—|^-$/.test(p.trim())) return 'wd-none';             // ulanmaydi
+  return 'wd-sig';                                           // signal — ko'k
+}
+
+function wiringSvg(blok){
+  const pins = blok.pinlar || [];
+  if (!pins.length) return '';
+  const W = 640, ROW = 44, TOP = 62;
+  const H = TOP + pins.length * ROW + 14;
+  const bx = 16, bw = 168, cx = 456, cw = 168;
+  const boxTop = TOP - 30, boxH = pins.length * ROW + 12;
+
+  const rows = pins.map((p, i)=>{
+    const y = TOP + i * ROW;
+    const [pin, port, izoh] = p;
+    const cls = wireClass(port);
+    const nechta = cls === 'wd-none'
+      ? `<line class="wd-wire wd-none" x1="${bx+bw}" y1="${y}" x2="${cx}" y2="${y}"/>`
+      : `<line class="wd-wire ${cls}" x1="${bx+bw}" y1="${y}" x2="${cx}" y2="${y}"/>
+         <circle class="wd-dot ${cls}" cx="${bx+bw}" cy="${y}" r="4"/>
+         <circle class="wd-dot ${cls}" cx="${cx}" cy="${y}" r="4"/>`;
+    const note = izoh ? `<text class="wd-note" x="${(bx+bw+cx)/2}" y="${y-8}" text-anchor="middle">${esc(izoh.length>46 ? izoh.slice(0,44)+'…' : izoh)}</text>` : '';
+    return `${nechta}${note}
+      <text class="wd-port" x="${bx+bw-12}" y="${y+4}" text-anchor="end">${esc(port)}</text>
+      <text class="wd-pin"  x="${cx+12}" y="${y+4}">${esc(pin)}</text>`;
+  }).join('');
+
+  return `<div class="wd-wrap"><svg class="wd" viewBox="0 0 ${W} ${H}" role="img"
+      aria-label="${esc(blok.nom)} — ${esc(blok.plata||'')} bilan ulanish sxemasi">
+      <rect class="wd-box wd-board" x="${bx}" y="${boxTop}" width="${bw}" height="${boxH}" rx="8"/>
+      <rect class="wd-box wd-comp"  x="${cx}" y="${boxTop}" width="${cw}" height="${boxH}" rx="8"/>
+      <text class="wd-cap" x="${bx+bw/2}" y="${boxTop-10}" text-anchor="middle">${esc(blok.plata||'Plata')}</text>
+      <text class="wd-cap" x="${cx+cw/2}" y="${boxTop-10}" text-anchor="middle">${esc(blok.nom)}</text>
+      ${rows}
+    </svg></div>
+    <div class="scroll-hint">← chizmani yon tomonga surib ko'ring →</div>`;
+}
+
 function ulanishSection(content, num){
   const u = content && content.ulanish;
   if (!u || !u.length) return '';
   const bloklar = u.map((b, i)=>`
     <div class="subhead">${parseInt(num,10)}.${i+1}. ${esc(b.nom)} — ulanish va kutubxona</div>
+    ${wiringSvg(b)}
     <ul>${b.points.map(p=>`<li>${esc(p)}</li>`).join('')}</ul>`).join('');
   return `
     <div class="section">
@@ -392,6 +491,8 @@ function extraSections(l, content){
   if (content) {
     push(k=> topshiriqSection(content, k));
     push(k=> maydonSection(content, k));
+    push(k=> qollanmaSection(content, k));
+    push(k=> mezonSection(content, k));
     push(k=> ulanishSection(content, k));
   }
   push(k=> instructionSection(l, k));
@@ -412,7 +513,7 @@ function selectLesson(l, key, itemEl){
       <div class="lesson-header">
         <div class="badge-row"><span class="type-badge ${l.type}">${TYPE_LABELS[l.type]||l.type}</span></div>
         <div class="lesson-title">${esc(l.title)}</div>
-        ${l.model ? `<div class="lesson-model">▸ ${esc(l.model)}</div>` : ''}
+        ${l.model ? `<div class="lesson-model">▸ ${modelLabel(key)}${esc(l.model)}</div>` : ''}
       </div>
       <div class="not-ready">
         <div class="tag">TAYYORLANMOQDA</div>
@@ -430,7 +531,7 @@ function selectLesson(l, key, itemEl){
     <div class="lesson-header">
       <div class="badge-row"><span class="type-badge ${l.type}">${TYPE_LABELS[l.type]||l.type}</span></div>
       <div class="lesson-title">${esc(l.title)}</div>
-      ${l.model ? `<div class="lesson-model">▸ ${esc(l.model)}</div>` : ''}
+      ${l.model ? `<div class="lesson-model">▸ ${modelLabel(key)}${esc(l.model)}</div>` : ''}
     </div>
 
     <div class="meta-grid">
