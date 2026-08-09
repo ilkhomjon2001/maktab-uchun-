@@ -5097,3 +5097,16 @@ void loop() {
 
 }
 
+# 2-qism alohida faylda (bu fayl juda kattalashmasligi uchun).
+from kb_kod2 import KODLAR2 as _K2
+
+for _k, _v in _K2.items():
+    if _k in KODLAR:
+        raise ValueError("kb_kod: kalit ikki faylda takrorlangan: " + _k)
+    KODLAR[_k] = _v
+
+
+if __name__ == "__main__":
+    print("kod namunasi:", len(KODLAR))
+    print("amaliy ishi qayta yozilgan:", sum(1 for v in KODLAR.values() if v["amaliy"]))
+    print("kod qatorlari:", sum(v["kod"].count(chr(10)) + 1 for v in KODLAR.values()))

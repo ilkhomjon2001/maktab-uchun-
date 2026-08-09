@@ -51,6 +51,20 @@ site/curriculum/       — Excel dasturini generatsiya qiluvchi Python skriptlar
                            + 32 loyiha (100 ballik taqsimot)
   lessons_5_8.py         — reja generatori (KB dan foydalanadi, shablonga faqat zaxira)
   ulanish.py             — 45 komponent: kutubxona, #include, pin xaritasi, DIQQAT
+  pasport.py             — AYNI 45 komponentning TO'LIQ pasporti: texnik tasnif
+                           (ta'minot, oraliq, aniqlik, tok, oyoqlar), ichida fizik
+                           jihatdan nima sodir bo'lishi, qiymatni o'qish tartibi va
+                           ishlaydigan sketch. Kaliti ulanish.py bilan AYNAN bir xil —
+                           `python pasport.py` moslikni tekshiradi.
+  kb_kod.py + kb_kod2.py — 135 sof dasturlash mavzusi uchun sketch. Har birida
+                           `amaliy` ham bor va u sillabusdagi amaliy ishni
+                           ALMASHTIRADI (nazariy dars temirsiz qolmasligi uchun).
+  kb_chuqur.py + _2 + _3 — 92 mavzu uchun QO'SHIMCHA nazariya bloklari (elektronika
+                           nazariyasi, AI tushunchalari, muhandislik bosqichlari)
+                           + KIRISH_YO: chorak kirish darslari uchun yo'nalish
+                           bo'yicha umumiy bloklar (4 yo'nalish)
+  kb_amaliy.py           — 24 ta qog'ozdagi amaliyot temirga bog'langan variantga
+                           qayta yozilgan (eng yuqori ustunlikka ega)
   jihozlar.py + build_jihozlar_xlsx.py — SET A/SET B jihoz ro'yxati va Excel
   generate_5_8.py        — 5-8 ni tree_data.js va sample_lessons.js ga QO'SHADI
                            (0-4 ga TEGMAYDI, har ishga tushirishdan keyin tekshiriladi)
@@ -83,6 +97,17 @@ D:\maktab uchun sayt\Robot master(PM) instruction-*.zip  — manba rasmlar (2 ta
 - **5-8-sinf nazoratlari nomli musobaqa**: har birining nomi (CircuitSpeed, OhmCheck,
   GestureML ...) va aniq, o'lchanadigan mezoni bor — 5/4/3/2/Bajarilmadi va vaqt
   chegarasi. Bu 0-4 dagi RoboRace uslubining davomi. `kb_nazorat.py` da.
+- **5-8 da nazariya YUZA BO'LMASLIGI kerak.** "O'qituvchi qarshilikni tushuntiradi"
+  yozib qo'yish yetarli emas — bazada o'qituvchi AYTADIGAN matnning o'zi bo'lishi
+  shart: sonlar, formulalar, ishlangan misollar. Komponent darslarida datasheet
+  darajasidagi tasnif (oraliq, aniqlik, ta'minot, oyoqlar, kutubxona, qiymatni
+  o'qish tartibi) va ishlaydigan kod beriladi — `pasport.py`. O'rtacha nazariya
+  hajmi 5-8 uchun ~1170 belgi (dastlab 396 edi); undan pastga tushirilmaydi.
+- **Har bir 5-8 darsida ELEKTRONIKA amaliyoti bo'ladi.** Sof nazariy dars
+  qoldirilmaydi: "ma'lumot turlari" darsida ham potensiometr, tugma va LED
+  yig'iladi. Ustunlik tartibi: `kb_amaliy.py` > `kb_kod*.py` dagi `amaliy` >
+  `kb_y*.py` dagi `amaliy`. Faqat hujjatlashtirish, rejalashtirish, taqdimot va
+  peer review darslari qog'ozda qoladi — u yerda qog'oz ishning O'ZI.
 - **SPIKE (2-yil 4-sinf)**: 1-chorak = 100% qurish (LEGO rasmiy nomlari: Driving Base 1/2/3, StarterBot, Robot Arm va h.k., education.lego.com dan). 3-4-chorak = to'liq missiya-asosida (Missiya 1-4), nazoratlar ball tizimi bilan (FLL uslubida).
 - **Dars reja shabloni**: 7 bo'lim — Maqsad (3 band), Lug'at (5 ta), Soft skill, Resurslar, Nazariya qismi (kichik bo'limlarga bo'lingan, har birida daqiqa ko'rsatilgan), Amaliy ishlar (xuddi shunday), Uyga vazifa. Bu format foydalanuvchi tomonidan TASDIQLANGAN, **01–07 raqamlari o'zgarmaydi**. Qo'shimcha bo'limlar faqat 07 dan KEYIN qo'shiladi va ketma-ket raqamlanadi (08, 09, ...).
 - **Bir xil temadagi darslar HAR XIL narsa o'rgatadi.** 5 ta "Richag qonuni" darsi bo'lsa, har biri richagning boshqa jihatini beradi (`lesson_subtopics*.py`, 178 sub-mavzu; `generate_lessons.py` dagi `theme_counter` har sinf ichida navbat bilan aylantiradi). Yangi dars qo'shilsa shu tizim buzilmasligi kerak.

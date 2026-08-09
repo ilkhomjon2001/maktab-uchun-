@@ -67363,10 +67363,33 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Har bir dars bir xil tartibda o'tadi: takrorlash, yangi mavzu, sxema yig'ish, o'lchash, natijani yozish.",
+     "Ish juftlikda bajariladi: bittasi yig'adi, ikkinchisi sxema bo'yicha tekshiradi, keyin almashadilar.",
+     "Har dars oxirida ish daftariga yoziladi: nima yig'ildi, qanday qiymat o'lchandi, qanday xato bo'ldi.",
+     "Chorak oxirida nazorat musobaqasi va loyiha bo'ladi — ularning mezonlari oldindan e'lon qilinadi."
+    ]
+   },
+   {
+    "title": "5.3. Elektr xavfsizligi — asosiy qoidalar (5 daqiqa)",
+    "points": [
+     "Darsda ishlatiladigan kuchlanish 3,3-9 V — bu inson uchun xavfsiz oraliq.",
+     "220 V bilan ishlash faqat o'qituvchi nazoratida va faqat namoyish tarzida bo'ladi.",
+     "Zanjirni o'zgartirishdan oldin quvvat UZILADI. Ulangan holatda sim ulash — eng ko'p uchraydigan xato.",
+     "Batareyaning ikki qutbini bevosita ulash mumkin emas: bu qisqa tutashuv, batareya qiziydi.",
+     "Qizigan komponentni ushlamaslik: rezistor va stabilizator 80 darajagacha qizishi mumkin.",
+     "Ishdan keyin quvvat uziladi va komponentlar joyiga qaytariladi."
+    ]
+   },
+   {
+    "title": "5.4. Ish o'rni va jihoz (5 daqiqa)",
+    "points": [
+     "Stol toza va quruq bo'lishi kerak — suv va elektronika birga bo'lmaydi.",
+     "Komponentlar qutichada saralab saqlanadi: rezistorlar alohida, LEDlar alohida.",
+     "Breadboard, multimetr va simlar to'plami har juftlikda alohida bo'ladi.",
+     "Jihoz buzilsa yashirilmaydi — darhol aytiladi. Buzilgan jihoz bilan ishlash xavfli.",
+     "To'plam to'liqligi dars boshida va oxirida ro'yxat bo'yicha tekshiriladi."
     ]
    }
   ],
@@ -67407,7 +67430,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Elektr xavfsizligi: nima mumkin, nima mumkin emas\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani zanjirda amalda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — xavfsizlik plakatini to'ldirish va ish o'rnini qoidaga solib tayyorlash — mustaqil yig'a oladilar."
+   "O'quvchilar amaliy ishni — xavfsizlik plakatini to'ldirib, keyin uni AMALDA sinash: batareya, rezistor va LEDdan to'g'ri zanjir yig'ish, so'ng o'qituvchi nazoratida qisqa tutashuvni bir lahza hosil qilib, simning qizishini qo'l bilan sezish va nima uchun bu taqiqlanishini yozib olish — mustaqil yig'a oladilar."
   ],
   "lugat": [
    "Elektr zanjiri (Circuit) – tok aylanib yuradigan yopiq yo'l",
@@ -67460,7 +67483,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: xavfsizlik plakatini to'ldirish va ish o'rnini qoidaga solib tayyorlash.",
+     "Bajariladigan ish: xavfsizlik plakatini to'ldirib, keyin uni AMALDA sinash: batareya, rezistor va LEDdan to'g'ri zanjir yig'ish, so'ng o'qituvchi nazoratida qisqa tutashuvni bir lahza hosil qilib, simning qizishini qo'l bilan sezish va nima uchun bu taqiqlanishini yozib olish.",
      "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi."
     ]
    },
@@ -69559,10 +69582,33 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Har bir dars bir xil tartibda o'tadi: takrorlash, yangi mavzu, sxema yig'ish, o'lchash, natijani yozish.",
+     "Ish juftlikda bajariladi: bittasi yig'adi, ikkinchisi sxema bo'yicha tekshiradi, keyin almashadilar.",
+     "Har dars oxirida ish daftariga yoziladi: nima yig'ildi, qanday qiymat o'lchandi, qanday xato bo'ldi.",
+     "Chorak oxirida nazorat musobaqasi va loyiha bo'ladi — ularning mezonlari oldindan e'lon qilinadi."
+    ]
+   },
+   {
+    "title": "5.3. Elektr xavfsizligi — asosiy qoidalar (5 daqiqa)",
+    "points": [
+     "Darsda ishlatiladigan kuchlanish 3,3-9 V — bu inson uchun xavfsiz oraliq.",
+     "220 V bilan ishlash faqat o'qituvchi nazoratida va faqat namoyish tarzida bo'ladi.",
+     "Zanjirni o'zgartirishdan oldin quvvat UZILADI. Ulangan holatda sim ulash — eng ko'p uchraydigan xato.",
+     "Batareyaning ikki qutbini bevosita ulash mumkin emas: bu qisqa tutashuv, batareya qiziydi.",
+     "Qizigan komponentni ushlamaslik: rezistor va stabilizator 80 darajagacha qizishi mumkin.",
+     "Ishdan keyin quvvat uziladi va komponentlar joyiga qaytariladi."
+    ]
+   },
+   {
+    "title": "5.4. Ish o'rni va jihoz (5 daqiqa)",
+    "points": [
+     "Stol toza va quruq bo'lishi kerak — suv va elektronika birga bo'lmaydi.",
+     "Komponentlar qutichada saralab saqlanadi: rezistorlar alohida, LEDlar alohida.",
+     "Breadboard, multimetr va simlar to'plami har juftlikda alohida bo'ladi.",
+     "Jihoz buzilsa yashirilmaydi — darhol aytiladi. Buzilgan jihoz bilan ishlash xavfli.",
+     "To'plam to'liqligi dars boshida va oxirida ro'yxat bo'yicha tekshiriladi."
     ]
    }
   ],
@@ -70724,7 +70770,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Tok taqsimlanish qoidasi (4 daqiqa)",
+    "points": [
+     "Har bir shoxdagi tok o'sha shoxning qarshiligiga TESKARI proporsional: qarshilik kichik bo'lsa tok ko'p oqadi.",
+     "Formula: I1 = U / R1, I2 = U / R2. Kuchlanish ikkalasida bir xil bo'lgani uchun hisob oson.",
+     "Misol: 5 V manba, shoxlar 100 Om va 500 Om. I1 = 50 mA, I2 = 10 mA. Umumiy tok 60 mA.",
+     "Ya'ni tok doim eng oson yo'ldan ko'proq oqadi — xuddi suv keng quvurdan ko'proq oqqani kabi."
+    ]
+   },
+   {
+    "title": "5.3. Qisqa tutashuv nima uchun xavfli (4 daqiqa)",
+    "points": [
+     "Qisqa tutashuv — bu qarshiligi deyarli nolga teng parallel shox.",
+     "Om qonuni bo'yicha shu shoxdagi tok juda katta bo'ladi va butun tok o'sha yo'ldan oqadi.",
+     "Natijada sim qiziydi, batareya tez bo'shaydi yoki qiziydi, plata shikastlanadi.",
+     "Shuning uchun zanjirni yig'ishdan oldin sim uchlarining tegib turmaganini ko'z bilan tekshirish odat bo'lishi kerak."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 6 V da 300 va 600 Om parallel. Umumiy tok?  Javob: 20 + 10 = 30 mA.",
      "Savol: Ikkita 200 Om parallel bo'lsa umumiy qarshilik?  Javob: 100 Om."
@@ -71505,10 +71569,33 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Har bir dars bir xil tartibda o'tadi: takrorlash, yangi mavzu, sxema yig'ish, o'lchash, natijani yozish.",
+     "Ish juftlikda bajariladi: bittasi yig'adi, ikkinchisi sxema bo'yicha tekshiradi, keyin almashadilar.",
+     "Har dars oxirida ish daftariga yoziladi: nima yig'ildi, qanday qiymat o'lchandi, qanday xato bo'ldi.",
+     "Chorak oxirida nazorat musobaqasi va loyiha bo'ladi — ularning mezonlari oldindan e'lon qilinadi."
+    ]
+   },
+   {
+    "title": "5.3. Elektr xavfsizligi — asosiy qoidalar (5 daqiqa)",
+    "points": [
+     "Darsda ishlatiladigan kuchlanish 3,3-9 V — bu inson uchun xavfsiz oraliq.",
+     "220 V bilan ishlash faqat o'qituvchi nazoratida va faqat namoyish tarzida bo'ladi.",
+     "Zanjirni o'zgartirishdan oldin quvvat UZILADI. Ulangan holatda sim ulash — eng ko'p uchraydigan xato.",
+     "Batareyaning ikki qutbini bevosita ulash mumkin emas: bu qisqa tutashuv, batareya qiziydi.",
+     "Qizigan komponentni ushlamaslik: rezistor va stabilizator 80 darajagacha qizishi mumkin.",
+     "Ishdan keyin quvvat uziladi va komponentlar joyiga qaytariladi."
+    ]
+   },
+   {
+    "title": "5.4. Ish o'rni va jihoz (5 daqiqa)",
+    "points": [
+     "Stol toza va quruq bo'lishi kerak — suv va elektronika birga bo'lmaydi.",
+     "Komponentlar qutichada saralab saqlanadi: rezistorlar alohida, LEDlar alohida.",
+     "Breadboard, multimetr va simlar to'plami har juftlikda alohida bo'ladi.",
+     "Jihoz buzilsa yashirilmaydi — darhol aytiladi. Buzilgan jihoz bilan ishlash xavfli.",
+     "To'plam to'liqligi dars boshida va oxirida ro'yxat bo'yicha tekshiriladi."
     ]
    }
   ],
@@ -72324,7 +72411,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Rang aralashtirish: qizil + yashil + ko'k\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani zanjirda amalda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — uch rangni turli kombinatsiyalarda yoqib, hosil bo'lgan ranglar jadvalini tuzish — mustaqil yig'a oladilar."
+   "O'quvchilar amaliy ishni — rGB LEDni uch PWM pinga ulab, uch rangni turli kombinatsiyalarda yoqish va hosil bo'lgan ranglar jadvalini tuzish; har bir rang uchun PWM qiymatlarini yozib, telefon ekranidagi rang bilan solishtirish — mustaqil yig'a oladilar."
   ],
   "lugat": [
    "Elektr zanjiri (Circuit) – tok aylanib yuradigan yopiq yo'l",
@@ -72394,7 +72481,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: uch rangni turli kombinatsiyalarda yoqib, hosil bo'lgan ranglar jadvalini tuzish.",
+     "Bajariladigan ish: rGB LEDni uch PWM pinga ulab, uch rangni turli kombinatsiyalarda yoqish va hosil bo'lgan ranglar jadvalini tuzish; har bir rang uchun PWM qiymatlarini yozib, telefon ekranidagi rang bilan solishtirish.",
      "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi."
     ]
    },
@@ -72824,7 +72911,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Tovush: chastota va baland-pastlik\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani zanjirda amalda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — turli chastotalarni generatordan berib, qaysi notaga to'g'ri kelishini jadvalga yozish — mustaqil yig'a oladilar."
+   "O'quvchilar amaliy ishni — passiv zummerni ulab, tone() bilan turli chastotalarni berish va qaysi notaga to'g'ri kelishini jadvalga yozish; chastotani ikki barobar oshirib, tovush aynan bir oktava ko'tarilishini quloq bilan tekshirish — mustaqil yig'a oladilar."
   ],
   "lugat": [
    "OTA – dasturni simsiz tarmoq orqali yangilash",
@@ -72877,7 +72964,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: turli chastotalarni generatordan berib, qaysi notaga to'g'ri kelishini jadvalga yozish.",
+     "Bajariladigan ish: passiv zummerni ulab, tone() bilan turli chastotalarni berish va qaysi notaga to'g'ri kelishini jadvalga yozish; chastotani ikki barobar oshirib, tovush aynan bir oktava ko'tarilishini quloq bilan tekshirish.",
      "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi."
     ]
    },
@@ -73771,10 +73858,33 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Har bir dars bir xil tartibda o'tadi: takrorlash, yangi mavzu, sxema yig'ish, o'lchash, natijani yozish.",
+     "Ish juftlikda bajariladi: bittasi yig'adi, ikkinchisi sxema bo'yicha tekshiradi, keyin almashadilar.",
+     "Har dars oxirida ish daftariga yoziladi: nima yig'ildi, qanday qiymat o'lchandi, qanday xato bo'ldi.",
+     "Chorak oxirida nazorat musobaqasi va loyiha bo'ladi — ularning mezonlari oldindan e'lon qilinadi."
+    ]
+   },
+   {
+    "title": "5.3. Elektr xavfsizligi — asosiy qoidalar (5 daqiqa)",
+    "points": [
+     "Darsda ishlatiladigan kuchlanish 3,3-9 V — bu inson uchun xavfsiz oraliq.",
+     "220 V bilan ishlash faqat o'qituvchi nazoratida va faqat namoyish tarzida bo'ladi.",
+     "Zanjirni o'zgartirishdan oldin quvvat UZILADI. Ulangan holatda sim ulash — eng ko'p uchraydigan xato.",
+     "Batareyaning ikki qutbini bevosita ulash mumkin emas: bu qisqa tutashuv, batareya qiziydi.",
+     "Qizigan komponentni ushlamaslik: rezistor va stabilizator 80 darajagacha qizishi mumkin.",
+     "Ishdan keyin quvvat uziladi va komponentlar joyiga qaytariladi."
+    ]
+   },
+   {
+    "title": "5.4. Ish o'rni va jihoz (5 daqiqa)",
+    "points": [
+     "Stol toza va quruq bo'lishi kerak — suv va elektronika birga bo'lmaydi.",
+     "Komponentlar qutichada saralab saqlanadi: rezistorlar alohida, LEDlar alohida.",
+     "Breadboard, multimetr va simlar to'plami har juftlikda alohida bo'ladi.",
+     "Jihoz buzilsa yashirilmaydi — darhol aytiladi. Buzilgan jihoz bilan ishlash xavfli.",
+     "To'plam to'liqligi dars boshida va oxirida ro'yxat bo'yicha tekshiriladi."
     ]
    }
   ],
@@ -75453,7 +75563,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Komponentni to'g'ri tanlash: katalogdan\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani zanjirda amalda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — berilgan vazifa uchun katalogdan mos komponent tanlab, tanlovini asoslash — mustaqil yig'a oladilar."
+   "O'quvchilar amaliy ishni — berilgan vazifa uchun katalogdan mos komponent tanlab asoslash, keyin tanlangan komponentni HAQIQATDA ulab sinash: u vazifani bajaradimi, chegaralari yetadimi — natijani jadvalga yozish — mustaqil yig'a oladilar."
   ],
   "lugat": [
    "Elektr zanjiri (Circuit) – tok aylanib yuradigan yopiq yo'l",
@@ -75506,7 +75616,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: berilgan vazifa uchun katalogdan mos komponent tanlab, tanlovini asoslash.",
+     "Bajariladigan ish: berilgan vazifa uchun katalogdan mos komponent tanlab asoslash, keyin tanlangan komponentni HAQIQATDA ulab sinash: u vazifani bajaradimi, chegaralari yetadimi — natijani jadvalga yozish.",
      "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi."
     ]
    },
@@ -75947,10 +76057,33 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Har bir dars bir xil tartibda o'tadi: takrorlash, yangi mavzu, sxema yig'ish, o'lchash, natijani yozish.",
+     "Ish juftlikda bajariladi: bittasi yig'adi, ikkinchisi sxema bo'yicha tekshiradi, keyin almashadilar.",
+     "Har dars oxirida ish daftariga yoziladi: nima yig'ildi, qanday qiymat o'lchandi, qanday xato bo'ldi.",
+     "Chorak oxirida nazorat musobaqasi va loyiha bo'ladi — ularning mezonlari oldindan e'lon qilinadi."
+    ]
+   },
+   {
+    "title": "5.3. Elektr xavfsizligi — asosiy qoidalar (5 daqiqa)",
+    "points": [
+     "Darsda ishlatiladigan kuchlanish 3,3-9 V — bu inson uchun xavfsiz oraliq.",
+     "220 V bilan ishlash faqat o'qituvchi nazoratida va faqat namoyish tarzida bo'ladi.",
+     "Zanjirni o'zgartirishdan oldin quvvat UZILADI. Ulangan holatda sim ulash — eng ko'p uchraydigan xato.",
+     "Batareyaning ikki qutbini bevosita ulash mumkin emas: bu qisqa tutashuv, batareya qiziydi.",
+     "Qizigan komponentni ushlamaslik: rezistor va stabilizator 80 darajagacha qizishi mumkin.",
+     "Ishdan keyin quvvat uziladi va komponentlar joyiga qaytariladi."
+    ]
+   },
+   {
+    "title": "5.4. Ish o'rni va jihoz (5 daqiqa)",
+    "points": [
+     "Stol toza va quruq bo'lishi kerak — suv va elektronika birga bo'lmaydi.",
+     "Komponentlar qutichada saralab saqlanadi: rezistorlar alohida, LEDlar alohida.",
+     "Breadboard, multimetr va simlar to'plami har juftlikda alohida bo'ladi.",
+     "Jihoz buzilsa yashirilmaydi — darhol aytiladi. Buzilgan jihoz bilan ishlash xavfli.",
+     "To'plam to'liqligi dars boshida va oxirida ro'yxat bo'yicha tekshiriladi."
     ]
    }
   ],
@@ -75991,7 +76124,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Atom, elektron va zaryad\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani zanjirda amalda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — atom modelini chizib, o'tkazgich va izolyatorda elektronlar holatini taqqoslash — mustaqil yig'a oladilar."
+   "O'quvchilar amaliy ishni — atom modelini chizib, keyin uni tajribada ko'rish: ishqalangan shar bilan qog'oz parchalarini tortish, so'ng multimetr bilan mis sim va plastmassa qarshiligini o'lchab, o'tkazgichda elektronlar erkin, izolyatorda esa bog'langanini raqam bilan isbotlash — mustaqil yig'a oladilar."
   ],
   "lugat": [
    "Elektr zanjiri (Circuit) – tok aylanib yuradigan yopiq yo'l",
@@ -76044,7 +76177,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: atom modelini chizib, o'tkazgich va izolyatorda elektronlar holatini taqqoslash.",
+     "Bajariladigan ish: atom modelini chizib, keyin uni tajribada ko'rish: ishqalangan shar bilan qog'oz parchalarini tortish, so'ng multimetr bilan mis sim va plastmassa qarshiligini o'lchab, o'tkazgichda elektronlar erkin, izolyatorda esa bog'langanini raqam bilan isbotlash.",
      "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi."
     ]
    },
@@ -76339,7 +76472,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Zanjir elementlari va ularning shartli belgilari\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani zanjirda amalda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — 15 ta shartli belgini yod olib, tanish testini bajarish — mustaqil yig'a oladilar."
+   "O'quvchilar amaliy ishni — 15 ta shartli belgini o'rganib, keyin har biri uchun HAQIQIY komponentni to'plamdan topib yoniga qo'yish; so'ng o'qituvchi bergan sxema bo'yicha zanjirni breadboardda yig'ish va u ishlaganini LED bilan tasdiqlash — mustaqil yig'a oladilar."
   ],
   "lugat": [
    "Elektr zanjiri (Circuit) – tok aylanib yuradigan yopiq yo'l",
@@ -76392,7 +76525,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: 15 ta shartli belgini yod olib, tanish testini bajarish.",
+     "Bajariladigan ish: 15 ta shartli belgini o'rganib, keyin har biri uchun HAQIQIY komponentni to'plamdan topib yoniga qo'yish; so'ng o'qituvchi bergan sxema bo'yicha zanjirni breadboardda yig'ish va u ishlaganini LED bilan tasdiqlash.",
      "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi."
     ]
    },
@@ -76774,7 +76907,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Rezistor nominalini hisoblash mashqlari\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani zanjirda amalda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — 20 ta rangli kodni o'qib, teskarisini ham bajarish: berilgan qiymatga rang tanlash — mustaqil yig'a oladilar."
+   "O'quvchilar amaliy ishni — 20 ta rangli kodni o'qib qiymatini aytish, keyin HAR BIRINI multimetr bilan o'lchab tekshirish; hisob va o'lchov farqini jadvalga yozib, rezistor bardoshi (5 %) chegarasidan chiqmaganini aniqlash — mustaqil yig'a oladilar."
   ],
   "lugat": [
    "Rezistor (Resistor) – tokni cheklovchi komponent, qiymati omda",
@@ -76827,7 +76960,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: 20 ta rangli kodni o'qib, teskarisini ham bajarish: berilgan qiymatga rang tanlash.",
+     "Bajariladigan ish: 20 ta rangli kodni o'qib qiymatini aytish, keyin HAR BIRINI multimetr bilan o'lchab tekshirish; hisob va o'lchov farqini jadvalga yozib, rezistor bardoshi (5 %) chegarasidan chiqmaganini aniqlash.",
      "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi."
     ]
    },
@@ -77241,7 +77374,24 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Formulalar va hisob (4 daqiqa)",
+    "points": [
+     "Ikki rezistor uchun qulay shakl: R = (R1 x R2) / (R1 + R2).",
+     "Misol: 1 kOm va 1 kOm parallel -> R = 1000000 / 2000 = 500 Om.",
+     "Misol: 1 kOm va 2 kOm parallel -> R = 2000000 / 3000 = 667 Om.",
+     "Uch bir xil rezistor parallel bo'lsa umumiy qarshilik uchdan biriga teng bo'ladi."
+    ]
+   },
+   {
+    "title": "5.3. Nima uchun bu muhim (4 daqiqa)",
+    "points": [
+     "Ikki LEDni parallel ulasangiz har biriga alohida rezistor kerak — aks holda ular kuchlanish farqi tufayli teng bo'lmagan yorug'lik beradi.",
+     "Parallel ulanishda umumiy tok ortadi: 20 mA li ikki LED birga 40 mA tortadi, plata pini chegarasi esa 40 mA.",
+     "Uydagi bir rozetkaga ko'p jihoz ulansa tok yig'iladi va sim qiziydi — bu yong'inning eng ko'p uchraydigan sababi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 100 va 100 Om parallel bo'lsa qancha?  Javob: 50 Om.",
      "Savol: Umumiy qarshilik eng kichik tarmoqdan katta chiqsa nima demak?  Javob: Hisobda xato bor."
@@ -77911,10 +78061,33 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Har bir dars bir xil tartibda o'tadi: takrorlash, yangi mavzu, sxema yig'ish, o'lchash, natijani yozish.",
+     "Ish juftlikda bajariladi: bittasi yig'adi, ikkinchisi sxema bo'yicha tekshiradi, keyin almashadilar.",
+     "Har dars oxirida ish daftariga yoziladi: nima yig'ildi, qanday qiymat o'lchandi, qanday xato bo'ldi.",
+     "Chorak oxirida nazorat musobaqasi va loyiha bo'ladi — ularning mezonlari oldindan e'lon qilinadi."
+    ]
+   },
+   {
+    "title": "5.3. Elektr xavfsizligi — asosiy qoidalar (5 daqiqa)",
+    "points": [
+     "Darsda ishlatiladigan kuchlanish 3,3-9 V — bu inson uchun xavfsiz oraliq.",
+     "220 V bilan ishlash faqat o'qituvchi nazoratida va faqat namoyish tarzida bo'ladi.",
+     "Zanjirni o'zgartirishdan oldin quvvat UZILADI. Ulangan holatda sim ulash — eng ko'p uchraydigan xato.",
+     "Batareyaning ikki qutbini bevosita ulash mumkin emas: bu qisqa tutashuv, batareya qiziydi.",
+     "Qizigan komponentni ushlamaslik: rezistor va stabilizator 80 darajagacha qizishi mumkin.",
+     "Ishdan keyin quvvat uziladi va komponentlar joyiga qaytariladi."
+    ]
+   },
+   {
+    "title": "5.4. Ish o'rni va jihoz (5 daqiqa)",
+    "points": [
+     "Stol toza va quruq bo'lishi kerak — suv va elektronika birga bo'lmaydi.",
+     "Komponentlar qutichada saralab saqlanadi: rezistorlar alohida, LEDlar alohida.",
+     "Breadboard, multimetr va simlar to'plami har juftlikda alohida bo'ladi.",
+     "Jihoz buzilsa yashirilmaydi — darhol aytiladi. Buzilgan jihoz bilan ishlash xavfli.",
+     "To'plam to'liqligi dars boshida va oxirida ro'yxat bo'yicha tekshiriladi."
     ]
    }
   ],
@@ -78477,7 +78650,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Kuchlanish bo'luvchi: nazariya\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani zanjirda amalda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — turli nisbatdagi bo'luvchilarni hisoblab, chiqish kuchlanishlari jadvalini tuzish — mustaqil yig'a oladilar."
+   "O'quvchilar amaliy ishni — uch xil nisbatdagi bo'luvchini hisoblab, keyin har birini breadboardda yig'ib multimetr bilan chiqish kuchlanishini o'lchash; hisob va o'lchov jadvalini solishtirib, 5 V ni 3,3 V ga tushiradigan nisbatni topish — mustaqil yig'a oladilar."
   ],
   "lugat": [
    "Kuchlanish (Voltage) – zaryadni harakatlantiruvchi elektr bosimi, voltda o'lchanadi",
@@ -78530,7 +78703,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: turli nisbatdagi bo'luvchilarni hisoblab, chiqish kuchlanishlari jadvalini tuzish.",
+     "Bajariladigan ish: uch xil nisbatdagi bo'luvchini hisoblab, keyin har birini breadboardda yig'ib multimetr bilan chiqish kuchlanishini o'lchash; hisob va o'lchov jadvalini solishtirib, 5 V ni 3,3 V ga tushiradigan nisbatni topish.",
      "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi."
     ]
    },
@@ -78777,7 +78950,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Elektr quvvati: P = U x I\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani zanjirda amalda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — turli komponentlarda ajraladigan quvvatni hisoblab, qizishini qo'l bilan tekshirish — mustaqil yig'a oladilar."
+   "O'quvchilar amaliy ishni — uch xil rezistorda ajraladigan quvvatni hisoblab, keyin zanjirni yig'ib multimetr bilan tok va kuchlanishni o'lchash; hisoblangan quvvatni o'lchov bilan solishtirib, qaysi rezistor sezilarli qizishini qo'l bilan tekshirish — mustaqil yig'a oladilar."
   ],
   "lugat": [
    "Quvvat (Power) – vaqt birligida sarflanadigan energiya, P = U x I, vattda o'lchanadi",
@@ -78812,7 +78985,24 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Quvvat nima va nima uchun kerak (4 daqiqa)",
+    "points": [
+     "Quvvat — energiyaning sarflanish TEZLIGI. 100 Vt lampa 1 sekundda 100 joul energiya sarflaydi.",
+     "P = U x I: kuchlanish 5 V, tok 2 A bo'lsa quvvat 10 Vt.",
+     "Quvvat oxir-oqibat ISSIQLIKKA aylanadi (yoki yorug'lik, harakatga). Shuning uchun ko'p quvvat sarflaydigan element qiziydi."
+    ]
+   },
+   {
+    "title": "5.3. Amaliy hisoblar (4 daqiqa)",
+    "points": [
+     "Arduino Uno USB dan 500 mA gacha oladi: P = 5 x 0,5 = 2,5 Vt.",
+     "Servo motor harakatda 250 mA tortadi: P = 5 x 0,25 = 1,25 Vt — bu USB quvvatining yarmi.",
+     "Uchta servo bir vaqtda ishlasa 750 mA kerak — USB yetmaydi va plata qayta yuklanadi. Yechim: alohida quvvat manbai.",
+     "Uy jihozlari: choynak 2000 Vt, muzlatgich 150 Vt, LED lampa 10 Vt, telefon zaryadlagichi 10 Vt."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: P = U x I dan boshqa qanday ko'rinishlar bor?  Javob: P = I kvadrat x R va P = U kvadrat / R.",
      "Savol: 100 Om da 5 V bo'lsa quvvat qancha?  Javob: 25/100 = 0,25 Vt — chegarada, kuchliroq rezistor kerak."
@@ -78830,7 +79020,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: turli komponentlarda ajraladigan quvvatni hisoblab, qizishini qo'l bilan tekshirish.",
+     "Bajariladigan ish: uch xil rezistorda ajraladigan quvvatni hisoblab, keyin zanjirni yig'ib multimetr bilan tok va kuchlanishni o'lchash; hisoblangan quvvatni o'lchov bilan solishtirib, qaysi rezistor sezilarli qizishini qo'l bilan tekshirish.",
      "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi."
     ]
    },
@@ -78951,7 +79141,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Energiya va iste'mol: kilovatt-soat\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani zanjirda amalda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — uy jihozlarining quvvatini yozib olib, oylik iste'mol va to'lovni hisoblash — mustaqil yig'a oladilar."
+   "O'quvchilar amaliy ishni — uy jihozlarining quvvatini yozib olib oylik to'lovni hisoblash, keyin AYNI hisobni o'z sxemangizga qo'llash: LED va motorli zanjirning tokini multimetr bilan o'lchab, qurilma batareyada necha soat ishlashini hisoblash va uni amalda tekshirish — mustaqil yig'a oladilar."
   ],
   "lugat": [
    "Elektr zanjiri (Circuit) – tok aylanib yuradigan yopiq yo'l",
@@ -78986,7 +79176,24 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. RTC DS3231 (real vaqt soati) — texnik tasnif (4 daqiqa)",
+    "title": "5.2. Quvvat va energiya farqi (4 daqiqa)",
+    "points": [
+     "Quvvat (Vt) — TEZLIK. Energiya (Vt x soat) — jami SARF. Bu tezlik va bosib o'tilgan yo'l kabi farq qiladi.",
+     "1 kVt x soat = 1000 vattlik jihozning 1 soat ishlashi.",
+     "Hisoblash: energiya (kVt x s) = quvvat (Vt) x vaqt (soat) / 1000."
+    ]
+   },
+   {
+    "title": "5.3. Kundalik misollar (4 daqiqa)",
+    "points": [
+     "2000 Vt choynak har kuni 15 daqiqa ishlasa: 2000 x 0,25 / 1000 = 0,5 kVt x s kuniga, oyiga 15 kVt x s.",
+     "10 Vt LED lampa kuniga 6 soat: 10 x 6 / 1000 = 0,06 kVt x s kuniga, oyiga 1,8 kVt x s.",
+     "Xuddi shu vazifani bajaradigan 100 Vt cho'g'lanma lampa oyiga 18 kVt x s sarflaydi — o'n barobar ko'p.",
+     "Xulosa: LED lampaga o'tish yoritishga ketadigan to'lovni o'n barobar kamaytiradi. Bu hisob-kitob AI va IoT loyihalarida ham kerak bo'ladi."
+    ]
+   },
+   {
+    "title": "5.4. RTC DS3231 (real vaqt soati) — texnik tasnif (4 daqiqa)",
     "points": [
      "Aniqligi: yiliga ±2 daqiqa (ichida termokompensatsiyali kvars bor).",
      "DS1307 dan afzalligi: DS1307 yiliga 30 daqiqagacha adashadi, DS3231 esa harorat o'zgarsa ham aniq yuradi.",
@@ -78997,7 +79204,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. RTC DS3231 (real vaqt soati) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.5. RTC DS3231 (real vaqt soati) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida kvars kristalli 32 768 Hz chastotada tebranadi. Bu son bejiz emas: 32768 = 2 ning 15-darajasi.",
      "Shuning uchun tebranishlarni 15 marta ikkiga bo'lish orqali aniq 1 Hz — ya'ni SEKUND olinadi.",
@@ -79007,7 +79214,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 1 kVt·s nima?  Javob: 1000 vattlik qurilmaning 1 soatlik iste'moli.",
      "Savol: 2 kVt li qurilma 30 daqiqada qancha sarflaydi?  Javob: 1 kVt·s."
@@ -79025,7 +79232,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: uy jihozlarining quvvatini yozib olib, oylik iste'mol va to'lovni hisoblash.",
+     "Bajariladigan ish: uy jihozlarining quvvatini yozib olib oylik to'lovni hisoblash, keyin AYNI hisobni o'z sxemangizga qo'llash: LED va motorli zanjirning tokini multimetr bilan o'lchab, qurilma batareyada necha soat ishlashini hisoblash va uni amalda tekshirish.",
      "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi."
     ]
    },
@@ -79840,10 +80047,60 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. O'tkazgich, izolyator va yarimo'tkazgich (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "O'tkazgich (mis, alyuminiy) tokni yaxshi o'tkazadi: ichida erkin elektronlar juda ko'p.",
+     "Izolyator (rezina, shisha, plastmassa) o'tkazmaydi: elektronlar atomga mahkam bog'langan.",
+     "Yarimo'tkazgich (kremniy, germaniy) o'rtada turadi va eng muhimi — SHAROITGA QARAB o'zgaradi.",
+     "Uni harorat, yorug'lik yoki tashqi kuchlanish bilan o'tkazuvchan yoki o'tkazmaydigan holatga keltirish mumkin. Mana shu boshqariluvchanlik butun zamonaviy elektronikaning asosi."
+    ]
+   },
+   {
+    "title": "5.3. Legirlash va p-n o'tish (5 daqiqa)",
+    "points": [
+     "Toza kremniyga boshqa element atomlari qo'shiladi — bu legirlash deb ataladi.",
+     "Ortiqcha elektron beruvchi qo'shimcha n-tur materialni hosil qiladi, elektron yetishmovchiligi esa p-tur materialni.",
+     "Ikki turning tutashgan joyi p-n o'tish deyiladi va u tokni faqat bir tomonga o'tkazadi. Diod aynan shu.",
+     "Uch qatlam qo'yilsa tranzistor chiqadi: o'rtadagi yupqa qatlam kalit vazifasini bajaradi."
+    ]
+   },
+   {
+    "title": "5.4. Nima uchun bu inqilob bo'ldi (5 daqiqa)",
+    "points": [
+     "Yarimo'tkazgichdan oldin xuddi shu ishni elektron lampalar bajargan: ular lampochkadek katta bo'lgan, qizigan va tez kuygan.",
+     "Birinchi kompyuterlar shuning uchun butun xonani egallagan va kunlab ishlab, keyin lampalarini almashtirishga to'xtagan.",
+     "Tranzistor kichik, sovuq va uzoq ishlaydi. Bugun bitta protsessorga milliardlab tranzistor sig'adi.",
+     "Sizning qo'lingizdagi Arduino platasi 1960-yillardagi butun bir xonalik kompyuterdan kuchliroq."
+    ]
+   },
+   {
+    "title": "5.5. Chorak davomida qanday ishlaymiz (5 daqiqa)",
+    "points": [
+     "Har bir dars bir xil tartibda o'tadi: takrorlash, yangi mavzu, sxema yig'ish, o'lchash, natijani yozish.",
+     "Ish juftlikda bajariladi: bittasi yig'adi, ikkinchisi sxema bo'yicha tekshiradi, keyin almashadilar.",
+     "Har dars oxirida ish daftariga yoziladi: nima yig'ildi, qanday qiymat o'lchandi, qanday xato bo'ldi.",
+     "Chorak oxirida nazorat musobaqasi va loyiha bo'ladi — ularning mezonlari oldindan e'lon qilinadi."
+    ]
+   },
+   {
+    "title": "5.6. Elektr xavfsizligi — asosiy qoidalar (5 daqiqa)",
+    "points": [
+     "Darsda ishlatiladigan kuchlanish 3,3-9 V — bu inson uchun xavfsiz oraliq.",
+     "220 V bilan ishlash faqat o'qituvchi nazoratida va faqat namoyish tarzida bo'ladi.",
+     "Zanjirni o'zgartirishdan oldin quvvat UZILADI. Ulangan holatda sim ulash — eng ko'p uchraydigan xato.",
+     "Batareyaning ikki qutbini bevosita ulash mumkin emas: bu qisqa tutashuv, batareya qiziydi.",
+     "Qizigan komponentni ushlamaslik: rezistor va stabilizator 80 darajagacha qizishi mumkin.",
+     "Ishdan keyin quvvat uziladi va komponentlar joyiga qaytariladi."
+    ]
+   },
+   {
+    "title": "5.7. Ish o'rni va jihoz (5 daqiqa)",
+    "points": [
+     "Stol toza va quruq bo'lishi kerak — suv va elektronika birga bo'lmaydi.",
+     "Komponentlar qutichada saralab saqlanadi: rezistorlar alohida, LEDlar alohida.",
+     "Breadboard, multimetr va simlar to'plami har juftlikda alohida bo'ladi.",
+     "Jihoz buzilsa yashirilmaydi — darhol aytiladi. Buzilgan jihoz bilan ishlash xavfli.",
+     "To'plam to'liqligi dars boshida va oxirida ro'yxat bo'yicha tekshiriladi."
     ]
    }
   ],
@@ -80093,7 +80350,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Vaqt doimiysining ma'nosi (4 daqiqa)",
+    "points": [
+     "t = R x C formulasida R omda, C faradda bo'lsa natija sekundda chiqadi.",
+     "Qarshilik oshsa vaqt uzayadi (tok kam oqadi, kondensator sekin to'ladi).",
+     "Sig'im oshsa ham vaqt uzayadi (to'ldirish kerak bo'lgan zaryad ko'p).",
+     "Ikkalasini o'zgartirib, kerakli kechikishni olish mumkin — bu taymer sxemalarining asosi."
+    ]
+   },
+   {
+    "title": "5.3. Amaliy qo'llanishlar (4 daqiqa)",
+    "points": [
+     "Tugma sakrashini (bounce) apparat yo'li bilan yo'qotish: tugmaga parallel 100 nF kondensator qo'yiladi.",
+     "Sekin yonadigan chiroq: LED zanjiriga RC qo'shilsa yorug'lik asta ko'tariladi.",
+     "Signal filtri: yuqori chastotali shovqin kondensator orqali GND ga o'tib ketadi va foydali sekin signal qoladi.",
+     "Dasturiy o'xshashi — eksponensial silliqlash: yangi = a x o'lchov + (1-a) x eski. Bu RC filtrning kodda yozilgan varianti."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 47 kOm va 10 uF uchun T qancha?  Javob: 470 ms.",
      "Savol: Noma'lum sig'imni qanday topish mumkin?  Javob: 63% ga yetish vaqtini o'lchab, C = T/R bilan."
@@ -80876,7 +81151,34 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Ikki turning ishlash farqi (4 daqiqa)",
+    "points": [
+     "NPN tranzistor bazaga MUSBAT signal berilganda ochiladi. U yuklamaning GND tomoniga qo'yiladi (past tomon kaliti).",
+     "PNP tranzistor bazaga MANFIY (past) signal berilganda ochiladi. U yuklamaning plyus tomoniga qo'yiladi (yuqori tomon kaliti).",
+     "Maktab loyihalarida deyarli doim NPN ishlatiladi: uni Arduino bilan boshqarish osonroq va mantiq to'g'ridan-to'g'ri.",
+     "Keng tarqalgan turlar: NPN — BC547, 2N2222, S8050. PNP — BC557, 2N2907, S8550."
+    ]
+   },
+   {
+    "title": "5.3. Uch oyoq va ularning vazifasi (4 daqiqa)",
+    "points": [
+     "Baza (B) — boshqaruv oyog'i. Unga kichik tok (1-2 mA) beriladi va u albatta rezistor orqali ulanadi (odatda 1 kOm).",
+     "Kollektor (C) — yuklama ulanadigan oyoq.",
+     "Emitter (E) — NPN da GND ga, PNP da plyusga ulanadi.",
+     "Kuchaytirish koeffitsienti (hFE): 100 bo'lsa, bazadagi 1 mA kollektorda 100 mA gacha tokni o'tkazadi.",
+     "Oyoqlar tartibi korpusga qarab farq qiladi — datasheetga qarash yoki multimetrning tranzistor rejimida tekshirish kerak."
+    ]
+   },
+   {
+    "title": "5.4. Nima uchun tranzistor kerak (4 daqiqa)",
+    "points": [
+     "Arduino pini 40 mA beradi, motor esa 300 mA tortadi. Tranzistor kichik boshqaruv toki bilan katta tokni o'tkazadi.",
+     "Ya'ni tranzistor — bu elektron kalit: qo'l bilan bosiladigan tugmaning o'rniga dastur boshqaradigan tugma.",
+     "Induktiv yuklama (motor, rele) bilan ishlaganda tranzistorga parallel himoya diodi SHART, aks holda teskari kuchlanish uni teshadi."
+    ]
+   },
+   {
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: NPN ni boshqarish uchun bazaga qanday signal beriladi?  Javob: Musbat.",
      "Savol: Qaysi turi mikrokontroller bilan sodda ishlaydi?  Javob: NPN."
@@ -81614,7 +81916,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Komponentni katalog (datasheet) bo'yicha tanlash\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani zanjirda amalda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — uch komponentning datasheetini o'qib, asosiy parametrlarini jadvalga chiqarish — mustaqil yig'a oladilar."
+   "O'quvchilar amaliy ishni — uch komponentning datasheetini o'qib parametrlarini jadvalga chiqarish, keyin har birini ulab, datasheetdagi kamida ikkita qiymatni (ta'minot kuchlanishi va iste'mol toki) multimetr bilan o'lchab tasdiqlash — mustaqil yig'a oladilar."
   ],
   "lugat": [
    "Datasheet – komponentning texnik xususiyatlari yozilgan rasmiy hujjat",
@@ -81667,7 +81969,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: uch komponentning datasheetini o'qib, asosiy parametrlarini jadvalga chiqarish.",
+     "Bajariladigan ish: uch komponentning datasheetini o'qib parametrlarini jadvalga chiqarish, keyin har birini ulab, datasheetdagi kamida ikkita qiymatni (ta'minot kuchlanishi va iste'mol toki) multimetr bilan o'lchab tasdiqlash.",
      "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi."
     ]
    },
@@ -81960,10 +82262,33 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Har bir dars bir xil tartibda o'tadi: takrorlash, yangi mavzu, sxema yig'ish, o'lchash, natijani yozish.",
+     "Ish juftlikda bajariladi: bittasi yig'adi, ikkinchisi sxema bo'yicha tekshiradi, keyin almashadilar.",
+     "Har dars oxirida ish daftariga yoziladi: nima yig'ildi, qanday qiymat o'lchandi, qanday xato bo'ldi.",
+     "Chorak oxirida nazorat musobaqasi va loyiha bo'ladi — ularning mezonlari oldindan e'lon qilinadi."
+    ]
+   },
+   {
+    "title": "5.3. Elektr xavfsizligi — asosiy qoidalar (5 daqiqa)",
+    "points": [
+     "Darsda ishlatiladigan kuchlanish 3,3-9 V — bu inson uchun xavfsiz oraliq.",
+     "220 V bilan ishlash faqat o'qituvchi nazoratida va faqat namoyish tarzida bo'ladi.",
+     "Zanjirni o'zgartirishdan oldin quvvat UZILADI. Ulangan holatda sim ulash — eng ko'p uchraydigan xato.",
+     "Batareyaning ikki qutbini bevosita ulash mumkin emas: bu qisqa tutashuv, batareya qiziydi.",
+     "Qizigan komponentni ushlamaslik: rezistor va stabilizator 80 darajagacha qizishi mumkin.",
+     "Ishdan keyin quvvat uziladi va komponentlar joyiga qaytariladi."
+    ]
+   },
+   {
+    "title": "5.4. Ish o'rni va jihoz (5 daqiqa)",
+    "points": [
+     "Stol toza va quruq bo'lishi kerak — suv va elektronika birga bo'lmaydi.",
+     "Komponentlar qutichada saralab saqlanadi: rezistorlar alohida, LEDlar alohida.",
+     "Breadboard, multimetr va simlar to'plami har juftlikda alohida bo'ladi.",
+     "Jihoz buzilsa yashirilmaydi — darhol aytiladi. Buzilgan jihoz bilan ishlash xavfli.",
+     "To'plam to'liqligi dars boshida va oxirida ro'yxat bo'yicha tekshiriladi."
     ]
    }
   ],
@@ -84329,10 +84654,33 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Har bir dars bir xil tartibda o'tadi: takrorlash, yangi mavzu, sxema yig'ish, o'lchash, natijani yozish.",
+     "Ish juftlikda bajariladi: bittasi yig'adi, ikkinchisi sxema bo'yicha tekshiradi, keyin almashadilar.",
+     "Har dars oxirida ish daftariga yoziladi: nima yig'ildi, qanday qiymat o'lchandi, qanday xato bo'ldi.",
+     "Chorak oxirida nazorat musobaqasi va loyiha bo'ladi — ularning mezonlari oldindan e'lon qilinadi."
+    ]
+   },
+   {
+    "title": "5.3. Elektr xavfsizligi — asosiy qoidalar (5 daqiqa)",
+    "points": [
+     "Darsda ishlatiladigan kuchlanish 3,3-9 V — bu inson uchun xavfsiz oraliq.",
+     "220 V bilan ishlash faqat o'qituvchi nazoratida va faqat namoyish tarzida bo'ladi.",
+     "Zanjirni o'zgartirishdan oldin quvvat UZILADI. Ulangan holatda sim ulash — eng ko'p uchraydigan xato.",
+     "Batareyaning ikki qutbini bevosita ulash mumkin emas: bu qisqa tutashuv, batareya qiziydi.",
+     "Qizigan komponentni ushlamaslik: rezistor va stabilizator 80 darajagacha qizishi mumkin.",
+     "Ishdan keyin quvvat uziladi va komponentlar joyiga qaytariladi."
+    ]
+   },
+   {
+    "title": "5.4. Ish o'rni va jihoz (5 daqiqa)",
+    "points": [
+     "Stol toza va quruq bo'lishi kerak — suv va elektronika birga bo'lmaydi.",
+     "Komponentlar qutichada saralab saqlanadi: rezistorlar alohida, LEDlar alohida.",
+     "Breadboard, multimetr va simlar to'plami har juftlikda alohida bo'ladi.",
+     "Jihoz buzilsa yashirilmaydi — darhol aytiladi. Buzilgan jihoz bilan ishlash xavfli.",
+     "To'plam to'liqligi dars boshida va oxirida ro'yxat bo'yicha tekshiriladi."
     ]
    }
   ],
@@ -85059,7 +85407,32 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Formulaning uch shakli (4 daqiqa)",
+    "points": [
+     "U = I x R, I = U / R, R = U / I — uchtasi bir formulaning uch ko'rinishi.",
+     "Qaysi shakl kerakligi savolga bog'liq: nomalum kattalik qaysi bo'lsa, o'sha chap tomonga chiqariladi.",
+     "Birliklar doim asosiy shaklda bo'lishi kerak: volt, amper, om. Milliamperni amperga aylantirish uchun 1000 ga bo'linadi."
+    ]
+   },
+   {
+    "title": "5.3. Bog'liqlikning ma'nosi (4 daqiqa)",
+    "points": [
+     "Kuchlanish ikki barobar oshsa, qarshilik o'zgarmasa — tok ham ikki barobar oshadi. Bu to'g'ri proporsionallik.",
+     "Qarshilik ikki barobar oshsa, kuchlanish o'zgarmasa — tok ikki barobar kamayadi. Bu teskari proporsionallik.",
+     "Qarshilik nolga yaqinlashsa tok cheksiz ortishga intiladi — bu qisqa tutashuv va u xavfli holat.",
+     "Shuning uchun LEDga rezistorsiz kuchlanish berish mumkin emas: LEDning o'z qarshiligi juda kichik va tok uni kuydiradi."
+    ]
+   },
+   {
+    "title": "5.4. Mashq qilish tartibi (4 daqiqa)",
+    "points": [
+     "Har bir masalada avval nima berilgani va nima topilishi kerakligi yozib olinadi.",
+     "Keyin birliklar tekshiriladi va hammasi V, A, Om ga keltiriladi.",
+     "Natija chiqqach, u mantiqan to'g'rimi degan savol beriladi: 5 V manbada 10 A tok chiqsa, demak xato bor."
+    ]
+   },
+   {
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 9 V va 3 kOm: tok qancha?  Javob: 3 mA.",
      "Savol: P = U x I dan boshqa ko'rinishlar qaysi?  Javob: P = I kvadrat x R va P = U kvadrat / R."
@@ -85146,7 +85519,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Ketma-ket ulanish qonuniyatlari (4 daqiqa)",
+    "points": [
+     "Tok hamma element orqali BIR XIL oqadi: I = I1 = I2 = I3.",
+     "Kuchlanish elementlar orasida BO'LINADI: U = U1 + U2 + U3.",
+     "Qarshiliklar QO'SHILADI: R = R1 + R2 + R3.",
+     "Bitta element uzilsa — butun zanjir o'chadi. Eski yangi yil gulchambari shu prinsipda ishlagan va bitta lampa kuysa hammasi o'chgan."
+    ]
+   },
+   {
+    "title": "5.3. Parallel ulanish qonuniyatlari (4 daqiqa)",
+    "points": [
+     "Kuchlanish hamma shoxda BIR XIL: U = U1 = U2 = U3.",
+     "Tok shoxlar orasida BO'LINADI: I = I1 + I2 + I3.",
+     "Umumiy qarshilik teskari yig'indi orqali topiladi: 1/R = 1/R1 + 1/R2. Ikki bir xil rezistor uchun natija yarmiga teng.",
+     "Umumiy qarshilik doim eng KICHIK rezistordan ham kichik chiqadi — bu boshda g'alati tuyuladi, lekin tokga qo'shimcha yo'l ochilgani uchun shunday.",
+     "Bitta shox uzilsa qolganlari ishlayveradi. Uydagi rozetkalar aynan shuning uchun parallel ulanadi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Parallel ulanishda umumiy qarshilik qanday bo'ladi?  Javob: Eng kichik tarmoq qarshiligidan ham kichik.",
      "Savol: Ketma-ket zanjirda tok qanday taqsimlanadi?  Javob: Taqsimlanmaydi — hamma joyda bir xil."
@@ -85485,7 +85877,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. RC zanjir tuzilishi (4 daqiqa)",
+    "points": [
+     "RC zanjir — ketma-ket ulangan rezistor va kondensator. Eng oddiy vaqt hosil qiluvchi sxema.",
+     "Zaryadlanish egri chizig'i: boshida tez ko'tariladi, keyin sekinlashadi va asta to'liq kuchlanishga yaqinlashadi.",
+     "Bo'shash ham xuddi shunday: boshida tez tushadi, keyin sekinlashadi.",
+     "Vaqt doimiysi t = R x C zanjirning 'tezligini' belgilaydi."
+    ]
+   },
+   {
+    "title": "5.3. Hisob va o'lchov (4 daqiqa)",
+    "points": [
+     "t vaqtdan keyin kuchlanish 63 %; 2t da 86 %; 3t da 95 %; 5t da amalda 100 % deb qabul qilinadi.",
+     "Misol: 100 kOm va 10 mkF -> t = 100000 x 0,00001 = 1 sekund.",
+     "Multimetr bilan kuzatish: kondensatorga parallel ulanib, zaryadlanish paytida raqamlar qanday sekinlashib borishini ko'rish mumkin.",
+     "Arduino bilan aniqroq: analogRead bilan har 10 ms da o'lchab, qiymatlarni Serial Plotter'da grafik qilib chizish."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 10 kOm va 47 uF uchun T qancha?  Javob: 470 ms.",
      "Savol: Mikrosxema yonidagi kondensator nima uchun?  Javob: Yuqori chastotali shovqinni filtrlash uchun."
@@ -86049,7 +86459,27 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Manbalar va ularning imkoniyati (4 daqiqa)",
+    "points": [
+     "USB porti: 5 V, 500 mA (USB 2.0). Arduino va bir necha LED uchun yetadi, motorlar uchun yetmaydi.",
+     "Kron batareya (9 V): sig'imi juda kam (500 mAh), motor yoki servo uchun mos emas. Faqat oz tok tortadigan sxemalar uchun.",
+     "AA batareya bloki (4 x 1,5 V = 6 V): sig'imi 2000 mAh, motorlar uchun mos.",
+     "Li-ion akkumulyator (3,7 V): sig'imi katta, qayta zaryadlanadi, lekin himoya sxemasi bo'lishi shart.",
+     "Adapter (12 V, 2 A): eng barqaror manba, lekin qurilma ko'chma bo'lmaydi."
+    ]
+   },
+   {
+    "title": "5.3. Xavfsizlik qoidalari (4 daqiqa)",
+    "points": [
+     "220 V bilan ishlash faqat o'qituvchi nazoratida va faqat namoyish tarzida bo'ladi. O'quvchilar 220 V ga tegmaydi.",
+     "Qutbni almashtirmaslik: plyus va minusni teskari ulash ko'p modullarni bir zumda ishdan chiqaradi.",
+     "Zanjirni faqat KUCHLANISHSIZ holatda o'zgartirish: avval quvvatni uzish, keyin sim ulash.",
+     "Umumiy GND qoidasi: tashqi manba ishlatilsa, uning GND si albatta plata GND si bilan birlashtiriladi.",
+     "Qizigan komponentni ushlamaslik: rezistor va stabilizator 80 darajagacha qizishi mumkin."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: USB port qancha tok bera oladi?  Javob: Odatda 0,5 A gacha.",
      "Savol: 5V 2A adapterning quvvati qancha?  Javob: 10 vatt."
@@ -86421,10 +86851,32 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Har bir dars uch qismdan iborat: yangi tushuncha, sxema yig'ish, dastur yozish va sinash.",
+     "Kod har safar noldan yozilmaydi — oldingi darsdagi dastur ustiga qo'shib boriladi.",
+     "Ishlaydigan har bir dastur alohida faylga saqlanadi, keyin qaytib kerak bo'ladi.",
+     "Juftlikda ishlanadi: bittasi kod yozadi, ikkinchisi sxemani tekshiradi, keyin almashadilar."
+    ]
+   },
+   {
+    "title": "5.3. Dasturiy muhit va uni sozlash (5 daqiqa)",
+    "points": [
+     "Arduino IDE bepul dastur, u kodni yozadi, tekshiradi va plataga yuklaydi.",
+     "Birinchi ulanishda drayver o'rnatilishi kerak, aks holda port ro'yxatda ko'rinmaydi.",
+     "Har yuklashdan oldin ikki narsa tekshiriladi: Tools > Board (plata turi) va Tools > Port.",
+     "Serial monitor tezligi koddagi Serial.begin qiymatiga MOS bo'lishi kerak, aks holda ma'nosiz belgilar chiqadi.",
+     "Kod saqlanmagan bo'lsa IDE uni vaqtinchalik papkaga qo'yadi — shuning uchun har ishni o'z papkangizga saqlash kerak."
+    ]
+   },
+   {
+    "title": "5.4. Xavfsizlik va jihozni asrash (5 daqiqa)",
+    "points": [
+     "Plataga sim ulashdan oldin USB kabel UZILADI.",
+     "Bir pindan maksimum 20 mA olish mumkin, butun platadan 200 mA. Motor va servo alohida quvvatlanadi.",
+     "5V va GND ni bevosita ulash — qisqa tutashuv va plataning kuyishi.",
+     "Platani metall sirtga qo'ymaslik: pastki tomonidagi kontaktlar tutashib ketadi.",
+     "Modullarning qutbini tekshirish odat bo'lishi kerak: teskari ulangan modul bir zumda ishdan chiqadi."
     ]
    }
   ],
@@ -88710,10 +89162,50 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Nima uchun aylantirish kerak (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Dunyodagi kattaliklar uzluksiz o'zgaradi, mikrokontroller esa faqat 0 va 1 bilan ishlaydi.",
+     "Sensor fizik kattalikni ANALOG elektr signalga aylantiradi, ADC esa uni RAQAMGA aylantiradi.",
+     "Teskari yo'nalish ham bor: DAC raqamni analog kuchlanishga aylantiradi (tovush chiqarishda ishlatiladi).",
+     "PWM esa uchinchi yo'l: haqiqiy analog emas, lekin tez yoqib-o'chirish orqali analog ta'sirini beradi."
+    ]
+   },
+   {
+    "title": "5.3. Raqamli signalning afzalligi (5 daqiqa)",
+    "points": [
+     "Analog signal uzun simda susayadi va shovqin qo'shiladi — asl qiymatni tiklab bo'lmaydi.",
+     "Raqamli signalda esa faqat 0 va 1 ni ajratish kerak, shuning uchun shovqin bo'lsa ham qiymat aynan tiklanadi.",
+     "Shu sababli DHT22 kabi zamonaviy sensorlar o'lchashni O'ZI bajaradi va natijani tayyor raqam sifatida uzatadi.",
+     "Musiqa, foto va video ham xuddi shu sababdan raqamli formatga o'tgan: nusxa ko'chirilganda sifat yo'qolmaydi."
+    ]
+   },
+   {
+    "title": "5.4. Chorak davomida qanday ishlaymiz (5 daqiqa)",
+    "points": [
+     "Har bir dars uch qismdan iborat: yangi tushuncha, sxema yig'ish, dastur yozish va sinash.",
+     "Kod har safar noldan yozilmaydi — oldingi darsdagi dastur ustiga qo'shib boriladi.",
+     "Ishlaydigan har bir dastur alohida faylga saqlanadi, keyin qaytib kerak bo'ladi.",
+     "Juftlikda ishlanadi: bittasi kod yozadi, ikkinchisi sxemani tekshiradi, keyin almashadilar."
+    ]
+   },
+   {
+    "title": "5.5. Dasturiy muhit va uni sozlash (5 daqiqa)",
+    "points": [
+     "Arduino IDE bepul dastur, u kodni yozadi, tekshiradi va plataga yuklaydi.",
+     "Birinchi ulanishda drayver o'rnatilishi kerak, aks holda port ro'yxatda ko'rinmaydi.",
+     "Har yuklashdan oldin ikki narsa tekshiriladi: Tools > Board (plata turi) va Tools > Port.",
+     "Serial monitor tezligi koddagi Serial.begin qiymatiga MOS bo'lishi kerak, aks holda ma'nosiz belgilar chiqadi.",
+     "Kod saqlanmagan bo'lsa IDE uni vaqtinchalik papkaga qo'yadi — shuning uchun har ishni o'z papkangizga saqlash kerak."
+    ]
+   },
+   {
+    "title": "5.6. Xavfsizlik va jihozni asrash (5 daqiqa)",
+    "points": [
+     "Plataga sim ulashdan oldin USB kabel UZILADI.",
+     "Bir pindan maksimum 20 mA olish mumkin, butun platadan 200 mA. Motor va servo alohida quvvatlanadi.",
+     "5V va GND ni bevosita ulash — qisqa tutashuv va plataning kuyishi.",
+     "Platani metall sirtga qo'ymaslik: pastki tomonidagi kontaktlar tutashib ketadi.",
+     "Modullarning qutbini tekshirish odat bo'lishi kerak: teskari ulangan modul bir zumda ishdan chiqadi."
     ]
    }
   ],
@@ -90235,7 +90727,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Kutubxona (library) ishlatish\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani dasturda qo'llay oladilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — ikki kutubxonani o'rnatib, ularning misollari bilan ishlash — mustaqil dastur yoza oladilar."
+   "O'quvchilar amaliy ishni — servo motorni potensiometr bilan boshqarish uchun avval Servo kutubxonasidan foydalanish, keyin kutubxonasiz impuls yuborishga urinib ko'rish va ikki kod uzunligini solishtirish — mustaqil dastur yoza oladilar."
   ],
   "lugat": [
    "Kutubxona (Library) – tayyor funksiyalar to'plami",
@@ -90270,7 +90762,15 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "points": [
+     "Kutubxona murakkab ishni bir necha buyruqqa qisqartiradi. Farqni servo misolida ko'rish oson.",
+     "Doskaga chiqariladigan namuna: \"Kutubxonasiz va kutubxona bilan yozilgan kod\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
+     "Kod qatorma-qator o'qiladi: har bir qator nima qilishi ovoz chiqarib aytiladi, keyin o'quvchilar takrorlaydi."
+    ]
+   },
+   {
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kutubxona nima?  Javob: Tayyor funksiyalar to'plami.",
      "Savol: Yangi kutubxona bilan ishlashni nimadan boshlash kerak?  Javob: Uning misollaridan."
@@ -90288,7 +90788,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: ikki kutubxonani o'rnatib, ularning misollari bilan ishlash.",
+     "Bajariladigan ish: servo motorni potensiometr bilan boshqarish uchun avval Servo kutubxonasidan foydalanish, keyin kutubxonasiz impuls yuborishga urinib ko'rish va ikki kod uzunligini solishtirish.",
      "Natija Serial monitor orqali tekshiriladi va kod izohi bilan daftarga yoziladi."
     ]
    },
@@ -90316,6 +90816,11 @@ window.LESSON_CONTENT = {
   "qollanma": {
    "matn": "\"Misoldan boshlash\" qoidasini o'rnating. Hujjatni o'qishdan ko'ra ishlaydigan misolni o'zgartirib borish tezroq va ishonchliroq usul.",
    "xato": "#include qatorini funksiya ichiga yozish — u faylning eng boshida bo'lishi kerak."
+  },
+  "kod": {
+   "nom": "Kutubxonasiz va kutubxona bilan yozilgan kod",
+   "matn": "// Kutubxonaning foydasi: servo misolida\n#include <Servo.h>\nServo servo;\nconst int POT = A0;\n\nvoid setup() {\n  servo.attach(9);\n  Serial.begin(9600);\n}\n\nvoid loop() {\n  int burchak = map(analogRead(POT), 0, 1023, 0, 180);\n  servo.write(burchak);           // BITTA qator — hammasi tayyor\n  Serial.println(burchak);\n  delay(50);\n}\n\n/*  KUTUBXONASIZ AYNI ISH shunday bo'lardi:\n    her 20 ms da aniq uzunlikdagi impuls yuborish kerak,\n    impuls uzunligi esa burchakka bog'liq (1000..2000 mikrosekund):\n\n    void servoYuborr(int pin, int burchak) {\n      int uzunlik = map(burchak, 0, 180, 1000, 2000);\n      digitalWrite(pin, HIGH);\n      delayMicroseconds(uzunlik);\n      digitalWrite(pin, LOW);\n      delayMicroseconds(20000 - uzunlik);\n    }\n    Va buni loop ichida TO'XTOVSIZ chaqirib turish kerak edi.\n*/\n\n// KUTUBXONA O'RNATISH:\n//  Sketch > Include Library > Manage Libraries\n//  Nom bo'yicha qidirish -> Install\n//  Ishni DOIM File > Examples ichidagi misoldan boshlash kerak.",
+   "izoh": "Kutubxona murakkab ishni bir necha buyruqqa qisqartiradi. Farqni servo misolida ko'rish oson."
   }
  },
  "1-yil|7-sinf|3-chorak|12": {
@@ -91680,10 +92185,32 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Har bir dars uch qismdan iborat: yangi tushuncha, sxema yig'ish, dastur yozish va sinash.",
+     "Kod har safar noldan yozilmaydi — oldingi darsdagi dastur ustiga qo'shib boriladi.",
+     "Ishlaydigan har bir dastur alohida faylga saqlanadi, keyin qaytib kerak bo'ladi.",
+     "Juftlikda ishlanadi: bittasi kod yozadi, ikkinchisi sxemani tekshiradi, keyin almashadilar."
+    ]
+   },
+   {
+    "title": "5.3. Dasturiy muhit va uni sozlash (5 daqiqa)",
+    "points": [
+     "Arduino IDE bepul dastur, u kodni yozadi, tekshiradi va plataga yuklaydi.",
+     "Birinchi ulanishda drayver o'rnatilishi kerak, aks holda port ro'yxatda ko'rinmaydi.",
+     "Har yuklashdan oldin ikki narsa tekshiriladi: Tools > Board (plata turi) va Tools > Port.",
+     "Serial monitor tezligi koddagi Serial.begin qiymatiga MOS bo'lishi kerak, aks holda ma'nosiz belgilar chiqadi.",
+     "Kod saqlanmagan bo'lsa IDE uni vaqtinchalik papkaga qo'yadi — shuning uchun har ishni o'z papkangizga saqlash kerak."
+    ]
+   },
+   {
+    "title": "5.4. Xavfsizlik va jihozni asrash (5 daqiqa)",
+    "points": [
+     "Plataga sim ulashdan oldin USB kabel UZILADI.",
+     "Bir pindan maksimum 20 mA olish mumkin, butun platadan 200 mA. Motor va servo alohida quvvatlanadi.",
+     "5V va GND ni bevosita ulash — qisqa tutashuv va plataning kuyishi.",
+     "Platani metall sirtga qo'ymaslik: pastki tomonidagi kontaktlar tutashib ketadi.",
+     "Modullarning qutbini tekshirish odat bo'lishi kerak: teskari ulangan modul bir zumda ishdan chiqadi."
     ]
    }
   ],
@@ -94695,7 +95222,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Katta vazifani bo'lish (4 daqiqa)",
+    "points": [
+     "Butun loyihani birdan yig'ishga urinish — eng ko'p uchraydigan xato.",
+     "To'g'ri usul: qurilmani mustaqil ishlaydigan bo'laklarga bo'lish.",
+     "Masalan meteostansiya: 1) sensorni o'qish, 2) ekranga chiqarish, 3) tarmoqqa yuborish, 4) korpusga joylash.",
+     "Har bir bo'lak ALOHIDA yig'iladi va sinaladi. Faqat ishlagach keyingisiga o'tiladi."
+    ]
+   },
+   {
+    "title": "5.3. Bosqichlarni birlashtirish (4 daqiqa)",
+    "points": [
+     "Ikki ishlaydigan bo'lak birlashtirilganda ishlamay qolishi mumkin — bu normal holat.",
+     "Sabablari odatda: pin to'qnashuvi, quvvat yetishmasligi, kutubxonalar bir-biriga xalaqit berishi.",
+     "Shuning uchun birlashtirish alohida bosqich sifatida rejalashtiriladi va unga vaqt ajratiladi.",
+     "Har birlashtirishdan keyin oldingi funksiyalar hali ham ishlayotgani tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Bosqichlar qanday bo'lishi kerak?  Javob: Har biri mustaqil sinaladigan.",
      "Savol: Vaqtning qancha qismi sinovga ajratiladi?  Javob: Taxminan 30%."
@@ -94782,7 +95327,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kodni hujjatlashtirish (4 daqiqa)",
+    "points": [
+     "Fayl boshida izoh bloki: loyiha nomi, muallif, sana, qurilma nima qiladi.",
+     "Pin ro'yxati doimiylar sifatida boshida beriladi va har biriga izoh yoziladi.",
+     "Har bir funksiya oldida bir qatorlik izoh: u nima qiladi.",
+     "Murakkab formula yoki koeffitsient oldida u qayerdan olingani yoziladi.",
+     "Kalibrlash qiymatlari alohida belgilanadi — ular boshqa nusxada o'zgartirilishi kerak bo'ladi."
+    ]
+   },
+   {
+    "title": "5.3. Izoh yozishning qoidasi (4 daqiqa)",
+    "points": [
+     "Izoh kod NIMA qilishini emas, NIMA UCHUN qilinganini tushuntirishi kerak.",
+     "Yomon izoh: 'i ni bittaga oshiradi' — buni koddan ham ko'rish mumkin.",
+     "Yaxshi izoh: 'sensor sekundiga bir marta o'qiladi, tezroq so'ralsa nan qaytaradi'.",
+     "Ma'noli o'zgaruvchi nomi ko'p izohni keraksiz qiladi — bu eng yaxshi hujjatlashtirish usuli."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: BOM nima?  Javob: Komponentlar ro'yxati jadvali.",
      "Savol: Kodda izoh nimani yozishi kerak?  Javob: Nima emas, NEGA shunday qilinganini."
@@ -95067,10 +95631,32 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Har bir dars uch qismdan iborat: yangi tushuncha, sxema yig'ish, dastur yozish va sinash.",
+     "Kod har safar noldan yozilmaydi — oldingi darsdagi dastur ustiga qo'shib boriladi.",
+     "Ishlaydigan har bir dastur alohida faylga saqlanadi, keyin qaytib kerak bo'ladi.",
+     "Juftlikda ishlanadi: bittasi kod yozadi, ikkinchisi sxemani tekshiradi, keyin almashadilar."
+    ]
+   },
+   {
+    "title": "5.3. Dasturiy muhit va uni sozlash (5 daqiqa)",
+    "points": [
+     "Arduino IDE bepul dastur, u kodni yozadi, tekshiradi va plataga yuklaydi.",
+     "Birinchi ulanishda drayver o'rnatilishi kerak, aks holda port ro'yxatda ko'rinmaydi.",
+     "Har yuklashdan oldin ikki narsa tekshiriladi: Tools > Board (plata turi) va Tools > Port.",
+     "Serial monitor tezligi koddagi Serial.begin qiymatiga MOS bo'lishi kerak, aks holda ma'nosiz belgilar chiqadi.",
+     "Kod saqlanmagan bo'lsa IDE uni vaqtinchalik papkaga qo'yadi — shuning uchun har ishni o'z papkangizga saqlash kerak."
+    ]
+   },
+   {
+    "title": "5.4. Xavfsizlik va jihozni asrash (5 daqiqa)",
+    "points": [
+     "Plataga sim ulashdan oldin USB kabel UZILADI.",
+     "Bir pindan maksimum 20 mA olish mumkin, butun platadan 200 mA. Motor va servo alohida quvvatlanadi.",
+     "5V va GND ni bevosita ulash — qisqa tutashuv va plataning kuyishi.",
+     "Platani metall sirtga qo'ymaslik: pastki tomonidagi kontaktlar tutashib ketadi.",
+     "Modullarning qutbini tekshirish odat bo'lishi kerak: teskari ulangan modul bir zumda ishdan chiqadi."
     ]
    }
   ],
@@ -95146,7 +95732,35 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Uchta kattalik va ularning birliklari (4 daqiqa)",
+    "points": [
+     "Kuchlanish (U) — voltda (V) o'lchanadi. Bu zaryadni harakatlantiruvchi elektr bosimi. Suv quvurida bosimga o'xshaydi.",
+     "Tok (I) — amperda (A) o'lchanadi. Bu bir sekundda kesim orqali o'tgan zaryad miqdori. Quvurdagi suv oqimiga o'xshaydi.",
+     "Qarshilik (R) — omda (Om) o'lchanadi. Bu materialning tokga to'sqinligi. Quvurning torayishiga o'xshaydi.",
+     "Kichik birliklar: 1 mA = 0,001 A; 1 mV = 0,001 V. Katta birliklar: 1 kOm = 1000 Om; 1 MOm = 1 000 000 Om.",
+     "Arduino bilan ishlaganda ko'pincha milliamperlar bilan ish ko'riladi: LED 20 mA, plata pini maksimum 40 mA, USB porti 500 mA beradi."
+    ]
+   },
+   {
+    "title": "5.3. Formulani uch ko'rinishda ishlatish (4 daqiqa)",
+    "points": [
+     "Asosiy shakl: U = I x R — tok va qarshilik ma'lum bo'lsa kuchlanish topiladi.",
+     "Ikkinchi shakl: I = U / R — kuchlanish va qarshilik ma'lum bo'lsa tok topiladi. Rezistor tanlashda eng ko'p ishlatiladigan shakl.",
+     "Uchinchi shakl: R = U / I — kerakli tokni olish uchun qanday rezistor kerakligini topadi.",
+     "Uchburchak usuli: yuqorida U, pastda I va R. Topilishi kerak bo'lgan harfni barmoq bilan yopsangiz, qolgan ikkitasi formulani ko'rsatadi."
+    ]
+   },
+   {
+    "title": "5.4. Ishlangan misollar (4 daqiqa)",
+    "points": [
+     "Misol 1: 9 V batareyaga 470 Om rezistor ulandi. I = 9 / 470 = 0,019 A = 19 mA.",
+     "Misol 2: Zanjirda 12 mA tok oqmoqda, rezistor 220 Om. U = 0,012 x 220 = 2,64 V.",
+     "Misol 3: 5 V manbadan LEDga 20 mA berish kerak. LEDda 2 V tushadi, demak rezistorda 3 V qoladi. R = 3 / 0,02 = 150 Om.",
+     "Eng ko'p uchraydigan xato: mA ni A ga aylantirmaslik. 20 mA ni formulaga 20 deb qo'yish natijani 1000 marta noto'g'ri qiladi."
+    ]
+   },
+   {
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 9 V va 3 kOm: tok qancha?  Javob: 3 mA.",
      "Savol: Servo qancha tok oladi?  Javob: 500 mA gacha."
@@ -95233,7 +95847,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. O'lchash bosqichlari (4 daqiqa)",
+    "points": [
+     "1) Zanjirni yig'ing va ko'z bilan tekshiring: qisqa tutashuv yo'qmi, qutblar to'g'rimi.",
+     "2) Manba kuchlanishini o'lchang — u kutilgan qiymatga yaqinmi.",
+     "3) Har bir elementdagi kuchlanish tushishini alohida o'lchang.",
+     "4) Zanjirni uzib, tokni o'lchang.",
+     "5) Natijalarni jadvalga yozing va Om qonuni bo'yicha hisoblangan qiymat bilan solishtiring."
+    ]
+   },
+   {
+    "title": "5.3. Kutilgan natijalar (4 daqiqa)",
+    "points": [
+     "Ketma-ket zanjirda barcha kuchlanish tushishlari yig'indisi manba kuchlanishiga TENG bo'lishi kerak (Kirxgof qonuni).",
+     "Agar yig'indi manbadan kam chiqsa — o'lchamagan element bor yoki kontakt yomon.",
+     "Parallel zanjirda shoxlardagi toklar yig'indisi umumiy tokka teng bo'ladi.",
+     "LEDdagi kuchlanish tushishi doim 2 V atrofida qoladi — rezistorni o'zgartirsangiz ham u deyarli o'zgarmaydi. Bu diodning xususiyati."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tok o'lchashda shchup qayerga ko'chiriladi?  Javob: A yoki mA teshigiga.",
      "Savol: Zumlash nima uchun ishlatiladi?  Javob: Ulanish bor-yo'qligini tez tekshirish uchun."
@@ -95475,7 +96108,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kuchlanish bo'luvchining ishlashi (4 daqiqa)",
+    "points": [
+     "Ikki rezistor ketma-ket ulansa, ular orasidagi nuqtadan manba kuchlanishining bir qismi olinadi.",
+     "Formula: Uchiqish = Ukirish x R2 / (R1 + R2), bu yerda R2 — pastki (GND tomondagi) rezistor.",
+     "Misol: 5 V, R1 = 1 kOm, R2 = 1 kOm -> chiqishda 2,5 V, ya'ni yarmi.",
+     "Misol: 5 V, R1 = 1 kOm, R2 = 2 kOm -> chiqishda 3,33 V. Aynan shu nisbat 5 V ni ESP32 uchun 3,3 V ga tushirishda ishlatiladi."
+    ]
+   },
+   {
+    "title": "5.3. Bo'luvchining chegarasi (4 daqiqa)",
+    "points": [
+     "Bo'luvchi faqat O'LCHOV signali uchun. Undan quvvat olish mumkin emas: yuklama ulansa chiqish kuchlanishi tushib ketadi.",
+     "Sabab: yuklama R2 ga parallel bo'ladi va umumiy qarshilikni kamaytiradi.",
+     "Shuning uchun motor yoki servoni bo'luvchidan quvvatlash mumkin emas — buning uchun stabilizator kerak.",
+     "Fotorezistor va termistor sxemasi ham bo'luvchi: pastki rezistor doimiy, yuqorigisi esa sensorning o'zgaruvchan qarshiligi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Bo'luvchi formulasida R2 qaysi?  Javob: GND ga ulangan pastki rezistor.",
      "Savol: Parallel ulanishda umumiy qarshilik qanday bo'ladi?  Javob: Eng kichik tarmoqdan ham kichik."
@@ -95562,7 +96213,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Uch komponentning vazifasi (4 daqiqa)",
+    "points": [
+     "Kondensator — zaryadni vaqtincha to'playdi. Vazifasi: quvvatni silliqlash, shovqinni yo'qotish, vaqt hosil qilish.",
+     "Diod — tokni faqat bir tomonga o'tkazadi. Vazifasi: himoya, to'g'rilash, teskari ulanishdan saqlash.",
+     "Tranzistor — kichik tok bilan katta tokni boshqaradi. Vazifasi: kalit yoki kuchaytirgich."
+    ]
+   },
+   {
+    "title": "5.3. Diodning muhim xususiyatlari (4 daqiqa)",
+    "points": [
+     "Diodda to'g'ri yo'nalishda 0,7 V atrofida kuchlanish tushadi (kremniy diod uchun).",
+     "Korpusdagi halqa KATOD (minus) tomonini ko'rsatadi.",
+     "Himoya diodi motor yoki relega PARALLEL va TESKARI qutblab ulanadi: katod plyusga qaraydi.",
+     "Nima uchun: g'altakdan tok to'satdan uzilsa, u o'zida yuz voltli teskari kuchlanish hosil qiladi. Diod bu kuchlanishga yo'l ochib beradi va tranzistorni saqlaydi.",
+     "Keng tarqalgan turlar: 1N4007 (quvvat uchun), 1N4148 (signal uchun), Shottki diodlar (tez va kam tushishli)."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Flyback diod qanday ulanadi?  Javob: Yuklamaga parallel va teskari yo'nalishda.",
      "Savol: To'yingan tranzistorda kollektor-emitter kuchlanishi qancha?  Javob: Taxminan 0,2 V."
@@ -96565,7 +97234,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"analogRead va analog signal\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani dasturda qo'llay oladilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — turli analog manbalarni o'qib, qiymatlar oralig'ini aniqlash — mustaqil dastur yoza oladilar."
+   "O'quvchilar amaliy ishni — potensiometr, fotorezistor va termistorni A0-A2 ga ulab, uchala manbaning qiymat oralig'ini aniqlash; har biri uchun eng past va eng baland qiymatni yozib, multimetr ko'rsatgan kuchlanish bilan solishtirish — mustaqil dastur yoza oladilar."
   ],
   "lugat": [
    "Analog signal – uzluksiz o'zgaruvchi qiymatga ega signal",
@@ -96635,7 +97304,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: turli analog manbalarni o'qib, qiymatlar oralig'ini aniqlash.",
+     "Bajariladigan ish: potensiometr, fotorezistor va termistorni A0-A2 ga ulab, uchala manbaning qiymat oralig'ini aniqlash; har biri uchun eng past va eng baland qiymatni yozib, multimetr ko'rsatgan kuchlanish bilan solishtirish.",
      "Natija Serial monitor orqali tekshiriladi va kod izohi bilan daftarga yoziladi."
     ]
    },
@@ -97256,10 +97925,32 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Har bir dars uch qismdan iborat: yangi tushuncha, sxema yig'ish, dastur yozish va sinash.",
+     "Kod har safar noldan yozilmaydi — oldingi darsdagi dastur ustiga qo'shib boriladi.",
+     "Ishlaydigan har bir dastur alohida faylga saqlanadi, keyin qaytib kerak bo'ladi.",
+     "Juftlikda ishlanadi: bittasi kod yozadi, ikkinchisi sxemani tekshiradi, keyin almashadilar."
+    ]
+   },
+   {
+    "title": "5.3. Dasturiy muhit va uni sozlash (5 daqiqa)",
+    "points": [
+     "Arduino IDE bepul dastur, u kodni yozadi, tekshiradi va plataga yuklaydi.",
+     "Birinchi ulanishda drayver o'rnatilishi kerak, aks holda port ro'yxatda ko'rinmaydi.",
+     "Har yuklashdan oldin ikki narsa tekshiriladi: Tools > Board (plata turi) va Tools > Port.",
+     "Serial monitor tezligi koddagi Serial.begin qiymatiga MOS bo'lishi kerak, aks holda ma'nosiz belgilar chiqadi.",
+     "Kod saqlanmagan bo'lsa IDE uni vaqtinchalik papkaga qo'yadi — shuning uchun har ishni o'z papkangizga saqlash kerak."
+    ]
+   },
+   {
+    "title": "5.4. Xavfsizlik va jihozni asrash (5 daqiqa)",
+    "points": [
+     "Plataga sim ulashdan oldin USB kabel UZILADI.",
+     "Bir pindan maksimum 20 mA olish mumkin, butun platadan 200 mA. Motor va servo alohida quvvatlanadi.",
+     "5V va GND ni bevosita ulash — qisqa tutashuv va plataning kuyishi.",
+     "Platani metall sirtga qo'ymaslik: pastki tomonidagi kontaktlar tutashib ketadi.",
+     "Modullarning qutbini tekshirish odat bo'lishi kerak: teskari ulangan modul bir zumda ishdan chiqadi."
     ]
    }
   ],
@@ -100897,10 +101588,32 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Darslar tarmoq va IoT ustiga quriladi: har bir dars natijasi telefon yoki brauzerda ko'rinadi.",
+     "Sinf WiFi tarmog'i oldindan sozlanadi, nom va parol hammaga beriladi.",
+     "Har bir juftlikning qurilmasi tarmoqda o'z IP manzilini oladi va u yozib olinadi.",
+     "Kod bo'laklari qayta ishlatiladi: WiFi ga ulanish qismi deyarli har darsda bir xil bo'ladi."
+    ]
+   },
+   {
+    "title": "5.3. ESP32 ning Arduino'dan farqlari (5 daqiqa)",
+    "points": [
+     "Mantiq darajasi 3,3 V — 5 V signal pinni SHIKASTLAYDI. Bu eng muhim farq.",
+     "ADC 12 bitli: qiymat 0 dan 4095 gacha (Uno'da 0-1023).",
+     "Serial tezligi odatda 115200 (Uno'da 9600).",
+     "Pin nomlari GPIO bilan beriladi va ularning bir qismi band: GPIO6-11 flesh xotiraga tegishli, ishlatilmaydi.",
+     "GPIO34-39 faqat KIRISH uchun, ular chiqish bo'la olmaydi va ichki tortuvchi rezistori yo'q.",
+     "Ba'zi platalarda yuklash paytida BOOT tugmasini bosib turish kerak bo'ladi."
+    ]
+   },
+   {
+    "title": "5.4. Tarmoq bilan ishlash madaniyati (5 daqiqa)",
+    "points": [
+     "WiFi paroli kodga ochiq yoziladi — shuning uchun kodni ulashishdan oldin uni olib tashlash kerak.",
+     "Ochiq MQTT brokerlardan foydalanganda mavzu nomi noyob bo'lishi kerak, aks holda boshqalar ham ko'radi.",
+     "Boshqaruv sahifasi parolsiz bo'lsa, tarmoqdagi har kim qurilmani boshqara oladi.",
+     "Bulut xizmatlarining bepul chegarasi bor: ThingSpeak 15 sekundda bir marta yozishga ruxsat beradi."
     ]
    }
   ],
@@ -103544,10 +104257,32 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Darslar tarmoq va IoT ustiga quriladi: har bir dars natijasi telefon yoki brauzerda ko'rinadi.",
+     "Sinf WiFi tarmog'i oldindan sozlanadi, nom va parol hammaga beriladi.",
+     "Har bir juftlikning qurilmasi tarmoqda o'z IP manzilini oladi va u yozib olinadi.",
+     "Kod bo'laklari qayta ishlatiladi: WiFi ga ulanish qismi deyarli har darsda bir xil bo'ladi."
+    ]
+   },
+   {
+    "title": "5.3. ESP32 ning Arduino'dan farqlari (5 daqiqa)",
+    "points": [
+     "Mantiq darajasi 3,3 V — 5 V signal pinni SHIKASTLAYDI. Bu eng muhim farq.",
+     "ADC 12 bitli: qiymat 0 dan 4095 gacha (Uno'da 0-1023).",
+     "Serial tezligi odatda 115200 (Uno'da 9600).",
+     "Pin nomlari GPIO bilan beriladi va ularning bir qismi band: GPIO6-11 flesh xotiraga tegishli, ishlatilmaydi.",
+     "GPIO34-39 faqat KIRISH uchun, ular chiqish bo'la olmaydi va ichki tortuvchi rezistori yo'q.",
+     "Ba'zi platalarda yuklash paytida BOOT tugmasini bosib turish kerak bo'ladi."
+    ]
+   },
+   {
+    "title": "5.4. Tarmoq bilan ishlash madaniyati (5 daqiqa)",
+    "points": [
+     "WiFi paroli kodga ochiq yoziladi — shuning uchun kodni ulashishdan oldin uni olib tashlash kerak.",
+     "Ochiq MQTT brokerlardan foydalanganda mavzu nomi noyob bo'lishi kerak, aks holda boshqalar ham ko'radi.",
+     "Boshqaruv sahifasi parolsiz bo'lsa, tarmoqdagi har kim qurilmani boshqara oladi.",
+     "Bulut xizmatlarining bepul chegarasi bor: ThingSpeak 15 sekundda bir marta yozishga ruxsat beradi."
     ]
    }
   ],
@@ -105960,10 +106695,33 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Har bir dars bir xil tartibda o'tadi: takrorlash, yangi mavzu, sxema yig'ish, o'lchash, natijani yozish.",
+     "Ish juftlikda bajariladi: bittasi yig'adi, ikkinchisi sxema bo'yicha tekshiradi, keyin almashadilar.",
+     "Har dars oxirida ish daftariga yoziladi: nima yig'ildi, qanday qiymat o'lchandi, qanday xato bo'ldi.",
+     "Chorak oxirida nazorat musobaqasi va loyiha bo'ladi — ularning mezonlari oldindan e'lon qilinadi."
+    ]
+   },
+   {
+    "title": "5.3. Elektr xavfsizligi — asosiy qoidalar (5 daqiqa)",
+    "points": [
+     "Darsda ishlatiladigan kuchlanish 3,3-9 V — bu inson uchun xavfsiz oraliq.",
+     "220 V bilan ishlash faqat o'qituvchi nazoratida va faqat namoyish tarzida bo'ladi.",
+     "Zanjirni o'zgartirishdan oldin quvvat UZILADI. Ulangan holatda sim ulash — eng ko'p uchraydigan xato.",
+     "Batareyaning ikki qutbini bevosita ulash mumkin emas: bu qisqa tutashuv, batareya qiziydi.",
+     "Qizigan komponentni ushlamaslik: rezistor va stabilizator 80 darajagacha qizishi mumkin.",
+     "Ishdan keyin quvvat uziladi va komponentlar joyiga qaytariladi."
+    ]
+   },
+   {
+    "title": "5.4. Ish o'rni va jihoz (5 daqiqa)",
+    "points": [
+     "Stol toza va quruq bo'lishi kerak — suv va elektronika birga bo'lmaydi.",
+     "Komponentlar qutichada saralab saqlanadi: rezistorlar alohida, LEDlar alohida.",
+     "Breadboard, multimetr va simlar to'plami har juftlikda alohida bo'ladi.",
+     "Jihoz buzilsa yashirilmaydi — darhol aytiladi. Buzilgan jihoz bilan ishlash xavfli.",
+     "To'plam to'liqligi dars boshida va oxirida ro'yxat bo'yicha tekshiriladi."
     ]
    }
   ],
@@ -106039,7 +106797,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Uch tushunchani bir sxemada ko'rish (4 daqiqa)",
+    "points": [
+     "Yopiq zanjir — tok aylanib yuradigan uzluksiz yo'l. Yo'l uzilsa tok to'xtaydi.",
+     "Kuchlanish manbada hosil bo'ladi va zanjir bo'ylab elementlarda TAQSIMLANADI.",
+     "Tok esa butun ketma-ket zanjirda bir xil bo'ladi — u yo'lda 'sarflanmaydi', faqat energiya sarflanadi.",
+     "Ko'p uchraydigan noto'g'ri tasavvur: 'tok LEDda tugaydi'. Aslida LEDdan chiqqan tok manbaga qaytadi, faqat energiyasining bir qismini yorug'likka bergan bo'ladi."
+    ]
+   },
+   {
+    "title": "5.3. Multimetr bilan tekshirish tartibi (4 daqiqa)",
+    "points": [
+     "Kuchlanish PARALLEL o'lchanadi: shchuplar element ikki uchiga tegiziladi, zanjir uzilmaydi.",
+     "Tok KETMA-KET o'lchanadi: zanjir uziladi va multimetr shu uzilgan joyga qo'yiladi.",
+     "Qarshilik faqat KUCHLANISHSIZ zanjirda o'lchanadi, element esa zanjirdan chiqarib olinadi.",
+     "Eng ko'p uchraydigan xato: tok rejimidagi multimetrni batareyaga parallel ulash. Bu qisqa tutashuv bo'ladi va asbob predoxraniteli kuyadi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tok qanday zanjirda yuradi?  Javob: Faqat yopiq zanjirda.",
      "Savol: 5 V da LED uchun qanday rezistor olinadi?  Javob: 220 Om."
@@ -106126,7 +106902,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Uch rejim va ularning ulanishi (4 daqiqa)",
+    "points": [
+     "Kuchlanish (V) — PARALLEL ulanadi, zanjir uzilmaydi. Qora shchup GND ga, qizil o'lchanadigan nuqtaga.",
+     "Tok (A) — KETMA-KET ulanadi, zanjir uziladi va multimetr shu joyga qo'yiladi. Shchup uyasi ham almashtiriladi.",
+     "Qarshilik (Om) — faqat KUCHLANISHSIZ zanjirda, element esa zanjirdan chiqarib olinadi.",
+     "Uzilishni tekshirish (signalli rejim) — sim butunligini tekshirishning eng tez usuli: ulangan bo'lsa asbob signal beradi."
+    ]
+   },
+   {
+    "title": "5.3. O'lchash madaniyati (4 daqiqa)",
+    "points": [
+     "Avval oraliqni katta qilib qo'yib, keyin kichraytirish kerak — noma'lum kuchlanishni kichik oraliqda o'lchash asbobni shikastlaydi.",
+     "Har o'lchovdan oldin shchup qaysi uyada turganini tekshirish odat bo'lishi kerak: tok uyasida qolgan shchup bilan kuchlanish o'lchash — qisqa tutashuv.",
+     "Natija yozib olinadi: qaysi nuqta, qanday rejim, qanday qiymat. Yozilmagan o'lchov keyin ishga yaramaydi.",
+     "Hisob va o'lchov 5-10 % farq qilishi normal: rezistorda 5 % bardosh bor, batareya kuchlanishi ham nominaldan farq qiladi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tok qanday ulanish bilan o'lchanadi?  Javob: Ketma-ket.",
      "Savol: Zumlash nima uchun ishlatiladi?  Javob: Ulanish bor-yo'qligini tekshirish uchun."
@@ -106213,7 +107007,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Mashqlarni yechish tartibi (4 daqiqa)",
+    "points": [
+     "1-qadam: berilganlarni yozish va birliklarni asosiy shaklga keltirish (mA -> A, kOm -> Om).",
+     "2-qadam: qaysi kattalik noma'lumligiga qarab formulaning kerakli shaklini tanlash.",
+     "3-qadam: hisoblash va natijani baholash — javob mantiqiy oraliqdami.",
+     "4-qadam: imkoni bo'lsa zanjirni yig'ib, multimetr bilan tekshirish. Hisob va o'lchov 10 % gacha farq qilishi normal (rezistor bardoshi)."
+    ]
+   },
+   {
+    "title": "5.3. Namunaviy masalalar va javoblari (4 daqiqa)",
+    "points": [
+     "5 V manba, 1 kOm rezistor. Tok qancha? I = 5 / 1000 = 0,005 A = 5 mA.",
+     "Tok 25 mA, kuchlanish 3 V. Qarshilik qancha? R = 3 / 0,025 = 120 Om.",
+     "Rezistor 330 Om, undan 15 mA tok oqmoqda. Undagi kuchlanish? U = 0,015 x 330 = 4,95 V.",
+     "9 V manbaga qaysi rezistor ulansa 10 mA tok oqadi? R = 9 / 0,01 = 900 Om, amalda 1 kOm olinadi.",
+     "Teskari masala: 220 Om rezistorga 5 V berilsa nima bo'ladi? I = 5/220 = 22,7 mA — bu LED uchun me'yorga yaqin."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 6 V va 300 Om: tok qancha?  Javob: 20 mA.",
      "Savol: V / kOm nima beradi?  Javob: Milliamperni."
@@ -106513,7 +107326,35 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kondensator nima qiladi (4 daqiqa)",
+    "points": [
+     "Kondensator ichida ikki metall plastina va ular orasida izolyator bor. U zaryadni VAQTINCHA to'playdi.",
+     "Sig'imi faradda (F) o'lchanadi, lekin farad juda katta birlik. Amalda mikrofarad (mkF), nanofarad (nF) va pikofarad (pF) ishlatiladi.",
+     "1 mkF = 0,000001 F. Maktab to'plamlarida 100 nF, 10 mkF va 100 mkF ko'p uchraydi.",
+     "Elektrolit kondensatorda QUTB bor: uzun oyoq plyus, korpusdagi chiziq minusni ko'rsatadi. Teskari ulansa shishib yorilishi mumkin.",
+     "Keramik kondensatorda qutb yo'q, istalgan tomonga ulanadi."
+    ]
+   },
+   {
+    "title": "5.3. Zaryadlanish va bo'shash vaqti (4 daqiqa)",
+    "points": [
+     "Kondensator bir zumda to'lmaydi: rezistor orqali ulansa u ASTA-SEKIN zaryadlanadi.",
+     "Vaqt doimiysi: t = R x C. Bu vaqtda kondensator to'liq kuchlanishning 63 % iga yetadi.",
+     "To'liq zaryadlanish taxminan 5 x t vaqt oladi.",
+     "Misol: R = 10 kOm, C = 100 mkF -> t = 10000 x 0,0001 = 1 sekund. To'lishi ~5 sekund.",
+     "Shu tufayli kondensator vaqt hosil qiluvchi element sifatida ishlatiladi: kechikish, filtr, taymer."
+    ]
+   },
+   {
+    "title": "5.4. Amalda qayerda ishlatiladi (4 daqiqa)",
+    "points": [
+     "Quvvat liniyasidagi silliqlash: motor ishga tushganda kuchlanish cho'kadi, kondensator shu lahzada zaxira zaryadni beradi va plata qayta yuklanmaydi.",
+     "Shuning uchun servo yoki motor bilan ishlaganda quvvat liniyasiga 100-470 mkF kondensator qo'yiladi.",
+     "Shovqin filtri: mikrosxema oyoqlari yoniga 100 nF kondensator qo'yilsa yuqori chastotali xalaqit yo'qoladi."
+    ]
+   },
+   {
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 10 kOm va 47 uF uchun T qancha?  Javob: 470 ms.",
      "Savol: Elektrolitik kondensatorda kalta oyoq qaysi qutb?  Javob: Manfiy."
@@ -106873,7 +107714,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Arduino platasi bilan tanishuv\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani zanjirda amalda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — platani ko'rib chiqib, qismlarini nomlab, xaritasini chizish — mustaqil yig'a oladilar."
+   "O'quvchilar amaliy ishni — platani ulab, D7 ga oddiy LED, D9 ga PWM LED va A0 ga potensiometr ulash; uch xil pinning farqini bir sxemada ko'rib, plata xaritasini daftarga chizish — mustaqil yig'a oladilar."
   ],
   "lugat": [
    "Arduino – dasturlanadigan mikrokontroller platasi va uning dasturiy muhiti",
@@ -106908,7 +107749,15 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "points": [
+     "Plataning har bir qismi (raqamli pin, PWM pin, analog pin, ichki LED, Serial) alohida sinab ko'riladi.",
+     "Doskaga chiqariladigan namuna: \"Plata bo'limlarini birma-bir sinaydigan dastur\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
+     "Kod qatorma-qator o'qiladi: har bir qator nima qilishi ovoz chiqarib aytiladi, keyin o'quvchilar takrorlaydi."
+    ]
+   },
+   {
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: USB port nechta vazifani bajaradi?  Javob: Ikkita: dastur yuklash va quvvat berish.",
      "Savol: Reset tugmasi nima qiladi?  Javob: Dasturni boshidan ishga tushiradi."
@@ -106926,7 +107775,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: platani ko'rib chiqib, qismlarini nomlab, xaritasini chizish.",
+     "Bajariladigan ish: platani ulab, D7 ga oddiy LED, D9 ga PWM LED va A0 ga potensiometr ulash; uch xil pinning farqini bir sxemada ko'rib, plata xaritasini daftarga chizish.",
      "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi."
     ]
    },
@@ -106954,13 +107803,18 @@ window.LESSON_CONTENT = {
   "qollanma": {
    "matn": "Platani qo'lga olib ko'rish va qismlarni ko'rsatish uchun vaqt bering. Jismoniy tanishuv keyingi mavhum tushunchalarga asos bo'ladi.",
    "xato": "Platani dastursiz ishlashini kutish."
+  },
+  "kod": {
+   "nom": "Plata bo'limlarini birma-bir sinaydigan dastur",
+   "matn": "// Plataning har bir qismini birma-bir sinash\nconst int ODDIY = 7;      // oddiy raqamli chiqish\nconst int PWM_P = 9;      // ~ belgisi bor pin\nconst int ANALOG = A0;    // analog kirish\n\nvoid setup() {\n  pinMode(LED_BUILTIN, OUTPUT);\n  pinMode(ODDIY, OUTPUT);\n  pinMode(PWM_P, OUTPUT);\n  Serial.begin(9600);\n\n  Serial.println(\"=== PLATA SINOVI ===\");\n  Serial.println(\"1) Ichki LED (D13)\");\n  for (int i = 0; i < 3; i++) {\n    digitalWrite(LED_BUILTIN, HIGH); delay(200);\n    digitalWrite(LED_BUILTIN, LOW);  delay(200);\n  }\n}\n\nvoid loop() {\n  Serial.println(\"2) Oddiy raqamli pin D7 — faqat yoq/o'chir\");\n  digitalWrite(ODDIY, HIGH); delay(600);\n  digitalWrite(ODDIY, LOW);  delay(600);\n\n  Serial.println(\"3) PWM pin D9 — oraliq yorqinlik\");\n  for (int y = 0; y <= 255; y += 51) {\n    analogWrite(PWM_P, y);\n    Serial.print(\"   PWM = \"); Serial.println(y);\n    delay(300);\n  }\n  analogWrite(PWM_P, 0);\n\n  Serial.print(\"4) Analog kirish A0 = \");\n  Serial.println(analogRead(ANALOG));\n  Serial.println();\n  delay(1000);\n}",
+   "izoh": "Plataning har bir qismi (raqamli pin, PWM pin, analog pin, ichki LED, Serial) alohida sinab ko'riladi."
   }
  },
  "2-yil|5-sinf|1-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Plataning pinlari va ularning vazifasi\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani zanjirda amalda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — pin xaritasini chizib, har guruhning vazifasini yozish — mustaqil yig'a oladilar."
+   "O'quvchilar amaliy ishni — tugma, potensiometr va ikki LED yig'ib, ikki kirish va ikki chiqish pinini bir sxemada ishlatish; chiqish pinini ataylab INPUT qilib qo'yib, LED nima uchun yonmasligini tushuntirish — mustaqil yig'a oladilar."
   ],
   "lugat": [
    "Elektr zanjiri (Circuit) – tok aylanib yuradigan yopiq yo'l",
@@ -106995,7 +107849,15 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "points": [
+     "Pin KIRISH bo'lsa plata uni o'qiydi, CHIQISH bo'lsa unga kuchlanish beradi. Bir pin bir vaqtda ikkisi bo'la olmaydi.",
+     "Doskaga chiqariladigan namuna: \"Kirish va chiqish pinlarini bir sxemada solishtirish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
+     "Kod qatorma-qator o'qiladi: har bir qator nima qilishi ovoz chiqarib aytiladi, keyin o'quvchilar takrorlaydi."
+    ]
+   },
+   {
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Analog pin nimasi bilan raqamlidan farq qiladi?  Javob: U oraliq qiymatlarni ham o'qiy oladi.",
      "Savol: Pindan maksimal qancha tok olinadi?  Javob: 20 mA."
@@ -107013,7 +107875,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: pin xaritasini chizib, har guruhning vazifasini yozish.",
+     "Bajariladigan ish: tugma, potensiometr va ikki LED yig'ib, ikki kirish va ikki chiqish pinini bir sxemada ishlatish; chiqish pinini ataylab INPUT qilib qo'yib, LED nima uchun yonmasligini tushuntirish.",
      "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi."
     ]
    },
@@ -107041,6 +107903,11 @@ window.LESSON_CONTENT = {
   "qollanma": {
    "matn": "20 mA cheklovini alohida yozib qo'ying. O'quvchilar motorni to'g'ridan-to'g'ri pinga ulashga urinishi eng ko'p uchraydigan va eng qimmat xato.",
    "xato": "Motorni to'g'ridan-to'g'ri pinga ulash."
+  },
+  "kod": {
+   "nom": "Kirish va chiqish pinlarini bir sxemada solishtirish",
+   "matn": "// Kirish va chiqish pinlari yonma-yon\nconst int KIRISH_R = 2;    // raqamli kirish (tugma)\nconst int KIRISH_A = A0;   // analog kirish (potensiometr)\nconst int CHIQISH_R = 7;   // raqamli chiqish (LED)\nconst int CHIQISH_P = 9;   // PWM chiqish (LED)\n\nvoid setup() {\n  pinMode(KIRISH_R, INPUT_PULLUP);\n  pinMode(CHIQISH_R, OUTPUT);\n  pinMode(CHIQISH_P, OUTPUT);\n  // analog kirish uchun pinMode SHART EMAS\n  Serial.begin(9600);\n  Serial.println(\"raqamli kirish | analog kirish | chiqishlar\");\n}\n\nvoid loop() {\n  // KIRISHLARNI O'QIYMIZ\n  int tugma = digitalRead(KIRISH_R);      // 0 yoki 1\n  int pot   = analogRead(KIRISH_A);       // 0..1023\n\n  // CHIQISHLARGA YOZAMIZ\n  digitalWrite(CHIQISH_R, tugma == LOW);           // faqat yoq/o'chir\n  analogWrite(CHIQISH_P, map(pot, 0, 1023, 0, 255)); // oraliq qiymat\n\n  Serial.print(tugma == LOW ? \"BOSILGAN\" : \"bo'sh  \");\n  Serial.print(\"  |  pot=\");  Serial.print(pot);\n  Serial.print(\"  |  PWM=\");  Serial.println(map(pot, 0, 1023, 0, 255));\n  delay(200);\n}",
+   "izoh": "Pin KIRISH bo'lsa plata uni o'qiydi, CHIQISH bo'lsa unga kuchlanish beradi. Bir pin bir vaqtda ikkisi bo'la olmaydi."
   }
  },
  "2-yil|5-sinf|1-chorak|12": {
@@ -107134,7 +108001,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Blokli dasturlash muhiti (mBlock) bilan tanishuv\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani zanjirda amalda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — mBlock muhitini ochib, interfeys qismlari bilan tanishish — mustaqil yig'a oladilar."
+   "O'quvchilar amaliy ishni — mBlock muhitini ochib interfeys qismlari bilan tanishish, keyin darhol plataga LED ulab, birinchi blokli dasturni yig'ish va yuklab, chiroqni miltillatishga erishish — mustaqil yig'a oladilar."
   ],
   "lugat": [
    "Dastur (Program) – qurilma bajaradigan buyruqlar ketma-ketligi",
@@ -107187,7 +108054,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: mBlock muhitini ochib, interfeys qismlari bilan tanishish.",
+     "Bajariladigan ish: mBlock muhitini ochib interfeys qismlari bilan tanishish, keyin darhol plataga LED ulab, birinchi blokli dasturni yig'ish va yuklab, chiroqni miltillatishga erishish.",
      "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi."
     ]
    },
@@ -107463,7 +108330,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Kutish (delay) blogi\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani zanjirda amalda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — kutish blogi bilan turli tezlikda miltillash naqshlarini yaratish — mustaqil yig'a oladilar."
+   "O'quvchilar amaliy ishni — lED va zummerni ulab, mBlock'da kutish blogi bilan turli tezlikdagi miltillash naqshlarini yasash, keyin ayni natijani matnli kodda delay() bilan takrorlash — mustaqil yig'a oladilar."
   ],
   "lugat": [
    "Elektr zanjiri (Circuit) – tok aylanib yuradigan yopiq yo'l",
@@ -107498,7 +108365,15 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "points": [
+     "Blokli muhitdagi kutish blogi Arduino'dagi delay() ga to'g'ri keladi.",
+     "Doskaga chiqariladigan namuna: \"Kutish blogining matnli ko'rinishi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
+     "Kod qatorma-qator o'qiladi: har bir qator nima qilishi ovoz chiqarib aytiladi, keyin o'quvchilar takrorlaydi."
+    ]
+   },
+   {
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kutish blogi vaqtni qaysi birlikda oladi?  Javob: Sekundda.",
      "Savol: Juda tez miltillash qanday ko'rinadi?  Javob: LED doim yonayotgandek, faqat xiraroq."
@@ -107516,7 +108391,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: kutish blogi bilan turli tezlikda miltillash naqshlarini yaratish.",
+     "Bajariladigan ish: lED va zummerni ulab, mBlock'da kutish blogi bilan turli tezlikdagi miltillash naqshlarini yasash, keyin ayni natijani matnli kodda delay() bilan takrorlash.",
      "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi."
     ]
    },
@@ -107544,13 +108419,18 @@ window.LESSON_CONTENT = {
   "qollanma": {
    "matn": "0,05 sekund chegarasini sinatib ko'rsating: tez miltillash yorqinlikning kamayishiga o'xshab ko'rinadi. Bu keyingi PWM mavzusiga tabiiy kirish.",
    "xato": "Kutishsiz yoqish-o'chirish qo'yish — LED miltillayotgani ko'rinmaydi."
+  },
+  "kod": {
+   "nom": "Kutish blogining matnli ko'rinishi",
+   "matn": "// Kutish blogi = delay()\nconst int LED = 9, ZUMMER = 8;\n\nvoid setup() {\n  pinMode(LED, OUTPUT);\n  pinMode(ZUMMER, OUTPUT);\n}\n\nvoid loop() {\n  // BLOK:  <LEDni yoq>  <1 soniya kut>  <LEDni o'chir>  <1 soniya kut>\n  digitalWrite(LED, HIGH);\n  delay(1000);\n  digitalWrite(LED, LOW);\n  delay(1000);\n\n  // Kutish vaqtini o'zgartirib naqsh yasash:\n  // qisqa-qisqa-uzun\n  digitalWrite(LED, HIGH); delay(150); digitalWrite(LED, LOW); delay(150);\n  digitalWrite(LED, HIGH); delay(150); digitalWrite(LED, LOW); delay(150);\n  digitalWrite(LED, HIGH); delay(600); digitalWrite(LED, LOW); delay(600);\n\n  tone(ZUMMER, 1200, 100);\n}",
+   "izoh": "Blokli muhitdagi kutish blogi Arduino'dagi delay() ga to'g'ri keladi."
   }
  },
  "2-yil|5-sinf|1-chorak|17": {
   "maqsad": [
    "O'quvchilar \"Ikki blokni ketma-ket qo'yish\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani zanjirda amalda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — bir necha blokni ketma-ket qo'yib, aniq ketma-ketlikda ishlaydigan dastur yasash — mustaqil yig'a oladilar."
+   "O'quvchilar amaliy ishni — ikki LED va zummer yig'ib, bir xil bloklarni ikki xil tartibda qo'yib natijani solishtirish; svetofor tartibini ataylab buzib, nima uchun ketma-ketlik muhimligini ko'rsatish — mustaqil yig'a oladilar."
   ],
   "lugat": [
    "Blokli dasturlash (Block coding) – buyruqlarni bloklardan yig'ib dastur tuzish",
@@ -107585,7 +108465,15 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "points": [
+     "Bloklar yuqoridan pastga qat'iy tartibda bajariladi. Tartibni o'zgartirsangiz natija ham o'zgaradi.",
+     "Doskaga chiqariladigan namuna: \"Ketma-ketlik: tartib natijani belgilaydi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
+     "Kod qatorma-qator o'qiladi: har bir qator nima qilishi ovoz chiqarib aytiladi, keyin o'quvchilar takrorlaydi."
+    ]
+   },
+   {
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Bloklar qanday tartibda bajariladi?  Javob: Yuqoridan pastga.",
      "Savol: Tartib o'zgarsa natija o'zgaradimi?  Javob: Ha, butunlay boshqa bo'lishi mumkin."
@@ -107603,7 +108491,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: bir necha blokni ketma-ket qo'yib, aniq ketma-ketlikda ishlaydigan dastur yasash.",
+     "Bajariladigan ish: ikki LED va zummer yig'ib, bir xil bloklarni ikki xil tartibda qo'yib natijani solishtirish; svetofor tartibini ataylab buzib, nima uchun ketma-ketlik muhimligini ko'rsatish.",
      "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi."
     ]
    },
@@ -107631,13 +108519,18 @@ window.LESSON_CONTENT = {
   "qollanma": {
    "matn": "Ikki tartibni sinatib ko'rsating. Bir xil bloklar, boshqa tartib, butunlay boshqa natija — bu algoritm tushunchasining eng aniq namoyishi.",
    "xato": "Blok tartibiga e'tibor bermaslik."
+  },
+  "kod": {
+   "nom": "Ketma-ketlik: tartib natijani belgilaydi",
+   "matn": "// Ketma-ketlik: tartib muhim\nconst int QIZIL = 7, YASHIL = 8, ZUMMER = 9;\n\nvoid setup() {\n  pinMode(QIZIL, OUTPUT); pinMode(YASHIL, OUTPUT); pinMode(ZUMMER, OUTPUT);\n  Serial.begin(9600);\n}\n\nvoid loop() {\n  // 1-VARIANT: signal, keyin chiroq\n  Serial.println(\"1-variant: avval signal, keyin chiroq\");\n  tone(ZUMMER, 1500, 200);\n  delay(400);\n  digitalWrite(YASHIL, HIGH);\n  delay(1000);\n  digitalWrite(YASHIL, LOW);\n  delay(1000);\n\n  // 2-VARIANT: chiroq, keyin signal — AYNI bloklar, boshqa TARTIB\n  Serial.println(\"2-variant: avval chiroq, keyin signal\");\n  digitalWrite(QIZIL, HIGH);\n  delay(1000);\n  tone(ZUMMER, 1500, 200);\n  delay(400);\n  digitalWrite(QIZIL, LOW);\n  delay(1000);\n\n  // Ikki variant BIR XIL bloklardan iborat, lekin natija boshqacha.\n}",
+   "izoh": "Bloklar yuqoridan pastga qat'iy tartibda bajariladi. Tartibni o'zgartirsangiz natija ham o'zgaradi."
   }
  },
  "2-yil|5-sinf|1-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Birinchi dasturni plataga yuklash\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani zanjirda amalda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — upload rejimida dasturni yuklab, platani kompyutersiz ishlatish — mustaqil yig'a oladilar."
+   "O'quvchilar amaliy ishni — platani ulab, port va plata turini sozlash, dasturni yuklash va ikki belgini (miltillash + Serial yozuvi) tasdiqlash; keyin noto'g'ri port tanlab, xato xabarini ko'rish — mustaqil yig'a oladilar."
   ],
   "lugat": [
    "Dastur (Program) – qurilma bajaradigan buyruqlar ketma-ketligi",
@@ -107672,7 +108565,15 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "points": [
+     "Yuklash tugagach ikki belgi bo'lishi kerak: LED miltillaydi va Serial monitorda yozuv chiqadi.",
+     "Doskaga chiqariladigan namuna: \"Yuklash muvaffaqiyatli bo'lganini tasdiqlovchi dastur\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
+     "Kod qatorma-qator o'qiladi: har bir qator nima qilishi ovoz chiqarib aytiladi, keyin o'quvchilar takrorlaydi."
+    ]
+   },
+   {
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Yuklangan dastur qayerda saqlanadi?  Javob: Plataning xotirasida.",
      "Savol: Plataga nechta dastur sig'adi?  Javob: Bir vaqtda bittasi."
@@ -107690,7 +108591,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: upload rejimida dasturni yuklab, platani kompyutersiz ishlatish.",
+     "Bajariladigan ish: platani ulab, port va plata turini sozlash, dasturni yuklash va ikki belgini (miltillash + Serial yozuvi) tasdiqlash; keyin noto'g'ri port tanlab, xato xabarini ko'rish.",
      "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi."
     ]
    },
@@ -107718,6 +108619,11 @@ window.LESSON_CONTENT = {
   "qollanma": {
    "matn": "Yuklashdan keyin USB ni uzib, batareyadan quvvat berib ko'rsating. Mustaqil ishlaydigan qurilma — o'quvchilar uchun katta yutuq hissi.",
    "xato": "Live rejimda ishlab, platani mustaqil deb o'ylash."
+  },
+  "kod": {
+   "nom": "Yuklash muvaffaqiyatli bo'lganini tasdiqlovchi dastur",
+   "matn": "// Yuklash tekshiruvi: ikki belgi bilan tasdiqlanadi\nconst int LED = 9;\nint sanoq = 0;\n\nvoid setup() {\n  pinMode(LED, OUTPUT);\n  pinMode(LED_BUILTIN, OUTPUT);\n  Serial.begin(9600);\n\n  // 1-belgi: uch marta tez miltillash — dastur ishga tushdi\n  for (int i = 0; i < 3; i++) {\n    digitalWrite(LED_BUILTIN, HIGH); delay(100);\n    digitalWrite(LED_BUILTIN, LOW);  delay(100);\n  }\n  // 2-belgi: Serial monitorda yozuv\n  Serial.println(\"YUKLASH MUVAFFAQIYATLI!\");\n}\n\nvoid loop() {\n  sanoq++;\n  digitalWrite(LED, HIGH); delay(400);\n  digitalWrite(LED, LOW);  delay(400);\n  Serial.print(\"ishlayapti, sikl: \"); Serial.println(sanoq);\n}\n\n// YUKLASH XATOLARI VA SABABLARI:\n//  \"Port not found\"        -> kabel yoki drayver muammosi\n//  \"Board not in sync\"     -> Tools > Board noto'g'ri tanlangan\n//  \"Access denied\"         -> port boshqa dastur tomonidan band\n//  Ma'nosiz belgilar       -> Serial monitor tezligi mos emas",
+   "izoh": "Yuklash tugagach ikki belgi bo'lishi kerak: LED miltillaydi va Serial monitorda yozuv chiqadi."
   }
  },
  "2-yil|5-sinf|1-chorak|19": {
@@ -108031,10 +108937,32 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Har bir dars uch qismdan iborat: yangi tushuncha, sxema yig'ish, dastur yozish va sinash.",
+     "Kod har safar noldan yozilmaydi — oldingi darsdagi dastur ustiga qo'shib boriladi.",
+     "Ishlaydigan har bir dastur alohida faylga saqlanadi, keyin qaytib kerak bo'ladi.",
+     "Juftlikda ishlanadi: bittasi kod yozadi, ikkinchisi sxemani tekshiradi, keyin almashadilar."
+    ]
+   },
+   {
+    "title": "5.3. Dasturiy muhit va uni sozlash (5 daqiqa)",
+    "points": [
+     "Arduino IDE bepul dastur, u kodni yozadi, tekshiradi va plataga yuklaydi.",
+     "Birinchi ulanishda drayver o'rnatilishi kerak, aks holda port ro'yxatda ko'rinmaydi.",
+     "Har yuklashdan oldin ikki narsa tekshiriladi: Tools > Board (plata turi) va Tools > Port.",
+     "Serial monitor tezligi koddagi Serial.begin qiymatiga MOS bo'lishi kerak, aks holda ma'nosiz belgilar chiqadi.",
+     "Kod saqlanmagan bo'lsa IDE uni vaqtinchalik papkaga qo'yadi — shuning uchun har ishni o'z papkangizga saqlash kerak."
+    ]
+   },
+   {
+    "title": "5.4. Xavfsizlik va jihozni asrash (5 daqiqa)",
+    "points": [
+     "Plataga sim ulashdan oldin USB kabel UZILADI.",
+     "Bir pindan maksimum 20 mA olish mumkin, butun platadan 200 mA. Motor va servo alohida quvvatlanadi.",
+     "5V va GND ni bevosita ulash — qisqa tutashuv va plataning kuyishi.",
+     "Platani metall sirtga qo'ymaslik: pastki tomonidagi kontaktlar tutashib ketadi.",
+     "Modullarning qutbini tekshirish odat bo'lishi kerak: teskari ulangan modul bir zumda ishdan chiqadi."
     ]
    }
   ],
@@ -108652,7 +109580,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"O'zgaruvchi blogi bilan tanishuv\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani dasturda qo'llay oladilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — o'zgaruvchi yaratib, kutish vaqtini bir joydan boshqarish — mustaqil dastur yoza oladilar."
+   "O'quvchilar amaliy ishni — uch LED va potensiometr yig'ib, miltillash tezligini bitta o'zgaruvchi orqali boshqarish; o'zgaruvchini olib tashlab, qiymatni har joyda qo'lda o'zgartirishga urinib farqni his qilish — mustaqil dastur yoza oladilar."
   ],
   "lugat": [
    "O'zgaruvchi (Variable) – qiymat saqlanadigan nomlangan xotira katagi",
@@ -108687,7 +109615,15 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "points": [
+     "O'zgaruvchi — nomlangan qiymat. Uni bir joyda o'zgartirsangiz, u ishlatilgan hamma joyda o'zgaradi.",
+     "Doskaga chiqariladigan namuna: \"O'zgaruvchi bilan bir joydan boshqarish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
+     "Kod qatorma-qator o'qiladi: har bir qator nima qilishi ovoz chiqarib aytiladi, keyin o'quvchilar takrorlaydi."
+    ]
+   },
+   {
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: O'zgaruvchining afzalligi nima?  Javob: Qiymat bir joyda o'zgartiriladi.",
      "Savol: Nom qanday bo'lishi kerak?  Javob: Ma'noli, nima saqlashini bildiradigan."
@@ -108705,7 +109641,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: o'zgaruvchi yaratib, kutish vaqtini bir joydan boshqarish.",
+     "Bajariladigan ish: uch LED va potensiometr yig'ib, miltillash tezligini bitta o'zgaruvchi orqali boshqarish; o'zgaruvchini olib tashlab, qiymatni har joyda qo'lda o'zgartirishga urinib farqni his qilish.",
      "Natija Serial monitor orqali tekshiriladi va kod izohi bilan daftarga yoziladi."
     ]
    },
@@ -108733,13 +109669,18 @@ window.LESSON_CONTENT = {
   "qollanma": {
    "matn": "10 ta kutish blogidagi qiymatni qo'lda o'zgartirish vazifasini bering, keyin o'zgaruvchi bilan yechimni ko'rsating. Farq juda yaqqol seziladi.",
    "xato": "Har blokda qiymatni qo'lda yozish."
+  },
+  "kod": {
+   "nom": "O'zgaruvchi bilan bir joydan boshqarish",
+   "matn": "// O'zgaruvchi blogi: bir joydan hamma narsani boshqarish\nconst int LED1 = 7, LED2 = 8, LED3 = 9;\nconst int POT = A0;\n\nint tezlik = 300;        // O'ZGARUVCHI — hamma kechikish shundan olinadi\n\nvoid setup() {\n  pinMode(LED1, OUTPUT); pinMode(LED2, OUTPUT); pinMode(LED3, OUTPUT);\n  Serial.begin(9600);\n}\n\nvoid loop() {\n  // potensiometr o'zgaruvchini jonli o'zgartiradi\n  tezlik = map(analogRead(POT), 0, 1023, 50, 800);\n\n  digitalWrite(LED1, HIGH); delay(tezlik); digitalWrite(LED1, LOW);\n  digitalWrite(LED2, HIGH); delay(tezlik); digitalWrite(LED2, LOW);\n  digitalWrite(LED3, HIGH); delay(tezlik); digitalWrite(LED3, LOW);\n\n  Serial.print(\"tezlik o'zgaruvchisi = \"); Serial.println(tezlik);\n\n  // O'zgaruvchisiz bo'lsa: delay(300) ni UCH joyda qo'lda o'zgartirish\n  // kerak bo'lardi va bittasi doim esdan chiqardi.\n}",
+   "izoh": "O'zgaruvchi — nomlangan qiymat. Uni bir joyda o'zgartirsangiz, u ishlatilgan hamma joyda o'zgaradi."
   }
  },
  "2-yil|5-sinf|2-chorak|6": {
   "maqsad": [
    "O'quvchilar \"Sanoqni ekranda ko'rish\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani dasturda qo'llay oladilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — sanoq o'zgaruvchisini yaratib, uning qiymatini kuzatish — mustaqil dastur yoza oladilar."
+   "O'quvchilar amaliy ishni — tugma, LED va LCD ekran yig'ib, tugma bosilishlarini sanab ekranda ko'rsatish; eski raqam qoldig'ini o'chirmasdan sinab, nima uchun bo'sh joy yozish kerakligini ko'rsatish — mustaqil dastur yoza oladilar."
   ],
   "lugat": [
    "Mikrokontroller (Microcontroller) – dastur bajaradigan kichik kompyuter mikrosxemasi",
@@ -108774,7 +109715,15 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "points": [
+     "Sanoq — har hodisada bittaga oshadigan o'zgaruvchi. Uni ekranda ko'rsatish tugma va LCD bilan qilinadi.",
+     "Doskaga chiqariladigan namuna: \"Sanoq o'zgaruvchisini ekranda kuzatish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
+     "Kod qatorma-qator o'qiladi: har bir qator nima qilishi ovoz chiqarib aytiladi, keyin o'quvchilar takrorlaydi."
+    ]
+   },
+   {
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sanoq nima?  Javob: Har takrorlanishda oshib boradigan o'zgaruvchi.",
      "Savol: Sanoqni ko'rish uchun nima ishlatiladi?  Javob: Serial aloqa yoki ekran oynasi."
@@ -108792,7 +109741,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: sanoq o'zgaruvchisini yaratib, uning qiymatini kuzatish.",
+     "Bajariladigan ish: tugma, LED va LCD ekran yig'ib, tugma bosilishlarini sanab ekranda ko'rsatish; eski raqam qoldig'ini o'chirmasdan sinab, nima uchun bo'sh joy yozish kerakligini ko'rsatish.",
      "Natija Serial monitor orqali tekshiriladi va kod izohi bilan daftarga yoziladi."
     ]
    },
@@ -108820,6 +109769,11 @@ window.LESSON_CONTENT = {
   "qollanma": {
    "matn": "Sanoq qiymatini real vaqtda ko'rish o'quvchilar uchun dasturning \"ichini ko'rish\" imkoniyati — bu nosozlik topishning asosi.",
    "xato": "Sanoqni nolga qaytarishni unutish."
+  },
+  "kod": {
+   "nom": "Sanoq o'zgaruvchisini ekranda kuzatish",
+   "matn": "// Sanoq: tugma bosilishlarini sanab, LCD ekranda ko'rsatish\n#include <LiquidCrystal_I2C.h>\nLiquidCrystal_I2C lcd(0x27, 16, 2);\n\nconst int TUGMA = 2, LED = 9;\nint sanoq = 0;\nint oldingi = HIGH;\n\nvoid setup() {\n  pinMode(TUGMA, INPUT_PULLUP);\n  pinMode(LED, OUTPUT);\n  lcd.init(); lcd.backlight();\n  Serial.begin(9600);\n\n  lcd.setCursor(0, 0);\n  lcd.print(\"Bosishlar soni:\");\n  lcd.setCursor(0, 1);\n  lcd.print(sanoq);\n}\n\nvoid loop() {\n  int hozir = digitalRead(TUGMA);\n\n  // bosilish LAHZASINI ushlaymiz (HIGH dan LOW ga o'tish)\n  if (oldingi == HIGH && hozir == LOW) {\n    sanoq++;\n\n    lcd.setCursor(0, 1);\n    lcd.print(sanoq);\n    lcd.print(\"      \");        // eski raqam qoldig'ini o'chirish\n\n    digitalWrite(LED, HIGH); delay(80); digitalWrite(LED, LOW);\n    Serial.print(\"sanoq = \"); Serial.println(sanoq);\n    delay(50);                 // kontakt sakrashiga qarshi\n  }\n  oldingi = hozir;\n}",
+   "izoh": "Sanoq — har hodisada bittaga oshadigan o'zgaruvchi. Uni ekranda ko'rsatish tugma va LCD bilan qilinadi."
   }
  },
  "2-yil|5-sinf|2-chorak|7": {
@@ -110805,10 +111759,32 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Har bir dars uch qismdan iborat: yangi tushuncha, sxema yig'ish, dastur yozish va sinash.",
+     "Kod har safar noldan yozilmaydi — oldingi darsdagi dastur ustiga qo'shib boriladi.",
+     "Ishlaydigan har bir dastur alohida faylga saqlanadi, keyin qaytib kerak bo'ladi.",
+     "Juftlikda ishlanadi: bittasi kod yozadi, ikkinchisi sxemani tekshiradi, keyin almashadilar."
+    ]
+   },
+   {
+    "title": "5.3. Dasturiy muhit va uni sozlash (5 daqiqa)",
+    "points": [
+     "Arduino IDE bepul dastur, u kodni yozadi, tekshiradi va plataga yuklaydi.",
+     "Birinchi ulanishda drayver o'rnatilishi kerak, aks holda port ro'yxatda ko'rinmaydi.",
+     "Har yuklashdan oldin ikki narsa tekshiriladi: Tools > Board (plata turi) va Tools > Port.",
+     "Serial monitor tezligi koddagi Serial.begin qiymatiga MOS bo'lishi kerak, aks holda ma'nosiz belgilar chiqadi.",
+     "Kod saqlanmagan bo'lsa IDE uni vaqtinchalik papkaga qo'yadi — shuning uchun har ishni o'z papkangizga saqlash kerak."
+    ]
+   },
+   {
+    "title": "5.4. Xavfsizlik va jihozni asrash (5 daqiqa)",
+    "points": [
+     "Plataga sim ulashdan oldin USB kabel UZILADI.",
+     "Bir pindan maksimum 20 mA olish mumkin, butun platadan 200 mA. Motor va servo alohida quvvatlanadi.",
+     "5V va GND ni bevosita ulash — qisqa tutashuv va plataning kuyishi.",
+     "Platani metall sirtga qo'ymaslik: pastki tomonidagi kontaktlar tutashib ketadi.",
+     "Modullarning qutbini tekshirish odat bo'lishi kerak: teskari ulangan modul bir zumda ishdan chiqadi."
     ]
    }
   ],
@@ -112124,7 +113100,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Haroratli ogohlantirish\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani dasturda qo'llay oladilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — belgilangan chegaradan oshganda signal beradigan qurilma yasash — mustaqil dastur yoza oladilar."
+   "O'quvchilar amaliy ishni — termistorli bo'luvchi, ikki LED va zummer yig'ib, ogohlantirish tizimini yasash; avval bitta chegara bilan sinab, chegarada titrashini ko'rish, keyin gisterezis qo'shib muammoni bartaraf etish — mustaqil dastur yoza oladilar."
   ],
   "lugat": [
    "Mikrokontroller (Microcontroller) – dastur bajaradigan kichik kompyuter mikrosxemasi",
@@ -112159,7 +113135,15 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "points": [
+     "Gisterezis va tasdiqlash bilan — yolg'on signal bermaydigan qilib yoziladi.",
+     "Doskaga chiqariladigan namuna: \"Chegaradan oshganda signal beruvchi tizim\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
+     "Kod qatorma-qator o'qiladi: har bir qator nima qilishi ovoz chiqarib aytiladi, keyin o'quvchilar takrorlaydi."
+    ]
+   },
+   {
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Chegara qanday aniqlanadi?  Javob: Kerakli haroratda sensor qiymatini o'lchab.",
      "Savol: Termistor qayerga joylashtiriladi?  Javob: O'lchanadigan yuzaga tegib turadigan joyga."
@@ -112177,7 +113161,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: belgilangan chegaradan oshganda signal beradigan qurilma yasash.",
+     "Bajariladigan ish: termistorli bo'luvchi, ikki LED va zummer yig'ib, ogohlantirish tizimini yasash; avval bitta chegara bilan sinab, chegarada titrashini ko'rish, keyin gisterezis qo'shib muammoni bartaraf etish.",
      "Natija Serial monitor orqali tekshiriladi va kod izohi bilan daftarga yoziladi."
     ]
    },
@@ -112205,6 +113189,11 @@ window.LESSON_CONTENT = {
   "qollanma": {
    "matn": "Qurilmani issiq stakan bilan sinatib ko'ring va javob vaqtini o'lchang. Javob tezligi ham muhandislik parametri.",
    "xato": "Chegarani taxminan tanlash — qurilma noto'g'ri haroratda ishlaydi."
+  },
+  "kod": {
+   "nom": "Chegaradan oshganda signal beruvchi tizim",
+   "matn": "// Haroratli ogohlantirish: gisterezis + tasdiqlash bilan\nconst int TERM = A0;\nconst int LED_YASHIL = 7, LED_QIZIL = 8, ZUMMER = 9;\n\nconst int YOQ_CHEGARA   = 30;    // shundan yuqori — ogohlantirish\nconst int OCHIR_CHEGARA = 27;    // shundan past  — normal (gisterezis)\nconst int TASDIQ = 3;            // ketma-ket shuncha marta tasdiqlansin\n\nbool xavf = false;\nint ketmaKet = 0;\n\nint haroratOlch() {\n  long y = 0;\n  for (int i = 0; i < 10; i++) { y += analogRead(TERM); delay(5); }\n  return map(y / 10, 0, 1023, 0, 50);      // soddalashtirilgan chizmalash\n}\n\nvoid setup() {\n  pinMode(LED_YASHIL, OUTPUT); pinMode(LED_QIZIL, OUTPUT); pinMode(ZUMMER, OUTPUT);\n  Serial.begin(9600);\n}\n\nvoid loop() {\n  int t = haroratOlch();\n\n  // TASDIQLASH: bitta sakragan qiymat signal bermaydi\n  if (!xavf && t > YOQ_CHEGARA)        ketmaKet++;\n  else if (xavf && t < OCHIR_CHEGARA)  ketmaKet++;\n  else                                  ketmaKet = 0;\n\n  if (ketmaKet >= TASDIQ) { ketmaKet = 0; xavf = !xavf; }\n\n  digitalWrite(LED_QIZIL, xavf);\n  digitalWrite(LED_YASHIL, !xavf);\n  if (xavf) tone(ZUMMER, 2200, 200);\n\n  Serial.print(\"t=\"); Serial.print(t); Serial.print(\" C  \");\n  Serial.println(xavf ? \"[OGOHLANTIRISH]\" : \"normal\");\n  delay(500);\n}",
+   "izoh": "Gisterezis va tasdiqlash bilan — yolg'on signal bermaydigan qilib yoziladi."
   }
  },
  "2-yil|5-sinf|3-chorak|11": {
@@ -113221,7 +114210,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Sensor qiymatini ekranda kuzatish\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani dasturda qo'llay oladilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — bir necha sensor qiymatini bir vaqtda ekranda kuzatish — mustaqil dastur yoza oladilar."
+   "O'quvchilar amaliy ishni — fotorezistor, termistor va LCD ekran yig'ib, ikki qiymatni ekranda jonli ko'rsatish; USB kabelni uzib, qurilma batareyada mustaqil ishlashini tekshirish — mustaqil dastur yoza oladilar."
   ],
   "lugat": [
    "Sensor (Sensor) – fizik kattalikni elektr signalga aylantiruvchi qurilma",
@@ -113256,7 +114245,15 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "points": [
+     "Serial monitor kompyuterga bog'liq. Ekran esa qurilmani mustaqil qiladi — bu tayyor mahsulotga birinchi qadam.",
+     "Doskaga chiqariladigan namuna: \"Sensor qiymatini ekranda jonli ko'rsatish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
+     "Kod qatorma-qator o'qiladi: har bir qator nima qilishi ovoz chiqarib aytiladi, keyin o'quvchilar takrorlaydi."
+    ]
+   },
+   {
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qiymatlarni ko'rish nima uchun kerak?  Javob: Sensor to'g'ri ishlayotganini tekshirish uchun.",
      "Savol: Bir necha qiymat qanday ko'rsatiladi?  Javob: Har birini nomi bilan ajratib."
@@ -113274,7 +114271,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: bir necha sensor qiymatini bir vaqtda ekranda kuzatish.",
+     "Bajariladigan ish: fotorezistor, termistor va LCD ekran yig'ib, ikki qiymatni ekranda jonli ko'rsatish; USB kabelni uzib, qurilma batareyada mustaqil ishlashini tekshirish.",
      "Natija Serial monitor orqali tekshiriladi va kod izohi bilan daftarga yoziladi."
     ]
    },
@@ -113302,6 +114299,11 @@ window.LESSON_CONTENT = {
   "qollanma": {
    "matn": "\"Avval qiymatni ko'r, keyin mantiq yoz\" tartibini o'rnating. Ko'r-ko'rona dastur yozish eng ko'p vaqt yo'qotadi.",
    "xato": "Qiymatlarni ko'rmasdan darhol shart yozishga kirishish."
+  },
+  "kod": {
+   "nom": "Sensor qiymatini ekranda jonli ko'rsatish",
+   "matn": "// Sensor qiymatini LCD ekranda jonli ko'rsatish\n#include <LiquidCrystal_I2C.h>\nLiquidCrystal_I2C lcd(0x27, 16, 2);\n\nconst int LDR = A0, TERM = A1;\nunsigned long oxirgi = 0;\n\nvoid setup() {\n  lcd.init(); lcd.backlight();\n  Serial.begin(9600);\n  lcd.setCursor(0, 0); lcd.print(\"Yorug'lik:\");\n  lcd.setCursor(0, 1); lcd.print(\"Harorat:\");\n}\n\nvoid loop() {\n  // ekranni tez-tez yangilash uni \"titratadi\" — 300 ms yetarli\n  if (millis() - oxirgi < 300) return;\n  oxirgi = millis();\n\n  int y = map(analogRead(LDR), 0, 1023, 0, 100);\n  int t = map(analogRead(TERM), 0, 1023, 0, 50);\n\n  lcd.setCursor(11, 0);\n  lcd.print(y); lcd.print(\"%  \");      // orqadagi probellar eski raqamni o'chiradi\n\n  lcd.setCursor(11, 1);\n  lcd.print(t); lcd.print(\"C  \");\n\n  Serial.print(\"yorug'lik=\"); Serial.print(y);\n  Serial.print(\"  harorat=\"); Serial.println(t);\n}",
+   "izoh": "Serial monitor kompyuterga bog'liq. Ekran esa qurilmani mustaqil qiladi — bu tayyor mahsulotga birinchi qadam."
   }
  },
  "2-yil|5-sinf|3-chorak|18": {
@@ -113343,7 +114345,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Chegarani to'g'ri tanlash (4 daqiqa)",
+    "points": [
+     "Chegara — qurilma qaror qabul qiladigan qiymat. U tajriba yo'li bilan topiladi, taxmin bilan emas.",
+     "Tartib: sensorni haqiqiy ish sharoitida qo'yib, qiymatni bir necha daqiqa kuzating va eng past hamda eng baland qiymatni yozib oling.",
+     "Chegara shu ikki qiymat oralig'ida, lekin chetlaridan uzoqroqda tanlanadi.",
+     "Muhit o'zgarsa (kun/tun, yoz/qish) chegarani qayta tekshirish kerak."
+    ]
+   },
+   {
+    "title": "5.3. Gisterezis — titrashni yo'qotish (4 daqiqa)",
+    "points": [
+     "Bitta chegara ishlatilsa, qiymat chegara atrofida turganda qurilma tez-tez yoqilib-o'chib turadi.",
+     "Yechim: IKKI chegara qo'yish. Masalan 350 dan past bo'lsa yoq, 450 dan yuqori bo'lsa o'chir.",
+     "Ikki chegara orasidagi oraliqda qurilma o'z holatini SAQLAYDI va hech narsa o'zgarmaydi.",
+     "Bu usul konditsioner, muzlatgich va termostatlarning hammasida ishlatiladi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kalibrlash uchun kamida nechta nuqta kerak?  Javob: Ikkita — eng past va eng yuqori.",
      "Savol: Sensor almashtirilsa nima qilinadi?  Javob: Kalibrlash qayta bajariladi."
@@ -113628,10 +114648,32 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Har bir dars uch qismdan iborat: yangi tushuncha, sxema yig'ish, dastur yozish va sinash.",
+     "Kod har safar noldan yozilmaydi — oldingi darsdagi dastur ustiga qo'shib boriladi.",
+     "Ishlaydigan har bir dastur alohida faylga saqlanadi, keyin qaytib kerak bo'ladi.",
+     "Juftlikda ishlanadi: bittasi kod yozadi, ikkinchisi sxemani tekshiradi, keyin almashadilar."
+    ]
+   },
+   {
+    "title": "5.3. Dasturiy muhit va uni sozlash (5 daqiqa)",
+    "points": [
+     "Arduino IDE bepul dastur, u kodni yozadi, tekshiradi va plataga yuklaydi.",
+     "Birinchi ulanishda drayver o'rnatilishi kerak, aks holda port ro'yxatda ko'rinmaydi.",
+     "Har yuklashdan oldin ikki narsa tekshiriladi: Tools > Board (plata turi) va Tools > Port.",
+     "Serial monitor tezligi koddagi Serial.begin qiymatiga MOS bo'lishi kerak, aks holda ma'nosiz belgilar chiqadi.",
+     "Kod saqlanmagan bo'lsa IDE uni vaqtinchalik papkaga qo'yadi — shuning uchun har ishni o'z papkangizga saqlash kerak."
+    ]
+   },
+   {
+    "title": "5.4. Xavfsizlik va jihozni asrash (5 daqiqa)",
+    "points": [
+     "Plataga sim ulashdan oldin USB kabel UZILADI.",
+     "Bir pindan maksimum 20 mA olish mumkin, butun platadan 200 mA. Motor va servo alohida quvvatlanadi.",
+     "5V va GND ni bevosita ulash — qisqa tutashuv va plataning kuyishi.",
+     "Platani metall sirtga qo'ymaslik: pastki tomonidagi kontaktlar tutashib ketadi.",
+     "Modullarning qutbini tekshirish odat bo'lishi kerak: teskari ulangan modul bir zumda ishdan chiqadi."
     ]
    }
   ],
@@ -114857,7 +115899,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Qurilma algoritmining uch qismi (4 daqiqa)",
+    "points": [
+     "SEZISH — sensordan qiymat o'qish. Bu algoritmning kirishi.",
+     "QAROR — o'qilgan qiymatni chegara bilan solishtirish, mantiqiy shart tekshirish.",
+     "HARAKAT — LED, motor, zummer yoki ekranga ta'sir qilish. Bu chiqish.",
+     "Deyarli har qanday qurilma shu uch bosqichni takrorlab turadi — bu loop() ning mazmuni."
+    ]
+   },
+   {
+    "title": "5.3. Holatlar (state) bilan ishlash (4 daqiqa)",
+    "points": [
+     "Ba'zi qurilmalar bir necha HOLATDA bo'ladi: kutish, ishlash, ogohlantirish.",
+     "Har bir holat uchun alohida qoida yoziladi: shu holatda nima qiladi va qaysi shartda boshqa holatga o'tadi.",
+     "Holat diagrammasi chiziladi: doiralar — holatlar, strelkalar — o'tish shartlari.",
+     "Bu usul murakkab qurilmani (masalan svetofor yoki signalizatsiya) tushunarli qiladi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Rombda nima yoziladi?  Javob: Shart.",
      "Savol: Blok-sxema qachon chiziladi?  Javob: Dastur yozishdan oldin."
@@ -114944,7 +116004,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Sxemadan blokka o'tish qoidalari (4 daqiqa)",
+    "points": [
+     "Oval (boshlanish) — 'boshlanganda' blogi.",
+     "To'rtburchak (amal) — mos amal blogi: 'yoq', 'kut', 'chiqar'.",
+     "Romb (shart) — 'agar ... bo'lsa' blogi. Ikki chiqishli romb esa 'agar ... aks holda'.",
+     "Orqaga qaytuvchi strelka — 'doim' yoki 'takrorla' blogi.",
+     "Ya'ni sxemadagi har bir shakl uchun aniq bitta blok bor — bu tarjima mexanik ish."
+    ]
+   },
+   {
+    "title": "5.3. Tekshirish tartibi (4 daqiqa)",
+    "points": [
+     "Dastur yig'ilgach, uni sxema bilan yonma-yon qo'yib solishtirish kerak.",
+     "Har bir sxema qadami dasturda o'z blogini topganini belgilab chiqiladi.",
+     "Qolib ketgan qadam bo'lsa — dastur to'liq emas.",
+     "Dasturda sxemada yo'q blok bo'lsa — u yerdan ortiqcha ish bajarilyapti va uni tekshirish kerak."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Blok-sxemadagi romb dasturda nimaga aylanadi?  Javob: Shart blokiga.",
      "Savol: Orqaga qaytadigan strelka nimani bildiradi?  Javob: Siklni."
@@ -115031,7 +116110,27 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Sinov bosqichlari (4 daqiqa)",
+    "points": [
+     "1) Komponent sinovi: har bir element alohida ishlayaptimi.",
+     "2) Modul sinovi: bir necha element birga (masalan sensor + ekran).",
+     "3) Tizim sinovi: hammasi birga, haqiqiy ish sharoitida.",
+     "4) Chidamlilik sinovi: uzoq vaqt va noqulay sharoitda.",
+     "Har bosqich o'tmaguncha keyingisiga o'tilmaydi."
+    ]
+   },
+   {
+    "title": "5.3. Nimani o'lchash kerak (4 daqiqa)",
+    "points": [
+     "Javob vaqti: sensor o'zgargandan qurilma javob berguncha necha sekund o'tadi.",
+     "Aniqlik: o'lchov etalon bilan qanchalik mos.",
+     "Barqarorlik: 30 daqiqada necha marta noto'g'ri ishladi.",
+     "Quvvat sarfi: batareya bilan necha soat ishlaydi.",
+     "Bu to'rt son loyiha hujjatida bo'lishi kerak — ular ishning sifatini raqam bilan ko'rsatadi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sinash qanday tartibda olib boriladi?  Javob: Har qism alohida, keyin birga.",
      "Savol: Muammo topilsa nima qilinadi?  Javob: Darhol tuzatiladi, keyingi bosqichga o'tilmaydi."
@@ -115305,7 +116404,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Korpusning vazifalari (4 daqiqa)",
+    "points": [
+     "Himoya: chang, namlik va mexanik zarbadan saqlash.",
+     "Mustahkamlash: simlar tortilib uzilmasligi uchun elementlarni qotirish.",
+     "Xavfsizlik: ochiq kontaktlarni yopish.",
+     "Ko'rinish: qurilma tayyor mahsulotga o'xshab qoladi — bu taqdimotda sezilarli ta'sir qiladi."
+    ]
+   },
+   {
+    "title": "5.3. Loyihalash qoidalari (4 daqiqa)",
+    "points": [
+     "Razyomlar uchun teshiklar oldindan o'lchab belgilanadi: USB, quvvat, sensor.",
+     "Sensorlar tashqariga chiqarilishi kerak: harorat sensori korpus ichida bo'lsa, u korpus haroratini o'lchaydi.",
+     "Havo almashinuvi: isiydigan elementlar uchun teshik qoldiriladi.",
+     "Xizmat ko'rsatish: korpus ochilib, batareya almashtirilishi va kod qayta yuklanishi mumkin bo'lsin.",
+     "Material: karton (tez prototip), plastik quti (arzon), 3D bosma (aniq, lekin vaqt oladi)."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Korpusning uch vazifasi qaysi?  Javob: Himoya, xavfsizlik, foydalanish qulayligi.",
      "Savol: Batareya joyi qanday bo'lishi kerak?  Javob: Almashtirish oson bo'ladigan."
@@ -115479,7 +116597,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Qo'llanmaning tarkibi (4 daqiqa)",
+    "points": [
+     "Qurilma nima qiladi — bir-ikki gapda, texnik atamalarsiz.",
+     "Nima kerak: quvvat manbai, kabel, qo'shimcha jihoz.",
+     "Ishga tushirish: qadamma-qadam, rasm bilan.",
+     "Boshqarish: qaysi tugma nima qiladi, indikatorlar nimani bildiradi.",
+     "Muammolar va yechimlar: eng ko'p uchraydigan 3-5 holat."
+    ]
+   },
+   {
+    "title": "5.3. Qo'llanma kim uchun yoziladi (4 daqiqa)",
+    "points": [
+     "Qo'llanma qurilmani BIRINCHI MARTA ko'rayotgan odam uchun yoziladi.",
+     "Shuning uchun 'ma'lumki', 'oddiy' kabi so'zlar ishlatilmaydi.",
+     "Har bir qadam bajarilganini tekshirish belgisi bo'lishi kerak: 'yashil chiroq yonadi'.",
+     "Sinov: qo'llanmani boshqa sinf o'quvchisiga berib, u qurilmani ishlata olishini tekshirish."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qo'llanma kim uchun yoziladi?  Javob: Foydalanuvchi uchun.",
      "Savol: Qaysi bo'lim eng foydali?  Javob: Muammolar va yechimlar."
@@ -115566,7 +116703,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Tayyorgarlik ro'yxati (4 daqiqa)",
+    "points": [
+     "Qurilma to'liq ishlaydigan holatda va zaryadlangan.",
+     "Zaxira: qo'shimcha batareya, kabel, eng ko'p buziladigan komponentdan bittadan.",
+     "Namoyish videosi oldindan yozib olingan.",
+     "Slaydlar yoki plakat: sxema, komponentlar ro'yxati, sinov natijalari.",
+     "Gapiriladigan matn qisqa tezislar shaklida yozilgan (to'liq matn o'qilmaydi)."
+    ]
+   },
+   {
+    "title": "5.3. Vaqtni boshqarish (4 daqiqa)",
+    "points": [
+     "Taqdimot vaqti oldindan aytiladi va unga rioya qilinadi.",
+     "Mashq paytida sekundomer bilan o'lchash kerak — birinchi urinishda odatda ikki barobar uzun chiqadi.",
+     "Uzun bo'lsa texnik tafsilotlar qisqartiriladi, namoyish esa QISQARTIRILMAYDI.",
+     "Jamoada har kimga o'z qismi belgilanadi va o'tish joylari mashq qilinadi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Taqdimot qancha davom etadi?  Javob: 3-5 daqiqa.",
      "Savol: Nega zaxira video kerak?  Javob: Jonli namoyish buzilib qolishi mumkin."
@@ -115653,7 +116809,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Baholash mezonlari (4 daqiqa)",
+    "points": [
+     "Ishlaydimi: qurilma e'lon qilingan vazifani bajaradimi.",
+     "Talablarga mos keladimi: boshda qo'yilgan bandlarning nechtasi bajarilgan.",
+     "Yechim asoslanganmi: komponent va chegaralar tanlovi tushuntirilganmi.",
+     "Hujjat to'liqmi: sxema bilan qurilmani qayta yig'ish mumkinmi.",
+     "Taqdimot tushunarlimi: begona odam nima qilinganini tushundimi."
+    ]
+   },
+   {
+    "title": "5.3. Foydali fikr bildirish (4 daqiqa)",
+    "points": [
+     "Avval ishlagan narsani aytish kerak — bu adolat va u muallifga nimani saqlash kerakligini bildiradi.",
+     "Keyin ANIQ taklif: 'yaxshi emas' emas, 'sensorni 5 sm pastroq qo'ysangiz aniqlik ortadi'.",
+     "Shaxsga emas, ishga baho beriladi.",
+     "O'z loyihangizga qo'llash mumkin bo'lgan g'oyani yozib olish — baholashning eng katta foydasi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tanqid qanday bo'lishi kerak?  Javob: Konstruktiv — taklif bilan.",
      "Savol: Har baholovchi nima aytadi?  Javob: Kamida bitta ijobiy va bitta taklif."
@@ -115740,7 +116915,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Yakuniy sinovning farqi (4 daqiqa)",
+    "points": [
+     "Oraliq sinovda alohida qismlar tekshiriladi, yakuniy sinovda esa BUTUN tizim birga.",
+     "Sinov haqiqiy ish sharoitida o'tkaziladi: qurilma qayerda ishlasa, o'sha yerda.",
+     "Uzoq muddat sinov shart: 10-30 daqiqa uzluksiz ishlatib, to'xtab qolmasligini tekshirish.",
+     "Ko'p xatolar faqat uzoq ishlaganda chiqadi: xotira tugashi, sensor qizishi, aloqa uzilishi."
+    ]
+   },
+   {
+    "title": "5.3. Tuzatishlarni boshqarish (4 daqiqa)",
+    "points": [
+     "Har bir tuzatishdan keyin BUTUN sinov qaytariladi: tuzatish boshqa joyni buzgan bo'lishi mumkin.",
+     "Ishlaydigan variant har safar nusxalab saqlanadi — qaytish nuqtasi bo'ladi.",
+     "Taqdimotga bir dars qolganda yangi funksiya QO'SHILMAYDI, faqat mavjudi barqarorlashtiriladi.",
+     "Tuzatilmagan kamchiliklar ro'yxati tuziladi va himoyada ochiq aytiladi — bu kuchsizlik emas, halollik."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Yakuniy sinov qanday olib boriladi?  Javob: Ro'yxat bo'yicha, har imkoniyat alohida.",
      "Savol: Tuzatishdan keyin nima qilinadi?  Javob: Butun ro'yxat qayta bajariladi."
@@ -116025,10 +117218,33 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Har bir dars bir xil tartibda o'tadi: takrorlash, yangi mavzu, sxema yig'ish, o'lchash, natijani yozish.",
+     "Ish juftlikda bajariladi: bittasi yig'adi, ikkinchisi sxema bo'yicha tekshiradi, keyin almashadilar.",
+     "Har dars oxirida ish daftariga yoziladi: nima yig'ildi, qanday qiymat o'lchandi, qanday xato bo'ldi.",
+     "Chorak oxirida nazorat musobaqasi va loyiha bo'ladi — ularning mezonlari oldindan e'lon qilinadi."
+    ]
+   },
+   {
+    "title": "5.3. Elektr xavfsizligi — asosiy qoidalar (5 daqiqa)",
+    "points": [
+     "Darsda ishlatiladigan kuchlanish 3,3-9 V — bu inson uchun xavfsiz oraliq.",
+     "220 V bilan ishlash faqat o'qituvchi nazoratida va faqat namoyish tarzida bo'ladi.",
+     "Zanjirni o'zgartirishdan oldin quvvat UZILADI. Ulangan holatda sim ulash — eng ko'p uchraydigan xato.",
+     "Batareyaning ikki qutbini bevosita ulash mumkin emas: bu qisqa tutashuv, batareya qiziydi.",
+     "Qizigan komponentni ushlamaslik: rezistor va stabilizator 80 darajagacha qizishi mumkin.",
+     "Ishdan keyin quvvat uziladi va komponentlar joyiga qaytariladi."
+    ]
+   },
+   {
+    "title": "5.4. Ish o'rni va jihoz (5 daqiqa)",
+    "points": [
+     "Stol toza va quruq bo'lishi kerak — suv va elektronika birga bo'lmaydi.",
+     "Komponentlar qutichada saralab saqlanadi: rezistorlar alohida, LEDlar alohida.",
+     "Breadboard, multimetr va simlar to'plami har juftlikda alohida bo'ladi.",
+     "Jihoz buzilsa yashirilmaydi — darhol aytiladi. Buzilgan jihoz bilan ishlash xavfli.",
+     "To'plam to'liqligi dars boshida va oxirida ro'yxat bo'yicha tekshiriladi."
     ]
    }
   ],
@@ -116104,7 +117320,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Quvvat formulasi va uning uch shakli (4 daqiqa)",
+    "points": [
+     "P = U x I — quvvat vattda (Vt) o'lchanadi. Bu vaqt birligida sarflanadigan energiya.",
+     "Om qonunini qo'yib boshqa shakllar chiqadi: P = I2 x R va P = U2 / R.",
+     "Ikkinchi shakl muhim: tok ikki barobar oshsa, quvvat TO'RT barobar oshadi. Shuning uchun ortiqcha tok tez qizdiradi."
+    ]
+   },
+   {
+    "title": "5.3. Rezistorning quvvat bardoshi (4 daqiqa)",
+    "points": [
+     "Maktab to'plamidagi rezistorlar odatda 0,25 Vt ga mo'ljallangan.",
+     "Misol: 220 Om rezistordan 20 mA tok o'tsa, P = 0,02^2 x 220 = 0,088 Vt — bu 0,25 Vt dan ancha kam, xavfsiz.",
+     "Agar shu rezistorga 5 V to'g'ridan-to'g'ri berilsa: P = 25 / 220 = 0,11 Vt — hali ham normal.",
+     "Lekin 10 Om rezistorga 5 V berilsa: P = 25 / 10 = 2,5 Vt — bu bardoshdan 10 barobar ko'p, rezistor qizib kuyadi.",
+     "Amaliy qoida: rezistor barmoq bilan ushlab bo'lmaydigan darajada qizisa, quvvat bardoshi yetmayapti."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 100 Om da 5 V bo'lsa quvvat qancha?  Javob: 0,25 Vt — chegarada, kuchliroq rezistor kerak.",
      "Savol: V / kOm nima beradi?  Javob: Milliamperni."
@@ -116412,7 +117646,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Ikki turdagi signal (4 daqiqa)",
+    "points": [
+     "Analog signal UZLUKSIZ o'zgaradi va oraliqdagi istalgan qiymatni olishi mumkin: 0 V, 1,37 V, 2,84 V.",
+     "Raqamli signal faqat IKKI holatga ega: past (0) yoki yuqori (1). Oraliq qiymat yo'q.",
+     "Tabiatdagi hamma narsa analog: harorat, tovush, yorug'lik. Kompyuter esa faqat raqamlar bilan ishlaydi.",
+     "Shuning uchun har bir sensorli tizimda analogdan raqamliga aylantirish bosqichi bo'ladi."
+    ]
+   },
+   {
+    "title": "5.3. ADC — aylantirish qanday boradi (4 daqiqa)",
+    "points": [
+     "ADC kirish kuchlanishini o'lchab, uni butun songa aylantiradi.",
+     "Arduino Uno da ADC 10 bitli: 0-5 V oralig'i 1024 pog'onaga bo'linadi. Bir pog'ona 5/1024 = 4,9 mV.",
+     "ESP32 da ADC 12 bitli: 4096 pog'ona, kirish esa 0-3,3 V.",
+     "Ya'ni ADC har doim yaxlitlaydi: 2,4405 V ham, 2,4430 V ham bir xil songa aylanishi mumkin. Bu aylantirish xatosi va undan qochib bo'lmaydi.",
+     "Ko'proq bit — aniqroq aylantirish, lekin sekinroq va qimmatroq."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Analog signalning asosiy xususiyati nima?  Javob: Uzluksiz o'zgarishi.",
      "Savol: Raqamli signalning afzalligi nima?  Javob: Shovqinga chidamli va uzatish oson."
@@ -116551,7 +117804,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Arduino Uno: pinlar va imkoniyatlar\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani zanjirda amalda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — pin xaritasini chizib, har guruhning imkoniyatlarini yozish — mustaqil yig'a oladilar."
+   "O'quvchilar amaliy ishni — har bir PWM pinga navbat bilan LED ulab sinash, PWM va oddiy pin farqini ko'rsatish; pin chegaralarini jadvalga yozib, nechta LEDni bir vaqtda yoqish mumkinligini hisoblash — mustaqil yig'a oladilar."
   ],
   "lugat": [
    "Arduino – dasturlanadigan mikrokontroller platasi va uning dasturiy muhiti",
@@ -116586,7 +117839,15 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "points": [
+     "Uno da 14 raqamli pin (shundan 6 tasi PWM) va 6 analog pin bor. Har birining o'z chegarasi va vazifasi bor.",
+     "Doskaga chiqariladigan namuna: \"Pin turlarini va ularning chegaralarini ko'rsatuvchi dastur\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
+     "Kod qatorma-qator o'qiladi: har bir qator nima qilishi ovoz chiqarib aytiladi, keyin o'quvchilar takrorlaydi."
+    ]
+   },
+   {
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qaysi pinlar Serial aloqa uchun band?  Javob: D0 va D1.",
      "Savol: Pindan xavfsiz qancha tok olinadi?  Javob: 20 mA."
@@ -116604,7 +117865,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: pin xaritasini chizib, har guruhning imkoniyatlarini yozish.",
+     "Bajariladigan ish: har bir PWM pinga navbat bilan LED ulab sinash, PWM va oddiy pin farqini ko'rsatish; pin chegaralarini jadvalga yozib, nechta LEDni bir vaqtda yoqish mumkinligini hisoblash.",
      "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi."
     ]
    },
@@ -116632,13 +117893,18 @@ window.LESSON_CONTENT = {
   "qollanma": {
    "matn": "D0/D1 cheklovini alohida ayting — bu pinlarga komponent ulangan bo'lsa dastur yuklanmaydi va sabab topilmaydi.",
    "xato": "D0 va D1 ga komponent ulash — dastur yuklanmaydi."
+  },
+  "kod": {
+   "nom": "Pin turlarini va ularning chegaralarini ko'rsatuvchi dastur",
+   "matn": "// Uno pinlari: turlari va chegaralari\n// D0, D1  — Serial (USB bilan band, imkon qadar ishlatilmaydi)\n// D2, D3  — uzilish (interrupt) pinlari\n// D3,5,6,9,10,11 — PWM (~ belgisi bor)\n// D13     — ichki LED ulangan\n// A0..A5  — analog kirish; A4=SDA, A5=SCL (I2C)\n\nconst int PWM_PIN[6] = {3, 5, 6, 9, 10, 11};\n\nvoid setup() {\n  Serial.begin(9600);\n  for (int i = 0; i < 6; i++) pinMode(PWM_PIN[i], OUTPUT);\n\n  Serial.println(\"=== ARDUINO UNO PIN XARITASI ===\");\n  Serial.println(\"Raqamli pin: 14 ta (D0..D13)\");\n  Serial.println(\"  shundan PWM: D3, D5, D6, D9, D10, D11\");\n  Serial.println(\"  uzilish:     D2, D3\");\n  Serial.println(\"  ichki LED:   D13\");\n  Serial.println(\"Analog pin: 6 ta (A0..A5), ADC 10 bitli -> 0..1023\");\n  Serial.println(\"  I2C: A4 = SDA, A5 = SCL\");\n  Serial.println();\n  Serial.println(\"CHEGARALAR:\");\n  Serial.println(\"  bitta pin: 40 mA (xavfsizi 20 mA)\");\n  Serial.println(\"  butun plata: 200 mA\");\n  Serial.println(\"  5V pin: taxminan 400-500 mA (USB dan)\");\n}\n\nvoid loop() {\n  // hamma PWM pinni navbat bilan sinaymiz\n  for (int i = 0; i < 6; i++) {\n    Serial.print(\"PWM sinovi: D\"); Serial.println(PWM_PIN[i]);\n    for (int y = 0; y <= 255; y += 15) { analogWrite(PWM_PIN[i], y); delay(20); }\n    for (int y = 255; y >= 0; y -= 15) { analogWrite(PWM_PIN[i], y); delay(20); }\n  }\n}",
+   "izoh": "Uno da 14 raqamli pin (shundan 6 tasi PWM) va 6 analog pin bor. Har birining o'z chegarasi va vazifasi bor."
   }
  },
  "2-yil|6-sinf|1-chorak|7": {
   "maqsad": [
    "O'quvchilar \"IDE bilan tanishuv\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani zanjirda amalda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — arduino IDE ni sozlab, misol dasturni ochib, kompilyatsiya qilish — mustaqil yig'a oladilar."
+   "O'quvchilar amaliy ishni — iDE ni ochib, kodni yuklash va Serial monitorni ochish; ataylab nuqta-vergulni o'chirib Verify bosish va kompilyator xato qatorini qanday ko'rsatishini o'rganish — mustaqil yig'a oladilar."
   ],
   "lugat": [
    "IDE (Integrated Development Environment) – dastur yozib, plataga yuklaydigan muhit",
@@ -116673,7 +117939,15 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "points": [
+     "Verify (tekshirish) va Upload (yuklash) — ikki asosiy tugma. Verify faqat xatoni topadi, Upload esa plataga yozadi.",
+     "Doskaga chiqariladigan namuna: \"IDE ning asosiy tugmalarini sinaydigan dastur\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
+     "Kod qatorma-qator o'qiladi: har bir qator nima qilishi ovoz chiqarib aytiladi, keyin o'quvchilar takrorlaydi."
+    ]
+   },
+   {
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Verify tugmasi nima qiladi?  Javob: Kodni tekshiradi va kompilyatsiya qiladi.",
      "Savol: Xato xabarida nima ko'rsatiladi?  Javob: Xato turi va qator raqami."
@@ -116691,7 +117965,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: arduino IDE ni sozlab, misol dasturni ochib, kompilyatsiya qilish.",
+     "Bajariladigan ish: iDE ni ochib, kodni yuklash va Serial monitorni ochish; ataylab nuqta-vergulni o'chirib Verify bosish va kompilyator xato qatorini qanday ko'rsatishini o'rganish.",
      "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi."
     ]
    },
@@ -116719,13 +117993,18 @@ window.LESSON_CONTENT = {
   "qollanma": {
    "matn": "Xato xabarini o'qishni birinchi darsdan o'rgating. Xabarni o'qimasdan kodni tasodifan o'zgartirish — eng ko'p vaqt yo'qotadigan odat.",
    "xato": "Xato xabarini o'qimasdan kodni tasodifan o'zgartirish."
+  },
+  "kod": {
+   "nom": "IDE ning asosiy tugmalarini sinaydigan dastur",
+   "matn": "// IDE bilan tanishuv: ataylab xato qo'yib, Verify ni sinash\nconst int LED = 9;\n\nvoid setup() {\n  pinMode(LED, OUTPUT);\n  Serial.begin(9600);\n  Serial.println(\"Bu yozuv Serial monitorda ko'rinadi.\");\n  Serial.println(\"Monitor tezligi 9600 ga qo'yilgan bo'lishi kerak!\");\n}\n\nvoid loop() {\n  digitalWrite(LED, HIGH);\n  delay(500);\n  digitalWrite(LED, LOW);\n  delay(500);\n\n  Serial.println(\"sikl tugadi\");\n\n  // TAJRIBA 1: quyidagi qatorning nuqta-vergulini o'chiring va Verify bosing.\n  //            Kompilyator xato qatorini ko'rsatadi.\n  // int x = 5\n\n  // TAJRIBA 2: delay(500) ni delay(50) ga o'zgartiring va Upload bosing.\n  //            O'zgarish faqat Upload dan keyin ko'rinadi, Verify dan keyin emas.\n}",
+   "izoh": "Verify (tekshirish) va Upload (yuklash) — ikki asosiy tugma. Verify faqat xatoni topadi, Upload esa plataga yozadi."
   }
  },
  "2-yil|6-sinf|1-chorak|8": {
   "maqsad": [
    "O'quvchilar \"Blokli va matnli dasturlash: solishtirish\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani zanjirda amalda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — bir xil vazifani blokli va matnli usulda bajarib, ikkalasini solishtirish — mustaqil yig'a oladilar."
+   "O'quvchilar amaliy ishni — bir xil vazifani (uch LEDli svetofor) avval blokli, keyin matnli usulda bajarib, ikkala dasturni AYNI sxemada ishlatish; blok soni va kod qatorlari sonini sanab, qaysi holatda qaysi usul qulayligini aniqlash — mustaqil yig'a oladilar."
   ],
   "lugat": [
    "Dastur (Program) – qurilma bajaradigan buyruqlar ketma-ketligi",
@@ -116778,7 +118057,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: bir xil vazifani blokli va matnli usulda bajarib, ikkalasini solishtirish.",
+     "Bajariladigan ish: bir xil vazifani (uch LEDli svetofor) avval blokli, keyin matnli usulda bajarib, ikkala dasturni AYNI sxemada ishlatish; blok soni va kod qatorlari sonini sanab, qaysi holatda qaysi usul qulayligini aniqlash.",
      "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi."
     ]
    },
@@ -116812,7 +118091,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Birinchi dastur: Blink\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani zanjirda amalda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — blink dasturini yozib, o'zgartirib, natijani kuzatish — mustaqil yig'a oladilar."
+   "O'quvchilar amaliy ishni — lEDni 220 Om rezistor bilan ulab, kechikishni 500 dan 15 ms gacha kamaytirib borish va ko'z qaysi qiymatdan boshlab miltillashni ilg'amay qolishini aniq o'lchash — mustaqil yig'a oladilar."
   ],
   "lugat": [
    "Dastur (Program) – qurilma bajaradigan buyruqlar ketma-ketligi",
@@ -116847,7 +118126,15 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "points": [
+     "Blink — birinchi dastur, lekin uning qiymatlarini O'ZGARTIRIB ko'rish o'rganishning asosiy usuli.",
+     "Doskaga chiqariladigan namuna: \"Blink va uni o'zgartirib sinash\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
+     "Kod qatorma-qator o'qiladi: har bir qator nima qilishi ovoz chiqarib aytiladi, keyin o'quvchilar takrorlaydi."
+    ]
+   },
+   {
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Har buyruq oxirida nima bo'lishi kerak?  Javob: Nuqta-vergul.",
      "Savol: digitalWrite va DigitalWrite bir xilmi?  Javob: Yo'q, katta-kichik harf farq qiladi."
@@ -116865,7 +118152,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: blink dasturini yozib, o'zgartirib, natijani kuzatish.",
+     "Bajariladigan ish: lEDni 220 Om rezistor bilan ulab, kechikishni 500 dan 15 ms gacha kamaytirib borish va ko'z qaysi qiymatdan boshlab miltillashni ilg'amay qolishini aniq o'lchash.",
      "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi."
     ]
    },
@@ -116893,13 +118180,18 @@ window.LESSON_CONTENT = {
   "qollanma": {
    "matn": "Nuqta-vergul va katta-kichik harf qoidalarini birinchi darsda mustahkamlang. Bu ikkisi barcha sintaksis xatolarining 80% ini tashkil qiladi.",
    "xato": "Nuqta-vergulni unutish."
+  },
+  "kod": {
+   "nom": "Blink va uni o'zgartirib sinash",
+   "matn": "// Blink va tajribalar\nconst int LED = 9;\nint yoniq = 500;      // yonib turish vaqti\nint ochiq = 500;      // o'chib turish vaqti\n\nvoid setup() {\n  pinMode(LED, OUTPUT);\n  Serial.begin(9600);\n  Serial.println(\"yoniq(ms) | o'chiq(ms)\");\n}\n\nvoid loop() {\n  digitalWrite(LED, HIGH);\n  delay(yoniq);\n  digitalWrite(LED, LOW);\n  delay(ochiq);\n\n  Serial.print(yoniq); Serial.print(\"       | \"); Serial.println(ochiq);\n\n  // TAJRIBA: kechikishni asta kamaytiramiz\n  yoniq -= 25;\n  ochiq -= 25;\n  if (yoniq < 15) { yoniq = 500; ochiq = 500; Serial.println(\"--- qayta boshlandi ---\"); }\n\n  // 30-40 ms dan pastda ko'z miltillashni ILG'AMAY qoladi:\n  // LED xira, lekin doim yonib turgandek ko'rinadi. Bu PWM ning asosi.\n}",
+   "izoh": "Blink — birinchi dastur, lekin uning qiymatlarini O'ZGARTIRIB ko'rish o'rganishning asosiy usuli."
   }
  },
  "2-yil|6-sinf|1-chorak|10": {
   "maqsad": [
    "O'quvchilar \"setup() va loop() nima qiladi\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani zanjirda amalda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — ikki funksiyaga har xil kod qo'yib, farqni kuzatish — mustaqil yig'a oladilar."
+   "O'quvchilar amaliy ishni — lED va zummer yig'ib, setup ichida bir martalik signal, loop ichida takrorlanuvchi miltillash yozish; RESET bosib, sanoqlarning qanday qayta boshlanishini kuzatish — mustaqil yig'a oladilar."
   ],
   "lugat": [
    "Elektr zanjiri (Circuit) – tok aylanib yuradigan yopiq yo'l",
@@ -116934,7 +118226,15 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "points": [
+     "setup bir marta, loop cheksiz. Buni sanoq va RESET tugmasi bilan ko'z bilan ko'rish mumkin.",
+     "Doskaga chiqariladigan namuna: \"Ikki funksiya farqini isbotlovchi tajriba\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
+     "Kod qatorma-qator o'qiladi: har bir qator nima qilishi ovoz chiqarib aytiladi, keyin o'quvchilar takrorlaydi."
+    ]
+   },
+   {
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: setup() necha marta bajariladi?  Javob: Bir marta.",
      "Savol: Serial.begin qayerda yoziladi?  Javob: setup() ichida."
@@ -116952,7 +118252,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: ikki funksiyaga har xil kod qo'yib, farqni kuzatish.",
+     "Bajariladigan ish: lED va zummer yig'ib, setup ichida bir martalik signal, loop ichida takrorlanuvchi miltillash yozish; RESET bosib, sanoqlarning qanday qayta boshlanishini kuzatish.",
      "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi."
     ]
    },
@@ -116980,6 +118280,11 @@ window.LESSON_CONTENT = {
   "qollanma": {
    "matn": "Miltillash kodini setup ichiga qo'yib ko'rsating: LED bir marta miltillaydi va to'xtaydi. Bu farqni bir zumda ochadi.",
    "xato": "Serial.begin ni loop ichiga yozish."
+  },
+  "kod": {
+   "nom": "Ikki funksiya farqini isbotlovchi tajriba",
+   "matn": "// setup BIR MARTA, loop CHEKSIZ — sanoq bilan isbotlaymiz\nconst int LED = 9, ZUMMER = 8;\nint setupSoni = 0;      // bu har RESET da 0 dan boshlanadi\nint loopSoni = 0;\n\nvoid setup() {\n  pinMode(LED, OUTPUT);\n  pinMode(ZUMMER, OUTPUT);\n  Serial.begin(9600);\n\n  setupSoni++;\n  Serial.println(\"=====================================\");\n  Serial.print(\"SETUP bajarildi. setupSoni = \");\n  Serial.println(setupSoni);       // DOIM 1 chiqadi\n  Serial.println(\"=====================================\");\n\n  tone(ZUMMER, 1500, 200);         // yoqilganini bildiruvchi signal\n  delay(500);\n}\n\nvoid loop() {\n  loopSoni++;\n  Serial.print(\"loop #\"); Serial.println(loopSoni);   // 1, 2, 3, ... o'sib boradi\n\n  digitalWrite(LED, HIGH); delay(300);\n  digitalWrite(LED, LOW);  delay(300);\n}\n\n// TAJRIBA: RESET tugmasini bosing.\n//   setupSoni yana 1 bo'ladi, loopSoni esa 1 dan qayta boshlanadi.\n//   Bu setup ning faqat bir marta ishlashini isbotlaydi.",
+   "izoh": "setup bir marta, loop cheksiz. Buni sanoq va RESET tugmasi bilan ko'z bilan ko'rish mumkin."
   }
  },
  "2-yil|6-sinf|1-chorak|11": {
@@ -117086,7 +118391,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"delay va vaqt\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani zanjirda amalda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — turli delay qiymatlari bilan naqshlar yaratib, delay ning kamchiligini aniqlash — mustaqil yig'a oladilar."
+   "O'quvchilar amaliy ishni — ikki LED va tugma yig'ib, delay ishlayotgan paytda tugma bosilishi va ikkinchi LED miltillashi to'xtab qolishini tajribada isbotlash, keyin ikkalasini millis() ga o'tkazib farqni ko'rish — mustaqil yig'a oladilar."
   ],
   "lugat": [
    "Elektr zanjiri (Circuit) – tok aylanib yuradigan yopiq yo'l",
@@ -117121,7 +118426,15 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "points": [
+     "delay ishlaganda plata boshqa hech narsa qila olmaydi. millis() esa vaqtni sanaydi va dasturni to'xtatmaydi.",
+     "Doskaga chiqariladigan namuna: \"delay() va millis() ni yonma-yon solishtirish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
+     "Kod qatorma-qator o'qiladi: har bir qator nima qilishi ovoz chiqarib aytiladi, keyin o'quvchilar takrorlaydi."
+    ]
+   },
+   {
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: delay paytida tugma o'qiladimi?  Javob: Yo'q.",
      "Savol: Yechim nima?  Javob: millis() bilan vaqtni sanash."
@@ -117139,7 +118452,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: turli delay qiymatlari bilan naqshlar yaratib, delay ning kamchiligini aniqlash.",
+     "Bajariladigan ish: ikki LED va tugma yig'ib, delay ishlayotgan paytda tugma bosilishi va ikkinchi LED miltillashi to'xtab qolishini tajribada isbotlash, keyin ikkalasini millis() ga o'tkazib farqni ko'rish.",
      "Natija multimetr bilan tekshiriladi va qiymatlar ish daftariga yoziladi."
     ]
    },
@@ -117167,6 +118480,11 @@ window.LESSON_CONTENT = {
   "qollanma": {
    "matn": "delay muammosini ataylab sinatib ko'rsating. Muammoni his qilgan o'quvchi millis() ni keyinchalik yaxshi o'zlashtiradi.",
    "xato": "Uzun delay qo'yib, qurilmaning javob bermasligidan hayron bo'lish."
+  },
+  "kod": {
+   "nom": "delay() va millis() ni yonma-yon solishtirish",
+   "matn": "// delay va millis: farqni tugma bilan isbotlaymiz\nconst int LED1 = 9, LED2 = 10, TUGMA = 2;\nunsigned long oxirgi = 0;\nbool holat2 = false;\n\nvoid setup() {\n  pinMode(LED1, OUTPUT); pinMode(LED2, OUTPUT);\n  pinMode(TUGMA, INPUT_PULLUP);\n  Serial.begin(9600);\n  Serial.println(\"delay ishlayotganda tugmani bosib ko'ring — sezilmaydi\");\n}\n\nvoid loop() {\n  // --- LED2: millis bilan, dasturni TO'XTATMAYDI ---\n  if (millis() - oxirgi >= 250) {\n    oxirgi = millis();\n    holat2 = !holat2;\n    digitalWrite(LED2, holat2);\n  }\n\n  // --- tugmani doim tekshiramiz ---\n  if (digitalRead(TUGMA) == LOW) Serial.println(\"TUGMA BOSILDI\");\n\n  // --- LED1: delay bilan, plata shu yerda 1,5 sekund MUZLAB turadi ---\n  digitalWrite(LED1, HIGH);\n  delay(1500);                  // shu paytda tugma ham, LED2 ham ishlamaydi\n  digitalWrite(LED1, LOW);\n  delay(1500);\n}",
+   "izoh": "delay ishlaganda plata boshqa hech narsa qila olmaydi. millis() esa vaqtni sanaydi va dasturni to'xtatmaydi."
   }
  },
  "2-yil|6-sinf|1-chorak|13": {
@@ -117466,7 +118784,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Izohning turlari (4 daqiqa)",
+    "points": [
+     "Fayl sarlavhasi: loyiha haqida umumiy ma'lumot.",
+     "Bo'lim izohi: kodning katta qismlarini ajratadi (sozlash, o'lchash, qaror).",
+     "Qator izohi: aniq bir qatorning noaniq joyini tushuntiradi.",
+     "Ogohlantirish izohi: 'bu qatorni o'zgartirmang' yoki 'bir marta yuklab, keyin izohga oling'."
+    ]
+   },
+   {
+    "title": "5.3. Qancha izoh yozish kerak (4 daqiqa)",
+    "points": [
+     "Har qatorga izoh yozish ham xato: kod izohlar orasida ko'rinmay qoladi.",
+     "Izoh kerak bo'ladigan joylar: sehrli sonlar, formulalar, kutilmagan yechimlar, apparat cheklovlari.",
+     "Agar kodni tushuntirish uchun uzun izoh kerak bo'lsa — ko'pincha kodning o'zini soddalashtirish to'g'riroq.",
+     "Bir haftadan keyin o'z kodingizni o'qib ko'rish — izohlar yetarli ekanini tekshirishning eng yaxshi usuli."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: // va /* */ farqi nima?  Javob: Birinchisi bir qatorli, ikkinchisi ko'p qatorli izoh.",
      "Savol: Izohda nima yozilishi kerak?  Javob: Nega shunday qilingani."
@@ -117640,7 +118976,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Nima uchun birga tekshiriladi (4 daqiqa)",
+    "points": [
+     "Xatolarning katta qismi sxema va kod O'RTASIDA bo'ladi: kodda D9 yozilgan, sim esa D10 da.",
+     "Alohida tekshirilganda ikkalasi ham to'g'ri ko'rinadi, birga esa ishlamaydi.",
+     "Shuning uchun tekshiruv jadvali tuziladi: kodda qaysi pin, sxemada qaysi pin, mos keladimi."
+    ]
+   },
+   {
+    "title": "5.3. Tekshirish tartibi (4 daqiqa)",
+    "points": [
+     "1) Koddagi hamma pin doimiylarini ro'yxat qilib yozish.",
+     "2) Har biri uchun sxemadagi haqiqiy ulanishni tekshirish.",
+     "3) Kirish va chiqish turlarini solishtirish: pinMode to'g'ri qo'yilganmi.",
+     "4) Mantiqni tekshirish: INPUT_PULLUP bo'lsa kodda LOW ni kutish kerak.",
+     "5) Quvvat va GND: tashqi manba bo'lsa umumiy GND ulanganmi.",
+     "Bu besh qadam ko'p uchraydigan xatolarning deyarli hammasini topadi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sxema va koddagi xatoni qanday ajratish mumkin?  Javob: Oddiy test kodi yuklab ko'rish bilan.",
      "Savol: Serial.println nima uchun ishlatiladi?  Javob: Dastur qayergacha yetganini va qiymatlarni ko'rish uchun."
@@ -117727,7 +119082,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Ish faylini tartibda saqlash (4 daqiqa)",
+    "points": [
+     "Har bir loyihaga alohida papka: sketch, sxema rasmi va qisqa izoh bir joyda tursin.",
+     "Fayl nomi ma'noli bo'lsin: 'tungi_chiroq_v2' — 'sketch_apr12a' emas.",
+     "Ishlaydigan variant topilgach, uni nusxalab saqlab qo'yish kerak. Keyingi o'zgartirish buzsa, qaytish joyi bo'ladi.",
+     "Versiyani nomga qo'shish eng oddiy usul: v1, v2, v3. Har birida nima o'zgargani izohda yoziladi."
+    ]
+   },
+   {
+    "title": "5.3. Ish daftari (logbook) (4 daqiqa)",
+    "points": [
+     "Har darsda yoziladi: sana, mavzu, nima yig'ildi, qanday natija chiqdi, qanday xato bo'ldi va u qanday tuzatildi.",
+     "Xato yozilishi natijadan ham muhimroq: bir marta uchragan xato ikkinchi marta tez topiladi.",
+     "O'lchov qiymatlari ham yoziladi — kalibrlash uchun ular keyin kerak bo'ladi.",
+     "Chorak oxirida daftar loyihani hujjatlashtirish uchun tayyor manba bo'ladi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sketch papkasi nomi qanday bo'lishi kerak?  Javob: Fayl nomi bilan bir xil.",
      "Savol: Nega versiya nusxalari saqlanadi?  Javob: Yangi o'zgarish buzsa qaytish uchun."
@@ -118036,10 +119409,32 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Har bir dars uch qismdan iborat: yangi tushuncha, sxema yig'ish, dastur yozish va sinash.",
+     "Kod har safar noldan yozilmaydi — oldingi darsdagi dastur ustiga qo'shib boriladi.",
+     "Ishlaydigan har bir dastur alohida faylga saqlanadi, keyin qaytib kerak bo'ladi.",
+     "Juftlikda ishlanadi: bittasi kod yozadi, ikkinchisi sxemani tekshiradi, keyin almashadilar."
+    ]
+   },
+   {
+    "title": "5.3. Dasturiy muhit va uni sozlash (5 daqiqa)",
+    "points": [
+     "Arduino IDE bepul dastur, u kodni yozadi, tekshiradi va plataga yuklaydi.",
+     "Birinchi ulanishda drayver o'rnatilishi kerak, aks holda port ro'yxatda ko'rinmaydi.",
+     "Har yuklashdan oldin ikki narsa tekshiriladi: Tools > Board (plata turi) va Tools > Port.",
+     "Serial monitor tezligi koddagi Serial.begin qiymatiga MOS bo'lishi kerak, aks holda ma'nosiz belgilar chiqadi.",
+     "Kod saqlanmagan bo'lsa IDE uni vaqtinchalik papkaga qo'yadi — shuning uchun har ishni o'z papkangizga saqlash kerak."
+    ]
+   },
+   {
+    "title": "5.4. Xavfsizlik va jihozni asrash (5 daqiqa)",
+    "points": [
+     "Plataga sim ulashdan oldin USB kabel UZILADI.",
+     "Bir pindan maksimum 20 mA olish mumkin, butun platadan 200 mA. Motor va servo alohida quvvatlanadi.",
+     "5V va GND ni bevosita ulash — qisqa tutashuv va plataning kuyishi.",
+     "Platani metall sirtga qo'ymaslik: pastki tomonidagi kontaktlar tutashib ketadi.",
+     "Modullarning qutbini tekshirish odat bo'lishi kerak: teskari ulangan modul bir zumda ishdan chiqadi."
     ]
    }
   ],
@@ -120270,10 +121665,32 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Har bir dars uch qismdan iborat: yangi tushuncha, sxema yig'ish, dastur yozish va sinash.",
+     "Kod har safar noldan yozilmaydi — oldingi darsdagi dastur ustiga qo'shib boriladi.",
+     "Ishlaydigan har bir dastur alohida faylga saqlanadi, keyin qaytib kerak bo'ladi.",
+     "Juftlikda ishlanadi: bittasi kod yozadi, ikkinchisi sxemani tekshiradi, keyin almashadilar."
+    ]
+   },
+   {
+    "title": "5.3. Dasturiy muhit va uni sozlash (5 daqiqa)",
+    "points": [
+     "Arduino IDE bepul dastur, u kodni yozadi, tekshiradi va plataga yuklaydi.",
+     "Birinchi ulanishda drayver o'rnatilishi kerak, aks holda port ro'yxatda ko'rinmaydi.",
+     "Har yuklashdan oldin ikki narsa tekshiriladi: Tools > Board (plata turi) va Tools > Port.",
+     "Serial monitor tezligi koddagi Serial.begin qiymatiga MOS bo'lishi kerak, aks holda ma'nosiz belgilar chiqadi.",
+     "Kod saqlanmagan bo'lsa IDE uni vaqtinchalik papkaga qo'yadi — shuning uchun har ishni o'z papkangizga saqlash kerak."
+    ]
+   },
+   {
+    "title": "5.4. Xavfsizlik va jihozni asrash (5 daqiqa)",
+    "points": [
+     "Plataga sim ulashdan oldin USB kabel UZILADI.",
+     "Bir pindan maksimum 20 mA olish mumkin, butun platadan 200 mA. Motor va servo alohida quvvatlanadi.",
+     "5V va GND ni bevosita ulash — qisqa tutashuv va plataning kuyishi.",
+     "Platani metall sirtga qo'ymaslik: pastki tomonidagi kontaktlar tutashib ketadi.",
+     "Modullarning qutbini tekshirish odat bo'lishi kerak: teskari ulangan modul bir zumda ishdan chiqadi."
     ]
    }
   ],
@@ -122813,7 +124230,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kalibrlash nima va nima uchun kerak (4 daqiqa)",
+    "points": [
+     "Sensor xom qiymat beradi (masalan 0 dan 1023 gacha son). Bu son o'z-o'zicha gradus yoki foizni anglatmaydi.",
+     "Kalibrlash — xom qiymatni HAQIQIY o'lchov birligiga bog'lash jarayoni.",
+     "Har bir nusxa biroz boshqacha: bir xil ikki fotorezistor bir xil yorug'likda 30-50 birlik farq qilishi mumkin.",
+     "Shuning uchun internetdan olingan tayyor koeffitsient odatda ishlamaydi — uni har bir sensor uchun o'zingiz topasiz."
+    ]
+   },
+   {
+    "title": "5.3. Ikki nuqtali kalibrlash tartibi (4 daqiqa)",
+    "points": [
+     "1) Sensorni ma'lum PAST holatga qo'ying (masalan termistorni muzli suvga — 0 daraja) va xom qiymatni yozing.",
+     "2) Ma'lum BALAND holatga qo'ying (iliq suv, termometr bilan o'lchangan) va xom qiymatni yozing.",
+     "3) Ikki nuqta orasidagi chiziqni chizing: map(xom, xomPast, xomBaland, haqPast, haqBaland).",
+     "4) Uchinchi, O'RTA nuqtada tekshiring — bu kalibrlash to'g'ri chiqqanini isbotlaydi.",
+     "Agar uchinchi nuqtada xato katta bo'lsa, sensor CHIZIQSIZ demakdir va ko'proq nuqta yoki formula kerak bo'ladi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kalibrlash uchun kamida nechta nuqta kerak?  Javob: Ikkita.",
      "Savol: Kalibrlash qiymatlari qayerda saqlanadi?  Javob: Kodning boshida, alohida const qiymatlar sifatida."
@@ -122865,7 +124301,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Bir nechta sensorni birga o'qish\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani dasturda qo'llay oladilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — to'rt sensorli tizim yig'ib, ularni birga o'qishni tashkil qilish — mustaqil dastur yoza oladilar."
+   "O'quvchilar amaliy ishni — dHT22, fotorezistor va HC-SR04 ni bir plataga ulab, har birini o'z tezligida o'qish; hammasini delay bilan o'qishga urinib, DHT22 nan qaytarishini va masofa o'lchovi buzilishini ko'rsatish — mustaqil dastur yoza oladilar."
   ],
   "lugat": [
    "Sensor (Sensor) – fizik kattalikni elektr signalga aylantiruvchi qurilma",
@@ -122900,7 +124336,15 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "points": [
+     "Har bir sensorning o'z o'qish tezligi bor: DHT22 sekundiga bir marta, fotorezistorni esa tez-tez o'qish mumkin.",
+     "Doskaga chiqariladigan namuna: \"Uch sensorni bir dasturda o'qish va vaqtni boshqarish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
+     "Kod qatorma-qator o'qiladi: har bir qator nima qilishi ovoz chiqarib aytiladi, keyin o'quvchilar takrorlaydi."
+    ]
+   },
+   {
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega har sensorga o'z intervali kerak?  Javob: Ularning o'qish tezligi va talablari har xil.",
      "Savol: Vaqtni nima bilan boshqariladi?  Javob: millis() bilan."
@@ -122918,7 +124362,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: to'rt sensorli tizim yig'ib, ularni birga o'qishni tashkil qilish.",
+     "Bajariladigan ish: dHT22, fotorezistor va HC-SR04 ni bir plataga ulab, har birini o'z tezligida o'qish; hammasini delay bilan o'qishga urinib, DHT22 nan qaytarishini va masofa o'lchovi buzilishini ko'rsatish.",
      "Natija Serial monitor orqali tekshiriladi va kod izohi bilan daftarga yoziladi."
     ]
    },
@@ -122946,6 +124390,11 @@ window.LESSON_CONTENT = {
   "qollanma": {
    "matn": "Har sensorning o'z o'qish intervalini millis() bilan boshqarish — bu chorakning eng muhim texnik ko'nikmasi.",
    "xato": "Barcha sensorlarni bir xil intervalda o'qish — eng sekini butun tizimni sekinlashtiradi."
+  },
+  "kod": {
+   "nom": "Uch sensorni bir dasturda o'qish va vaqtni boshqarish",
+   "matn": "// Uch sensor, uch xil o'qish tezligi — millis bilan boshqariladi\n#include <DHT.h>\nDHT dht(2, DHT22);\n\nconst int LDR = A0, TRIG = 9, ECHO = 10;\n\nunsigned long tDht = 0, tLdr = 0, tMasofa = 0;\nfloat harorat = 0, namlik = 0;\nint yoruglik = 0;\nfloat masofa = 0;\n\nfloat masofaOlch() {\n  digitalWrite(TRIG, LOW);  delayMicroseconds(2);\n  digitalWrite(TRIG, HIGH); delayMicroseconds(10);\n  digitalWrite(TRIG, LOW);\n  long v = pulseIn(ECHO, HIGH, 30000);\n  return v ? v * 0.034 / 2.0 : -1;\n}\n\nvoid setup() {\n  pinMode(TRIG, OUTPUT); pinMode(ECHO, INPUT);\n  dht.begin();\n  Serial.begin(9600);\n  Serial.println(\"harorat | namlik | yorug'lik | masofa\");\n}\n\nvoid loop() {\n  // DHT22 — sekundiga BIR MARTA (tezroq so'ralsa nan qaytaradi)\n  if (millis() - tDht > 2000) {\n    tDht = millis();\n    float h = dht.readHumidity(), t = dht.readTemperature();\n    if (!isnan(h) && !isnan(t)) { namlik = h; harorat = t; }\n  }\n\n  // Fotorezistor — tez-tez o'qish mumkin\n  if (millis() - tLdr > 100) { tLdr = millis(); yoruglik = analogRead(LDR); }\n\n  // HC-SR04 — o'lchovlar orasida 60 ms kerak\n  if (millis() - tMasofa > 200) { tMasofa = millis(); masofa = masofaOlch(); }\n\n  // Chiqarish — alohida tezlikda\n  static unsigned long tChiq = 0;\n  if (millis() - tChiq > 1000) {\n    tChiq = millis();\n    Serial.print(harorat, 1); Serial.print(\" C | \");\n    Serial.print(namlik, 1);  Serial.print(\" % | \");\n    Serial.print(yoruglik);   Serial.print(\" | \");\n    Serial.print(masofa, 1);  Serial.println(\" sm\");\n  }\n}",
+   "izoh": "Har bir sensorning o'z o'qish tezligi bor: DHT22 sekundiga bir marta, fotorezistorni esa tez-tez o'qish mumkin."
   }
  },
  "2-yil|6-sinf|3-chorak|18": {
@@ -123344,10 +124793,32 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Har bir dars uch qismdan iborat: yangi tushuncha, sxema yig'ish, dastur yozish va sinash.",
+     "Kod har safar noldan yozilmaydi — oldingi darsdagi dastur ustiga qo'shib boriladi.",
+     "Ishlaydigan har bir dastur alohida faylga saqlanadi, keyin qaytib kerak bo'ladi.",
+     "Juftlikda ishlanadi: bittasi kod yozadi, ikkinchisi sxemani tekshiradi, keyin almashadilar."
+    ]
+   },
+   {
+    "title": "5.3. Dasturiy muhit va uni sozlash (5 daqiqa)",
+    "points": [
+     "Arduino IDE bepul dastur, u kodni yozadi, tekshiradi va plataga yuklaydi.",
+     "Birinchi ulanishda drayver o'rnatilishi kerak, aks holda port ro'yxatda ko'rinmaydi.",
+     "Har yuklashdan oldin ikki narsa tekshiriladi: Tools > Board (plata turi) va Tools > Port.",
+     "Serial monitor tezligi koddagi Serial.begin qiymatiga MOS bo'lishi kerak, aks holda ma'nosiz belgilar chiqadi.",
+     "Kod saqlanmagan bo'lsa IDE uni vaqtinchalik papkaga qo'yadi — shuning uchun har ishni o'z papkangizga saqlash kerak."
+    ]
+   },
+   {
+    "title": "5.4. Xavfsizlik va jihozni asrash (5 daqiqa)",
+    "points": [
+     "Plataga sim ulashdan oldin USB kabel UZILADI.",
+     "Bir pindan maksimum 20 mA olish mumkin, butun platadan 200 mA. Motor va servo alohida quvvatlanadi.",
+     "5V va GND ni bevosita ulash — qisqa tutashuv va plataning kuyishi.",
+     "Platani metall sirtga qo'ymaslik: pastki tomonidagi kontaktlar tutashib ketadi.",
+     "Modullarning qutbini tekshirish odat bo'lishi kerak: teskari ulangan modul bir zumda ishdan chiqadi."
     ]
    }
   ],
@@ -125723,7 +127194,35 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Rejaning tarkibi (4 daqiqa)",
+    "points": [
+     "Muammo bayoni: qanday muammo hal qilinadi va u kimga kerak.",
+     "Talablar ro'yxati: qurilma nima qila olishi kerak. Har bir talab TEKSHIRILADIGAN qilib yoziladi.",
+     "Komponentlar ro'yxati: nima kerak va nechta.",
+     "Bosqichlar va vaqt: har bir bosqichga necha dars ajratiladi.",
+     "Xavflar: nima noto'g'ri ketishi mumkin va u holda nima qilinadi."
+    ]
+   },
+   {
+    "title": "5.3. Yaxshi va yomon talab (4 daqiqa)",
+    "points": [
+     "Yomon talab: 'qurilma yaxshi ishlasin'. Buni tekshirib bo'lmaydi.",
+     "Yaxshi talab: 'harorat 30 darajadan oshganda 2 sekund ichida signal bersin'.",
+     "Yaxshi talabda son bor va uni o'lchash mumkin.",
+     "Talablar loyiha oxirida bandma-band tekshiriladi — shuning uchun ular aniq bo'lishi shart."
+    ]
+   },
+   {
+    "title": "5.4. Vaqtni taqsimlash (4 daqiqa)",
+    "points": [
+     "Amaliyotda yig'ish va dasturlash rejalashtirilganidan ikki barobar ko'p vaqt oladi.",
+     "Shuning uchun rejaga zaxira vaqt qo'yish kerak: har uch darsga bitta zaxira dars.",
+     "Eng katta xavfli qismni BIRINCHI qilish kerak: u ishlamasa, rejani o'zgartirishga vaqt qoladi.",
+     "Oxirgi dars taqdimot uchun qoldiriladi va unga yangi funksiya qo'shilmaydi."
+    ]
+   },
+   {
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Talablar qanday yozilishi kerak?  Javob: Aniq va o'lchanadigan.",
      "Savol: Vaqtning qancha qismi sinovga ajratiladi?  Javob: Taxminan 30%."
@@ -125810,7 +127309,35 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Blok-sxemaning shartli belgilari (4 daqiqa)",
+    "points": [
+     "Oval — boshlanish va tugash. Har bir sxemada bittadan bo'ladi.",
+     "To'g'ri to'rtburchak — amal: 'LEDni yoq', 'sensorni o'qi'.",
+     "Romb — shart: undan IKKI strelka chiqadi, biri 'ha', ikkinchisi 'yo'q'.",
+     "Parallelogramm — kirish yoki chiqish: 'qiymatni o'qi', 'ekranga chiqar'.",
+     "Strelkalar bajarilish tartibini ko'rsatadi va faqat bir yo'nalishda bo'ladi."
+    ]
+   },
+   {
+    "title": "5.3. Algoritmni to'g'ri tuzish (4 daqiqa)",
+    "points": [
+     "Har bir qadam BITTA aniq amal bo'lishi kerak. 'Qurilmani ishlat' — bu qadam emas, bu butun loyiha.",
+     "Shart romblarida savol 'ha/yo'q' bilan javob beriladigan qilib yoziladi.",
+     "Takrorlanish strelkaning orqaga qaytishi bilan ko'rsatiladi.",
+     "Tuzilgan sxema boshqa o'quvchiga berib tekshiriladi: u tushunib bajara olsa — sxema to'g'ri."
+    ]
+   },
+   {
+    "title": "5.4. Nima uchun avval chizish kerak (4 daqiqa)",
+    "points": [
+     "Kodni yozib bo'lgandan keyin mantiqiy xatoni topish qiyin, sxemada esa u darhol ko'rinadi.",
+     "Sxema kodga o'girilishi oson: har bir romb — if, har bir orqaga qaytish — sikl.",
+     "Sxema loyiha hujjatining bir qismi bo'ladi va himoyada tushuntirishni osonlashtiradi.",
+     "Amaliyotda muhandislar ham xuddi shunday ishlaydi: avval sxema, keyin kod."
+    ]
+   },
+   {
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Rombda nima yoziladi?  Javob: Shart.",
      "Savol: Blok-sxema qachon chiziladi?  Javob: Dastur yozishdan oldin."
@@ -125897,7 +127424,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Sinov rejasi tuzish (4 daqiqa)",
+    "points": [
+     "Sinov rejasi talablar ro'yxatidan kelib chiqadi: har bir talab uchun bitta sinov.",
+     "Sinovda uch narsa yoziladi: nima qilinadi, nima kutiladi, nima chiqdi.",
+     "Chegaraviy holatlarni ham sinash kerak: eng past va eng baland qiymat, sensor uzilgan holat.",
+     "Sinov natijalari jadvalga yoziladi — bu loyiha hujjatining asosiy qismi bo'ladi."
+    ]
+   },
+   {
+    "title": "5.3. Nosozlikni topish tartibi (4 daqiqa)",
+    "points": [
+     "Avval QUVVAT: manba ulanganmi, kuchlanish yetarlimi, GND umumiymi.",
+     "Keyin ULANISH: har bir sim to'g'ri pinda turibdimi, kontakt yaxshimi.",
+     "Keyin KOMPONENT: uni alohida sinab ko'rish, ishlayotgan boshqasi bilan almashtirish.",
+     "Oxirida KOD: Serial monitorga log qo'yib, dastur qayerga yetayotganini kuzatish.",
+     "Bu tartibni buzmaslik kerak: ko'pchilik koddan boshlaydi va aslida sim tushib qolgan bo'lib chiqadi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Prototip qanday yig'iladi?  Javob: Bosqichma-bosqich, har qismni sinab.",
      "Savol: Muammo topilsa nima qilinadi?  Javob: Darhol tuzatiladi."
@@ -125984,7 +127530,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Hujjatning tarkibi (4 daqiqa)",
+    "points": [
+     "Muammo va yechim bayoni — bir sahifada, sodda tilda.",
+     "Printsipial sxema — hamma ulanishlar ko'rsatilgan chizma.",
+     "Komponentlar ro'yxati — nom, miqdor, taxminiy narx.",
+     "Kod — izohlar bilan, asosiy qismlari tushuntirilgan.",
+     "Sinov natijalari jadvali va topilgan kamchiliklar ro'yxati."
+    ]
+   },
+   {
+    "title": "5.3. Sxemani to'g'ri chizish (4 daqiqa)",
+    "points": [
+     "Har bir komponent shartli belgi bilan chiziladi, rasm bilan emas.",
+     "Pin raqamlari albatta yoziladi — usiz sxema qayta yig'ish uchun yaroqsiz.",
+     "Quvvat liniyalari alohida ajratiladi: yuqorida plyus, pastda GND.",
+     "Sxema shunday bo'lishi kerakki, uni ko'rgan boshqa odam qurilmani qaytadan yig'a olsin. Bu — hujjatning asosiy sinovi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: BOM nima?  Javob: Komponentlar ro'yxati jadvali.",
      "Savol: Hujjatning sifat mezoni nima?  Javob: Boshqa odam faqat unga qarab takrorlay olishi."
@@ -126071,7 +127636,35 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Taqdimot tuzilishi (5 daqiqa) (4 daqiqa)",
+    "points": [
+     "1) Muammo (30 sekund): qanday muammo hal qilinmoqda va u kimga kerak.",
+     "2) Yechim (1 daqiqa): qurilma nima qiladi va qanday ishlaydi.",
+     "3) Tuzilish (1 daqiqa): qanday komponentlardan iborat, sxemani ko'rsatish.",
+     "4) NAMOYISH (1,5 daqiqa): qurilma jonli ishlatib ko'rsatiladi. Bu eng muhim qism.",
+     "5) Natija va cheklovlar (1 daqiqa): nima ishladi, nima ishlamadi, keyin nima qilish kerak."
+    ]
+   },
+   {
+    "title": "5.3. Namoyishga tayyorgarlik (4 daqiqa)",
+    "points": [
+     "Namoyish oldindan kamida uch marta mashq qilinadi.",
+     "Zaxira reja bo'lishi kerak: qurilma ishlamay qolsa, avval yozib olingan video ko'rsatiladi.",
+     "Quvvat manbai, kabel va zaxira komponentlar oldindan tayyorlab qo'yiladi.",
+     "Namoyish paytida qurilmani sozlash yoki tuzatish bilan shug'ullanish mumkin emas — hammasi oldindan tayyor bo'lishi kerak."
+    ]
+   },
+   {
+    "title": "5.4. Savollarga javob berish (4 daqiqa)",
+    "points": [
+     "Bilmagan narsani 'bilmayman, lekin shunday tekshirish mumkin' deb aytish — to'g'ri javob.",
+     "Kamchilikni yashirish emas, ochiq aytish kerak: baholovchi uni baribir topadi.",
+     "Har bir tanlovni asoslashga tayyor bo'lish: nima uchun aynan shu sensor, nima uchun shu chegara.",
+     "Raqam bilan javob berish eng ishonchli: 'sinovda 20 martadan 18 tasi to'g'ri chiqdi'."
+    ]
+   },
+   {
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Natijalar qanday beriladi?  Javob: Aniq raqamlar bilan.",
      "Savol: Nega zaxira video kerak?  Javob: Jonli namoyish buzilib qolishi mumkin."
@@ -126356,10 +127949,32 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Darslar tarmoq va IoT ustiga quriladi: har bir dars natijasi telefon yoki brauzerda ko'rinadi.",
+     "Sinf WiFi tarmog'i oldindan sozlanadi, nom va parol hammaga beriladi.",
+     "Har bir juftlikning qurilmasi tarmoqda o'z IP manzilini oladi va u yozib olinadi.",
+     "Kod bo'laklari qayta ishlatiladi: WiFi ga ulanish qismi deyarli har darsda bir xil bo'ladi."
+    ]
+   },
+   {
+    "title": "5.3. ESP32 ning Arduino'dan farqlari (5 daqiqa)",
+    "points": [
+     "Mantiq darajasi 3,3 V — 5 V signal pinni SHIKASTLAYDI. Bu eng muhim farq.",
+     "ADC 12 bitli: qiymat 0 dan 4095 gacha (Uno'da 0-1023).",
+     "Serial tezligi odatda 115200 (Uno'da 9600).",
+     "Pin nomlari GPIO bilan beriladi va ularning bir qismi band: GPIO6-11 flesh xotiraga tegishli, ishlatilmaydi.",
+     "GPIO34-39 faqat KIRISH uchun, ular chiqish bo'la olmaydi va ichki tortuvchi rezistori yo'q.",
+     "Ba'zi platalarda yuklash paytida BOOT tugmasini bosib turish kerak bo'ladi."
+    ]
+   },
+   {
+    "title": "5.4. Tarmoq bilan ishlash madaniyati (5 daqiqa)",
+    "points": [
+     "WiFi paroli kodga ochiq yoziladi — shuning uchun kodni ulashishdan oldin uni olib tashlash kerak.",
+     "Ochiq MQTT brokerlardan foydalanganda mavzu nomi noyob bo'lishi kerak, aks holda boshqalar ham ko'radi.",
+     "Boshqaruv sahifasi parolsiz bo'lsa, tarmoqdagi har kim qurilmani boshqara oladi.",
+     "Bulut xizmatlarining bepul chegarasi bor: ThingSpeak 15 sekundda bir marta yozishga ruxsat beradi."
     ]
    }
   ],
@@ -129363,10 +130978,32 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Darslar tarmoq va IoT ustiga quriladi: har bir dars natijasi telefon yoki brauzerda ko'rinadi.",
+     "Sinf WiFi tarmog'i oldindan sozlanadi, nom va parol hammaga beriladi.",
+     "Har bir juftlikning qurilmasi tarmoqda o'z IP manzilini oladi va u yozib olinadi.",
+     "Kod bo'laklari qayta ishlatiladi: WiFi ga ulanish qismi deyarli har darsda bir xil bo'ladi."
+    ]
+   },
+   {
+    "title": "5.3. ESP32 ning Arduino'dan farqlari (5 daqiqa)",
+    "points": [
+     "Mantiq darajasi 3,3 V — 5 V signal pinni SHIKASTLAYDI. Bu eng muhim farq.",
+     "ADC 12 bitli: qiymat 0 dan 4095 gacha (Uno'da 0-1023).",
+     "Serial tezligi odatda 115200 (Uno'da 9600).",
+     "Pin nomlari GPIO bilan beriladi va ularning bir qismi band: GPIO6-11 flesh xotiraga tegishli, ishlatilmaydi.",
+     "GPIO34-39 faqat KIRISH uchun, ular chiqish bo'la olmaydi va ichki tortuvchi rezistori yo'q.",
+     "Ba'zi platalarda yuklash paytida BOOT tugmasini bosib turish kerak bo'ladi."
+    ]
+   },
+   {
+    "title": "5.4. Tarmoq bilan ishlash madaniyati (5 daqiqa)",
+    "points": [
+     "WiFi paroli kodga ochiq yoziladi — shuning uchun kodni ulashishdan oldin uni olib tashlash kerak.",
+     "Ochiq MQTT brokerlardan foydalanganda mavzu nomi noyob bo'lishi kerak, aks holda boshqalar ham ko'radi.",
+     "Boshqaruv sahifasi parolsiz bo'lsa, tarmoqdagi har kim qurilmani boshqara oladi.",
+     "Bulut xizmatlarining bepul chegarasi bor: ThingSpeak 15 sekundda bir marta yozishga ruxsat beradi."
     ]
    }
   ],
@@ -131518,10 +133155,32 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Chorak AI loyihasining to'liq siklidan iborat: ma'lumot yig'ish, belgilash, o'rgatish, yuklash, sinash.",
+     "Eng ko'p vaqt ma'lumot yig'ish va belgilashga ketadi — bu haqiqiy AI ishining asosiy qismi.",
+     "Model brauzerda (Edge Impulse) o'rgatiladi, shuning uchun internet aloqasi kerak.",
+     "Har bir bosqich natijasi ish daftariga raqam bilan yoziladi: nechta misol, qancha aniqlik, qancha kechikish."
+    ]
+   },
+   {
+    "title": "5.3. Jihoz va platforma (5 daqiqa)",
+    "points": [
+     "XIAO ESP32S3 Sense — kamera va mikrofoni platada o'rnatilgan, qo'shimcha sim kerak emas.",
+     "Arduino IDE da PSRAM sozlamasi YOQILGAN bo'lishi shart, aks holda kamera ishlamaydi.",
+     "Edge Impulse — bepul platforma, brauzerda ishlaydi, ro'yxatdan o'tish kerak.",
+     "Model ZIP kutubxona sifatida yuklab olinadi va IDE ga Add .ZIP Library orqali qo'shiladi.",
+     "Model qurilmaning O'ZIDA ishlaydi: internetsiz ham javob beradi va ma'lumot hech qayerga yuborilmaydi."
+    ]
+   },
+   {
+    "title": "5.4. Ma'lumot bilan ishlash qoidalari (5 daqiqa)",
+    "points": [
+     "Ovoz yoki tasvir yozib olishdan oldin odamdan rozilik so'raladi.",
+     "Ma'lumot faqat shu loyiha uchun ishlatiladi va chorak oxirida keraksizi o'chiriladi.",
+     "Yig'ishda xilma-xillik shart: turli odamlar, turli sharoit. Bir kishining ovozi bilan o'rgatilgan model boshqalarni tanimaydi.",
+     "Har bir sinf uchun kamida 50-100 misol kerak va ular soni taxminan TENG bo'lishi lozim.",
+     "'Fon' yoki 'hech narsa' sinfi ham albatta yig'iladi, aks holda model har qanday shovqinni buyruq deb qabul qiladi."
     ]
    }
   ],
@@ -131562,7 +133221,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Sun'iy intellekt, mashinaviy o'rganish, TinyML\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani amaliy modelda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — uch tushunchani ajratib, misollar bilan jadval to'ldirish — mustaqil qo'llay oladilar."
+   "O'quvchilar amaliy ishni — uch tushunchani jadvalda ajratish, keyin ularni qurilmada ko'rish: avval oddiy if sharti bilan yorug'lik chegarasini aniqlaydigan dastur yozish, so'ng tayyor TinyML modelini yuklab, ikkalasining javob vaqti va xotira sarfini o'lchab solishtirish — mustaqil qo'llay oladilar."
   ],
   "lugat": [
    "Sun'iy intellekt (AI) – inson aqliy vazifalarini bajaruvchi tizimlar sohasi",
@@ -131598,7 +133257,35 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Uch tushuncha bir-birining ichida (4 daqiqa)",
+    "points": [
+     "Sun'iy intellekt (AI) — eng keng tushuncha: inson aqliy vazifalarini bajaradigan har qanday tizim. Shaxmat dasturi ham, qoidalar to'plami ham unga kiradi.",
+     "Mashinaviy o'rganish (ML) — AI ning bir qismi: qoidalar YOZILMAYDI, ular ma'lumotdan TOPILADI.",
+     "Chuqur o'rganish (Deep Learning) — ML ning bir qismi: ko'p qatlamli neyron tarmoqlar ishlatiladi.",
+     "TinyML — chuqur o'rganishning eng kichik varianti: model mikrokontrollerga sig'adigan darajada kichraytiriladi.",
+     "Ya'ni bular raqobatchi emas, bir-birining ichidagi doiralar: AI > ML > DL > TinyML."
+    ]
+   },
+   {
+    "title": "5.3. TinyML ning o'lchamlari (4 daqiqa)",
+    "points": [
+     "Oddiy kompyuterdagi model bir necha gigabayt bo'lishi mumkin. Mikrokontrollerda esa atigi bir necha yuz kilobayt xotira bor.",
+     "XIAO ESP32S3 da 8 MB PSRAM bor — bu telefondagi xotiraning mingdan bir qismi.",
+     "Shuning uchun model siqiladi: sonlar 32 bitdan 8 bitga tushiriladi, keraksiz bog'lanishlar olib tashlanadi.",
+     "Natijada model 4-10 barobar kichrayadi va tezlashadi, aniqligi esa odatda 1-2 % gina tushadi."
+    ]
+   },
+   {
+    "title": "5.4. Nima uchun modelni qurilmada ishlatish kerak (4 daqiqa)",
+    "points": [
+     "Tezlik: javob 100 millisekunddan kam vaqtda keladi, internetga borib qaytish esa yarim sekund oladi.",
+     "Maxfiylik: ovoz va tasvir qurilmadan CHIQMAYDI, hech qayerga yuborilmaydi.",
+     "Mustaqillik: internet yo'q joyda ham ishlaydi.",
+     "Arzonlik: bulut xizmatiga to'lov yo'q, tarmoq trafigi sarflanmaydi."
+    ]
+   },
+   {
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ML SI ning bir qismimi yoki aksincha?  Javob: ML — SI ning bir qismi.",
      "Savol: TinyML nima?  Javob: Mikrokontrollerda ishlaydigan kichik ML modellari."
@@ -131616,7 +133303,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: uch tushunchani ajratib, misollar bilan jadval to'ldirish.",
+     "Bajariladigan ish: uch tushunchani jadvalda ajratish, keyin ularni qurilmada ko'rish: avval oddiy if sharti bilan yorug'lik chegarasini aniqlaydigan dastur yozish, so'ng tayyor TinyML modelini yuklab, ikkalasining javob vaqti va xotira sarfini o'lchab solishtirish.",
      "Natija qurilmada sinab ko'riladi va o'lchangan qiymat yozib olinadi."
     ]
    },
@@ -131650,7 +133337,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"An'anaviy dastur va o'rganuvchi model farqi\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani amaliy modelda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — bir vazifani ikki usulda hal qilib (qoida va model), farqni aniqlash — mustaqil qo'llay oladilar."
+   "O'quvchilar amaliy ishni — bir vazifani ikki usulda hal qilish: avval fotorezistor uchun qo'lda chegara yozish, keyin bir necha yorug'lik namunasini yig'ib model o'rgatish; ikkala yechimni bir sxemada sinab, aniqligini solishtirish — mustaqil qo'llay oladilar."
   ],
   "lugat": [
    "Dastur (Program) – qurilma bajaradigan buyruqlar ketma-ketligi",
@@ -131686,7 +133373,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Ikki yondashuvning tuzilishi (4 daqiqa)",
+    "points": [
+     "An'anaviy dastur: KIRISH + QOIDA -> NATIJA. Qoidani odam yozadi.",
+     "Mashinaviy o'rganish: KIRISH + NATIJA -> QOIDA. Qoidani mashina topadi.",
+     "Ya'ni ML da biz javobni ko'rsatamiz, mashina esa javobga olib boradigan yo'lni o'zi qidiradi.",
+     "Topilgan 'qoida' — bu model. U aslida ko'p sonli koeffitsientlar to'plami."
+    ]
+   },
+   {
+    "title": "5.3. Har birining kuchli va zaif tomoni (4 daqiqa)",
+    "points": [
+     "An'anaviy dastur: natijasi oldindan ma'lum, tushuntirish oson, xatoni topish oson. Lekin murakkab vazifalarda qoida yozib bo'lmaydi.",
+     "Model: murakkab vazifani uddalaydi. Lekin nima uchun shunday javob berganini tushuntirish qiyin va u xato ham qilishi mumkin.",
+     "Modelga ishonch DOIM 100 % bo'lmaydi. Shuning uchun natija bilan birga ehtimollik ham qaytariladi.",
+     "Amaliy qoida: model ishonchi past bo'lsa (masalan 0,7 dan kam), qaror qabul qilmaslik va 'noaniq' deb javob berish to'g'riroq."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: An'anaviy dasturda qoidalarni kim yozadi?  Javob: Dasturchi.",
      "Savol: ML qachon kerak?  Javob: Qoidalarni qo'lda yozib bo'lmaydigan vazifalarda."
@@ -131704,7 +133409,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: bir vazifani ikki usulda hal qilib (qoida va model), farqni aniqlash.",
+     "Bajariladigan ish: bir vazifani ikki usulda hal qilish: avval fotorezistor uchun qo'lda chegara yozish, keyin bir necha yorug'lik namunasini yig'ib model o'rgatish; ikkala yechimni bir sxemada sinab, aniqligini solishtirish.",
      "Natija qurilmada sinab ko'riladi va o'lchangan qiymat yozib olinadi."
     ]
    },
@@ -131774,7 +133479,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Dataset tuzilishi (4 daqiqa)",
+    "points": [
+     "Dataset — modelni o'rgatish uchun yig'ilgan misollar to'plami. Har bir misolda kirish ma'lumoti va to'g'ri javob bo'ladi.",
+     "Ovoz loyihasida bir misol — bu bir sekundlik yozuv va uning sinfi ('yoq', 'o'chir', 'fon').",
+     "Imo-ishora loyihasida bir misol — bu ikki sekundlik akselerometr yozuvi va harakat nomi.",
+     "Har bir sinf uchun kamida 50-100 misol kerak. Kamroq bo'lsa model qonuniyatni topa olmaydi."
+    ]
+   },
+   {
+    "title": "5.3. Ma'lumot sifati modeldan muhimroq (4 daqiqa)",
+    "points": [
+     "Yomon ma'lumot bilan eng yaxshi model ham yomon natija beradi. Yaxshi ma'lumot bilan oddiy model ham yaxshi ishlaydi.",
+     "Xilma-xillik shart: turli odamlar, turli tezlik, turli fon shovqini bilan yozib olish kerak.",
+     "Faqat bir o'quvchining ovozi bilan o'rgatilgan model boshqalarni tanimaydi — bu darsda ko'p uchraydigan xato.",
+     "Muvozanat shart: bir sinfda 200, boshqasida 20 misol bo'lsa, model ko'p uchragan sinfga og'ib ketadi.",
+     "'Fon' yoki 'hech narsa' sinfi ham SHART — usiz model har qanday shovqinni buyruq deb qabul qiladi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Dataset nima?  Javob: Modelni o'rgatish uchun yig'ilgan misollar to'plami.",
      "Savol: ML loyihasining vaqtining ko'p qismi nimaga ketadi?  Javob: Ma'lumot yig'ish va tayyorlashga."
@@ -131826,7 +133550,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Belgi (feature) va sinf (class) tushunchasi\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani amaliy modelda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — berilgan vazifalar uchun belgilar va sinflarni aniqlab, jadval tuzish — mustaqil qo'llay oladilar."
+   "O'quvchilar amaliy ishni — berilgan vazifalar uchun belgilar va sinflarni aniqlab jadval tuzish, keyin MPU6050 ni ulab ikki harakat uchun ma'lumot yig'ish va o'rtacha, eng katta hamda tebranish kengligi belgilarini hisoblab, ular ikki sinfni ajratayotganini raqam bilan ko'rsatish — mustaqil qo'llay oladilar."
   ],
   "lugat": [
    "Belgi (Feature) – ma'lumotdan ajratilgan va model uchun muhim bo'lgan xususiyat",
@@ -131862,7 +133586,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Belgi nima (4 daqiqa)",
+    "points": [
+     "Belgi (feature) — ma'lumotdan ajratilgan va model uchun ma'noli bo'lgan son.",
+     "Xom akselerometr ma'lumoti 2 sekundda 600 ta son beradi. Model bularning hammasi bilan ishlashi qiyin.",
+     "Shuning uchun ulardan belgilar chiqariladi: o'rtacha, eng katta, eng kichik, tebranish kengligi, chastota tarkibi.",
+     "Yaxshi belgi sinflarni ajratadi. Agar ikki sinfda belgi qiymati bir xil bo'lsa, u belgi foydasiz."
+    ]
+   },
+   {
+    "title": "5.3. Sinf nima (4 daqiqa)",
+    "points": [
+     "Sinf (class) — model ajratadigan toifalardan biri. 'yoq', 'o'chir', 'fon' — uchta sinf.",
+     "Sinflar bir-birini istisno qilishi kerak: bir misol faqat bitta sinfga tegishli.",
+     "Sinflar soni ortgan sari model murakkablashadi va ko'proq ma'lumot talab qiladi.",
+     "Maktab loyihasi uchun 2-4 sinf optimal. 10 sinf bilan ishlash uchun ma'lumot yig'ishga bir necha dars ketadi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Belgi (feature) nima?  Javob: Ma'lumotdan ajratilgan muhim xususiyat.",
      "Savol: Sinf nima?  Javob: Model ajratadigan toifalardan biri."
@@ -131880,7 +133622,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: berilgan vazifalar uchun belgilar va sinflarni aniqlab, jadval tuzish.",
+     "Bajariladigan ish: berilgan vazifalar uchun belgilar va sinflarni aniqlab jadval tuzish, keyin MPU6050 ni ulab ikki harakat uchun ma'lumot yig'ish va o'rtacha, eng katta hamda tebranish kengligi belgilarini hisoblab, ular ikki sinfni ajratayotganini raqam bilan ko'rsatish.",
      "Natija qurilmada sinab ko'riladi va o'lchangan qiymat yozib olinadi."
     ]
    },
@@ -131914,7 +133656,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Model o'rgatish jarayoni: qadamlar\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani amaliy modelda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — to'liq ML ish oqimini qadamlar bo'yicha rejalashtirish — mustaqil qo'llay oladilar."
+   "O'quvchilar amaliy ishni — to'liq ML ish oqimini rejalashtirish, keyin darhol amalda bajarish: qurilmadan ikki sinf uchun 20 tadan namuna yig'ib, Edge Impulse'da o'rgatish va aniqlikni ko'rish — bosqichlarni o'z ma'lumotingizda boshdan oxirigacha o'tish — mustaqil qo'llay oladilar."
   ],
   "lugat": [
    "Model – ma'lumotdan o'rgatilgan va bashorat qiladigan matematik tuzilma",
@@ -131950,7 +133692,27 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. O'rgatish ichida nima sodir bo'ladi (4 daqiqa)",
+    "points": [
+     "1) Boshida model og'irliklari TASODIFIY qiymatlarga to'ldiriladi — model hech narsa bilmaydi.",
+     "2) Bir misol beriladi, model javob qaytaradi. Javob deyarli har doim noto'g'ri chiqadi.",
+     "3) Xato hisoblanadi: model javobi va to'g'ri javob orasidagi farq.",
+     "4) Og'irliklar shu xatoni kamaytirish tomonga BIROZ o'zgartiriladi.",
+     "5) Bu hamma misol uchun takrorlanadi. Butun to'plamdan bir marta o'tish — bitta epoch.",
+     "6) Epochlar takrorlanadi va xato asta-sekin kamayib boradi."
+    ]
+   },
+   {
+    "title": "5.3. Qachon to'xtatish kerak (4 daqiqa)",
+    "points": [
+     "Xato kamayishdan to'xtasa, davom etish foydasiz.",
+     "Tekshirish aniqligi tusha boshlasa — bu overfitting boshlangani va o'rgatishni to'xtatish kerakligini bildiradi.",
+     "Maktab loyihalarida odatda 30-100 epoch yetarli.",
+     "Edge Impulse o'rgatish jarayonida grafik ko'rsatadi: ikki chiziq (o'rgatish va tekshirish) bir-biridan uzoqlasha boshlasa — to'xtatish vaqti keldi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ma'lumot qanday bo'linadi?  Javob: O'rgatish (80%) va tekshirish (20%) to'plamlariga.",
      "Savol: Tekshirish to'plami nima uchun kerak?  Javob: Modelning haqiqiy sifatini baholash uchun."
@@ -131968,7 +133730,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: to'liq ML ish oqimini qadamlar bo'yicha rejalashtirish.",
+     "Bajariladigan ish: to'liq ML ish oqimini rejalashtirish, keyin darhol amalda bajarish: qurilmadan ikki sinf uchun 20 tadan namuna yig'ib, Edge Impulse'da o'rgatish va aniqlikni ko'rish — bosqichlarni o'z ma'lumotingizda boshdan oxirigacha o'tish.",
      "Natija qurilmada sinab ko'riladi va o'lchangan qiymat yozib olinadi."
     ]
    },
@@ -132038,7 +133800,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Platformaning bo'limlari (4 daqiqa)",
+    "points": [
+     "Data acquisition — ma'lumot yig'ish va belgilash.",
+     "Impulse design — ish oqimini qurish: kirish bloki, belgi bloki, o'rgatish bloki.",
+     "Feature explorer — belgilarning sinflarni qanchalik yaxshi ajratayotganini grafikda ko'rish.",
+     "Model testing — tekshirish to'plamida modelni sinash.",
+     "Deployment — modelni kutubxona sifatida yuklab olish."
+    ]
+   },
+   {
+    "title": "5.3. Qurilmani ulash (4 daqiqa)",
+    "points": [
+     "Edge Impulse CLI o'rnatiladi yoki brauzer orqali ulanish ishlatiladi.",
+     "Qurilma ulangach, u ma'lumot yig'ish sahifasida ko'rinadi.",
+     "Yozib olish parametrlari (chastota, davomiylik) shu yerda qo'yiladi.",
+     "Yozib olingan har bir namuna darhol grafikda ko'rinadi — buni har safar ko'z bilan tekshirish kerak."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Edge Impulse qayerda ishlaydi?  Javob: Brauzerda.",
      "Savol: Natija qanday shaklda olinadi?  Javob: Tayyor Arduino kutubxonasi sifatida."
@@ -132090,7 +133871,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Loyiha yaratish va qurilmani ulash\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani amaliy modelda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — edge Impulse da loyiha yaratib, ESP32 ni ulash — mustaqil qo'llay oladilar."
+   "O'quvchilar amaliy ishni — mPU6050 ni ESP32 ga ulab, namuna olish tezligini o'lchash va uni aniq 100 Hz ga sozlash; Serial ga chiqarishni ataylab sekinlashtirib, tezlik qanday buzilishini ko'rsatish — mustaqil qo'llay oladilar."
   ],
   "lugat": [
    "Sun'iy intellekt (AI) – inson aqliy vazifalarini bajaruvchi tizimlar sohasi",
@@ -132126,7 +133907,15 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "points": [
+     "Edge Impulse ga ulashdan oldin sensor to'g'ri ishlayotganini va namuna olish tezligi barqarorligini tekshirish kerak.",
+     "Doskaga chiqariladigan namuna: \"Ma'lumot yig'ish uchun qurilmani tayyorlash\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
+     "Kod qatorma-qator o'qiladi: har bir qator nima qilishi ovoz chiqarib aytiladi, keyin o'quvchilar takrorlaydi."
+    ]
+   },
+   {
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qurilma qanday ulanadi?  Javob: CLI, telefon yoki qo'lda yuklash orqali.",
      "Savol: CLI uchun nima kerak?  Javob: Node.js o'rnatilgan bo'lishi."
@@ -132144,7 +133933,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: edge Impulse da loyiha yaratib, ESP32 ni ulash.",
+     "Bajariladigan ish: mPU6050 ni ESP32 ga ulab, namuna olish tezligini o'lchash va uni aniq 100 Hz ga sozlash; Serial ga chiqarishni ataylab sekinlashtirib, tezlik qanday buzilishini ko'rsatish.",
      "Natija qurilmada sinab ko'riladi va o'lchangan qiymat yozib olinadi."
     ]
    },
@@ -132172,6 +133961,11 @@ window.LESSON_CONTENT = {
   "qollanma": {
    "matn": "Telefon orqali ulanish variantini ko'rsating — bu eng tez yo'l va o'quvchilar darhol natija ko'radi.",
    "xato": "CLI o'rnatishga uzoq vaqt sarflab, dars vaqtini yo'qotish."
+  },
+  "kod": {
+   "nom": "Ma'lumot yig'ish uchun qurilmani tayyorlash",
+   "matn": "// Ma'lumot yig'ishdan OLDINGI tekshiruv\n#include <Adafruit_MPU6050.h>\n#include <Adafruit_Sensor.h>\n#include <Wire.h>\n\nAdafruit_MPU6050 mpu;\nconst int ORALIQ = 10;          // 10 ms = 100 Hz\nunsigned long oxirgi = 0;\nint namunaSoni = 0;\nunsigned long boshlangan;\n\nvoid setup() {\n  Serial.begin(115200);\n  while (!Serial);\n\n  if (!mpu.begin()) {\n    Serial.println(\"XATO: MPU6050 topilmadi. SDA/SCL va AD0 ni tekshiring.\");\n    while (true);\n  }\n  mpu.setAccelerometerRange(MPU6050_RANGE_8_G);\n  mpu.setGyroRange(MPU6050_RANGE_500_DEG);\n\n  Serial.println(\"Sensor tayyor. 5 sekundlik tekshiruv boshlandi...\");\n  boshlangan = millis();\n}\n\nvoid loop() {\n  if (millis() - oxirgi < ORALIQ) return;\n  oxirgi = millis();\n\n  sensors_event_t a, g, t;\n  mpu.getEvent(&a, &g, &t);\n  namunaSoni++;\n\n  Serial.print(a.acceleration.x, 2); Serial.print(\",\");\n  Serial.print(a.acceleration.y, 2); Serial.print(\",\");\n  Serial.println(a.acceleration.z, 2);\n\n  // 5 sekunddan keyin HAQIQIY tezlikni hisoblaymiz\n  if (millis() - boshlangan >= 5000) {\n    float hz = namunaSoni / 5.0;\n    Serial.print(\"\\n=== Haqiqiy namuna olish tezligi: \");\n    Serial.print(hz, 1); Serial.println(\" Hz ===\");\n    if (hz < 90 || hz > 110) {\n      Serial.println(\"OGOHLANTIRISH: tezlik 100 Hz dan uzoq!\");\n      Serial.println(\"Ma'lumot yig'ishdan oldin buni tuzatish SHART.\");\n    } else {\n      Serial.println(\"Tezlik barqaror — ma'lumot yig'ishga tayyor.\");\n    }\n    namunaSoni = 0;\n    boshlangan = millis();\n  }\n}",
+   "izoh": "Edge Impulse ga ulashdan oldin sensor to'g'ri ishlayotganini va namuna olish tezligi barqarorligini tekshirish kerak."
   }
  },
  "2-yil|7-sinf|3-chorak|8": {
@@ -132590,7 +134384,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Belgilash qoidalari (4 daqiqa)",
+    "points": [
+     "Har bir misolga aniq bitta sinf nomi qo'yiladi. Nom qisqa va bir xil yoziladi: 'yoq' va 'Yoq' ikki xil sinf sifatida qabul qilinadi.",
+     "Chegaradagi holatlar uchun qoida oldindan kelishiladi: yarim aytilgan so'z qaysi sinfga kiradi.",
+     "Bir necha kishi belgilasa, ular bir xil qoidaga amal qilishi kerak — aks holda ma'lumot ziddiyatli bo'ladi.",
+     "Shubhali misolni belgilashdan ko'ra O'CHIRIB tashlagan ma'qul: noto'g'ri belgi modelni buzadi."
+    ]
+   },
+   {
+    "title": "5.3. Belgilash — eng ko'p vaqt oladigan bosqich (4 daqiqa)",
+    "points": [
+     "Amalda AI loyihasining vaqtining 60-80 % i ma'lumot yig'ish va belgilashga ketadi, model o'rgatish esa bir necha daqiqa oladi.",
+     "Bu o'quvchilar uchun kutilmagan bo'ladi va aynan shuni bir marta boshdan kechirish kerak.",
+     "Edge Impulse da belgilash brauzerda qilinadi: yozuv tanlanadi, sinf nomi yoziladi va saqlanadi.",
+     "Tasvir loyihalarida belgilash yanada og'ir: obyektni ramka bilan belgilash kerak."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Belgilash nima?  Javob: Har namunaga to'g'ri sinf nomini qo'yish.",
      "Savol: Shubhali namuna bilan nima qilinadi?  Javob: Tashlab yuborilgani ma'qul."
@@ -132642,7 +134454,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"O'rgatish va tekshirish to'plamlari\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani amaliy modelda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — ma'lumotni to'g'ri bo'lib, har to'plamning vazifasini tushunish — mustaqil qo'llay oladilar."
+   "O'quvchilar amaliy ishni — ma'lumotni 80/20 nisbatda bo'lib har to'plamning vazifasini tushunish, keyin tajriba: ataylab hammasini o'rgatishga berib model tuzish va uning qurilmadagi haqiqiy natijasi brauzerdagi raqamdan qanchalik farq qilishini o'lchash — mustaqil qo'llay oladilar."
   ],
   "lugat": [
    "O'rgatish (Training) – modelga ma'lumot ko'rsatib, qonuniyatni topishga o'rgatish",
@@ -132678,7 +134490,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Nima uchun ma'lumot bo'linadi (4 daqiqa)",
+    "points": [
+     "Model o'rgatilgan ma'lumotda doim yaxshi natija beradi — u ularni ko'rgan.",
+     "Haqiqiy savol: model KO'RMAGAN ma'lumotda qanday ishlaydi.",
+     "Shuning uchun ma'lumot bo'linadi: 80 % o'rgatish uchun, 20 % tekshirish uchun.",
+     "Tekshirish to'plami o'rgatishda MUTLAQO ishlatilmaydi — aks holda tekshiruv ma'nosini yo'qotadi."
+    ]
+   },
+   {
+    "title": "5.3. Natijalarni o'qish (4 daqiqa)",
+    "points": [
+     "O'rgatish aniqligi 98 %, tekshirish aniqligi 95 % — bu yaxshi model.",
+     "O'rgatish 99 %, tekshirish 60 % — bu ortiqcha moslashuv (overfitting): model yodlab olgan.",
+     "Ikkalasi ham 60 % — model yetarli o'rganmagan: ma'lumot kam yoki belgilar yomon tanlangan.",
+     "Eng ishonchli tekshiruv esa — qurilmada haqiqiy sharoitda sinash. Brauzerdagi raqam bilan haqiqiy natija farq qilishi mumkin."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Test to'plami nima uchun kerak?  Javob: Modelning haqiqiy sifatini baholash uchun.",
      "Savol: Test natijasi ancha yomon bo'lsa nima demak?  Javob: Model yodlab olgan, umumlashtira olmagan."
@@ -132696,7 +134526,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: ma'lumotni to'g'ri bo'lib, har to'plamning vazifasini tushunish.",
+     "Bajariladigan ish: ma'lumotni 80/20 nisbatda bo'lib har to'plamning vazifasini tushunish, keyin tajriba: ataylab hammasini o'rgatishga berib model tuzish va uning qurilmadagi haqiqiy natijasi brauzerdagi raqamdan qanchalik farq qilishini o'lchash.",
      "Natija qurilmada sinab ko'riladi va o'lchangan qiymat yozib olinadi."
     ]
    },
@@ -132766,7 +134596,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. O'rgatishni ishga tushirish (4 daqiqa)",
+    "points": [
+     "Edge Impulse: Create impulse -> belgi bloki -> o'rgatish bloki tanlanadi.",
+     "Parametrlar qo'yiladi: epoch soni, learning rate, model o'lchami.",
+     "Start training bosiladi va jarayon brauzerda kuzatiladi.",
+     "O'rgatish odatda 1-5 daqiqa oladi — bu o'quvchilar kutmagan darajada tez bo'ladi."
+    ]
+   },
+   {
+    "title": "5.3. Natijani o'qish (4 daqiqa)",
+    "points": [
+     "Accuracy — umumiy aniqlik foizi.",
+     "Loss — xato o'lchovi, u kichik bo'lishi kerak.",
+     "Chalkashlik matritsasi — qaysi sinf qaysi bilan adashgani.",
+     "On-device performance — modelning qurilmadagi taxminiy xotira sarfi va kechikishi.",
+     "Bu to'rt ko'rsatkich birga o'qiladi: faqat aniqlikka qarash yetarli emas."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Aniqlik nima?  Javob: To'g'ri javoblar ulushi.",
      "Savol: Nega aniqlik yolg'iz yetarli emas?  Javob: U qaysi sinflar adashtirilayotganini ko'rsatmaydi."
@@ -132854,7 +134703,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Jadvalni tuzish (4 daqiqa)",
+    "points": [
+     "Uch sinfli model uchun matritsa 3x3 bo'ladi.",
+     "Har bir katakda: haqiqiy sinf X bo'lgan va model Y deb aytgan misollar soni.",
+     "Yaxshi modelda deyarli hamma son diagonalda to'planadi.",
+     "Edge Impulse o'rgatish tugagach bu jadvalni avtomatik chizadi."
+    ]
+   },
+   {
+    "title": "5.3. Xulosa chiqarish (4 daqiqa)",
+    "points": [
+     "Bir sinf doim boshqasiga adashtirilsa — bu ikki sinf bir-biriga juda o'xshash yoki ma'lumot yetarli emas.",
+     "Bitta sinfda natija yomon bo'lsa — o'sha sinf uchun ko'proq va xilma-xil misol yig'ish kerak.",
+     "'Fon' sinfi boshqa sinflarga aralashsa — fon yozuvlari yetarli xilma-xil emas.",
+     "Har bir tuzatishdan keyin matritsa qayta chizilib, avvalgisi bilan solishtiriladi. Yaxshilanish shunda ko'rinadi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Matritsaning diagonalida nima turadi?  Javob: To'g'ri javoblar soni.",
      "Savol: Matritsa nima haqida ma'lumot beradi?  Javob: Qaysi sinflar bir-biri bilan adashtirilayotgani haqida."
@@ -132942,7 +134809,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Yuklash tartibi (4 daqiqa)",
+    "points": [
+     "1) Edge Impulse da Deployment > Arduino library tanlanadi.",
+     "2) Quantized (int8) varianti tanlanib, ZIP fayl yuklab olinadi.",
+     "3) Arduino IDE: Sketch > Include Library > Add .ZIP Library.",
+     "4) File > Examples ichida loyiha nomi bilan misollar paydo bo'ladi — ishni shulardan boshlash kerak.",
+     "5) Board sozlamalari tekshiriladi: XIAO_ESP32S3 va PSRAM yoqilgan bo'lishi shart."
+    ]
+   },
+   {
+    "title": "5.3. Ko'p uchraydigan xatolar (4 daqiqa)",
+    "points": [
+     "PSRAM o'chiq qolsa kamera ishlamaydi va dastur ishga tushmaydi.",
+     "Eski model kutubxonasi o'chirilmasa, IDE ikkisini aralashtiradi — yangisini qo'shishdan oldin eskisini o'chirish kerak.",
+     "Xotira yetmasa kompilyatsiya paytida 'region overflowed' xatosi chiqadi. Yechim: kichikroq model.",
+     "Serial tezligi 115200 qilinmasa monitorda ma'nosiz belgilar chiqadi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Model qanday shaklda olinadi?  Javob: Arduino kutubxonasi (ZIP) sifatida.",
      "Savol: Model xotiraga sig'masa nima qilinadi?  Javob: Kvantlash yoki modelni kichraytirish."
@@ -133305,7 +135191,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Ma'lumot miqdorining ta'siri (4 daqiqa)",
+    "points": [
+     "Ko'p hollarda modelni yaxshilashning eng samarali yo'li — ko'proq ma'lumot.",
+     "Sinf uchun 20 misoldan 100 misolga o'tish aniqlikni 20-30 % ga oshirishi mumkin.",
+     "100 dan 200 ga o'tish esa ancha kam yaxshilanish beradi — bu tabiiy holat.",
+     "Ya'ni foyda boshida katta, keyin kamayadi. Buni bilib, qachon to'xtashni belgilash kerak."
+    ]
+   },
+   {
+    "title": "5.3. Sifat miqdordan muhim (4 daqiqa)",
+    "points": [
+     "1000 ta bir xil sharoitda yozilgan misol 100 ta xilma-xil misoldan yomonroq natija beradi.",
+     "Yangi ma'lumot yig'ishda qidiriladigan narsa — MODEL KO'RMAGAN holatlar.",
+     "Sinovda xato bo'lgan holatlarni yozib olib datasetga qo'shish eng tez yaxshilanishni beradi.",
+     "Har qo'shimchadan keyin qayta o'rgatib, natijani oldingisi bilan solishtirish shart."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Modelni yaxshilashning eng ishonchli usuli nima?  Javob: Ko'proq va xilma-xil ma'lumot yig'ish.",
      "Savol: Qaysi holatlar uchun ma'lumot qo'shish samarali?  Javob: Model xato qiladigan holatlar uchun."
@@ -133393,7 +135297,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Overfitting nima (4 daqiqa)",
+    "points": [
+     "Model o'rgatish misollarini YODLAB oladi, lekin umumiy qonuniyatni topa olmaydi.",
+     "Belgisi: o'rgatish aniqligi juda yuqori (99 %), tekshirish aniqligi esa ancha past (60-70 %).",
+     "O'xshatish: masalalar javobini yodlab olgan o'quvchi. Xuddi shu masalalarni yechadi, biroz o'zgartirilgan masalani esa yecha olmaydi.",
+     "Qurilmada bu shunday ko'rinadi: sinfda ishlaydi, boshqa xonada yoki boshqa odam bilan ishlamaydi."
+    ]
+   },
+   {
+    "title": "5.3. Overfitting ni oldini olish (4 daqiqa)",
+    "points": [
+     "Ko'proq va XILMA-XIL ma'lumot yig'ish — bu eng samarali usul.",
+     "Modelni soddalashtirish: qatlam va neyron sonini kamaytirish.",
+     "Erta to'xtatish: tekshirish aniqligi tusha boshlaganda o'rgatishni to'xtatish.",
+     "Dropout: o'rgatish paytida neyronlarning bir qismini tasodifiy o'chirib qo'yish. Bu modelni bitta yo'lga suyanmaslikka majbur qiladi.",
+     "Ma'lumotni ko'paytirish (augmentation): mavjud misollarga kichik o'zgarishlar qo'shib yangi misol yasash."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Overfitting nima?  Javob: Model o'rgatish ma'lumotini yodlab, yangisida xato qilishi.",
      "Savol: Uning belgisi nima?  Javob: O'rgatish va test aniqliklari orasidagi katta farq."
@@ -133481,7 +135404,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Ma'lumot yig'ishdagi javobgarlik (4 daqiqa)",
+    "points": [
+     "Odamning ovozi, tasviri yoki harakati — bu shaxsiy ma'lumot.",
+     "Yozib olishdan oldin ROZILIK so'ralishi kerak. Bu qoida maktab loyihasida ham amal qiladi.",
+     "Ma'lumot faqat aytilgan maqsad uchun ishlatiladi va boshqa maqsadga o'tkazilmaydi.",
+     "Loyiha tugagach, kerak bo'lmagan ma'lumot o'chiriladi."
+    ]
+   },
+   {
+    "title": "5.3. TinyML ning maxfiylik afzalligi (4 daqiqa)",
+    "points": [
+     "Model qurilmada ishlaganda ma'lumot hech qayerga yuborilmaydi.",
+     "Kamera tasvirni ko'radi, qaror qabul qiladi va tasvirni o'chiradi — u saqlanmaydi ham, uzatilmaydi ham.",
+     "Bu bulutga yuboradigan tizimlardan jiddiy afzallik.",
+     "Loyihani taqdim qilishda buni alohida aytish kerak: bu texnik emas, AXLOQIY afzallik."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: TinyML ning maxfiylik bo'yicha afzalligi nima?  Javob: Ma'lumot qurilmada qayta ishlanadi, internetga yuborilmaydi.",
      "Savol: Xolislik (bias) qanday paydo bo'ladi?  Javob: Dataset bir xil guruhdan yig'ilsa."
@@ -133923,10 +135864,32 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Chorak AI loyihasining to'liq siklidan iborat: ma'lumot yig'ish, belgilash, o'rgatish, yuklash, sinash.",
+     "Eng ko'p vaqt ma'lumot yig'ish va belgilashga ketadi — bu haqiqiy AI ishining asosiy qismi.",
+     "Model brauzerda (Edge Impulse) o'rgatiladi, shuning uchun internet aloqasi kerak.",
+     "Har bir bosqich natijasi ish daftariga raqam bilan yoziladi: nechta misol, qancha aniqlik, qancha kechikish."
+    ]
+   },
+   {
+    "title": "5.3. Jihoz va platforma (5 daqiqa)",
+    "points": [
+     "XIAO ESP32S3 Sense — kamera va mikrofoni platada o'rnatilgan, qo'shimcha sim kerak emas.",
+     "Arduino IDE da PSRAM sozlamasi YOQILGAN bo'lishi shart, aks holda kamera ishlamaydi.",
+     "Edge Impulse — bepul platforma, brauzerda ishlaydi, ro'yxatdan o'tish kerak.",
+     "Model ZIP kutubxona sifatida yuklab olinadi va IDE ga Add .ZIP Library orqali qo'shiladi.",
+     "Model qurilmaning O'ZIDA ishlaydi: internetsiz ham javob beradi va ma'lumot hech qayerga yuborilmaydi."
+    ]
+   },
+   {
+    "title": "5.4. Ma'lumot bilan ishlash qoidalari (5 daqiqa)",
+    "points": [
+     "Ovoz yoki tasvir yozib olishdan oldin odamdan rozilik so'raladi.",
+     "Ma'lumot faqat shu loyiha uchun ishlatiladi va chorak oxirida keraksizi o'chiriladi.",
+     "Yig'ishda xilma-xillik shart: turli odamlar, turli sharoit. Bir kishining ovozi bilan o'rgatilgan model boshqalarni tanimaydi.",
+     "Har bir sinf uchun kamida 50-100 misol kerak va ular soni taxminan TENG bo'lishi lozim.",
+     "'Fon' yoki 'hech narsa' sinfi ham albatta yig'iladi, aks holda model har qanday shovqinni buyruq deb qabul qiladi."
     ]
    }
   ],
@@ -135958,7 +137921,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Sinov rejasi (4 daqiqa)",
+    "points": [
+     "Sinov brauzerdagi natijaga emas, HAQIQIY sharoitdagi natijaga qaraladi.",
+     "Har bir sinf uchun kamida 20 marta sinov o'tkaziladi va to'g'ri javoblar sanaladi.",
+     "Sinov turli sharoitda takrorlanadi: turli odam, turli masofa, turli fon shovqini.",
+     "Natijalar jadvalga yoziladi — bu haqiqiy chalkashlik matritsasi bo'ladi."
+    ]
+   },
+   {
+    "title": "5.3. Natijani tahlil qilish (4 daqiqa)",
+    "points": [
+     "Brauzerdagi aniqlik 95 %, qurilmada esa 70 % chiqishi normal holat.",
+     "Sabab odatda bitta: yig'ilgan ma'lumot haqiqiy sharoitga o'xshamagan.",
+     "Yechim: sinovda xato bo'lgan holatlarni YOZIB OLIB, ularni datasetga qo'shish va qayta o'rgatish.",
+     "Bu sikl 2-3 marta takrorlansa natija sezilarli yaxshilanadi. Aynan shu — haqiqiy AI ishi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Bir bashorat qancha vaqt oladi?  Javob: Odatda 100-500 millisekund.",
      "Savol: Nega real aniqlik pastroq bo'ladi?  Javob: Real sharoit datasetdan farq qiladi."
@@ -136010,7 +137991,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Obyektni aniqlash (object detection) haqida\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani amaliy modelda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — tasnif va obyekt aniqlash farqini misollarda tahlil qilish — mustaqil qo'llay oladilar."
+   "O'quvchilar amaliy ishni — tasnif va obyekt aniqlash farqini misollarda tahlil qilish, keyin kamerali plata bilan ikkalasini sinab ko'rish: bir xil sahnada tasnif modeli nima deydi va obyekt aniqlash modeli nima ko'rsatadi — natijani va kechikish vaqtini yozib olish — mustaqil qo'llay oladilar."
   ],
   "lugat": [
    "Obyekt aniqlash (Object detection) – tasvirdagi buyumni topib, joyini ko'rsatish",
@@ -136046,7 +138027,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Tasnif va obyekt aniqlash farqi (4 daqiqa)",
+    "points": [
+     "Tasnif: 'bu rasmda mushuk bor' deb aytadi, lekin qayerdaligini bilmaydi.",
+     "Obyekt aniqlash: buyumni topadi VA uning joyini ramka bilan ko'rsatadi.",
+     "Bir rasmda bir necha obyektni ham topa oladi va ularni sanay oladi.",
+     "Shuning uchun u sanash, saralash va kuzatish vazifalari uchun kerak."
+    ]
+   },
+   {
+    "title": "5.3. Cheklovlar (4 daqiqa)",
+    "points": [
+     "Obyekt aniqlash modeli tasnif modelidan ancha katta va sekin.",
+     "Ma'lumot belgilash ham og'irroq: har bir obyektni qo'lda ramkaga olish kerak.",
+     "Mikrokontrollerda odatda FOMO kabi soddalashtirilgan variant ishlatiladi: u obyektning markazini topadi, aniq ramkani emas.",
+     "Maktab loyihasi uchun bu yetarli: buyum bor-yo'qligini va taxminiy joyini bilish ko'p vazifalarga kifoya qiladi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Obyekt aniqlash tasnifdan nimasi bilan farq qiladi?  Javob: Buyumning joyini ham ko'rsatadi.",
      "Savol: FOMO nima beradi?  Javob: Buyum markazini, lekin aniq o'lchamini emas."
@@ -136064,7 +138063,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: tasnif va obyekt aniqlash farqini misollarda tahlil qilish.",
+     "Bajariladigan ish: tasnif va obyekt aniqlash farqini misollarda tahlil qilish, keyin kamerali plata bilan ikkalasini sinab ko'rish: bir xil sahnada tasnif modeli nima deydi va obyekt aniqlash modeli nima ko'rsatadi — natijani va kechikish vaqtini yozib olish.",
      "Natija qurilmada sinab ko'riladi va o'lchangan qiymat yozib olinadi."
     ]
    },
@@ -136134,7 +138133,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kvantlash nima qiladi (4 daqiqa)",
+    "points": [
+     "Model ichidagi sonlar odatda 32 bitli kasrli (float32) formatda saqlanadi.",
+     "Kvantlash ularni 8 bitli butun songa (int8) aylantiradi.",
+     "Natija: model 4 barobar kichrayadi va hisoblash sezilarli tezlashadi.",
+     "Aniqlik esa odatda atigi 1-2 % ga tushadi — bu almashish deyarli har doim foydali."
+    ]
+   },
+   {
+    "title": "5.3. Nima uchun bu ishlaydi (4 daqiqa)",
+    "points": [
+     "Neyron tarmoq og'irliklarida juda yuqori aniqlik shart emas: 0,7134 va 0,71 amalda bir xil natija beradi.",
+     "Mikrokontrollerda butun sonlar bilan hisoblash kasrli sonlarga qaraganda ancha tez bajariladi.",
+     "Ba'zi protsessorlarda umuman kasrli sonlar bloki yo'q — ularda float bilan ishlash o'nlab barobar sekin.",
+     "Shuning uchun TinyML da kvantlash tanlov emas, deyarli majburiy bosqich."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kvantlash nima qiladi?  Javob: Model parametrlarini kamroq joy egallaydigan formatga o'tkazadi.",
      "Savol: Hajm qancha kamayadi?  Javob: Taxminan 4 marta."
@@ -136186,7 +138203,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"AI + IoT: natijani internetga yuborish\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani amaliy modelda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — aI natijasini bulutga yoki Telegram'ga yuboradigan tizim yasash — mustaqil qo'llay oladilar."
+   "O'quvchilar amaliy ishni — aI modeli yuklangan qurilmani WiFi ga ulab, model natijasini (sinf nomi va ishonch foizi) bulutga yuborish; xom ovoz yoki tasvir yuborilmasligini kod bo'yicha ko'rsatib, maxfiylik afzalligini muhokama qilish — mustaqil qo'llay oladilar."
   ],
   "lugat": [
    "IoT (Internet of Things) – internetga ulangan qurilmalar tizimi",
@@ -136222,7 +138239,15 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "points": [
+     "Model qurilmada ishlaydi, faqat NATIJA (sinf nomi va ishonch) tarmoqqa yuboriladi — xom ma'lumot emas.",
+     "Doskaga chiqariladigan namuna: \"Model natijasini bulutga yuborish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
+     "Kod qatorma-qator o'qiladi: har bir qator nima qilishi ovoz chiqarib aytiladi, keyin o'quvchilar takrorlaydi."
+    ]
+   },
+   {
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nima internetga yuboriladi?  Javob: Faqat model natijasi, xom ma'lumot emas.",
      "Savol: Bu qanday afzallik beradi?  Javob: Maxfiylik saqlanadi va trafik kamayadi."
@@ -136240,7 +138265,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: aI natijasini bulutga yoki Telegram'ga yuboradigan tizim yasash.",
+     "Bajariladigan ish: aI modeli yuklangan qurilmani WiFi ga ulab, model natijasini (sinf nomi va ishonch foizi) bulutga yuborish; xom ovoz yoki tasvir yuborilmasligini kod bo'yicha ko'rsatib, maxfiylik afzalligini muhokama qilish.",
      "Natija qurilmada sinab ko'riladi va o'lchangan qiymat yozib olinadi."
     ]
    },
@@ -136268,6 +138293,11 @@ window.LESSON_CONTENT = {
   "qollanma": {
    "matn": "\"Xom ma'lumot emas, natija yuboriladi\" tamoyilini ta'kidlang — bu Edge AI ning butun mohiyati va uni tushunish muhim.",
    "xato": "Har bashoratni internetga yuborish — trafik va batareya behuda sarflanadi."
+  },
+  "kod": {
+   "nom": "Model natijasini bulutga yuborish",
+   "matn": "// AI natijasini bulutga yuborish (ma'lumotning O'ZI yuborilmaydi)\n#include <WiFi.h>\n#include <HTTPClient.h>\n\nconst char* WIFI_NOM = \"MaktabWiFi\";\nconst char* WIFI_PAROL = \"parol12345\";\nconst char* API_KALIT = \"SIZNING_WRITE_API_KEY\";\n\nconst int LED = 2;\nconst float CHEGARA = 0.70;\n\nunsigned long oxirgiYuborish = 0;\nconst unsigned long ENG_KAM = 20000;    // bulut chegarasi\nString oxirgiSinf = \"\";\n\nvoid natijaniYubor(String sinf, float ishonch, int kechikish) {\n  if (WiFi.status() != WL_CONNECTED) return;\n  if (millis() - oxirgiYuborish < ENG_KAM) return;\n  oxirgiYuborish = millis();\n\n  HTTPClient http;\n  String url = \"http://api.thingspeak.com/update?api_key=\" + String(API_KALIT)\n             + \"&field1=\" + String(ishonch, 3)\n             + \"&field2=\" + String(kechikish)\n             + \"&status=\" + sinf;          // FAQAT sinf nomi, xom ma'lumot emas\n\n  http.begin(url);\n  int kod = http.GET();\n  http.end();\n\n  Serial.print(\"Yuborildi: \"); Serial.print(sinf);\n  Serial.print(\" (\"); Serial.print(ishonch * 100, 1); Serial.print(\" %)\");\n  Serial.print(\"  javob=\"); Serial.println(kod);\n}\n\nvoid setup() {\n  Serial.begin(115200);\n  pinMode(LED, OUTPUT);\n  WiFi.begin(WIFI_NOM, WIFI_PAROL);\n  while (WiFi.status() != WL_CONNECTED) { delay(500); Serial.print(\".\"); }\n  Serial.println(\"\\nUlandi. Model natijalari yuboriladi.\");\n}\n\nvoid loop() {\n  // ... bu yerda run_classifier chaqiriladi va natija olinadi ...\n  String sinf = \"noaniq\";\n  float ishonch = 0.0;\n  int kechikish = 0;\n\n  if (ishonch >= CHEGARA) {\n    digitalWrite(LED, HIGH);\n    // FAQAT holat o'zgarganda yuboramiz — trafikni tejaymiz\n    if (sinf != oxirgiSinf) {\n      oxirgiSinf = sinf;\n      natijaniYubor(sinf, ishonch, kechikish);\n    }\n  } else {\n    digitalWrite(LED, LOW);\n  }\n  delay(200);\n}",
+   "izoh": "Model qurilmada ishlaydi, faqat NATIJA (sinf nomi va ishonch) tarmoqqa yuboriladi — xom ma'lumot emas."
   }
  },
  "2-yil|7-sinf|4-chorak|14": {
@@ -136398,7 +138428,35 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Prototip nima va nima uchun kerak (4 daqiqa)",
+    "points": [
+     "Prototip — g'oyani sinab ko'rish uchun yig'ilgan dastlabki namuna. U chiroyli bo'lishi shart emas.",
+     "Maqsad — g'oya UMUMAN ishlashini tekshirish, tayyor mahsulot yasash emas.",
+     "Shuning uchun breadboard ishlatiladi: kavsharlash kerak emas, o'zgartirish oson.",
+     "Prototipda topilgan har bir muammo — keyingi bosqichda tejalgan vaqt."
+    ]
+   },
+   {
+    "title": "5.3. Yig'ish tartibi (4 daqiqa)",
+    "points": [
+     "1) Quvvat liniyalarini birinchi ulash: breadboardning ikki chetiga 5V va GND.",
+     "2) Bitta komponentni ulab, uni ALOHIDA sinash.",
+     "3) Ishlagach keyingisini qo'shish va yana sinash.",
+     "4) Har qo'shimchadan keyin oldingilari ishlayotganini tekshirish.",
+     "Hammasini birdan ulab, keyin sinash — xato qayerdaligini topishni juda qiyinlashtiradi."
+    ]
+   },
+   {
+    "title": "5.4. Simlarni tartibga solish (4 daqiqa)",
+    "points": [
+     "Rang bilan belgilash: qizil — quvvat, qora yoki ko'k — GND, qolgan ranglar — signal.",
+     "Simlar qisqa va yassi bo'lsin: uzun va osilgan sim uzilib ketadi va xatoni ko'rsatmaydi.",
+     "Bir xil ranglar chalkashmasligi uchun sxema daftarga chiziladi va simlar shunga qarab ulanadi.",
+     "Tartibli sxemada xatoni topish bir necha barobar tez bo'ladi."
+    ]
+   },
+   {
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Yig'ish qaysi tartibda olib boriladi?  Javob: Kirish, keyin model, oxirida chiqish.",
      "Savol: AI dan oldin nima tekshiriladi?  Javob: Ma'lumot to'g'ri kelayotgani."
@@ -136486,7 +138544,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Sozlash siklini boshqarish (4 daqiqa)",
+    "points": [
+     "Har safar FAQAT BITTA parametr o'zgartiriladi va natija yoziladi.",
+     "Bir vaqtda ikkitasini o'zgartirsangiz, qaysi biri yordam berganini bilib bo'lmaydi.",
+     "Jadval yuritiladi: nima o'zgartirildi, o'rgatish aniqligi, tekshirish aniqligi, model hajmi.",
+     "3-5 urinishdan keyin eng yaxshi variant aniq ko'rinadi."
+    ]
+   },
+   {
+    "title": "5.3. Nimadan boshlash kerak (4 daqiqa)",
+    "points": [
+     "1-navbat: ma'lumotni ko'paytirish va muvozanatlash — bu eng katta ta'sir beradi.",
+     "2-navbat: belgi blokini almashtirish yoki uning parametrlarini sozlash.",
+     "3-navbat: epoch sonini oshirish yoki kamaytirish.",
+     "4-navbat: model o'lchamini o'zgartirish.",
+     "Learning rate ni oxirida va faqat kerak bo'lsa tegish kerak — standart qiymat odatda yaxshi ishlaydi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega bir vaqtda bitta narsa o'zgartiriladi?  Javob: Nima yordam berganini aniq bilish uchun.",
      "Savol: Nega to'xtash mezoni oldindan belgilanadi?  Javob: Cheksiz yaxshilashga urinmaslik uchun."
@@ -136574,7 +138651,27 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. O'lchanadigan ko'rsatkichlar (4 daqiqa)",
+    "points": [
+     "Javob vaqti (latency): hodisa bo'lgandan javob kelguncha o'tgan vaqt.",
+     "Aniqlik: o'lchov etalonga qanchalik yaqin, foizda yoki mutlaq xatoda.",
+     "Ishonchlilik: 100 sinovdan nechtasi to'g'ri ishladi.",
+     "Quvvat sarfi: o'rtacha tok va batareya bilan ishlash muddati.",
+     "Barqarorlik: uzoq ishlaganda ko'rsatkichlar o'zgaradimi."
+    ]
+   },
+   {
+    "title": "5.3. O'lchash usullari (4 daqiqa)",
+    "points": [
+     "Javob vaqti: millis() bilan hodisa va javob orasidagi farqni kodda o'lchash.",
+     "Aniqlik: etalon asbob bilan yonma-yon o'lchab, farqni jadvalga yozish.",
+     "Ishonchlilik: sinovni ko'p marta takrorlab, muvaffaqiyatlarni sanash.",
+     "Quvvat: INA219 moduli yoki multimetr bilan tokni o'lchash.",
+     "Har bir o'lchov kamida uch marta takrorlanadi va o'rtachasi olinadi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Real aniqlik qanday o'lchanadi?  Javob: Ko'p marta sinab, to'g'ri javoblarni sanab.",
      "Savol: Nega uzoq muddatli sinov kerak?  Javob: Ba'zi muammolar faqat vaqt o'tgach ko'rinadi."
@@ -137087,10 +139184,32 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Darslar tarmoq va IoT ustiga quriladi: har bir dars natijasi telefon yoki brauzerda ko'rinadi.",
+     "Sinf WiFi tarmog'i oldindan sozlanadi, nom va parol hammaga beriladi.",
+     "Har bir juftlikning qurilmasi tarmoqda o'z IP manzilini oladi va u yozib olinadi.",
+     "Kod bo'laklari qayta ishlatiladi: WiFi ga ulanish qismi deyarli har darsda bir xil bo'ladi."
+    ]
+   },
+   {
+    "title": "5.3. ESP32 ning Arduino'dan farqlari (5 daqiqa)",
+    "points": [
+     "Mantiq darajasi 3,3 V — 5 V signal pinni SHIKASTLAYDI. Bu eng muhim farq.",
+     "ADC 12 bitli: qiymat 0 dan 4095 gacha (Uno'da 0-1023).",
+     "Serial tezligi odatda 115200 (Uno'da 9600).",
+     "Pin nomlari GPIO bilan beriladi va ularning bir qismi band: GPIO6-11 flesh xotiraga tegishli, ishlatilmaydi.",
+     "GPIO34-39 faqat KIRISH uchun, ular chiqish bo'la olmaydi va ichki tortuvchi rezistori yo'q.",
+     "Ba'zi platalarda yuklash paytida BOOT tugmasini bosib turish kerak bo'ladi."
+    ]
+   },
+   {
+    "title": "5.4. Tarmoq bilan ishlash madaniyati (5 daqiqa)",
+    "points": [
+     "WiFi paroli kodga ochiq yoziladi — shuning uchun kodni ulashishdan oldin uni olib tashlash kerak.",
+     "Ochiq MQTT brokerlardan foydalanganda mavzu nomi noyob bo'lishi kerak, aks holda boshqalar ham ko'radi.",
+     "Boshqaruv sahifasi parolsiz bo'lsa, tarmoqdagi har kim qurilmani boshqara oladi.",
+     "Bulut xizmatlarining bepul chegarasi bor: ThingSpeak 15 sekundda bir marta yozishga ruxsat beradi."
     ]
    }
   ],
@@ -138838,7 +140957,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.2. Aniqlik, qadam va takrorlanuvchanlik (4 daqiqa)",
+    "points": [
+     "Aniqlik (accuracy) — ko'rsatkich haqiqiy qiymatga qanchalik yaqin. DHT22 uchun bu +-0,5 daraja.",
+     "Qadam (rezolyutsiya) — sensor sezadigan eng kichik o'zgarish. DHT22 uchun 0,1 daraja.",
+     "Takrorlanuvchanlik — bir xil sharoitda qayta o'lchaganda bir xil natija chiqishi.",
+     "Bu uchtasi boshqa-boshqa narsa: sensor 0,1 daraja qadam bilan ko'rsatishi, lekin 2 daraja xato qilishi mumkin."
+    ]
+   },
+   {
+    "title": "5.3. Xatoni kamaytirish usullari (4 daqiqa)",
+    "points": [
+     "O'rtachalash: bitta o'lchov o'rniga 10-32 ta o'lchov olib, o'rtachasini hisoblash tasodifiy shovqinni sezilarli kamaytiradi.",
+     "Isinishni kutish: ko'p sensorlar yoqilgandan keyin barqarorlashishi uchun vaqt talab qiladi (PIR 40 sekund, MQ-2 bir necha daqiqa).",
+     "Etalon bilan solishtirish: uy termometri yoki multimetr kabi ishonchli asbob bilan yonma-yon o'lchash.",
+     "Sharoitni hisobga olish: quyosh nuri, isitgich oqimi va vibratsiya ko'rsatkichni buzadi."
+    ]
+   },
+   {
+    "title": "5.4. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Har bir sensor o'z xatosiga ega. Ikki ma'lum nuqta bo'yicha to'g'rilash — eng oddiy va samarali usul.",
      "Doskaga chiqariladigan namuna: \"Ikki nuqtali kalibrlash\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -138846,7 +140983,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ikki nuqtali kalibrlash nima beradi?  Javob: Siljish va koeffitsientni — chiziqli tuzatishni.",
      "Savol: Aniqlik va takrorlanuvchanlik farqi nima?  Javob: Birinchisi haqiqatga yaqinlik, ikkinchisi natijalarning o'zaro yaqinligi."
@@ -139836,10 +141973,32 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Darslar tarmoq va IoT ustiga quriladi: har bir dars natijasi telefon yoki brauzerda ko'rinadi.",
+     "Sinf WiFi tarmog'i oldindan sozlanadi, nom va parol hammaga beriladi.",
+     "Har bir juftlikning qurilmasi tarmoqda o'z IP manzilini oladi va u yozib olinadi.",
+     "Kod bo'laklari qayta ishlatiladi: WiFi ga ulanish qismi deyarli har darsda bir xil bo'ladi."
+    ]
+   },
+   {
+    "title": "5.3. ESP32 ning Arduino'dan farqlari (5 daqiqa)",
+    "points": [
+     "Mantiq darajasi 3,3 V — 5 V signal pinni SHIKASTLAYDI. Bu eng muhim farq.",
+     "ADC 12 bitli: qiymat 0 dan 4095 gacha (Uno'da 0-1023).",
+     "Serial tezligi odatda 115200 (Uno'da 9600).",
+     "Pin nomlari GPIO bilan beriladi va ularning bir qismi band: GPIO6-11 flesh xotiraga tegishli, ishlatilmaydi.",
+     "GPIO34-39 faqat KIRISH uchun, ular chiqish bo'la olmaydi va ichki tortuvchi rezistori yo'q.",
+     "Ba'zi platalarda yuklash paytida BOOT tugmasini bosib turish kerak bo'ladi."
+    ]
+   },
+   {
+    "title": "5.4. Tarmoq bilan ishlash madaniyati (5 daqiqa)",
+    "points": [
+     "WiFi paroli kodga ochiq yoziladi — shuning uchun kodni ulashishdan oldin uni olib tashlash kerak.",
+     "Ochiq MQTT brokerlardan foydalanganda mavzu nomi noyob bo'lishi kerak, aks holda boshqalar ham ko'radi.",
+     "Boshqaruv sahifasi parolsiz bo'lsa, tarmoqdagi har kim qurilmani boshqara oladi.",
+     "Bulut xizmatlarining bepul chegarasi bor: ThingSpeak 15 sekundda bir marta yozishga ruxsat beradi."
     ]
    }
   ],
@@ -140854,7 +143013,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"BLE bilan telefonga ulanish\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani ESP32 platasida qo'llay oladilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — bLE orqali telefon ilovasi bilan ma'lumot almashish — mustaqil sozlay oladilar."
+   "O'quvchilar amaliy ishni — eSP32 ga LED va zummer ulab BLE serverini ishga tushirish, telefondagi nRF Connect ilovasi orqali ulanib buyruq yuborish va sensor qiymatini telefonda jonli ko'rish — mustaqil sozlay oladilar."
   ],
   "lugat": [
    "BLE (Bluetooth Low Energy) – kam quvvat sarflaydigan simsiz aloqa",
@@ -140889,7 +143048,15 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "points": [
+     "BLE — kam quvvat sarflaydigan Bluetooth. iPhone bilan ham ishlaydi (HC-05 esa ishlamaydi).",
+     "Doskaga chiqariladigan namuna: \"BLE orqali telefondan boshqarish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
+     "Kod qatorma-qator o'qiladi: har bir qator nima qilishi ovoz chiqarib aytiladi, keyin o'quvchilar takrorlaydi."
+    ]
+   },
+   {
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Notify nima beradi?  Javob: Qiymat o'zgarganda telefonga avtomatik xabar.",
      "Savol: BLE da ma'lumot qanday tashkil qilinadi?  Javob: Service ichida Characteristic."
@@ -140907,7 +143074,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: bLE orqali telefon ilovasi bilan ma'lumot almashish.",
+     "Bajariladigan ish: eSP32 ga LED va zummer ulab BLE serverini ishga tushirish, telefondagi nRF Connect ilovasi orqali ulanib buyruq yuborish va sensor qiymatini telefonda jonli ko'rish.",
      "Natija Serial monitor yoki ekran orqali tekshiriladi va yozib olinadi."
     ]
    },
@@ -140935,6 +143102,11 @@ window.LESSON_CONTENT = {
   "qollanma": {
    "matn": "MIT App Inventor ni tavsiya qiling — u blokli muhit bo'lgani uchun o'quvchilar tez ilova yasay oladi va bu kuchli motivatsiya.",
    "xato": "Telefon tomonidan doim so'rab turish (polling) — batareya behuda sarflanadi."
+  },
+  "kod": {
+   "nom": "BLE orqali telefondan boshqarish",
+   "matn": "// BLE: telefondan buyruq qabul qilish\n#include <BLEDevice.h>\n#include <BLEServer.h>\n#include <BLEUtils.h>\n#include <BLE2902.h>\n\n#define XIZMAT_UUID \"4fafc201-1fb5-459e-8fcc-c5c9c331914b\"\n#define XUSUS_UUID  \"beb5483e-36e1-4688-b7f5-ea07361b26a8\"\n\nconst int LED = 2, ZUMMER = 5, SENSOR = 34;\nBLECharacteristic *xusus;\nbool ulangan = false;\n\nclass ServerCB : public BLEServerCallbacks {\n  void onConnect(BLEServer* s)    { ulangan = true;  Serial.println(\"Telefon ulandi\"); }\n  void onDisconnect(BLEServer* s) { ulangan = false; Serial.println(\"Uzildi\");\n                                    s->getAdvertising()->start(); }\n};\n\nclass XususCB : public BLECharacteristicCallbacks {\n  void onWrite(BLECharacteristic *x) {\n    String buyruq = x->getValue().c_str();\n    Serial.print(\"Buyruq: \"); Serial.println(buyruq);\n    if (buyruq == \"yoq\")    digitalWrite(LED, HIGH);\n    if (buyruq == \"ochir\")  digitalWrite(LED, LOW);\n    if (buyruq == \"signal\") tone(ZUMMER, 2000, 300);\n  }\n};\n\nvoid setup() {\n  Serial.begin(115200);\n  pinMode(LED, OUTPUT); pinMode(ZUMMER, OUTPUT);\n\n  BLEDevice::init(\"Tarbion-Qurilma\");        // telefonda shu nom ko'rinadi\n  BLEServer *server = BLEDevice::createServer();\n  server->setCallbacks(new ServerCB());\n\n  BLEService *xizmat = server->createService(XIZMAT_UUID);\n  xusus = xizmat->createCharacteristic(XUSUS_UUID,\n            BLECharacteristic::PROPERTY_READ | BLECharacteristic::PROPERTY_WRITE |\n            BLECharacteristic::PROPERTY_NOTIFY);\n  xusus->addDescriptor(new BLE2902());\n  xusus->setCallbacks(new XususCB());\n\n  xizmat->start();\n  server->getAdvertising()->start();\n  Serial.println(\"BLE tayyor. Telefonda 'nRF Connect' ilovasidan qidiring.\");\n}\n\nvoid loop() {\n  // ulangan bo'lsa sensor qiymatini telefonga yuboramiz\n  if (ulangan) {\n    String q = String(analogRead(SENSOR));\n    xusus->setValue(q.c_str());\n    xusus->notify();\n  }\n  delay(1000);\n}",
+   "izoh": "BLE — kam quvvat sarflaydigan Bluetooth. iPhone bilan ham ishlaydi (HC-05 esa ishlamaydi)."
   }
  },
  "2-yil|8-sinf|2-chorak|12": {
@@ -141410,7 +143582,27 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Arxitektura sxemasi nima (4 daqiqa)",
+    "points": [
+     "Bu printsipial sxema emas — bu qurilmaning KATTA bloklari va ular orasidagi aloqa.",
+     "Bloklar: sensorlar, protsessor, ijro qurilmalari, aloqa moduli, quvvat manbai.",
+     "Strelkalar ma'lumot yo'nalishini ko'rsatadi: sensordan protsessorga, protsessordan motorga.",
+     "Bu sxema butun tizimni bir sahifada ko'rsatadi va uni tushuntirishni osonlashtiradi."
+    ]
+   },
+   {
+    "title": "5.3. Chizish tartibi (4 daqiqa)",
+    "points": [
+     "Markazga protsessor (plata) qo'yiladi.",
+     "Chap tomonga kirishlar: sensorlar, tugmalar.",
+     "O'ng tomonga chiqishlar: LED, motor, ekran.",
+     "Yuqoriga aloqa: WiFi, Bluetooth, bulut.",
+     "Pastga quvvat: manba, stabilizator, batareya.",
+     "Har bir bog'lanishga interfeys nomi yoziladi: analog, I2C, SPI, PWM."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Arxitektura chizmasida nima ko'rsatiladi?  Javob: Qismlar va ular orasidagi aloqalar.",
      "Savol: Aloqada nima yoziladi?  Javob: Uzatiladigan ma'lumot va protokol."
@@ -141983,10 +144175,32 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Chorak AI loyihasining to'liq siklidan iborat: ma'lumot yig'ish, belgilash, o'rgatish, yuklash, sinash.",
+     "Eng ko'p vaqt ma'lumot yig'ish va belgilashga ketadi — bu haqiqiy AI ishining asosiy qismi.",
+     "Model brauzerda (Edge Impulse) o'rgatiladi, shuning uchun internet aloqasi kerak.",
+     "Har bir bosqich natijasi ish daftariga raqam bilan yoziladi: nechta misol, qancha aniqlik, qancha kechikish."
+    ]
+   },
+   {
+    "title": "5.3. Jihoz va platforma (5 daqiqa)",
+    "points": [
+     "XIAO ESP32S3 Sense — kamera va mikrofoni platada o'rnatilgan, qo'shimcha sim kerak emas.",
+     "Arduino IDE da PSRAM sozlamasi YOQILGAN bo'lishi shart, aks holda kamera ishlamaydi.",
+     "Edge Impulse — bepul platforma, brauzerda ishlaydi, ro'yxatdan o'tish kerak.",
+     "Model ZIP kutubxona sifatida yuklab olinadi va IDE ga Add .ZIP Library orqali qo'shiladi.",
+     "Model qurilmaning O'ZIDA ishlaydi: internetsiz ham javob beradi va ma'lumot hech qayerga yuborilmaydi."
+    ]
+   },
+   {
+    "title": "5.4. Ma'lumot bilan ishlash qoidalari (5 daqiqa)",
+    "points": [
+     "Ovoz yoki tasvir yozib olishdan oldin odamdan rozilik so'raladi.",
+     "Ma'lumot faqat shu loyiha uchun ishlatiladi va chorak oxirida keraksizi o'chiriladi.",
+     "Yig'ishda xilma-xillik shart: turli odamlar, turli sharoit. Bir kishining ovozi bilan o'rgatilgan model boshqalarni tanimaydi.",
+     "Har bir sinf uchun kamida 50-100 misol kerak va ular soni taxminan TENG bo'lishi lozim.",
+     "'Fon' yoki 'hech narsa' sinfi ham albatta yig'iladi, aks holda model har qanday shovqinni buyruq deb qabul qiladi."
     ]
    }
   ],
@@ -142027,7 +144241,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"SI, mashinaviy o'rganish va chuqur o'rganish\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani amaliy modelda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — uch tushunchani misollar bilan ajratib, tarixiy rivojlanishini chizish — mustaqil qo'llay oladilar."
+   "O'quvchilar amaliy ishni — uch tushunchani misollar bilan ajratib tarixiy rivojlanishini chizish, keyin qurilmada tajriba: bitta vazifani (qorong'ilikni aniqlash) qoida bilan va model bilan hal qilib, qaysi holatda qaysi yondashuv soddaroq ekanini raqam bilan ko'rsatish — mustaqil qo'llay oladilar."
   ],
   "lugat": [
    "Mashinaviy o'rganish (Machine Learning) – ma'lumotdan qonuniyat topib o'rganuvchi usul",
@@ -142063,7 +144277,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Farqni misolda ko'rish (4 daqiqa)",
+    "points": [
+     "Vazifa: rasmda mushuk bormi degan savolga javob berish.",
+     "Klassik AI yondashuvi: dasturchi qoidalar yozadi — 'agar uchburchak quloq bo'lsa va mo'ylov bo'lsa'. Bu yondashuv amalda ishlamagan, chunki qoidalar cheksiz ko'p.",
+     "Mashinaviy o'rganish: dasturchi qoida yozmaydi, minglab rasm ko'rsatadi va 'bu mushuk, bu emas' deb aytadi. Model qonuniyatni O'ZI topadi.",
+     "Chuqur o'rganish: model ko'p qatlamli bo'ladi. Birinchi qatlam chiziqlarni, ikkinchisi shakllarni, uchinchisi quloq va ko'zni taniydi."
+    ]
+   },
+   {
+    "title": "5.3. Qaysi holatda qaysi yondashuv (4 daqiqa)",
+    "points": [
+     "Qoida aniq va oz bo'lsa — oddiy dastur yozgan ma'qul. Chegaradan oshsa signal berish uchun AI kerak emas.",
+     "Qoidani so'z bilan tushuntirib bo'lmasa — mashinaviy o'rganish kerak. 'Bu ovoz — mening ovozim' degan qoidani yozib bo'lmaydi.",
+     "Ma'lumot juda ko'p va murakkab bo'lsa (tasvir, video) — chuqur o'rganish.",
+     "Muhim: AI ni har joyga tiqishtirish kerak emas. Oddiy if sharti yetadigan joyda model ishlatish — resursni behuda sarflash."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: DL ML ning bir qismimi?  Javob: Ha.",
      "Savol: DL ning rivojlanishiga nima sabab bo'ldi?  Javob: Katta ma'lumot, GPU quvvati va yaxshilangan algoritmlar."
@@ -142081,7 +144313,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: uch tushunchani misollar bilan ajratib, tarixiy rivojlanishini chizish.",
+     "Bajariladigan ish: uch tushunchani misollar bilan ajratib tarixiy rivojlanishini chizish, keyin qurilmada tajriba: bitta vazifani (qorong'ilikni aniqlash) qoida bilan va model bilan hal qilib, qaysi holatda qaysi yondashuv soddaroq ekanini raqam bilan ko'rsatish.",
      "Natija qurilmada sinab ko'riladi va o'lchangan qiymat yozib olinadi."
     ]
    },
@@ -142115,7 +144347,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Nazorat ostida va nazoratsiz o'rganish\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani amaliy modelda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — ikki turdagi o'rganishga misollar topib, jadval tuzish — mustaqil qo'llay oladilar."
+   "O'quvchilar amaliy ishni — ikki turdagi o'rganishga misollar topib jadval tuzish, keyin MPU6050 dan ma'lumot yig'ib ikkalasini sinash: belgilangan imo-ishoralarni tasniflash (nazorat ostida) va normal harakatdan chetlashishni aniqlash (anomaliya) — mustaqil qo'llay oladilar."
   ],
   "lugat": [
    "Sun'iy intellekt (AI) – inson aqliy vazifalarini bajaruvchi tizimlar sohasi",
@@ -142151,7 +144383,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Nazorat ostida o'rganish (supervised) (4 daqiqa)",
+    "points": [
+     "Har bir misolga TO'G'RI JAVOB birga beriladi: bu rasm — mushuk, bu — it.",
+     "Model o'z javobini to'g'ri javob bilan solishtiradi va farqni kamaytirish tomonga sozlanadi.",
+     "Maktab loyihalarining deyarli hammasi shu turga kiradi: ovoz buyruqlarini tanish, imo-ishorani tanish, buyumni tanish.",
+     "Kamchiligi: har bir misolni QO'LDA belgilash kerak. Bu eng ko'p vaqt oladigan bosqich."
+    ]
+   },
+   {
+    "title": "5.3. Nazoratsiz o'rganish (unsupervised) (4 daqiqa)",
+    "points": [
+     "To'g'ri javob berilmaydi. Model ma'lumotning o'zidagi tuzilmani topadi.",
+     "Asosiy vazifa — guruhlarga ajratish (klasterlash): o'xshash misollarni bir joyga to'plash.",
+     "Anomaliya aniqlash ham shu turga kiradi: model 'normal' holatni o'rganadi va undan keskin farq qilgan holatni belgilaydi.",
+     "Amaliy misol: motorning normal tebranishini o'rgatib, nosozlik boshlanganini oldindan aniqlash."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nazorat ostida o'rganishda nima bor?  Javob: Ma'lumotda to'g'ri javob.",
      "Savol: Nega anomaliya aniqlash nazoratsiz qilinadi?  Javob: Barcha nosozlik turlarini oldindan yig'ib bo'lmaydi."
@@ -142169,7 +144419,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: ikki turdagi o'rganishga misollar topib, jadval tuzish.",
+     "Bajariladigan ish: ikki turdagi o'rganishga misollar topib jadval tuzish, keyin MPU6050 dan ma'lumot yig'ib ikkalasini sinash: belgilangan imo-ishoralarni tasniflash (nazorat ostida) va normal harakatdan chetlashishni aniqlash (anomaliya).",
      "Natija qurilmada sinab ko'riladi va o'lchangan qiymat yozib olinadi."
     ]
    },
@@ -142203,7 +144453,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Neyron tarmoq g'oyasi: oddiy tushuntirish\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani amaliy modelda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — bitta neyron ishlashini qog'ozda hisoblab, tarmoq tuzilmasini chizish — mustaqil qo'llay oladilar."
+   "O'quvchilar amaliy ishni — bitta neyron ishlashini qog'ozda hisoblab tarmoq tuzilmasini chizish, keyin uni temirda modellashtirish: ikki fotorezistorni ulab, ularning qiymatlarini og'irliklarga ko'paytirib yig'ish va yig'indi chegaradan oshganda LED yoqadigan dastur yozish — bu bitta neyronning aynan o'zi — mustaqil qo'llay oladilar."
   ],
   "lugat": [
    "Neyron tarmoq (Neural network) – miya tuzilishidan ilhomlangan hisoblash modeli",
@@ -142239,7 +144489,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Bitta neyron nima qiladi (4 daqiqa)",
+    "points": [
+     "Neyron bir necha son qabul qiladi, har birini o'z og'irligiga ko'paytiradi va yig'indini hisoblaydi.",
+     "Yig'indiga siljish (bias) qo'shiladi, keyin natija aktivatsiya funksiyasidan o'tkaziladi.",
+     "Aktivatsiya funksiyasi qaror qabul qiladi: yig'indi yetarli katta bo'lsa neyron 'yonadi', aks holda tinch qoladi.",
+     "Bu miya neyronining juda soddalashtirilgan modeli: u ham bir necha signalni yig'ib, chegaradan oshsa impuls yuboradi."
+    ]
+   },
+   {
+    "title": "5.3. Qatlamlar va o'rganish (4 daqiqa)",
+    "points": [
+     "Bitta neyron oz ish qiladi. Kuch — ularni QATLAM qilib joylashtirib, qatlamlarni ketma-ket ulashda.",
+     "Kirish qatlami ma'lumotni qabul qiladi, yashirin qatlamlar uni bosqichma-bosqich qayta ishlaydi, chiqish qatlami javob beradi.",
+     "O'rganish — bu og'irliklarni sozlash jarayoni. Boshida ular tasodifiy, keyin har xatodan keyin biroz to'g'rilanadi.",
+     "Bu to'g'rilash minglab marta takrorlanadi. Har bir to'liq o'tish epoch deb ataladi.",
+     "Model 'biladigan' hamma narsa aynan shu og'irliklar ichida saqlanadi — boshqa hech qanday qoida yo'q."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Neyron nima qiladi?  Javob: Kirishlarni og'irliklarga ko'paytirib yig'adi va aktivatsiyadan o'tkazadi.",
      "Savol: O'rganish nima?  Javob: Og'irliklarni sozlash jarayoni."
@@ -142257,7 +144526,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: bitta neyron ishlashini qog'ozda hisoblab, tarmoq tuzilmasini chizish.",
+     "Bajariladigan ish: bitta neyron ishlashini qog'ozda hisoblab tarmoq tuzilmasini chizish, keyin uni temirda modellashtirish: ikki fotorezistorni ulab, ularning qiymatlarini og'irliklarga ko'paytirib yig'ish va yig'indi chegaradan oshganda LED yoqadigan dastur yozish — bu bitta neyronning aynan o'zi.",
      "Natija qurilmada sinab ko'riladi va o'lchangan qiymat yozib olinadi."
     ]
    },
@@ -142327,7 +144596,28 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Cheklovlar va ular bilan ishlash (4 daqiqa)",
+    "points": [
+     "Xotira: model va u ishlatadigan buffer birga mikrokontroller RAM iga sig'ishi kerak.",
+     "Tezlik: 240 MHz protsessor telefon protsessoridan o'nlab barobar sekin.",
+     "Quvvat: batareyada ishlaydigan qurilmada har bir hisob quvvat sarflaydi.",
+     "Shuning uchun TinyML da model kichik va vazifa aniq bo'lishi kerak: 'har qanday narsani tanish' emas, 'to'rtta buyruqni ajratish'."
+    ]
+   },
+   {
+    "title": "5.3. Ish oqimi (4 daqiqa)",
+    "points": [
+     "1) Ma'lumot yig'ish — qurilmaning O'ZIDA, chunki model shu sensordan kelgan ma'lumotda ishlaydi.",
+     "2) Belgilash — har bir bo'lakka to'g'ri sinf nomini qo'yish.",
+     "3) Belgi ajratish — xom ma'lumotdan model uchun muhim xususiyatlarni chiqarish.",
+     "4) O'rgatish — brauzerda (Edge Impulse) yoki kompyuterda.",
+     "5) Siqish (kvantlash) — modelni mikrokontrollerga sig'adigan holga keltirish.",
+     "6) Yuklash va sinash — qurilmada haqiqiy sharoitda tekshirish.",
+     "Bu sikl bir marta emas, bir necha marta takrorlanadi: sinovda topilgan kamchilik ma'lumot yig'ishga qaytaradi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Odatiy TinyML modeli qancha joy egallaydi?  Javob: 20-200 kilobayt.",
      "Savol: TinyML ning uch afzalligi nima?  Javob: Kechikish yo'q, maxfiylik, kam quvvat."
@@ -142415,7 +144705,31 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Boshdan oxirigacha bosqichlar (4 daqiqa)",
+    "points": [
+     "1) Loyiha yaratish va qurilmani ulash.",
+     "2) Har bir sinf uchun ma'lumot yig'ish (kamida 50-100 misol), 'fon' sinfini unutmaslik.",
+     "3) Ma'lumotni 80/20 nisbatda bo'lish.",
+     "4) Impulse qurish: kirish bloki -> belgi bloki -> o'rgatish bloki.",
+     "5) Belgilarni hisoblash va Feature explorer da sinflar ajralayotganini tekshirish.",
+     "6) Modelni o'rgatish va natijani tahlil qilish.",
+     "7) Model testing bilan tekshirish to'plamida sinash.",
+     "8) Deployment: Quantized (int8) Arduino kutubxonasini yuklab olish.",
+     "9) IDE ga qo'shib, qurilmada haqiqiy sharoitda sinash."
+    ]
+   },
+   {
+    "title": "5.3. Har bosqichda tekshirish nuqtasi (4 daqiqa)",
+    "points": [
+     "Ma'lumotdan keyin: sinflar muvozanatlimi, grafiklar to'g'rimi.",
+     "Belgilardan keyin: Feature explorer da sinflar alohida to'plamlar hosil qilayaptimi.",
+     "O'rgatishdan keyin: ikki aniqlik orasidagi farq 10 % dan kammi.",
+     "Yuklashdan keyin: qurilmada haqiqiy aniqlik qancha.",
+     "Bosqich o'tmasa, keyingisiga o'tish ma'nosiz — muammoni shu yerda hal qilish kerak."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Impulse nima?  Javob: Ma'lumotni qayta ishlash zanjiri.",
      "Savol: Ovoz uchun qanday belgi ajratish bloki ishlatiladi?  Javob: MFCC yoki MFE."
@@ -142503,7 +144817,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Rejalashtirish bosqichi (4 daqiqa)",
+    "points": [
+     "Avval sinflar ro'yxati yoziladi: qurilma nechta holatni ajratishi kerak.",
+     "Har bir sinf uchun necha misol kerakligi belgilanadi (kamida 50, yaxshisi 100+).",
+     "Kim yozib beradi — kamida 3-5 xil odam bo'lsin, aks holda model faqat bir kishini taniydi.",
+     "Yozib olish parametrlari qat'iy belgilanadi: chastota (masalan 100 Hz), davomiylik (2 sekund), sensor oralig'i.",
+     "ENG MUHIMI: bu parametrlar butun yig'ish davomida O'ZGARMASLIGI kerak. O'zgarsa model noto'g'ri o'rganadi."
+    ]
+   },
+   {
+    "title": "5.3. Yig'ish va tekshirish (4 daqiqa)",
+    "points": [
+     "Yozib olishdan oldin bir necha sinov yozuvi qilinadi va ular ko'z bilan tekshiriladi.",
+     "Grafik tekis chiziq bo'lsa — sensor ulanmagan. To'yingan bo'lsa — oraliq noto'g'ri tanlangan.",
+     "Har 20-30 yozuvdan keyin oraliq tekshiruv o'tkaziladi, aks holda 100 ta yaroqsiz yozuv qilib qo'yish mumkin.",
+     "Yig'ilgan ma'lumot darhol 80/20 nisbatda bo'linadi: 80 % o'rgatish uchun, 20 % tekshirish uchun."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ma'lumot qanday sharoitda yig'ilishi kerak?  Javob: Real ishlash sharoitiga yaqin.",
      "Savol: Ma'lumot yig'ish loyiha vaqtining qancha qismini oladi?  Javob: Eng katta qismini."
@@ -142591,7 +144924,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Muvozanat nima uchun muhim (4 daqiqa)",
+    "points": [
+     "Model o'z xatosini kamaytirishga intiladi. Agar bir sinf 90 % ni tashkil qilsa, model doim shu sinfni aytib ham 90 % aniqlikka erishadi.",
+     "Bunday model foydasiz bo'lsa ham, aniqlik ko'rsatkichi yuqori chiqadi — bu aldanishning eng ko'p uchraydigan sababi.",
+     "Shuning uchun har bir sinfda taxminan TENG miqdorda misol bo'lishi kerak.",
+     "Muvozanatni tekshirish oson: Edge Impulse ma'lumot sahifasida har bir sinfning ulushi ko'rsatiladi."
+    ]
+   },
+   {
+    "title": "5.3. Sifatni oshirish yo'llari (4 daqiqa)",
+    "points": [
+     "Yozib olish sharoitini haqiqiy ish sharoitiga yaqinlashtirish: qurilma qayerda ishlasa, o'sha yerda yozib olish.",
+     "Turli holatlarni qamrab olish: sekin va tez harakat, baland va past ovoz, yorug' va qorong'i.",
+     "Xato yozuvlarni o'chirish: tasodifan boshqa tovush kirib qolgan yozuv modelni chalg'itadi.",
+     "Ma'lumotni ko'paytirish (augmentation): mavjud yozuvga biroz shovqin qo'shib yoki tezligini o'zgartirib yangi misol hosil qilish."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nomutanosib datasetda aniqlik nega aldamchi?  Javob: Model faqat ko'p sinfni tanlab ham yuqori foiz oladi.",
      "Savol: Yechim nima?  Javob: Ma'lumotni muvozanatlash yoki boshqa ko'rsatkichlar ishlatish."
@@ -142679,7 +145030,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Nima uchun xom ma'lumot yetarli emas (4 daqiqa)",
+    "points": [
+     "Xom ma'lumot juda ko'p sondan iborat va ularning ko'pi keraksiz.",
+     "Belgi ajratish ma'lumotni siqadi: 600 ta sondan 30 ta ma'noli belgi qoladi.",
+     "Natijada model kichrayadi, tez ishlaydi va kam ma'lumot bilan ham yaxshi o'rganadi.",
+     "Bu bosqich TinyML da ayniqsa muhim, chunki mikrokontrollerda resurs cheklangan."
+    ]
+   },
+   {
+    "title": "5.3. Amaldagi belgi turlari (4 daqiqa)",
+    "points": [
+     "Vaqt sohasidagi belgilar: o'rtacha, standart og'ish, eng katta va eng kichik qiymat, RMS.",
+     "Chastota sohasidagi belgilar: Fure o'zgartirishi orqali signal qanday chastotalardan iboratligini topish.",
+     "Ovoz uchun MFCC ishlatiladi — bu inson qulog'i tovushni qanday eshitishiga moslashtirilgan belgi to'plami.",
+     "Tasvir uchun belgi ajratishni odatda neyron tarmoqning o'zi bajaradi (konvolyutsion qatlamlar).",
+     "Edge Impulse da belgi bloki tanlanadi va u belgilarning sinflarni qanchalik yaxshi ajratayotganini grafikda ko'rsatadi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Belgi ajratish nima qiladi?  Javob: Xom ma'lumotdan muhim xususiyatlarni hisoblaydi.",
      "Savol: Yaxshi belgi nima beradi?  Javob: Model soddaroq va tezroq bo'ladi."
@@ -142767,7 +145137,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Vazifaga qarab tanlash (4 daqiqa)",
+    "points": [
+     "Tasnif (classification) — javob toifalardan biri: 'yoq', 'o'chir', 'fon'. Maktab loyihalarining ko'pi shunday.",
+     "Regressiya — javob son: harorat bashorati, masofa qiymati.",
+     "Anomaliya aniqlash — 'normal' dan farq qilgan holatni topish. Nosozlikni oldindan aniqlashda ishlatiladi.",
+     "Obyekt aniqlash — tasvirdagi buyumni topib, uning JOYINI ham ko'rsatish."
+    ]
+   },
+   {
+    "title": "5.3. Model o'lchamini tanlash (4 daqiqa)",
+    "points": [
+     "Kichik model: tez ishlaydi, kam xotira oladi, lekin murakkab vazifani uddalamaydi.",
+     "Katta model: aniqroq, lekin mikrokontrollerga sig'masligi mumkin.",
+     "Edge Impulse har bir variant uchun taxminiy xotira va kechikishni oldindan ko'rsatadi — tanlashdan oldin shunga qarash kerak.",
+     "Qoida: eng kichik modeldan boshlang. Aniqlik yetmasa, keyin kattalashtiring."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qaysi modeldan boshlash kerak?  Javob: Eng soddasidan.",
      "Savol: CNN qaysi ma'lumot turi uchun mos?  Javob: Tasvir va spektrogramma uchun."
@@ -142855,7 +145243,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Epoch — necha marta o'tish (4 daqiqa)",
+    "points": [
+     "Epoch — butun o'rgatish to'plamidan bir marta to'liq o'tish.",
+     "Kam epoch: model yetarli o'rganmaydi (underfitting).",
+     "Ko'p epoch: model ma'lumotni yodlab oladi (overfitting).",
+     "Maktab loyihalari uchun boshlang'ich qiymat: 50 epoch. Keyin natijaga qarab sozlanadi."
+    ]
+   },
+   {
+    "title": "5.3. Learning rate — qadam kattaligi (4 daqiqa)",
+    "points": [
+     "Learning rate — har bir xatodan keyin og'irliklar qanchalik o'zgarishini belgilaydi.",
+     "Juda katta bo'lsa: model to'g'ri javobdan sakrab o'tib ketadi va hech qachon barqarorlashmaydi.",
+     "Juda kichik bo'lsa: o'rganish juda sekin boradi va epochlar yetmaydi.",
+     "Standart qiymat 0,001 — ko'p holatda u yaxshi ishlaydi va uni o'zgartirish shart emas.",
+     "Tog'dan pastga tushish o'xshatishi: qadam juda katta bo'lsa vodiydan sakrab o'tasiz, juda kichik bo'lsa hech qachon yetib bormaysiz."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Epoch nima?  Javob: Butun dataset bo'ylab bir marta o'tish.",
      "Savol: Learning rate juda katta bo'lsa nima bo'ladi?  Javob: Model yaqinlasha olmaydi."
@@ -142907,7 +145314,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Aniqlik, chalkashlik matritsasi, F1\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani amaliy modelda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — turli ko'rsatkichlarni hisoblab, ularning ma'nosini tahlil qilish — mustaqil qo'llay oladilar."
+   "O'quvchilar amaliy ishni — turli ko'rsatkichlarni hisoblab ma'nosini tahlil qilish, keyin o'z modelingizni qurilmada har sinf uchun 20 martadan sinab, HAQIQIY chalkashlik matritsasini qo'lda to'ldirish va uni brauzerdagi jadval bilan solishtirish — mustaqil qo'llay oladilar."
   ],
   "lugat": [
    "Aniqlik (Accuracy) – model to'g'ri javob bergan holatlar ulushi",
@@ -142943,7 +145350,28 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Aniqlik yolg'iz yetarli emas (4 daqiqa)",
+    "points": [
+     "Aniqlik (accuracy) — to'g'ri javoblar ulushi. Oddiy, lekin aldashi mumkin.",
+     "Misol: 95 % holatda 'hech narsa yo'q' bo'lsa, doim 'yo'q' deydigan model 95 % aniqlik beradi — foydasiz bo'lsa ham.",
+     "Shuning uchun qo'shimcha ko'rsatkichlar kerak.",
+     "Precision (aniqlik) — model 'ha' degan holatlarning nechtasi haqiqatan 'ha' bo'lgan.",
+     "Recall (to'liqlik) — haqiqiy 'ha' holatlarning nechtasini model topa olgan.",
+     "F1 — precision va recall ning muvozanatli birlashmasi. Bitta son bilan umumiy sifatni ko'rsatadi."
+    ]
+   },
+   {
+    "title": "5.3. Chalkashlik matritsasini o'qish (4 daqiqa)",
+    "points": [
+     "Bu jadvalning qatorlari — haqiqiy sinf, ustunlari — model javobi.",
+     "Diagonaldagi sonlar — to'g'ri javoblar. Ular qancha katta bo'lsa shuncha yaxshi.",
+     "Diagonaldan tashqaridagi sonlar — xatolar va ular qaysi sinf qaysi bilan ADASHTIRILGANINI ko'rsatadi.",
+     "Bu eng foydali ma'lumot: agar 'yoq' va 'o'chir' bir-biri bilan adashsa, demak bu ikki so'z uchun ko'proq ma'lumot kerak.",
+     "Ya'ni matritsa nafaqat baho qo'yadi, balki nima qilish kerakligini ham aytadi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Recall nimani o'lchaydi?  Javob: Haqiqiy holatlarning nechtasi topilganini.",
      "Savol: Yong'in signalizatsiyasida qaysi ko'rsatkich muhimroq?  Javob: Recall — hodisani o'tkazib yubormaslik."
@@ -142961,7 +145389,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: turli ko'rsatkichlarni hisoblab, ularning ma'nosini tahlil qilish.",
+     "Bajariladigan ish: turli ko'rsatkichlarni hisoblab ma'nosini tahlil qilish, keyin o'z modelingizni qurilmada har sinf uchun 20 martadan sinab, HAQIQIY chalkashlik matritsasini qo'lda to'ldirish va uni brauzerdagi jadval bilan solishtirish.",
      "Natija qurilmada sinab ko'riladi va o'lchangan qiymat yozib olinadi."
     ]
    },
@@ -143031,7 +145459,27 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Ikki qarama-qarshi muammo (4 daqiqa)",
+    "points": [
+     "Underfitting — model juda sodda, hatto o'rgatish ma'lumotida ham yomon natija beradi.",
+     "Overfitting — model juda murakkab, o'rgatish ma'lumotini yodlab olgan.",
+     "To'g'ri holat ikkisining o'rtasida: model qonuniyatni topgan, lekin shovqinni yodlamagan.",
+     "Buni faqat tekshirish to'plamidagi natija bo'yicha aniqlash mumkin."
+    ]
+   },
+   {
+    "title": "5.3. Amaliy tartib (4 daqiqa)",
+    "points": [
+     "1) Modelni o'rgating va ikki aniqlikni yozib oling.",
+     "2) Farq 10 % dan katta bo'lsa — overfitting bor.",
+     "3) Avval ma'lumotni ko'paytirishga urinib ko'ring — bu eng ishonchli yechim.",
+     "4) Iloji bo'lmasa, model o'lchamini kamaytiring yoki dropout qo'shing.",
+     "5) Har o'zgarishdan keyin qayta o'rgatib, natijani jadvalga yozing.",
+     "Bu jadval loyiha hujjatining eng qimmatli qismi bo'ladi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Overfitting belgisi nima?  Javob: O'rgatish va test aniqliklari orasidagi katta farq.",
      "Savol: Dropout nima qiladi?  Javob: O'rgatish paytida neyronlarning bir qismini tasodifiy o'chirib, yodlashning oldini oladi."
@@ -143119,7 +145567,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Amaliy bosqichlar (4 daqiqa)",
+    "points": [
+     "Edge Impulse Deployment sahifasida ikki variant beriladi: Quantized (int8) va Unoptimized (float32).",
+     "Har biri uchun xotira sarfi va kechikish ko'rsatiladi — ularni yozib olib solishtirish kerak.",
+     "Quantized variant tanlanadi va ZIP kutubxona yuklab olinadi.",
+     "IDE ga qo'shiladi: Sketch > Include Library > Add .ZIP Library."
+    ]
+   },
+   {
+    "title": "5.3. Natijani o'lchash (4 daqiqa)",
+    "points": [
+     "Ikkala variantni ham qurilmaga yuklab, bir xil sinovdan o'tkazish kerak.",
+     "O'lchanadigan ko'rsatkichlar: model hajmi, RAM sarfi, bitta bashoratga ketgan vaqt (latency), aniqlik.",
+     "Jadval tuziladi va kvantlash nimani yutgani hamda nimani yo'qotgani aniq ko'rinadi.",
+     "Bu jadval loyiha himoyasida eng kuchli dalil bo'ladi: raqam bilan asoslangan tanlov."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kvantlash hajmni qancha kamaytiradi?  Javob: Taxminan 4 marta.",
      "Savol: Aniqlik qancha pasayadi?  Javob: Odatda 1-2%."
@@ -143207,7 +145673,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kodda modelni ishlatish (4 daqiqa)",
+    "points": [
+     "Kutubxona ulanadi: #include <loyiha_nomi_inferencing.h>",
+     "Sensor ma'lumoti signal tuzilmasiga to'ldiriladi — u modelning kirishi.",
+     "run_classifier() chaqiriladi va natija ei_impulse_result_t tuzilmasida qaytadi.",
+     "Natijada har bir sinf uchun ehtimollik bo'ladi: yig'indisi 1 ga teng."
+    ]
+   },
+   {
+    "title": "5.3. Qaror qabul qilish (4 daqiqa)",
+    "points": [
+     "Eng katta ehtimollikli sinf tanlanadi, lekin u CHEGARADAN yuqori bo'lishi kerak.",
+     "Chegara odatda 0,7-0,8 qilib olinadi. Undan past bo'lsa 'noaniq' deb javob berilgani ma'qul.",
+     "Chegarasiz tizim har qanday shovqinga javob beradi va foydalanuvchini bezdiradi.",
+     "Qo'shimcha filtr: bir necha ketma-ket bashorat bir xil chiqsagina qaror qabul qilish."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qanday uch ko'rsatkich o'lchanadi?  Javob: Flesh, RAM va bashorat vaqti.",
      "Savol: RAM yetmasa nima bo'ladi?  Javob: Dastur ishlash paytida qulaydi."
@@ -143472,7 +145956,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Cheklovlarni o'lchash (4 daqiqa)",
+    "points": [
+     "Flash xotira — dastur va model saqlanadigan joy. Model hajmi shunga sig'ishi kerak.",
+     "RAM — ish paytida ishlatiladigan xotira. Model buferlari va sensor ma'lumoti shu yerda turadi.",
+     "Kechikish (latency) — bitta bashorat uchun ketadigan vaqt. U natija bilan birga chiqariladi.",
+     "ESP.getFreeHeap() bilan bo'sh RAM ni dastur ichida o'lchash mumkin."
+    ]
+   },
+   {
+    "title": "5.3. Cheklovga sig'dirish yo'llari (4 daqiqa)",
+    "points": [
+     "Model o'lchamini kamaytirish (kamroq qatlam, kamroq neyron).",
+     "Kvantlash qo'llash — 4 barobar yutuq.",
+     "Kirish ma'lumotini kichraytirish: tasvirni 160x160 emas, 96x96 qilish.",
+     "Belgi ajratishni soddalashtirish: kamroq belgi — kichikroq model.",
+     "Sinflar sonini kamaytirish: 10 sinf o'rniga eng kerakli 3 tasini qoldirish."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 96x96 rangli rasm qancha joy egallaydi?  Javob: Taxminan 27 kilobayt.",
      "Savol: Model murakkabligini oshirish nimaga olib keladi?  Javob: Aniqlik oshadi, lekin resurs va tezlik yomonlashadi."
@@ -143560,7 +146063,24 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Sikl bosqichlari (4 daqiqa)",
+    "points": [
+     "Yig'ish -> belgilash -> o'rgatish -> sinash -> XATONI TAHLIL QILISH -> yana yig'ish.",
+     "Sikl to'xtaydigan joy — natija maqsadga yetganda, mukammal bo'lganda emas.",
+     "Har bir aylanishda maqsad aniq bo'lishi kerak: 'aniqlikni 70 dan 85 % ga ko'tarish'."
+    ]
+   },
+   {
+    "title": "5.3. Xatoni tahlil qilish — eng muhim bosqich (4 daqiqa)",
+    "points": [
+     "Model qaysi holatlarda xato qilayotganini YOZIB BORISH kerak.",
+     "Xatolar odatda guruhlanadi: masalan hamma xato tez aytilgan buyruqlarda bo'ladi.",
+     "Guruh topilgach, aynan o'sha holatdan ko'proq ma'lumot yig'iladi.",
+     "Tasodifiy ko'proq ma'lumot yig'ish samarasiz — maqsadli yig'ish esa tez natija beradi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Yaxshilash sikli qanday bosqichlardan iborat?  Javob: Baholash, kamchilik, gipoteza, o'zgartirish, qayta baholash.",
      "Savol: Xato namunalarni ko'rish nima beradi?  Javob: Ular orasida qonuniyat topilishi mumkin."
@@ -143648,7 +146168,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Xolislik (bias) muammosi (4 daqiqa)",
+    "points": [
+     "Model faqat ko'rgan ma'lumotidan o'rganadi. Ma'lumot bir tomonlama bo'lsa, model ham bir tomonlama bo'ladi.",
+     "Misol: faqat o'g'il bolalar ovozi bilan o'rgatilgan model qiz bolalarni yomon taniydi.",
+     "Bu model 'yomon' bo'lgani uchun emas — unga shunday ma'lumot berilgani uchun.",
+     "Yechim texnik emas, tashkiliy: ma'lumot yig'ishda xilma-xillikni ataylab ta'minlash."
+    ]
+   },
+   {
+    "title": "5.3. Mas'uliyat (4 daqiqa)",
+    "points": [
+     "Model xato qilsa, javobgarlik modelda emas — uni yaratgan va ishlatgan odamda.",
+     "Shuning uchun muhim qarorlarda (sog'liq, xavfsizlik) model yolg'iz qaror qabul qilmasligi kerak.",
+     "Har bir AI qurilmada 'nima bo'lsa nima qilamiz' rejasi bo'lishi kerak: model ishlamay qolsa tizim xavfsiz holatga o'tsin.",
+     "Loyiha hujjatida modelning CHEKLOVLARINI yozish — bu kuchsizlik emas, professional yondashuvning belgisi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Xolislik qanday paydo bo'ladi?  Javob: Dataset bir xil guruhdan yig'ilsa.",
      "Savol: TinyML ning maxfiylik afzalligi nima?  Javob: Ma'lumot qurilmada qoladi."
@@ -143936,10 +146474,32 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)",
+    "title": "5.2. Chorak davomida qanday ishlaymiz (5 daqiqa)",
     "points": [
-     "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-     "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi."
+     "Chorak AI loyihasining to'liq siklidan iborat: ma'lumot yig'ish, belgilash, o'rgatish, yuklash, sinash.",
+     "Eng ko'p vaqt ma'lumot yig'ish va belgilashga ketadi — bu haqiqiy AI ishining asosiy qismi.",
+     "Model brauzerda (Edge Impulse) o'rgatiladi, shuning uchun internet aloqasi kerak.",
+     "Har bir bosqich natijasi ish daftariga raqam bilan yoziladi: nechta misol, qancha aniqlik, qancha kechikish."
+    ]
+   },
+   {
+    "title": "5.3. Jihoz va platforma (5 daqiqa)",
+    "points": [
+     "XIAO ESP32S3 Sense — kamera va mikrofoni platada o'rnatilgan, qo'shimcha sim kerak emas.",
+     "Arduino IDE da PSRAM sozlamasi YOQILGAN bo'lishi shart, aks holda kamera ishlamaydi.",
+     "Edge Impulse — bepul platforma, brauzerda ishlaydi, ro'yxatdan o'tish kerak.",
+     "Model ZIP kutubxona sifatida yuklab olinadi va IDE ga Add .ZIP Library orqali qo'shiladi.",
+     "Model qurilmaning O'ZIDA ishlaydi: internetsiz ham javob beradi va ma'lumot hech qayerga yuborilmaydi."
+    ]
+   },
+   {
+    "title": "5.4. Ma'lumot bilan ishlash qoidalari (5 daqiqa)",
+    "points": [
+     "Ovoz yoki tasvir yozib olishdan oldin odamdan rozilik so'raladi.",
+     "Ma'lumot faqat shu loyiha uchun ishlatiladi va chorak oxirida keraksizi o'chiriladi.",
+     "Yig'ishda xilma-xillik shart: turli odamlar, turli sharoit. Bir kishining ovozi bilan o'rgatilgan model boshqalarni tanimaydi.",
+     "Har bir sinf uchun kamida 50-100 misol kerak va ular soni taxminan TENG bo'lishi lozim.",
+     "'Fon' yoki 'hech narsa' sinfi ham albatta yig'iladi, aks holda model har qanday shovqinni buyruq deb qabul qiladi."
     ]
    }
   ],
@@ -144280,7 +146840,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Variantlarni tuzish (4 daqiqa)",
+    "points": [
+     "Bitta muammoning kamida uch yechimi o'ylab topiladi.",
+     "Birinchi kelgan g'oya deyarli hech qachon eng yaxshisi bo'lmaydi.",
+     "Variantlar bir-biridan jiddiy farq qilishi kerak, kichik o'zgarish bilan emas.",
+     "Masalan masofani o'lchash: ultratovush, infraqizil, lazer, kamera — to'rt xil yondashuv."
+    ]
+   },
+   {
+    "title": "5.3. Solishtirish jadvali (4 daqiqa)",
+    "points": [
+     "Ustunlar: variantlar. Qatorlar: mezonlar (aniqlik, narx, murakkablik, quvvat sarfi, mavjudlik).",
+     "Har bir katakka baho qo'yiladi yoki aniq son yoziladi.",
+     "Mezonlarning muhimligi teng emas — eng muhimlariga ko'proq og'irlik beriladi.",
+     "Yakunda tanlov va uning sababi bir gapda yoziladi.",
+     "Bu jadval muhandislik qarorining asosiy hujjati bo'ladi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kamida nechta variant ko'rib chiqiladi?  Javob: Uchta.",
      "Savol: Nega tanlov sababi yoziladi?  Javob: Keyinchalik qarorni tushuntirish uchun."
@@ -144368,7 +146947,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Loyihalashda hal qilinadigan savollar (4 daqiqa)",
+    "points": [
+     "Qaysi ish qurilmada, qaysi ish bulutda bajariladi.",
+     "Ma'lumot qayerda saqlanadi: qurilmada, SD kartda yoki serverda.",
+     "Aloqa uzilsa nima bo'ladi: qurilma ishlashda davom etadimi yoki to'xtaydimi.",
+     "Quvvat o'chsa sozlamalar saqlanadimi.",
+     "Bu savollarga oldindan javob berilmasa, keyin butun tuzilmani qayta qurishga to'g'ri keladi."
+    ]
+   },
+   {
+    "title": "5.3. Yaxshi arxitektura belgilari (4 daqiqa)",
+    "points": [
+     "Bloklar mustaqil: bittasini almashtirsa qolganlariga tegmaydi.",
+     "Nosozlikka chidamli: bir qism ishlamay qolsa, tizim xavfsiz holatga o'tadi.",
+     "Kengaytiriladigan: yangi sensor qo'shish uchun hammasini qayta yozish kerak emas.",
+     "Tushunarli: sxemani ko'rgan odam tizim qanday ishlashini tushunadi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Arxitekturada nima ko'rsatiladi?  Javob: Qismlar va ular orasidagi aloqalar.",
      "Savol: Nega qarorlar yozib boriladi?  Javob: Keyinchalik sababni tushuntirish uchun."
@@ -144456,7 +147054,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Tanlov mezonlari (4 daqiqa)",
+    "points": [
+     "Vazifaga moslik: sensor o'lchaydigan oraliq kerakli oraliqni qamrab oladimi.",
+     "Aniqlik: talab qilingan aniqlik yetarlimi (DHT22 uchun 0,5 daraja, DHT11 uchun 2 daraja).",
+     "Ta'minot: 3,3 V yoki 5 V, platangizga mos keladimi.",
+     "Interfeys: analog, raqamli, I2C yoki SPI — bo'sh pinlaringiz yetadimi.",
+     "Narx va mavjudlik: bozorda bormi, qancha turadi."
+    ]
+   },
+   {
+    "title": "5.3. Tanlovni asoslash (4 daqiqa)",
+    "points": [
+     "Har bir komponent uchun kamida ikki variant solishtiriladi.",
+     "Solishtirish jadval shaklida: parametr, 1-variant, 2-variant, tanlov sababi.",
+     "Misol: DHT11 arzon lekin aniqligi 2 daraja; DHT22 qimmatroq lekin 0,5 daraja. Issiqxona uchun DHT22 tanlandi, chunki 1 daraja farq muhim.",
+     "Bu jadval loyiha himoyasida eng ko'p savol tug'diradigan joyni oldindan yopib qo'yadi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Zaxira qoidasi qanday?  Javob: Ishchi qiymat maksimalning 50-70% idan oshmasin.",
      "Savol: BOM da nima bo'ladi?  Javob: Nomi, nominali, soni, narxi, manbasi."
@@ -144632,7 +147249,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Birinchi bosqichning maqsadi (4 daqiqa)",
+    "points": [
+     "1-bosqichda butun qurilma emas, uning ENG MUHIM qismi yig'iladi.",
+     "Eng muhim qism — loyihaning butun g'oyasi bog'liq bo'lgan qism.",
+     "Masalan AI loyihasida bu — sensor ma'lumotini to'g'ri yig'a olish.",
+     "Agar shu qism ishlamasa, qolgan hamma ish ma'nosiz — shuning uchun u birinchi qilinadi."
+    ]
+   },
+   {
+    "title": "5.3. Bosqich yakunida tekshiriladigan narsalar (4 daqiqa)",
+    "points": [
+     "Asosiy qism o'z vazifasini bajaryaptimi.",
+     "O'lchangan qiymatlar mantiqiy oraliqdami.",
+     "Qurilma barqaror ishlaydimi yoki bir necha daqiqadan keyin to'xtab qoladimi.",
+     "Natija ish daftariga yoziladi va keyingi bosqich rejasi shunga qarab aniqlashtiriladi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Birinchi navbatda nima tekshiriladi?  Javob: Quvvat — kuchlanishlar va iste'mol.",
      "Savol: Komponentlar qanday qo'shiladi?  Javob: Bittalab, har biri sinalgach."
@@ -144720,7 +147355,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Dasturni bosqichma-bosqich yozish (4 daqiqa)",
+    "points": [
+     "Butun dasturni birdan yozib, keyin yuklash — xatoni topishni juda qiyinlashtiradi.",
+     "To'g'ri usul: eng kichik ishlaydigan qismni yozib yuklash, keyin ustiga qo'shib borish.",
+     "Masalan: 1) sensorni o'qib Serial ga chiqarish, 2) chegara qo'shish, 3) LEDni boshqarish, 4) ekran qo'shish.",
+     "Har qadamdan keyin yuklab sinash — shunda xato faqat oxirgi qo'shilgan qismda bo'ladi."
+    ]
+   },
+   {
+    "title": "5.3. Boshlang'ich tuzilma (4 daqiqa)",
+    "points": [
+     "Avval pin doimiylari e'lon qilinadi va ularga ma'noli nom beriladi.",
+     "setup() da pinMode va Serial.begin yoziladi.",
+     "loop() da esa uch qism bo'ladi: o'qish, qaror, bajarish.",
+     "Har bir qismga izoh yoziladi — bu keyin qaytib kelganda vaqtni tejaydi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kod qanday tuziladi?  Javob: Modullarga bo'lib, har vazifa uchun alohida funksiya.",
      "Savol: Nega versiya saqlanadi?  Javob: Muammo chiqsa ishlaydigan variantga qaytish uchun."
@@ -144896,7 +147549,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Birinchi sinovda nimaga qarash kerak (4 daqiqa)",
+    "points": [
+     "Qurilma umuman ishga tushdimi: quvvat bormi, indikator yonyaptimi.",
+     "Sensor mantiqiy qiymat qaytaryaptimi yoki 0 va maksimumda qotib turibdimi.",
+     "Ijro qurilmasi (LED, motor, zummer) buyruqqa javob beryaptimi.",
+     "Serial monitorda kutilgan yozuvlar chiqyaptimi."
+    ]
+   },
+   {
+    "title": "5.3. Boshlang'ich o'lchovlarni yozib olish (4 daqiqa)",
+    "points": [
+     "Sensorning tinch holatdagi qiymati — bu keyin kalibrlash uchun etalon bo'ladi.",
+     "Eng past va eng baland qiymat — chegara tanlashda kerak.",
+     "Ta'minot kuchlanishi va iste'mol toki — quvvat manbai yetarliligini baholash uchun.",
+     "Bu sonlarsiz keyingi bosqichlarda har safar noldan boshlashga to'g'ri keladi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Natijalar nima bilan solishtiriladi?  Javob: Texnik topshiriqdagi talablar bilan.",
      "Savol: Qayerda sinash kerak?  Javob: Real ishlash sharoitida."
@@ -144984,7 +147655,26 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kamchiliklarni tizimli izlash (4 daqiqa)",
+    "points": [
+     "Kamchilik uch joydan kelib chiqadi: sxema, kod yoki g'oyaning o'zi.",
+     "Sxema kamchiligi: kontakt yomon, quvvat yetmaydi, sensor noto'g'ri joyda.",
+     "Kod kamchiligi: chegara noto'g'ri, filtr yo'q, xato holat tekshirilmagan.",
+     "G'oya kamchiligi: tanlangan sensor bu vazifa uchun umuman mos emas.",
+     "Uchinchi turi eng og'ir va uni erta aniqlash kerak — shuning uchun prototip bosqichi bor."
+    ]
+   },
+   {
+    "title": "5.3. Kamchiliklarni yozib borish (4 daqiqa)",
+    "points": [
+     "Har bir kamchilik yoziladi: nima bo'ldi, qachon bo'ldi, qanday takrorlanadi.",
+     "Takrorlanish shartini yozish eng muhimi: takrorlab bo'lmaydigan xatoni tuzatib ham bo'lmaydi.",
+     "Kamchiliklar muhimlik bo'yicha tartiblanadi: qurilmani ishlatib bo'lmaydigan holat birinchi.",
+     "Tuzatilmagani ham ro'yxatda qoldiriladi va himoyada aytiladi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kamchiliklar qanday saralanadi?  Javob: Muhimlik darajasi bo'yicha.",
      "Savol: Nega takrorlash qadamlari yoziladi?  Javob: Tuzatilganini tekshirish uchun."
@@ -145072,7 +147762,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Nimani yaxshilash kerakligini aniqlash (4 daqiqa)",
+    "points": [
+     "Yaxshilash tasodifiy emas, sinov natijalariga asoslangan bo'lishi kerak.",
+     "Sinov jadvalidan eng ko'p muammo chiqqan joy topiladi va birinchi o'sha tuzatiladi.",
+     "Har bir yaxshilash uchun o'lchanadigan maqsad qo'yiladi: 'javob vaqtini 3 sekunddan 1 sekundga tushirish'.",
+     "Maqsadsiz o'zgartirish natijani yomonlashtirib qo'yishi ham mumkin."
+    ]
+   },
+   {
+    "title": "5.3. Qayta sinash qoidasi (4 daqiqa)",
+    "points": [
+     "Har o'zgarishdan keyin FAQAT o'sha joy emas, butun sinov rejasi qaytariladi.",
+     "Natijalar oldingi jadval bilan yonma-yon yoziladi — yaxshilanish shunda ko'rinadi.",
+     "Yomonlashgan joy bo'lsa, o'zgarish qaytarib olinadi.",
+     "Bir vaqtda faqat bitta narsani o'zgartirish kerak, aks holda qaysi biri ta'sir qilganini bilib bo'lmaydi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Regressiya sinovi nima?  Javob: Tuzatish boshqa joyni buzmaganini tekshirish.",
      "Savol: Bir vaqtda nechta kamchilik tuzatiladi?  Javob: Bittasi."
@@ -145160,7 +147868,27 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Montaj tartibi (4 daqiqa)",
+    "points": [
+     "1) Korpusdagi hamma teshik oldindan tayyorlanadi.",
+     "2) Razyomlar va tugmalar o'rnatiladi.",
+     "3) Plata mahkamlanadi — u qimirlamasligi kerak.",
+     "4) Simlar ulanadi va bog'lab tartibga solinadi.",
+     "5) Korpus yopilishidan OLDIN to'liq sinov o'tkaziladi.",
+     "Yopilgandan keyin xato topilsa, hammasini qayta ochishga to'g'ri keladi."
+    ]
+   },
+   {
+    "title": "5.3. Simlarni mahkamlash (4 daqiqa)",
+    "points": [
+     "Har bir sim shunday bog'lanishi kerakki, tortilganda kontakt emas, bog'lam kuchni ko'tarsin.",
+     "Breadboard simlari korpusda ishonchsiz — yakuniy montajda kavsharlash yoki razyom ishlatiladi.",
+     "Isituvchi naycha yoki izolyatsiya lentasi bilan ochiq joylar yopiladi.",
+     "Simlar ranglari saqlanadi: keyin ochib qaraganda qaysi sim qayerga ketishi darhol ko'rinadi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Korpusda antenna uchun nima hisobga olinadi?  Javob: Metall qismlar signalni to'sadi.",
      "Savol: Yakuniy tekshiruvga nima kiradi?  Javob: Silkitish, uzoq ishlatish, isish."
@@ -145248,7 +147976,25 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Tilni soddalashtirish (4 daqiqa)",
+    "points": [
+     "Texnik atama ishlatilsa, u birinchi marta izohlanadi.",
+     "Uzun gap o'rniga qisqa gaplar: bir gapda bir fikr.",
+     "Buyruq shaklida yozish: 'USB kabelni ulang' — 'USB kabel ulanishi kerak' emas.",
+     "Raqamlangan qadamlar matn bo'lagidan ancha oson tushuniladi."
+    ]
+   },
+   {
+    "title": "5.3. Rasm va sxemalar (4 daqiqa)",
+    "points": [
+     "Har bir muhim qadamga rasm qo'yish tushunishni bir necha barobar osonlashtiradi.",
+     "Rasmda tugma yoki razyom strelka bilan belgilanadi.",
+     "Indikator holatlari jadval qilinadi: yashil doimiy — ishlayapti, qizil miltillayapti — xato.",
+     "Xavfsizlik ogohlantirishlari alohida ajratib ko'rsatiladi."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qo'llanma kim uchun yoziladi?  Javob: Foydalanuvchi uchun.",
      "Savol: Qaysi bo'lim eng foydali?  Javob: Muammolar va yechimlar."
@@ -145336,7 +148082,27 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Texnik topshiriq (TZ) (4 daqiqa)",
+    "points": [
+     "TZ — loyiha boshlanishida yoziladigan hujjat: qurilma NIMA qilishi kerak.",
+     "Unda funksional talablar bo'ladi: qurilma qanday vazifalarni bajaradi.",
+     "Va texnik cheklovlar: quvvat manbai, o'lchamlar, narx, ishlash muddati.",
+     "TZ loyiha oxirida tekshirish ro'yxati bo'lib xizmat qiladi: har bir band bajarildimi."
+    ]
+   },
+   {
+    "title": "5.3. Yakuniy texnik hujjat (4 daqiqa)",
+    "points": [
+     "Tuzilish sxemasi: qurilma qanday bloklardan iborat va ular qanday bog'langan.",
+     "Printsipial sxema: aniq ulanishlar va pin raqamlari.",
+     "Kod va uning tuzilishi tavsifi.",
+     "Sinov protokoli: nima sinaldi, qanday natija chiqdi.",
+     "Foydalanish qo'llanmasi: qurilmani qanday yoqish, sozlash va ishlatish.",
+     "Bu to'plam bilan boshqa jamoa loyihani davom ettira olishi kerak — hujjatning asosiy mezoni shu."
+    ]
+   },
+   {
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Hujjatning eng qimmatli qismi nima?  Javob: Qarorlar va ularning sabablari.",
      "Savol: Hujjat sifatining mezoni nima?  Javob: Boshqa muhandis loyihani davom ettira olishi."
@@ -145388,7 +148154,7 @@ window.LESSON_CONTENT = {
   "maqsad": [
    "O'quvchilar \"Taqdimot va himoyaga tayyorgarlik\" mavzusining asosiy tushunchalarini tushunadilar.",
    "O'quvchilar bu tushunchani amaliy modelda ko'radilar va natijani izohlay oladilar.",
-   "O'quvchilar amaliy ishni — yakuniy taqdimotni tayyorlab, mashq qilish va savollarga tayyorlanish — mustaqil qo'llay oladilar."
+   "O'quvchilar amaliy ishni — loyiha qurilmasiga taqdimot rejimini qo'shish: yoqilganda salomlashish ketma-ketligi, o'zini sinash va qo'lda ishga tushirish tugmasi; namoyishni uch marta mashq qilib, sekundomer bilan vaqtini o'lchash — mustaqil qo'llay oladilar."
   ],
   "lugat": [
    "Sun'iy intellekt (AI) – inson aqliy vazifalarini bajaruvchi tizimlar sohasi",
@@ -145424,7 +148190,15 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "points": [
+     "Taqdimot rejimi: qurilma yoqilishi bilan o'zini ko'rsatadigan holatga o'tadi va sozlash talab qilmaydi.",
+     "Doskaga chiqariladigan namuna: \"Namoyish uchun qurilmani tayyorlash\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
+     "Kod qatorma-qator o'qiladi: har bir qator nima qilishi ovoz chiqarib aytiladi, keyin o'quvchilar takrorlaydi."
+    ]
+   },
+   {
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Namoyishga vaqtning qancha qismi ajratiladi?  Javob: Kamida uchdan biri.",
      "Savol: Nega zaxira video kerak?  Javob: Jonli namoyish buzilishi mumkin."
@@ -145442,7 +148216,7 @@ window.LESSON_CONTENT = {
    {
     "title": "6.2. Amaliy ish (15 daqiqa)",
     "points": [
-     "Bajariladigan ish: yakuniy taqdimotni tayyorlab, mashq qilish va savollarga tayyorlanish.",
+     "Bajariladigan ish: loyiha qurilmasiga taqdimot rejimini qo'shish: yoqilganda salomlashish ketma-ketligi, o'zini sinash va qo'lda ishga tushirish tugmasi; namoyishni uch marta mashq qilib, sekundomer bilan vaqtini o'lchash.",
      "Natija qurilmada sinab ko'riladi va o'lchangan qiymat yozib olinadi."
     ]
    },
@@ -145470,6 +148244,11 @@ window.LESSON_CONTENT = {
   "qollanma": {
    "matn": "Uchta ehtimolli savolga oldindan tayyorlanishni talab qiling. Bu himoyaga ishonch beradi va o'z ishini chuqurroq tushunishga majbur qiladi.",
    "xato": "Mashq qilmasdan va zaxirasiz taqdimotga chiqish."
+  },
+  "kod": {
+   "nom": "Namoyish uchun qurilmani tayyorlash",
+   "matn": "// TAQDIMOT REJIMI: yoqilishi bilan o'zini ko'rsatadi\nconst int LED_YASHIL = 7, LED_QIZIL = 8, ZUMMER = 9;\nconst int SENSOR = A0, TUGMA = 2;\n\nbool namoyishRejimi = true;\n\nvoid salomlash() {\n  // qurilma tayyorligini bildiruvchi ketma-ketlik\n  for (int i = 0; i < 3; i++) {\n    digitalWrite(LED_YASHIL, HIGH); tone(ZUMMER, 1200 + i * 300, 120);\n    delay(180);\n    digitalWrite(LED_YASHIL, LOW);\n    delay(120);\n  }\n}\n\nvoid oziniSinash() {\n  Serial.println(\"=== O'ZINI SINASH ===\");\n  int q = analogRead(SENSOR);\n  Serial.print(\"Sensor: \"); Serial.println(q);\n\n  bool ok = (q > 10 && q < 1010);\n  digitalWrite(LED_YASHIL, ok);\n  digitalWrite(LED_QIZIL, !ok);\n\n  Serial.println(ok ? \"Qurilma TAYYOR\" : \"XATO: sensorni tekshiring!\");\n  delay(1500);\n  digitalWrite(LED_YASHIL, LOW); digitalWrite(LED_QIZIL, LOW);\n}\n\nvoid setup() {\n  pinMode(LED_YASHIL, OUTPUT); pinMode(LED_QIZIL, OUTPUT);\n  pinMode(ZUMMER, OUTPUT); pinMode(TUGMA, INPUT_PULLUP);\n  Serial.begin(9600);\n\n  salomlash();         // 1) tayyorligini bildiradi\n  oziniSinash();       // 2) o'zini tekshiradi\n}\n\nvoid loop() {\n  int q = analogRead(SENSOR);\n  bool ishlagan = (q > 500);\n\n  digitalWrite(LED_YASHIL, !ishlagan);\n  digitalWrite(LED_QIZIL, ishlagan);\n  if (ishlagan) tone(ZUMMER, 2000, 100);\n\n  // Tugma — namoyish uchun qo'lda ishga tushirish\n  if (digitalRead(TUGMA) == LOW) {\n    Serial.println(\"Qo'lda ishga tushirildi (namoyish uchun)\");\n    tone(ZUMMER, 2500, 400);\n    delay(600);\n  }\n  delay(200);\n}",
+   "izoh": "Taqdimot rejimi: qurilma yoqilishi bilan o'zini ko'rsatadigan holatga o'tadi va sozlash talab qilmaydi."
   }
  },
  "2-yil|8-sinf|4-chorak|18": {

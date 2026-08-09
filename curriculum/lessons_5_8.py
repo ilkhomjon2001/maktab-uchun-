@@ -15,6 +15,8 @@ from ulanish import bolim as ulanish_bolim
 from kb_5_8 import MAVZULAR as KB_MAVZULAR, KIRISH as KB_KIRISH, \
     NAZORAT as KB_NAZORAT, LOYIHA as KB_LOYIHA
 from kb_kod import KODLAR as KB_KODLAR
+from kb_chuqur import CHUQUR as KB_CHUQUR, KIRISH_YO as KB_KIRISH_YO
+from kb_amaliy import AMALIY as KB_AMALIY
 
 # ============================================================ ATAMALAR BAZASI
 # Kalit so'z -> "Atama (inglizcha) – ta'rif"
@@ -291,6 +293,11 @@ def amaliy_nomi(mavzu, tur):
     kb_kod.py da "amaliy" berilgan bo'lsa, u USTUN turadi: sof nazariy
     amaliyot elektronika bilan bog'langan variantga almashtiriladi.
     """
+    # Qog'ozdagi amaliyot temirga bog'langan variant bilan almashtiriladi
+    if tur == "mavzu":
+        qayta = KB_AMALIY.get(kb_kalit(mavzu))
+        if qayta:
+            return qayta
     kod = kod_topilsin(mavzu, tur)
     if kod and kod.get("amaliy"):
         return kod["amaliy"]
@@ -355,10 +362,18 @@ def build_nazariya(mavzu, track, tur, qurilma_bloklari=None, kod_blok=None):
                 "O'qituvchi chorak davomida o'rganiladigan mavzularni umumiy ko'rsatadi.",
                 "Chorak oxirida qanday natijaga erishilishi tushuntiriladi.",
             ]})
-        bloklar.append({"title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)", "points": [
-            "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
-            "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi.",
-        ]})
+        # Kirish darsining mazmuni mavzuga emas, YO'NALISHGA bog'liq:
+        # chorak qanday o'tishi, xavfsizlik va jihoz har yo'nalishda boshqacha.
+        qoshimcha = list(KB_CHUQUR.get(kb_kalit(mavzu), [])) + \
+            list(KB_KIRISH_YO.get(track, []))
+        for i, (sarlavha, bandlar) in enumerate(qoshimcha, 2):
+            bloklar.append({"title": f"5.{i}. {sarlavha} (5 daqiqa)",
+                            "points": list(bandlar)})
+        if not qoshimcha:
+            bloklar.append({"title": "5.2. Xavfsizlik va ish o'rni (8 daqiqa)", "points": [
+                "Elektr bilan ishlashda xavfsizlik qoidalari takrorlanadi.",
+                "Ish o'rnini tashkil qilish va jihozni saqlash tartibi ko'rsatiladi.",
+            ]})
         return bloklar
 
     if tur == "nazorat":
@@ -406,6 +421,12 @@ def build_nazariya(mavzu, track, tur, qurilma_bloklari=None, kod_blok=None):
             {"title": f"5.2. {s} — asosiy tushuncha (8 daqiqa)",
              "points": list(kb["nazariya"])},
         ]
+
+        # Komponent ham, kod ham yo'q mavzular (elektronika nazariyasi, AI
+        # tushunchalari, muhandislik bosqichlari) uchun qo'shimcha bloklar.
+        for sarlavha, bandlar in KB_CHUQUR.get(kb_kalit(mavzu), []):
+            bloklar.append({"title": f"{raqam()}. {sarlavha} (4 daqiqa)",
+                            "points": list(bandlar)})
 
         # Komponentli darsda o'qituvchi aytishi kerak bo'lgan TEXNIK MA'LUMOT
         # ham nazariya qismiga kiradi: bu darsda gapiriladigan matn, keyingi
