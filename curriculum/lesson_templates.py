@@ -202,7 +202,7 @@ THEME_CONTENT = {
         ],
         "softskills": [
             ("Ehtiyotkorlik", "Tros/ip bilan ishlashda chalkashtirmaslik va ehtiyotkorlikni o'rgating."),
-            ("Hamkorlik", "Shkiv sinovida bir o'quvchi troсni tortsa, ikkinchisi natijani kuzatishi mumkin — juftlikda ishlash."),
+            ("Hamkorlik", "Shkiv sinovida bir o'quvchi trosni tortsa, ikkinchisi natijani kuzatishi mumkin — juftlikda ishlash."),
         ],
     },
     "B": {
@@ -235,13 +235,13 @@ THEME_CONTENT = {
         "lugat": [
             "Shkiv tizimi (Block and tackle) – bir nechta qo'zg'almas va qo'zg'aluvchan shkivlar kombinatsiyasi",
             "Mexanik yutuq (Mechanical advantage) – shkiv tizimi kuchni necha marta kamaytirishi",
-            "Tortish kuchi taqsimoti (Tension distribution) – troсdagi kuchning har bir shkiv segmentida taqsimlanishi",
+            "Tortish kuchi taqsimoti (Tension distribution) – trosdagi kuchning har bir shkiv segmentida taqsimlanishi",
             "Ishqalanish yo'qotishi (Friction loss) – shkivda ishqalanish tufayli yo'qoladigan kuch ulushi",
             "Statik va dinamik yuk (Static/dynamic load) – harakatsiz va harakatdagi yukning shkivga ta'siri",
         ],
         "nazariya": [
             ("Kirish", 5, [
-                "Shkiv tizimlarining zamonaviy inshootlarda (qurilish kranlari, liftlar) muhim rolі muhokama qilinadi.",
+                "Shkiv tizimlarining zamonaviy inshootlarda (qurilish kranlari, liftlar) muhim roli muhokama qilinadi.",
             ]),
             ("Mexanik yutuqni hisoblash", 7, [
                 "Bir nechta shkiv ishlatilganda, kerakli kuch necha marta kamayishi (mexanik yutuq) sodda misolda ko'rsatiladi.",

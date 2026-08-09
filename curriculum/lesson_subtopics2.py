@@ -367,7 +367,7 @@ SUBTOPICS2["aero"] = [
     },
     {
         "fokus": "Havo qarshiligi",
-        "savol": "Nega tez yurgan mashinada shamol kuchli sezilади?",
+        "savol": "Nega tez yurgan mashinada shamol kuchli seziladi?",
         "asosiy": [
             "Havo harakatlanayotgan jismga qarshilik ko'rsatadi.",
             "Tez harakatda qarshilik keskin ortadi.",
@@ -375,7 +375,7 @@ SUBTOPICS2["aero"] = [
         ],
         "chuqur": "Havo qarshiligi tezlik kvadratiga proporsional — shuning uchun tez transportda u asosiy to'siq bo'ladi.",
         "tajriba": "Modelni tez va sekin harakatlantirib, havo qarshiligi ta'sirini kuzatish.",
-        "uyga": "Qo'lingizni harakatlanayotgan mashina oynasidan (xavfsiz holatda) yoki ventilyator oldida tutib, qarshilikni seziб yozing.",
+        "uyga": "Qo'lingizni harakatlanayotgan mashina oynasidan (xavfsiz holatda) yoki ventilyator oldida tutib, qarshilikni sezib yozing.",
     },
     {
         "fokus": "Oqimli shakl (aerodinamik shakl)",
@@ -489,7 +489,7 @@ SUBTOPICS2["transport"] = [
         "fokus": "Og'irlik taqsimoti",
         "savol": "Yukni mashinaning qayeriga qo'ygan ma'qul?",
         "asosiy": [
-            "Yuk bir tomonga to'planса, mashina qiyshayadi.",
+            "Yuk bir tomonga to'plansa, mashina qiyshayadi.",
             "Teng taqsimlangan yuk barqarorroq.",
             "Og'ir yuk pastroqqa qo'yilsa yaxshiroq.",
         ],

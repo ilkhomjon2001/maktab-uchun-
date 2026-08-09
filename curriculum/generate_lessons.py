@@ -36,6 +36,12 @@ SITE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TREE_PATH = os.path.join(SITE_DIR, "tree_data.js")
 OUT_PATH = os.path.join(SITE_DIR, "sample_lessons.js")
 
+# Bu skript sample_lessons.js ni BOSHIDAN yozadi, shuning uchun 5-8 sinf
+# yozuvlari o'chib ketadi. Ular alohida dastur (generate_5_8.py) bilan
+# tayyorlanadi va bu yerda chetlab o'tiladi.
+# TARTIB: avval generate_lessons.py, KEYIN generate_5_8.py.
+SINF_5_8 = {"5-sinf", "6-sinf", "7-sinf", "8-sinf"}
+
 # Sinf -> qiyinlik darajasi (tier)
 TIER_BY_GRADE = {
     "0-sinf": "A", "1-sinf": "A",
@@ -320,6 +326,8 @@ def main():
 
     for yil, grades in tree.items():
         for sinf, choraks in grades.items():
+            if sinf in SINF_5_8:          # 5-8 ni generate_5_8.py tayyorlaydi
+                continue
             # umumiy dars raqami (faqat asosiy 4 chorak bo'yicha, 84 dars)
             global_num = 0
             total_lessons = sum(
@@ -363,6 +371,8 @@ def main():
     ordered = {}
     for yil, grades in tree.items():
         for sinf, choraks in grades.items():
+            if sinf in SINF_5_8:
+                continue
             for chorak, lessons in choraks.items():
                 for idx in range(len(lessons)):
                     key = f"{yil}|{sinf}|{chorak}|{idx}"

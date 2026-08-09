@@ -1890,7 +1890,7 @@ window.LESSON_CONTENT = {
     "title": "5.2. 1-toifa richag (tayanch o'rtada) (7 daqiqa)",
     "points": [
      "1-toifa richagda tayanch nuqtasi kuch bilan yuk ORASIDA joylashadi.",
-     "Bosганда yuk qarama-qarshi tomonga harakatlanadi.",
+     "Bosganda yuk qarama-qarshi tomonga harakatlanadi.",
      "Misollar: teeter-totter, qaychi, mixchiqargich."
     ]
    },
@@ -4620,7 +4620,7 @@ window.LESSON_CONTENT = {
    {
     "title": "5.2. Og'irlik taqsimoti (7 daqiqa)",
     "points": [
-     "Yuk bir tomonga to'planса, mashina qiyshayadi.",
+     "Yuk bir tomonga to'plansa, mashina qiyshayadi.",
      "Teng taqsimlangan yuk barqarorroq.",
      "Og'ir yuk pastroqqa qo'yilsa yaxshiroq."
     ]
@@ -5504,7 +5504,7 @@ window.LESSON_CONTENT = {
    "Ko'tarish (Lift) – narsani yuqoriga olib chiqish",
    "Chig'ir (Winch/Well pulley) – quduqdan suv tortishda ishlatiladigan shkiv turi"
   ],
-  "softSkill": "Hamkorlik — Shkiv sinovida bir o'quvchi troсni tortsa, ikkinchisi natijani kuzatishi mumkin — juftlikda ishlash.",
+  "softSkill": "Hamkorlik — Shkiv sinovida bir o'quvchi trosni tortsa, ikkinchisi natijani kuzatishi mumkin — juftlikda ishlash.",
   "resurslar": [
    "Makerzoid Robot Master Standard to'plami (har 1-2 o'quvchiga bitta)",
    "\"Conveyor\" modeli uchun bosqichma-bosqich rasmli instruksiya (to'plam ilovasida)",
@@ -6986,7 +6986,7 @@ window.LESSON_CONTENT = {
     "title": "5.2. 1-toifa richag (tayanch o'rtada) (7 daqiqa)",
     "points": [
      "1-toifa richagda tayanch nuqtasi kuch bilan yuk ORASIDA joylashadi.",
-     "Bosганда yuk qarama-qarshi tomonga harakatlanadi.",
+     "Bosganda yuk qarama-qarshi tomonga harakatlanadi.",
      "Misollar: teeter-totter, qaychi, mixchiqargich."
     ]
    },
@@ -10375,7 +10375,7 @@ window.LESSON_CONTENT = {
    {
     "title": "5.2. Og'irlik taqsimoti (7 daqiqa)",
     "points": [
-     "Yuk bir tomonga to'planса, mashina qiyshayadi.",
+     "Yuk bir tomonga to'plansa, mashina qiyshayadi.",
      "Teng taqsimlangan yuk barqarorroq.",
      "Og'ir yuk pastroqqa qo'yilsa yaxshiroq."
     ]
@@ -12601,7 +12601,7 @@ window.LESSON_CONTENT = {
    "Ko'tarish (Lift) – narsani yuqoriga olib chiqish",
    "Chig'ir (Winch/Well pulley) – quduqdan suv tortishda ishlatiladigan shkiv turi"
   ],
-  "softSkill": "Hamkorlik — Shkiv sinovida bir o'quvchi troсni tortsa, ikkinchisi natijani kuzatishi mumkin — juftlikda ishlash.",
+  "softSkill": "Hamkorlik — Shkiv sinovida bir o'quvchi trosni tortsa, ikkinchisi natijani kuzatishi mumkin — juftlikda ishlash.",
   "resurslar": [
    "Makerzoid Robot Master Standard to'plami (har 1-2 o'quvchiga bitta)",
    "\"Conveyor\" modeli uchun bosqichma-bosqich rasmli instruksiya (to'plam ilovasida)",
@@ -14636,7 +14636,7 @@ window.LESSON_CONTENT = {
    }
   ],
   "uyga": [
-   "Uyda elektr bilan ishlaydigan 3 ta mashinani (miksеr, soat, o'yinchoq) toping va ro'yxat qiling."
+   "Uyda elektr bilan ishlaydigan 3 ta mashinani (mikser, soat, o'yinchoq) toping va ro'yxat qiling."
   ],
   "meta": {
    "sinf": "2-sinf",
@@ -23555,7 +23555,7 @@ window.LESSON_CONTENT = {
    {
     "title": "5.2. Og'irlik taqsimoti (7 daqiqa)",
     "points": [
-     "Yuk bir tomonga to'planса, mashina qiyshayadi.",
+     "Yuk bir tomonga to'plansa, mashina qiyshayadi.",
      "Teng taqsimlangan yuk barqarorroq.",
      "Og'ir yuk pastroqqa qo'yilsa yaxshiroq.",
      "Og'irlik taqsimoti boshqaruvchanlikka ham ta'sir qiladi — orqasi og'ir mashina burilishda beqaror bo'ladi."
@@ -27970,7 +27970,7 @@ window.LESSON_CONTENT = {
    {
     "title": "5.2. Og'irlik taqsimoti (7 daqiqa)",
     "points": [
-     "Yuk bir tomonga to'planса, mashina qiyshayadi.",
+     "Yuk bir tomonga to'plansa, mashina qiyshayadi.",
      "Teng taqsimlangan yuk barqarorroq.",
      "Og'ir yuk pastroqqa qo'yilsa yaxshiroq.",
      "Og'irlik taqsimoti boshqaruvchanlikka ham ta'sir qiladi — orqasi og'ir mashina burilishda beqaror bo'ladi."
@@ -30634,7 +30634,7 @@ window.LESSON_CONTENT = {
    {
     "title": "5.1. Kirish (5 daqiqa)",
     "points": [
-     "Nega tez yurgan mashinada shamol kuchli sezilади?",
+     "Nega tez yurgan mashinada shamol kuchli seziladi?",
      "Havo transportining (samolyot, dron, vertolyot) zamonaviy ahamiyati muhokama qilinadi."
     ]
    },
@@ -30677,7 +30677,7 @@ window.LESSON_CONTENT = {
    }
   ],
   "uyga": [
-   "Qo'lingizni harakatlanayotgan mashina oynasidan (xavfsiz holatda) yoki ventilyator oldida tutib, qarshilikni seziб yozing.",
+   "Qo'lingizni harakatlanayotgan mashina oynasidan (xavfsiz holatda) yoki ventilyator oldida tutib, qarshilikni sezib yozing.",
    "Ijodiy topshiriq: \"Star War Aircraft\" modelining rasmini chizib, uning asosiy qismlarini belgilang."
   ],
   "meta": {
@@ -34417,7 +34417,7 @@ window.LESSON_CONTENT = {
     "title": "5.2. 1-toifa richag (tayanch o'rtada) (7 daqiqa)",
     "points": [
      "1-toifa richagda tayanch nuqtasi kuch bilan yuk ORASIDA joylashadi.",
-     "Bosганда yuk qarama-qarshi tomonga harakatlanadi.",
+     "Bosganda yuk qarama-qarshi tomonga harakatlanadi.",
      "Misollar: teeter-totter, qaychi, mixchiqargich."
     ]
    },
@@ -37147,7 +37147,7 @@ window.LESSON_CONTENT = {
    {
     "title": "5.2. Og'irlik taqsimoti (7 daqiqa)",
     "points": [
-     "Yuk bir tomonga to'planса, mashina qiyshayadi.",
+     "Yuk bir tomonga to'plansa, mashina qiyshayadi.",
      "Teng taqsimlangan yuk barqarorroq.",
      "Og'ir yuk pastroqqa qo'yilsa yaxshiroq."
     ]
@@ -38031,7 +38031,7 @@ window.LESSON_CONTENT = {
    "Ko'tarish (Lift) – narsani yuqoriga olib chiqish",
    "Chig'ir (Winch/Well pulley) – quduqdan suv tortishda ishlatiladigan shkiv turi"
   ],
-  "softSkill": "Hamkorlik — Shkiv sinovida bir o'quvchi troсni tortsa, ikkinchisi natijani kuzatishi mumkin — juftlikda ishlash.",
+  "softSkill": "Hamkorlik — Shkiv sinovida bir o'quvchi trosni tortsa, ikkinchisi natijani kuzatishi mumkin — juftlikda ishlash.",
   "resurslar": [
    "Makerzoid Robot Master Standard to'plami (har 1-2 o'quvchiga bitta)",
    "\"Conveyor\" modeli uchun bosqichma-bosqich rasmli instruksiya (to'plam ilovasida)",
@@ -39513,7 +39513,7 @@ window.LESSON_CONTENT = {
     "title": "5.2. 1-toifa richag (tayanch o'rtada) (7 daqiqa)",
     "points": [
      "1-toifa richagda tayanch nuqtasi kuch bilan yuk ORASIDA joylashadi.",
-     "Bosганда yuk qarama-qarshi tomonga harakatlanadi.",
+     "Bosganda yuk qarama-qarshi tomonga harakatlanadi.",
      "Misollar: teeter-totter, qaychi, mixchiqargich."
     ]
    },
@@ -42902,7 +42902,7 @@ window.LESSON_CONTENT = {
    {
     "title": "5.2. Og'irlik taqsimoti (7 daqiqa)",
     "points": [
-     "Yuk bir tomonga to'planса, mashina qiyshayadi.",
+     "Yuk bir tomonga to'plansa, mashina qiyshayadi.",
      "Teng taqsimlangan yuk barqarorroq.",
      "Og'ir yuk pastroqqa qo'yilsa yaxshiroq."
     ]
@@ -45128,7 +45128,7 @@ window.LESSON_CONTENT = {
    "Ko'tarish (Lift) – narsani yuqoriga olib chiqish",
    "Chig'ir (Winch/Well pulley) – quduqdan suv tortishda ishlatiladigan shkiv turi"
   ],
-  "softSkill": "Hamkorlik — Shkiv sinovida bir o'quvchi troсni tortsa, ikkinchisi natijani kuzatishi mumkin — juftlikda ishlash.",
+  "softSkill": "Hamkorlik — Shkiv sinovida bir o'quvchi trosni tortsa, ikkinchisi natijani kuzatishi mumkin — juftlikda ishlash.",
   "resurslar": [
    "Makerzoid Robot Master Standard to'plami (har 1-2 o'quvchiga bitta)",
    "\"Conveyor\" modeli uchun bosqichma-bosqich rasmli instruksiya (to'plam ilovasida)",
@@ -47163,7 +47163,7 @@ window.LESSON_CONTENT = {
    }
   ],
   "uyga": [
-   "Uyda elektr bilan ishlaydigan 3 ta mashinani (miksеr, soat, o'yinchoq) toping va ro'yxat qiling."
+   "Uyda elektr bilan ishlaydigan 3 ta mashinani (mikser, soat, o'yinchoq) toping va ro'yxat qiling."
   ],
   "meta": {
    "sinf": "2-sinf",
@@ -57310,7 +57310,7 @@ window.LESSON_CONTENT = {
    {
     "title": "5.2. Og'irlik taqsimoti (7 daqiqa)",
     "points": [
-     "Yuk bir tomonga to'planса, mashina qiyshayadi.",
+     "Yuk bir tomonga to'plansa, mashina qiyshayadi.",
      "Teng taqsimlangan yuk barqarorroq.",
      "Og'ir yuk pastroqqa qo'yilsa yaxshiroq.",
      "Og'irlik taqsimoti boshqaruvchanlikka ham ta'sir qiladi — orqasi og'ir mashina burilishda beqaror bo'ladi."

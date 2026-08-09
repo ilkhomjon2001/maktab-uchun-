@@ -337,7 +337,7 @@ INTRO_CONTENT = {
         ("Namoyishni kuzatish", 4, ["O'quvchilar mashinaning ishga tushishini kuzatadilar."]),
     ],
     "uyga": [
-        "Uyda elektr bilan ishlaydigan 3 ta mashinani (miksеr, soat, o'yinchoq) toping va ro'yxat qiling.",
+        "Uyda elektr bilan ishlaydigan 3 ta mashinani (mikser, soat, o'yinchoq) toping va ro'yxat qiling.",
     ],
 },
 

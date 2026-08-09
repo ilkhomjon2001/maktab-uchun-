@@ -132,10 +132,16 @@ Deploy                        -> site/ da commit + push, keyin serverda:
 
 1. **Missiya vaqt me'yorlari** (35/35/40/40 s) sinovda tekshirilishi kerak.
    Sinovdan keyin `missions.py` dagi raqamlar va ball taqsimoti moslashtiriladi.
-0. **0-4 kontentida qolgan kirill belgilar** (9 ta qator): `lesson_subtopics.py`,
-   `lesson_subtopics2.py`, `lesson_templates.py`, `lesson_templates_special.py`.
-   Masalan "Bosганда", "храповик", "sezilади", "troс", "miksеr". Tuzatish 0-4
-   kontentini o'zgartiradi, shuning uchun foydalanuvchi bilan kelishilishi kerak.
+⚠️ **Generatsiya TARTIBI:** `generate_lessons.py` `sample_lessons.js` ni boshidan
+yozadi. U 5-8 sinflarni chetlab o'tadi (`SINF_5_8`), lekin ikkalasi ham
+o'zgartirilsa tartib shunday bo'lishi kerak:
+`python curriculum/generate_lessons.py` -> keyin `python curriculum/generate_5_8.py`.
+
+**Kirill belgilar bo'yicha qaror (2026-08-09):** kontentdagi tasodifiy kirill
+harflar tuzatildi (Bosганда, sezilади, troс, miksеr va h.k.). `храповik` —
+ya'ni "храповик" — ATAYLAB qoldirildi: u ruscha texnik atama sifatida qavs
+ichida berilgan. Qoida: kirill harf ma'no tashisa qoladi, terish xatosi bo'lsa
+tuzatiladi.
 2. **Serverda nginx qoidasi qo'shilib, `git pull` qilinishi kerak** (yuqoridagi "Git holati").
 
 **Hosting bo'yicha qaror:** sayt faqat o'z serverimizda (169.58.130.201:8081) turadi.

@@ -66,7 +66,7 @@ SUBTOPICS["richag"] = [
         "savol": "Qaychi va teeter-totterning umumiy tomoni nima?",
         "asosiy": [
             "1-toifa richagda tayanch nuqtasi kuch bilan yuk ORASIDA joylashadi.",
-            "Bosганда yuk qarama-qarshi tomonga harakatlanadi.",
+            "Bosganda yuk qarama-qarshi tomonga harakatlanadi.",
             "Misollar: teeter-totter, qaychi, mixchiqargich.",
         ],
         "chuqur": "1-toifa richag ham kuchni oshirishi, ham harakat yo'nalishini teskari qilishi mumkin.",
