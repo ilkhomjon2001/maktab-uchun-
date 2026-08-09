@@ -407,7 +407,8 @@ def build_nazariya(mavzu, track, tur, qurilma_bloklari=None, kod_blok=None):
 
     # --- Oddiy mavzu darsi: bazada aniq matn bo'lsa, o'sha ishlatiladi ---
     if kb:
-        n = [1]
+        # 5.1 va 5.2 quyida qo'lda beriladi, shuning uchun sanoq 2 dan boshlanadi
+        n = [2]
 
         def raqam():
             n[0] += 1

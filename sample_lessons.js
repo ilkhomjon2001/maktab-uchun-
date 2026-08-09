@@ -67465,7 +67465,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega 3 V batareya xavfsiz, 220 V rozetka xavfli?  Javob: Kuchlanish katta bo'lsa, tanadan o'tadigan tok ham katta bo'ladi; 3 V dan teri orqali sezilarli tok o'ta olmaydi.",
      "Savol: Sim qizib ketsa birinchi navbatda nima qilinadi?  Javob: Quvvat uziladi, keyin sabab izlanadi."
@@ -67552,7 +67552,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tok nima?  Javob: Zaryadlangan zarrachalarning yo'naltirilgan harakati.",
      "Savol: Nima uchun metall tokni o'tkazadi?  Javob: Unda atomga mahkam bog'lanmagan erkin elektronlar bor."
@@ -67639,7 +67639,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ikkita 1,5 V elementni ketma-ket ulasak necha volt bo'ladi?  Javob: 3 V.",
      "Savol: Batareya zaryad yaratadimi?  Javob: Yo'q, u zaryadni harakatlantiruvchi kuchlanish hosil qiladi."
@@ -67726,7 +67726,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Zanjirning bir joyi uzilsa, qolgan qismida tok bormi?  Javob: Yo'q, butun zanjirda tok to'xtaydi.",
      "Savol: Kalit nima qiladi?  Javob: Zanjirni boshqariladigan tarzda uzadi va ulaydi."
@@ -67813,7 +67813,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Grafit o'tkazgichmi?  Javob: Ha, shuning uchun qalam chizig'i orqali kuchsiz tok o'tadi.",
      "Savol: Nega sim usti plastmassa bilan qoplangan?  Javob: Plastmassa izolyator — tokning kerakmas joyga o'tishini to'sadi."
@@ -67900,7 +67900,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Zanjirning uch asosiy qismi qaysilar?  Javob: Manba, iste'molchi va ulovchi simlar.",
      "Savol: Lampochkada elektr energiya nimaga aylanadi?  Javob: Issiqlik va yorug'likka."
@@ -67987,7 +67987,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -67997,7 +67997,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -68005,7 +68005,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: LEDning uzun oyog'i qaysi qutb?  Javob: Anod, ya'ni musbat (+).",
      "Savol: Nega ko'k LED qizil LEDga qaraganda ko'proq kuchlanish talab qiladi?  Javob: Uning tushish kuchlanishi kattaroq (~3 V)."
@@ -68116,7 +68116,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -68126,7 +68126,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -68134,7 +68134,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: LED uchun xavfsiz tok qancha?  Javob: Taxminan 10-20 mA.",
      "Savol: Rezistor nima qiladi?  Javob: Ortiqcha kuchlanishni o'ziga oladi va tokni cheklaydi."
@@ -68245,7 +68245,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qizil-qizil-jigarrang necha om?  Javob: 220 Om.",
      "Savol: Uchinchi halqa nimani bildiradi?  Javob: Birinchi ikki raqamdan keyin nechta nol qo'shilishini."
@@ -68332,7 +68332,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: O'rtadagi tirqish nima uchun kerak?  Javob: Mikrosxema oyoqlari ikki tomonga tushib, o'zaro tutashib ketmasligi uchun.",
      "Savol: Chetdagi uzun chiziqlar nima?  Javob: Quvvat shinalari — + va -."
@@ -68419,7 +68419,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -68429,7 +68429,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -68437,7 +68437,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Rezistorni LEDdan keyin qo'ysa bo'ladimi?  Javob: Ha, ketma-ket zanjirda o'rni ahamiyatsiz.",
      "Savol: Nega simlar rang bilan ajratiladi?  Javob: Sxemani o'qish va xatoni topish oson bo'lishi uchun."
@@ -68548,7 +68548,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -68558,7 +68558,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -68566,7 +68566,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ketma-ket zanjirda tok qanday taqsimlanadi?  Javob: Taqsimlanmaydi — hamma joyda bir xil.",
      "Savol: Nega ketma-ket ulangan LEDlar xiraroq yonadi?  Javob: Kuchlanish ular orasida bo'linadi."
@@ -68677,7 +68677,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -68687,7 +68687,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -68695,7 +68695,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Parallel ulanishda kuchlanish qanday taqsimlanadi?  Javob: Hammasiga bir xil tushadi.",
      "Savol: Nega har bir LEDga alohida rezistor kerak?  Javob: Aks holda ular tokni teng bo'lishmaydi va yorqinligi har xil bo'ladi."
@@ -68806,7 +68806,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tugma (push button) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Tugma (push button) — texnik tasnif (4 daqiqa)",
     "points": [
      "Taktil tugma (tact switch) — 4 oyoqli, lekin aslida 2 ta kontakt: qarama-qarshi oyoqlar juft-juft ulangan.",
      "Bosilganda kontakt ulanadi, qo'yib yuborilganda prujina uni ochadi.",
@@ -68815,7 +68815,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Rezistorsiz ulangan pin havoda \"suzadi\": unga tegishmagan holatda ham atrofdagi elektr maydonidan tasodifiy 0 va 1 o'qiladi.",
      "Tortuvchi rezistor pinni tinch holatda aniq bir darajaga tortib turadi. INPUT_PULLUP da pin 5 V ga tortiladi, ya'ni tinch holat = HIGH.",
@@ -68823,7 +68823,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tugmaning to'rt oyog'i qanday bog'langan?  Javob: Juft-juft bo'lib doim ulangan; bosilganda ikki juft o'zaro tutashadi.",
      "Savol: Tugmani breadboardda qayerga qo'yish qulay?  Javob: O'rta tirqish ustiga, ikki juft oyoq ikki tomonga tushishi uchun."
@@ -68932,7 +68932,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tugma va vklyuchatel orasidagi asosiy farq nima?  Javob: Vklyuchatel holatni saqlaydi, tugma faqat bosilgan paytda ulaydi.",
      "Savol: Uch oyoqli vklyuchatelda o'rta oyoq nima?  Javob: Umumiy kontakt (COM)."
@@ -69019,7 +69019,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tugma (push button) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Tugma (push button) — texnik tasnif (4 daqiqa)",
     "points": [
      "Taktil tugma (tact switch) — 4 oyoqli, lekin aslida 2 ta kontakt: qarama-qarshi oyoqlar juft-juft ulangan.",
      "Bosilganda kontakt ulanadi, qo'yib yuborilganda prujina uni ochadi.",
@@ -69028,7 +69028,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Rezistorsiz ulangan pin havoda \"suzadi\": unga tegishmagan holatda ham atrofdagi elektr maydonidan tasodifiy 0 va 1 o'qiladi.",
      "Tortuvchi rezistor pinni tinch holatda aniq bir darajaga tortib turadi. INPUT_PULLUP da pin 5 V ga tortiladi, ya'ni tinch holat = HIGH.",
@@ -69036,7 +69036,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ikki tugma ketma-ket ulansa LED qachon yonadi?  Javob: Faqat ikkalasi bir vaqtda bosilganda.",
      "Savol: Bu qaysi mantiq amali?  Javob: \"VA\" (AND)."
@@ -69145,7 +69145,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tugma (push button) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Tugma (push button) — texnik tasnif (4 daqiqa)",
     "points": [
      "Taktil tugma (tact switch) — 4 oyoqli, lekin aslida 2 ta kontakt: qarama-qarshi oyoqlar juft-juft ulangan.",
      "Bosilganda kontakt ulanadi, qo'yib yuborilganda prujina uni ochadi.",
@@ -69154,7 +69154,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Rezistorsiz ulangan pin havoda \"suzadi\": unga tegishmagan holatda ham atrofdagi elektr maydonidan tasodifiy 0 va 1 o'qiladi.",
      "Tortuvchi rezistor pinni tinch holatda aniq bir darajaga tortib turadi. INPUT_PULLUP da pin 5 V ga tortiladi, ya'ni tinch holat = HIGH.",
@@ -69162,7 +69162,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ikki tugma parallel ulansa LED qachon yonadi?  Javob: Kamida bittasi bosilganda.",
      "Savol: Yong'in tugmalari qaysi mantiq bo'yicha ulanadi?  Javob: YOKI — istalgan biri signal beradi."
@@ -69271,7 +69271,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sxemada kesishgan simlar nuqtasiz chizilsa nima degani?  Javob: Ular ulanmagan, bir-birining ustidan o'tib ketgan.",
      "Savol: Sxema va fotosurat farqi nimada?  Javob: Sxema joylashuvni emas, ulanish mantiqini ko'rsatadi."
@@ -69684,7 +69684,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qora shchup qaysi teshikka ulanadi?  Javob: COM.",
      "Savol: Zumlash rejimi nima uchun kerak?  Javob: Ikki nuqta o'zaro ulanganini tez tekshirish uchun."
@@ -69771,7 +69771,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Voltmetr qanday ulanadi?  Javob: Parallel, komponentning ikki oyog'iga.",
      "Savol: Ekranda -3,2 V chiqsa nima degani?  Javob: Shchuplar teskari qo'yilgan, qiymat esa 3,2 V."
@@ -69858,7 +69858,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tugagan AA elementning kuchlanishi taxminan qancha?  Javob: 1,1 V dan past.",
      "Savol: Nega batareyani yuklama bilan o'lchash kerak?  Javob: Bo'sh holatda tugagan batareya ham normal qiymat ko'rsatishi mumkin."
@@ -69945,7 +69945,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qarshilikni o'lchashda quvvat ulangan bo'lishi kerakmi?  Javob: Yo'q, zanjir albatta quvvatsiz bo'lishi kerak.",
      "Savol: Ekranda OL chiqsa nima degani?  Javob: Qiymat chegaradan katta yoki zanjir uzilgan."
@@ -70032,7 +70032,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 220 Om rezistor 5% aniqlikda qaysi oraliqda bo'lishi kerak?  Javob: 209 dan 231 omgacha.",
      "Savol: Chetlanish 8% chiqsa nima deyish mumkin?  Javob: Rezistor ko'rsatilgan aniqlikka mos emas, yaroqsiz."
@@ -70119,7 +70119,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ampermetr qanday ulanadi?  Javob: Ketma-ket, zanjir uzib.",
      "Savol: Ampermetrni parallel ulasak nima bo'ladi?  Javob: Qisqa tutashuv yuzaga keladi va predoxranitel kuyadi."
@@ -70206,7 +70206,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 5 V va 250 Om bo'lsa tok qancha?  Javob: I = 5/250 = 0,02 A = 20 mA.",
      "Savol: Tok 10 mA, qarshilik 470 Om. Kuchlanish qancha?  Javob: U = 0,01 x 470 = 4,7 V."
@@ -70293,7 +70293,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 9 V va 470 Om: tok qancha?  Javob: 9/470 = 0,019 A = 19 mA.",
      "Savol: 12 V da 100 mA oqsa, qarshilik qancha?  Javob: R = 12/0,1 = 120 Om."
@@ -70380,7 +70380,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -70390,7 +70390,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -70398,7 +70398,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 5 V, yashil LED (2,1 V), 15 mA uchun rezistor?  Javob: (5-2,1)/0,015 = 193 Om, ya'ni 220 Om olinadi.",
      "Savol: Nega kattaroq rezistor olinadi?  Javob: Tok kamayadi va LED xavfsiz ishlaydi."
@@ -70509,7 +70509,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 6 V zanjirda 100 Om va 200 Om ketma-ket. Har biriga qancha tushadi?  Javob: 2 V va 4 V.",
      "Savol: Ketma-ket zanjirning umumiy qarshiligi qanday topiladi?  Javob: Qarshiliklar qo'shiladi."
@@ -70596,7 +70596,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ketma-ket zanjirda tok qayerda kattaroq — boshidami, oxiridami?  Javob: Bir xil, farq yo'q.",
      "Savol: Nega shunday?  Javob: Tok uchun bitta yo'l bor, u boshqa yo'lga ketolmaydi."
@@ -70683,7 +70683,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Parallel tarmoqlarda kuchlanish qanday?  Javob: Hammasida bir xil.",
      "Savol: Bitta parallel tarmoq uzilsa qolganlari ishlaydimi?  Javob: Ha, ular mustaqil."
@@ -70770,7 +70770,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tok taqsimlanish qoidasi (4 daqiqa)",
+    "title": "5.3. Tok taqsimlanish qoidasi (4 daqiqa)",
     "points": [
      "Har bir shoxdagi tok o'sha shoxning qarshiligiga TESKARI proporsional: qarshilik kichik bo'lsa tok ko'p oqadi.",
      "Formula: I1 = U / R1, I2 = U / R2. Kuchlanish ikkalasida bir xil bo'lgani uchun hisob oson.",
@@ -70779,7 +70779,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Qisqa tutashuv nima uchun xavfli (4 daqiqa)",
+    "title": "5.4. Qisqa tutashuv nima uchun xavfli (4 daqiqa)",
     "points": [
      "Qisqa tutashuv — bu qarshiligi deyarli nolga teng parallel shox.",
      "Om qonuni bo'yicha shu shoxdagi tok juda katta bo'ladi va butun tok o'sha yo'ldan oqadi.",
@@ -70788,7 +70788,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 6 V da 300 va 600 Om parallel. Umumiy tok?  Javob: 20 + 10 = 30 mA.",
      "Savol: Ikkita 200 Om parallel bo'lsa umumiy qarshilik?  Javob: 100 Om."
@@ -70875,7 +70875,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 12 V, R1 = 1 kOm, R2 = 2 kOm. Chiqish qancha?  Javob: 12 x 2 / 3 = 8 V.",
      "Savol: Nega bo'luvchidan motorni quvvatlantirib bo'lmaydi?  Javob: Tok olinishi bilan chiqish kuchlanishi keskin pasayadi."
@@ -70962,7 +70962,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Potensiometr 10 kOm — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Potensiometr 10 kOm — texnik tasnif (4 daqiqa)",
     "points": [
      "O'zgaruvchan rezistor. Nominal 10 kOm — chetdagi ikki oyoq orasidagi qarshilik doim 10 kOm.",
      "O'rta oyoq (surgich) buralganda 0 dan 10 kOm gacha siljiydi.",
@@ -70971,7 +70971,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Potensiometr 10 kOm — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Potensiometr 10 kOm — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Potensiometr — bu tayyor KUCHLANISH BO'LUVCHI. Surgich yuqoriroqda bo'lsa chiqishda kuchlanish katta, pastroqda bo'lsa kichik.",
      "Qarshilik emas, KUCHLANISH o'lchanadi: plata analog pindagi kuchlanishni raqamga aylantiradi.",
@@ -70979,7 +70979,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 10 kOm potensiometrda o'rta oyoq bir tomonda 3 kOm bo'lsa, ikkinchi tomonda qancha?  Javob: 7 kOm.",
      "Savol: Potensiometrning uchala oyog'i ishlatilsa u nima vazifasini bajaradi?  Javob: Sozlanadigan kuchlanish bo'luvchi."
@@ -71088,7 +71088,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qisqa tutashuvda tok nega keskin oshadi?  Javob: Qarshilik nolga yaqinlashadi, Om qonuniga ko'ra tok o'sadi.",
      "Savol: Predoxranitel qanday himoya qiladi?  Javob: Tok ortganda ichidagi sim uzilib, zanjirni ochib qo'yadi."
@@ -71175,7 +71175,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Xatolikning uch manbasini ayting.  Javob: Asbob aniqligi, komponent chetlanishi, o'lchash usuli.",
      "Savol: Bir necha marta o'lchash nimani kamaytiradi?  Javob: Tasodifiy xatolikni."
@@ -71262,7 +71262,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nosozlik izlashning birinchi qadami nima?  Javob: Manbada kuchlanish bor-yo'qligini o'lchash.",
      "Savol: Kuchlanish zanjirning bir joyida yo'qolsa nima demak?  Javob: Nosozlik aynan o'sha joyda."
@@ -71671,7 +71671,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kondensator nima saqlaydi?  Javob: Elektr zaryadini.",
      "Savol: Keramik kondensatordagi 104 kodi qancha?  Javob: 100 nF, ya'ni 0,1 uF."
@@ -71758,7 +71758,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kondensator manbadan uzilgach LED nega yonaveradi?  Javob: Unda to'plangan zaryad LED orqali oqib chiqadi.",
      "Savol: Kondensator va batareya farqi nimada?  Javob: Kondensator kam energiya saqlaydi, lekin uni juda tez beradi."
@@ -71845,7 +71845,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: R = 1 kOm, C = 1000 uF. Vaqt doimiysi qancha?  Javob: 1000 x 0,001 = 1 sekund.",
      "Savol: Kondensator qancha vaqtda to'liq zaryadlanadi?  Javob: Taxminan 5T."
@@ -71932,7 +71932,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Diodda to'g'ri yo'nalishda qancha kuchlanish tushadi?  Javob: Taxminan 0,7 V.",
      "Savol: Diod ikkala tomonda ham OL ko'rsatsa nima demak?  Javob: Diod uzilgan, ishlamaydi."
@@ -72019,7 +72019,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ketma-ket diod nimadan himoya qiladi?  Javob: Batareyaning teskari ulanishidan.",
      "Savol: Motor bilan parallel diod nima uchun kerak?  Javob: Motor to'xtaganda hosil bo'ladigan yuqori kuchlanish impulsini yo'q qilish uchun."
@@ -72106,7 +72106,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tranzistorning uch oyog'i qanday nomlanadi?  Javob: Baza, kollektor, emitter.",
      "Savol: Baza rezistori nima uchun kerak?  Javob: Baza tokini cheklab, tranzistorni kuyishdan saqlash uchun."
@@ -72193,7 +72193,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kalit rejimida tranzistor qaysi ikki holatda bo'ladi?  Javob: To'liq ochiq yoki to'liq yopiq.",
      "Savol: Nega tranzistor tugmadan afzal?  Javob: Uni qo'l emas, elektr signal boshqaradi."
@@ -72280,7 +72280,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -72290,7 +72290,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -72298,7 +72298,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. RGB LED (umumiy katod) — texnik tasnif (4 daqiqa)",
+    "title": "5.5. RGB LED (umumiy katod) — texnik tasnif (4 daqiqa)",
     "points": [
      "Bitta korpusda uchta LED: qizil, yashil, ko'k. Oyog'i 4 ta.",
      "Umumiy katod turi: eng uzun oyoq GND ga. Umumiy anod turi: eng uzun oyoq 5V ga (mantiq teskari bo'ladi).",
@@ -72307,7 +72307,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. RGB LED (umumiy katod) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. RGB LED (umumiy katod) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ko'z uchta yaqin turgan nurni ajratmaydi va ularni bitta rang deb qabul qiladi — bu ADDITIV rang aralashtirish.",
      "Har bir rangning yorqinligini PWM bilan 0 dan 255 gacha o'zgartirib, 256 x 256 x 256 = 16,7 million tus olinadi.",
@@ -72315,7 +72315,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: RGB LEDning eng uzun oyog'i nima?  Javob: Umumiy oyoq (katod yoki anod).",
      "Savol: Nega har rangga alohida rezistor kerak?  Javob: Ularning tushish kuchlanishi har xil."
@@ -72446,7 +72446,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. RGB LED (umumiy katod) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. RGB LED (umumiy katod) — texnik tasnif (4 daqiqa)",
     "points": [
      "Bitta korpusda uchta LED: qizil, yashil, ko'k. Oyog'i 4 ta.",
      "Umumiy katod turi: eng uzun oyoq GND ga. Umumiy anod turi: eng uzun oyoq 5V ga (mantiq teskari bo'ladi).",
@@ -72455,7 +72455,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. RGB LED (umumiy katod) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. RGB LED (umumiy katod) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ko'z uchta yaqin turgan nurni ajratmaydi va ularni bitta rang deb qabul qiladi — bu ADDITIV rang aralashtirish.",
      "Har bir rangning yorqinligini PWM bilan 0 dan 255 gacha o'zgartirib, 256 x 256 x 256 = 16,7 million tus olinadi.",
@@ -72463,7 +72463,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qizil va yashil qo'shilsa qaysi rang chiqadi?  Javob: Sariq.",
      "Savol: Yorug'likda uch rang qo'shilsa nima hosil bo'ladi?  Javob: Oq."
@@ -72572,7 +72572,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. 7-segment indikator (1 razryad) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. 7-segment indikator (1 razryad) — texnik tasnif (4 daqiqa)",
     "points": [
      "Sakkizta LED: a, b, c, d, e, f, g segmentlari va DP (nuqta).",
      "Ikki turi bor: umumiy KATOD (COM -> GND, segment HIGH da yonadi) va umumiy ANOD (COM -> 5V, segment LOW da yonadi).",
@@ -72581,14 +72581,14 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. 7-segment indikator (1 razryad) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. 7-segment indikator (1 razryad) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Har bir raqam ma'lum segmentlar to'plamidan yig'iladi: 1 = b va c; 7 = a, b, c; 8 = hammasi.",
      "Turini aniqlash: multimetrni diod rejimiga qo'yib, COM ga qora shchupni tegizing — segmentlar yonsa umumiy katod."
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 7-segmentda nechta LED bor?  Javob: Yettita segment va bitta nuqta, jami sakkizta.",
      "Savol: Nechta rezistor kerak?  Javob: Har segmentga bittadan, ya'ni 7-8 ta."
@@ -72696,7 +72696,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. 7-segment indikator (1 razryad) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. 7-segment indikator (1 razryad) — texnik tasnif (4 daqiqa)",
     "points": [
      "Sakkizta LED: a, b, c, d, e, f, g segmentlari va DP (nuqta).",
      "Ikki turi bor: umumiy KATOD (COM -> GND, segment HIGH da yonadi) va umumiy ANOD (COM -> 5V, segment LOW da yonadi).",
@@ -72705,14 +72705,14 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. 7-segment indikator (1 razryad) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. 7-segment indikator (1 razryad) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Har bir raqam ma'lum segmentlar to'plamidan yig'iladi: 1 = b va c; 7 = a, b, c; 8 = hammasi.",
      "Turini aniqlash: multimetrni diod rejimiga qo'yib, COM ga qora shchupni tegizing — segmentlar yonsa umumiy katod."
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 1 raqami uchun qaysi segmentlar yonadi?  Javob: b va c.",
      "Savol: 8 raqami uchun-chi?  Javob: Barcha yettita segment."
@@ -72820,7 +72820,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Passiv zummer — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Passiv zummer — texnik tasnif (4 daqiqa)",
     "points": [
      "Ichida pyezoelektrik plastinka bor. Generator YO'Q — chastotani dastur berishi kerak.",
      "Ishchi kuchlanishi: 3-5 V. Tok: 20-30 mA (pin chegarasida, shuning uchun 100 Om qo'yish tavsiya etiladi).",
@@ -72829,7 +72829,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Passiv zummer — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Passiv zummer — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Pyezoplastinkaga kuchlanish berilsa u biroz egiladi, olinsa qaytadi. Sekundiga 440 marta egilsa — havoda 440 Hz to'lqin hosil bo'ladi, quloq buni \"lya\" notasi deb eshitadi.",
      "Chastota — sekundiga necha marta tebranish. Chastota katta bo'lsa tovush INGICHKA, kichik bo'lsa YO'G'ON.",
@@ -72837,7 +72837,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Melodiya chalish uchun qaysi zummer kerak?  Javob: Passiv.",
      "Savol: Aktiv zummerga doimiy kuchlanish berilsa nima bo'ladi?  Javob: U o'zining doimiy tonida tovush chiqaradi."
@@ -72946,7 +72946,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Chastota oshsa tovush qanday o'zgaradi?  Javob: Ingichkalashadi (balandlashadi).",
      "Savol: LA notasi 440 Hz bo'lsa, bir oktava yuqorisi qancha?  Javob: 880 Hz."
@@ -73033,7 +73033,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. DC motor (tranzistor orqali) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. DC motor (tranzistor orqali) — texnik tasnif (4 daqiqa)",
     "points": [
      "Oddiy kollektorli motor. Kuchlanishi: 3-6 V (maktab to'plamlarida).",
      "Bo'sh yurishda 70-150 mA, yuk ostida 300-500 mA, tiqilib qolganda 1 A dan ortiq.",
@@ -73043,7 +73043,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. DC motor (tranzistor orqali) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. DC motor (tranzistor orqali) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Motor ichida g'altak (rotor) va doimiy magnitlar bor. G'altakdan tok o'tganda u magnitga aylanadi va doimiy magnitlar bilan tortishib-itarishib aylanadi.",
      "Kollektor va cho'tkalar har yarim aylanishda tok yo'nalishini almashtiradi — shuning uchun aylanish to'xtamaydi.",
@@ -73053,7 +73053,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Motor valini ushlab qolsak tok qanday o'zgaradi?  Javob: Bir necha barobar oshadi.",
      "Savol: Motor tezligi nimaga bog'liq?  Javob: Berilgan kuchlanishga."
@@ -73165,7 +73165,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Motorni teskari aylantirish uchun nima qilinadi?  Javob: Tok yo'nalishi, ya'ni qutblar almashtiriladi.",
      "Savol: H-ko'prikda nechta kalit bor?  Javob: To'rtta."
@@ -73252,7 +73252,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Rele moduli — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Rele moduli — texnik tasnif (4 daqiqa)",
     "points": [
      "Elektromagnit kalit: kuchsiz signal bilan kuchli yuklamani ulaydi.",
      "G'altak: 5 V, 70-90 mA (shuning uchun to'g'ridan-to'g'ri pindan quvvatlanmaydi — modulda tranzistor bor).",
@@ -73263,7 +73263,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Rele moduli — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Rele moduli — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida g'altak va temir yakor bor. G'altakdan tok o'tsa u elektromagnitga aylanadi va yakorni tortadi.",
      "Yakor kontaktni COM-NC holatidan COM-NO holatiga o'tkazadi. Tok uzilsa prujina uni qaytaradi.",
@@ -73273,7 +73273,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Rele qanday kalit turi?  Javob: Elektromagnit kalit.",
      "Savol: NO kontakti nimani bildiradi?  Javob: Odatda ochiq — rele yoqilganda ulanadi."
@@ -73386,7 +73386,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Fotorezistor (LDR) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Fotorezistor (LDR) — texnik tasnif (4 daqiqa)",
     "points": [
      "LDR = Light Dependent Resistor. Qarshiligi YORUG'LIKKA bog'liq.",
      "Qorong'ida: 200 kOm - 1 MOm. Yorug'da: 1-10 kOm. To'g'ridan-to'g'ri chiroq ostida: 100-500 Om.",
@@ -73395,7 +73395,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Fotorezistor (LDR) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Fotorezistor (LDR) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichidagi kadmiy sulfid (CdS) qatlamiga foton tushganda elektronlar bo'shab qoladi va material tokni yaxshiroq o'tkazadi.",
      "Yorug'lik ko'p -> erkin elektron ko'p -> qarshilik KICHIK. Qorong'i -> qarshilik KATTA.",
@@ -73403,7 +73403,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qorong'ida fotorezistor qarshiligi qanday bo'ladi?  Javob: Katta — yuz kiloomdan yuqori.",
      "Savol: Fotorezistor qaysi zanjirda ishlatiladi?  Javob: Kuchlanish bo'luvchida."
@@ -73512,7 +73512,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. NTC termistor — texnik tasnif (4 daqiqa)",
+    "title": "5.3. NTC termistor — texnik tasnif (4 daqiqa)",
     "points": [
      "NTC = Negative Temperature Coefficient: harorat OSHSA qarshilik KAMAYADI.",
      "Nominal qiymat 25 °C da beriladi — maktab to'plamlarida odatda 10 kOm.",
@@ -73521,7 +73521,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. NTC termistor — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. NTC termistor — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Termistor — yarimo'tkazgich. Isiganda ichidagi erkin elektronlar soni ortadi va tokni yaxshiroq o'tkazadi.",
      "Bog'liqlik CHIZIQLI EMAS — shuning uchun analogRead qiymatini to'g'ridan-to'g'ri gradus deb olib bo'lmaydi.",
@@ -73529,7 +73529,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: NTC termistorda harorat oshsa qarshilik qanday o'zgaradi?  Javob: Kamayadi.",
      "Savol: 10 kOm termistor qaysi haroratda 10 kOm bo'ladi?  Javob: 25 daraja Selsiyda."
@@ -73960,7 +73960,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sensorli zanjirning uch qismi qaysilar?  Javob: Sezish, qaror qabul qilish, ijro.",
      "Savol: Sezgirlikni qanday sozlash mumkin?  Javob: Bo'luvchining ikkinchi rezistorini potensiometr bilan almashtirib."
@@ -74047,7 +74047,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. NTC termistor — texnik tasnif (4 daqiqa)",
+    "title": "5.3. NTC termistor — texnik tasnif (4 daqiqa)",
     "points": [
      "NTC = Negative Temperature Coefficient: harorat OSHSA qarshilik KAMAYADI.",
      "Nominal qiymat 25 °C da beriladi — maktab to'plamlarida odatda 10 kOm.",
@@ -74056,7 +74056,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. NTC termistor — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. NTC termistor — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Termistor — yarimo'tkazgich. Isiganda ichidagi erkin elektronlar soni ortadi va tokni yaxshiroq o'tkazadi.",
      "Bog'liqlik CHIZIQLI EMAS — shuning uchun analogRead qiymatini to'g'ridan-to'g'ri gradus deb olib bo'lmaydi.",
@@ -74064,7 +74064,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Bu zanjir haroratni ko'rsatadimi?  Javob: Yo'q, faqat chegaradan oshganini bildiradi.",
      "Savol: Chegara qanday sozlanadi?  Javob: Bo'luvchidagi potensiometr bilan."
@@ -74173,7 +74173,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Reed datchigi (magnit kalit) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Reed datchigi (magnit kalit) — texnik tasnif (4 daqiqa)",
     "points": [
      "Shisha kolbaga solingan ikkita elastik metall til.",
      "Magnit yaqinlashganda tillar bir-biriga tortiladi va kontakt ulanadi.",
@@ -74183,7 +74183,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Reed datchigi (magnit kalit) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Reed datchigi (magnit kalit) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Tillar ferromagnit materialdan. Magnit maydoniga tushganda ular o'zlari magnitlanadi — biri shimoliy, ikkinchisi janubiy qutbga aylanadi.",
      "Qarama-qarshi qutblar tortishadi va tillar tegib, zanjirni ulaydi.",
@@ -74192,7 +74192,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Reed datchik nimaga javob beradi?  Javob: Magnit maydonga.",
      "Savol: Signalizatsiyada nega NC turi afzal?  Javob: Sim kesilsa ham zanjir uzilib, signal beradi."
@@ -74303,7 +74303,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Hall datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Hall datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Magnit maydonini elektr signalga aylantiradi. Ikki turi bor: raqamli (bor/yo'q) va analog (kuchini o'lchaydi).",
      "Ta'minot: 3,3-5 V (A3144 uchun 4,5-24 V). Tok: 5-10 mA.",
@@ -74313,7 +74313,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Hall datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Hall datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Hall effekti: tok o'tayotgan yassi plastinka magnit maydoniga qo'yilsa, magnit kuchi elektronlarni bir chetga siqib qo'yadi.",
      "Natijada plastinkaning ikki cheti orasida kichik kuchlanish paydo bo'ladi — bu Hall kuchlanishi.",
@@ -74322,7 +74322,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Hall va reed datchiklarining asosiy farqi nima?  Javob: Hall elektron, mexanik kontaktsiz; reed mexanik kontaktli.",
      "Savol: Spidometr aylanishni qanday sanaydi?  Javob: G'ildirakdagi magnit har aylanishda datchik yonidan o'tadi."
@@ -74433,7 +74433,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Ovoz (mikrofon) datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Ovoz (mikrofon) datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Modulda elektret mikrofon va LM393 taqqoslagich bor.",
      "Ta'minot: 3,3-5 V. Tok: 4-5 mA.",
@@ -74443,7 +74443,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Ovoz (mikrofon) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Ovoz (mikrofon) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Elektret mikrofon ichida juda yupqa membrana bor. Tovush to'lqini unga urilib tebratadi.",
      "Membrana tebranishi sig'imni o'zgartiradi, bu esa kichik o'zgaruvchan kuchlanish hosil qiladi.",
@@ -74452,7 +74452,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Modulda potensiometr nimani sozlaydi?  Javob: Ishga tushish chegarasini.",
      "Savol: A0 va D0 chiqishlari farqi nima?  Javob: A0 tovush kuchini, D0 chegaradan oshganini beradi."
@@ -74563,7 +74563,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Suv sathi datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Suv sathi datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Bir nechta parallel o'tkazgich yo'lakdan iborat plastina.",
      "Ta'minot: 3,3-5 V. Tok: 20 mA gacha.",
@@ -74573,7 +74573,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Suv sathi datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Suv sathi datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Plastinada ikki xil yo'lak navbat bilan joylashgan: bittasi quvvatga, ikkinchisi o'lchov chiqishiga ulangan.",
      "Suv ikki yo'lakni tutashtiradi. Qancha ko'p yo'lak suv ostida qolsa, umumiy qarshilik shuncha kichik va chiqish kuchlanishi shuncha katta.",
@@ -74582,7 +74582,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Datchik suvga qancha ko'p botsa qarshilik qanday o'zgaradi?  Javob: Kamayadi.",
      "Savol: Nega datchik doimiy quvvat ostida turmasligi kerak?  Javob: Elektroliz yo'laklarni yemiradi."
@@ -74693,7 +74693,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tuproq namligi datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Tuproq namligi datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Ikki xil turi bor: rezistiv (ikki metall vilka) va sig'imli (capacitive, bir butun plastina).",
      "Ta'minot: 3,3-5 V. Tok: 5-20 mA.",
@@ -74703,7 +74703,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tuproq namligi datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Tuproq namligi datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Rezistiv turida: quruq tuproq yomon o'tkazgich, nam tuproq esa (ichidagi tuz eritmasi tufayli) yaxshi o'tkazgich. Ikki vilka orasidagi qarshilik namlikka qarab o'zgaradi.",
      "Doimiy kuchlanish berilganda elektroliz boshlanadi: metall eriydi va vilkaga oq g'ubor o'tiradi — bu korroziya.",
@@ -74711,7 +74711,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nam tuproqda qarshilik qanday bo'ladi?  Javob: Kichik.",
      "Savol: Nega sig'imli datchik afzal?  Javob: Elektrodlari tuproqqa tegmaydi, korroziyaga uchramaydi."
@@ -74821,7 +74821,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Qiyalik (tilt) datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Qiyalik (tilt) datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Metall silindr ichida kichik o'tkazuvchi sharcha (yoki simob tomchisi) bor.",
      "Ta'minot kerak emas — oddiy kalit kabi ishlaydi.",
@@ -74830,7 +74830,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Qiyalik (tilt) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Qiyalik (tilt) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Tik holatda sharcha pastga tushib, ikkita kontaktni tutashtiradi — zanjir ulangan.",
      "Qiyaltirilganda sharcha yumalab ketadi va kontakt uziladi.",
@@ -74838,7 +74838,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tilt datchik burchakni o'lchaydimi?  Javob: Yo'q, faqat qiyshayganini bildiradi.",
      "Savol: Aniq burchak uchun nima ishlatiladi?  Javob: Akselerometr."
@@ -74947,7 +74947,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Olov (flame) datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Olov (flame) datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Infraqizil fotodiod (odatda ko'k rangli) 760-1100 nm to'lqin uzunligiga sezgir.",
      "Sezish masofasi: 80 sm gacha (sham olovi uchun ~30-50 sm).",
@@ -74957,7 +74957,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Olov (flame) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Olov (flame) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Olov ko'zga ko'rinadigan yorug'likdan tashqari kuchli INFRAQIZIL nur ham chiqaradi.",
      "Fotodiod aynan shu infraqizil oraliqda sezgir. Unga IQ nur tushsa, chiqish kuchlanishi o'zgaradi.",
@@ -74966,7 +74966,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Olov datchigi nimani sezadi?  Javob: Alangadan chiqadigan infraqizil nurni.",
      "Savol: Nega u yolg'on ishga tushishi mumkin?  Javob: Quyosh va lampa ham IK nur chiqaradi."
@@ -75076,7 +75076,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Raqamli sensor nechta holat beradi?  Javob: Ikkita: 0 yoki 1.",
      "Savol: Yorug'lik darajasini raqam bilan bilish uchun qaysi chiqish kerak?  Javob: Analog."
@@ -75163,7 +75163,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sensor signalini nega kuchaytirish kerak?  Javob: Uning toki LED yoki motorni yurgizish uchun juda kichik.",
      "Savol: Kuchaytirish koeffitsienti qanday topiladi?  Javob: Kollektor tokini baza tokiga bo'lib."
@@ -75250,7 +75250,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ikki sensor ketma-ket ulansa qaysi mantiq hosil bo'ladi?  Javob: VA.",
      "Savol: Har bir sensor chegarasi alohida sozlanishi kerakmi?  Javob: Ha, aks holda biri ikkinchisini bekor qiladi."
@@ -75337,7 +75337,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sxemadagi bir necha GND belgisi nimani bildiradi?  Javob: Ular hammasi bitta umumiy nuqtaga ulangan.",
      "Savol: Yig'ishni nimadan boshlash kerak?  Javob: Quvvat shinalarini ulashdan."
@@ -75424,7 +75424,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sxemada GND odatda qayerda chiziladi?  Javob: Pastda.",
      "Savol: Nima uchun komponentlarga R1, C1 kabi nom beriladi?  Javob: Ro'yxat tuzish va ular haqida gapirish oson bo'lishi uchun."
@@ -75511,7 +75511,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Yarmiga bo'lish usuli nima beradi?  Javob: Xatoni ancha kam tekshiruvda topish imkonini.",
      "Savol: Bir xatoni tuzatgach zanjir ishlamasa nima demak?  Javob: Ikkinchi xato ham bor bo'lishi mumkin."
@@ -75598,7 +75598,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Komponent tanlashning uch mezoni qaysi?  Javob: Elektr mosligi, fizik mosligi, narx.",
      "Savol: 5 V zanjir uchun qanday kondensator olinadi?  Javob: Kamida 10-16 V ga mo'ljallangani."
@@ -75685,7 +75685,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Korpusning uch vazifasi qaysi?  Javob: Himoya, xavfsizlik, foydalanish qulayligi.",
      "Savol: Batareya joyi qanday bo'lishi kerak?  Javob: Almashtirish oson bo'ladigan joyda."
@@ -75772,7 +75772,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Texnik taqdimot qaysi to'rt qismdan iborat?  Javob: Muammo, ishlash tamoyili, namoyish, yaxshilash imkoniyati.",
      "Savol: Namoyishdan oldin nima qilish shart?  Javob: Uni sinab ko'rish."
@@ -76159,7 +76159,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Neytral atomda nima teng bo'ladi?  Javob: Proton va elektron soni.",
      "Savol: Metallda elektronlar nima uchun erkin?  Javob: Tashqi elektronlar atomga kuchsiz bog'langan."
@@ -76246,7 +76246,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Elektronlarning siljish tezligi qanaqa?  Javob: Juda kichik, soatiga bir necha santimetr.",
      "Savol: Nega chiroq darhol yonadi?  Javob: Elektr maydoni deyarli yorug'lik tezligida tarqaladi."
@@ -76333,7 +76333,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kuchlanish formulasi qanday?  Javob: U = A / q, ya'ni ish bo'linadi zaryadga.",
      "Savol: \"Shu nuqtada 5 V\" iborasi to'liq qanday aytiladi?  Javob: Shu nuqta bilan GND orasida 5 V."
@@ -76420,7 +76420,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Li-ion akkumulyatorning nominal kuchlanishi qancha?  Javob: 3,7 V.",
      "Savol: Adapterdagi 5V 2A nimani bildiradi?  Javob: 5 volt kuchlanish, 2 ampergacha tok bera oladi."
@@ -76507,7 +76507,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sxemada uzun chiziq manbaning qaysi qutbi?  Javob: Musbat.",
      "Savol: Nega belgilar xalqaro standartlashtirilgan?  Javob: Har mamlakat muhandisi bir-birining sxemasini tarjimasiz o'qishi uchun."
@@ -76594,7 +76594,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sxema o'qishni nimadan boshlash kerak?  Javob: Manbani topishdan.",
      "Savol: Kesishgan simlarda nuqta bo'lsa nima degani?  Javob: Ular o'zaro ulangan."
@@ -76681,7 +76681,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sxemada komponentlar joylashuvi muhimmi?  Javob: Yo'q, faqat ulanishlar to'g'ri bo'lishi kerak.",
      "Savol: Q1 belgisi odatda nimani bildiradi?  Javob: Tranzistorni."
@@ -76768,7 +76768,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Breadboard quvvat shinasi doim uzluksizmi?  Javob: Yo'q, ba'zilarida o'rtadan uzilgan bo'ladi.",
      "Savol: Nega breadboard katta tok uchun mos emas?  Javob: Kontaktlarning qarshiligi bor, ular qiziydi."
@@ -76855,7 +76855,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 5 halqali rezistorda nechta raqam halqasi bor?  Javob: Uchta.",
      "Savol: Hisobda 193 Om chiqsa qaysi rezistor olinadi?  Javob: 220 Om — eng yaqin standart qiymat, tokni kamaytirish tomoniga."
@@ -76942,7 +76942,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 4,7 kOm rangda qanday yoziladi?  Javob: Sariq-binafsha-qizil.",
      "Savol: 1M2 nimani bildiradi?  Javob: 1,2 MOm."
@@ -77029,7 +77029,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -77039,7 +77039,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -77047,7 +77047,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: LEDda yorug'lik qanday hosil bo'ladi?  Javob: Elektron teshik bilan birlashganda foton ajraladi.",
      "Savol: Oq LED aslida qanday ishlaydi?  Javob: Ko'k LED ustiga sariq lyuminofor qoplanadi."
@@ -77158,7 +77158,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -77168,7 +77168,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -77176,7 +77176,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 12 V da qizil LED (2 V, 15 mA) uchun rezistor?  Javob: (12-2)/0,015 = 667 Om, ya'ni 680 Om.",
      "Savol: Rezistorda ajraladigan quvvat qanday hisoblanadi?  Javob: P = U x I, bunda U — rezistordagi kuchlanish."
@@ -77287,7 +77287,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ketma-ket zanjirda umumiy qarshilik qanday topiladi?  Javob: Qarshiliklar qo'shiladi.",
      "Savol: Qaysi rezistorga eng katta kuchlanish tushadi?  Javob: Eng katta qarshilikka ega bo'lganiga."
@@ -77374,7 +77374,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Formulalar va hisob (4 daqiqa)",
+    "title": "5.3. Formulalar va hisob (4 daqiqa)",
     "points": [
      "Ikki rezistor uchun qulay shakl: R = (R1 x R2) / (R1 + R2).",
      "Misol: 1 kOm va 1 kOm parallel -> R = 1000000 / 2000 = 500 Om.",
@@ -77383,7 +77383,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Nima uchun bu muhim (4 daqiqa)",
+    "title": "5.4. Nima uchun bu muhim (4 daqiqa)",
     "points": [
      "Ikki LEDni parallel ulasangiz har biriga alohida rezistor kerak — aks holda ular kuchlanish farqi tufayli teng bo'lmagan yorug'lik beradi.",
      "Parallel ulanishda umumiy tok ortadi: 20 mA li ikki LED birga 40 mA tortadi, plata pini chegarasi esa 40 mA.",
@@ -77391,7 +77391,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 100 va 100 Om parallel bo'lsa qancha?  Javob: 50 Om.",
      "Savol: Umumiy qarshilik eng kichik tarmoqdan katta chiqsa nima demak?  Javob: Hisobda xato bor."
@@ -77478,7 +77478,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Aralash zanjirni yechish nimadan boshlanadi?  Javob: Parallel guruhlarni ekvivalent qarshilikka aylantirishdan.",
      "Savol: 200 va 200 Om parallel, ularga 100 Om ketma-ket. Umumiy?  Javob: 100 + 100 = 200 Om."
@@ -77565,7 +77565,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tugma (push button) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Tugma (push button) — texnik tasnif (4 daqiqa)",
     "points": [
      "Taktil tugma (tact switch) — 4 oyoqli, lekin aslida 2 ta kontakt: qarama-qarshi oyoqlar juft-juft ulangan.",
      "Bosilganda kontakt ulanadi, qo'yib yuborilganda prujina uni ochadi.",
@@ -77574,7 +77574,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Rezistorsiz ulangan pin havoda \"suzadi\": unga tegishmagan holatda ham atrofdagi elektr maydonidan tasodifiy 0 va 1 o'qiladi.",
      "Tortuvchi rezistor pinni tinch holatda aniq bir darajaga tortib turadi. INPUT_PULLUP da pin 5 V ga tortiladi, ya'ni tinch holat = HIGH.",
@@ -77582,7 +77582,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Jamper nima uchun ishlatiladi?  Javob: Bir marta o'rnatiladigan konfiguratsiya uchun.",
      "Savol: Motor yo'nalishini almashtirish uchun qanday kalit kerak?  Javob: DPDT."
@@ -77691,7 +77691,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qaysi rang odatda GND uchun ishlatiladi?  Javob: Qora.",
      "Savol: Toza montaj nimani tezlashtiradi?  Javob: Nosozlik izlashni."
@@ -77778,7 +77778,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tekshiruvning birinchi bosqichi nima?  Javob: Ko'z bilan ko'rish.",
      "Savol: Nega bir vaqtda bitta narsa o'zgartiriladi?  Javob: Aks holda nima yordam berganini aniqlab bo'lmaydi."
@@ -78163,7 +78163,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kuchlanish rejimida multimetrning kirish qarshiligi qancha?  Javob: Taxminan 10 MOm.",
      "Savol: Tok teshigidagi shchup bilan kuchlanish o'lchansa nima bo'ladi?  Javob: Qisqa tutashuv, predoxranitel kuyadi."
@@ -78250,7 +78250,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Potensial nima?  Javob: Nuqtaning GND ga nisbatan kuchlanishi.",
      "Savol: A da 5 V, B da 3 V. Orasidagi komponentda qancha?  Javob: 2 V."
@@ -78337,7 +78337,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Diodni ikki tomondan o'lchasa nima chiqadi?  Javob: Bir tomonda kichik qarshilik, ikkinchisida OL.",
      "Savol: Kondensatorni ommetrda o'lchasa raqam nega o'zgaradi?  Javob: U asbob bergan tok bilan zaryadlanadi."
@@ -78424,7 +78424,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tokni bilvosita qanday o'lchash mumkin?  Javob: Ma'lum rezistordagi kuchlanishni o'lchab, I = U/R bilan hisoblab.",
      "Savol: Chegara noma'lum bo'lsa qaysi chegaradan boshlanadi?  Javob: Eng kattasidan."
@@ -78511,7 +78511,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Om qonuni hamma komponent uchun to'g'rimi?  Javob: Yo'q, diod va lampochka kabi chiziqsiz elementlar bo'ysunmaydi.",
      "Savol: Nega lampochka grafigi egri?  Javob: Qizigan sari uning qarshiligi ortadi."
@@ -78598,7 +78598,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Masala yechishning birinchi qadami nima?  Javob: Berilganlarni yozib, birliklarni keltirish.",
      "Savol: Ketma-ket zanjirda javobni qanday tekshirish mumkin?  Javob: Kuchlanishlar yig'indisi manbaga teng bo'lishi kerak."
@@ -78685,7 +78685,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 1k/1k va 10k/10k bo'luvchilar bir xil chiqish beradimi?  Javob: Ha, chunki nisbat bir xil.",
      "Savol: Ular nimasi bilan farq qiladi?  Javob: Tok iste'moli bilan."
@@ -78772,7 +78772,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega yuklama ulanganda chiqish kuchlanishi pasayadi?  Javob: Yuklama pastki rezistor bilan parallel bo'ladi.",
      "Savol: Yuklama qanchalik katta bo'lishi kerak?  Javob: Pastki rezistordan kamida 10 marta."
@@ -78859,7 +78859,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Potensiometr 10 kOm — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Potensiometr 10 kOm — texnik tasnif (4 daqiqa)",
     "points": [
      "O'zgaruvchan rezistor. Nominal 10 kOm — chetdagi ikki oyoq orasidagi qarshilik doim 10 kOm.",
      "O'rta oyoq (surgich) buralganda 0 dan 10 kOm gacha siljiydi.",
@@ -78868,7 +78868,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Potensiometr 10 kOm — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Potensiometr 10 kOm — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Potensiometr — bu tayyor KUCHLANISH BO'LUVCHI. Surgich yuqoriroqda bo'lsa chiqishda kuchlanish katta, pastroqda bo'lsa kichik.",
      "Qarshilik emas, KUCHLANISH o'lchanadi: plata analog pindagi kuchlanishni raqamga aylantiradi.",
@@ -78876,7 +78876,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Bo'luvchi rejimida nechta oyoq ishlatiladi?  Javob: Uchtasi ham.",
      "Savol: Ovoz balandligi uchun qaysi tur ishlatiladi?  Javob: Logarifmik (A turi)."
@@ -78985,7 +78985,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Quvvat nima va nima uchun kerak (4 daqiqa)",
+    "title": "5.3. Quvvat nima va nima uchun kerak (4 daqiqa)",
     "points": [
      "Quvvat — energiyaning sarflanish TEZLIGI. 100 Vt lampa 1 sekundda 100 joul energiya sarflaydi.",
      "P = U x I: kuchlanish 5 V, tok 2 A bo'lsa quvvat 10 Vt.",
@@ -78993,7 +78993,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Amaliy hisoblar (4 daqiqa)",
+    "title": "5.4. Amaliy hisoblar (4 daqiqa)",
     "points": [
      "Arduino Uno USB dan 500 mA gacha oladi: P = 5 x 0,5 = 2,5 Vt.",
      "Servo motor harakatda 250 mA tortadi: P = 5 x 0,25 = 1,25 Vt — bu USB quvvatining yarmi.",
@@ -79002,7 +79002,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: P = U x I dan boshqa qanday ko'rinishlar bor?  Javob: P = I kvadrat x R va P = U kvadrat / R.",
      "Savol: 100 Om da 5 V bo'lsa quvvat qancha?  Javob: 25/100 = 0,25 Vt — chegarada, kuchliroq rezistor kerak."
@@ -79089,7 +79089,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 0,4 Vt kerak bo'lsa qanday rezistor olinadi?  Javob: Kamida 1 Vt li.",
      "Savol: Nima uchun zaxira qoldiriladi?  Javob: Isish, korpus va uzoq ishlash sharoitlarini hisobga olish uchun."
@@ -79176,7 +79176,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Quvvat va energiya farqi (4 daqiqa)",
+    "title": "5.3. Quvvat va energiya farqi (4 daqiqa)",
     "points": [
      "Quvvat (Vt) — TEZLIK. Energiya (Vt x soat) — jami SARF. Bu tezlik va bosib o'tilgan yo'l kabi farq qiladi.",
      "1 kVt x soat = 1000 vattlik jihozning 1 soat ishlashi.",
@@ -79184,7 +79184,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Kundalik misollar (4 daqiqa)",
+    "title": "5.4. Kundalik misollar (4 daqiqa)",
     "points": [
      "2000 Vt choynak har kuni 15 daqiqa ishlasa: 2000 x 0,25 / 1000 = 0,5 kVt x s kuniga, oyiga 15 kVt x s.",
      "10 Vt LED lampa kuniga 6 soat: 10 x 6 / 1000 = 0,06 kVt x s kuniga, oyiga 1,8 kVt x s.",
@@ -79193,7 +79193,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. RTC DS3231 (real vaqt soati) — texnik tasnif (4 daqiqa)",
+    "title": "5.5. RTC DS3231 (real vaqt soati) — texnik tasnif (4 daqiqa)",
     "points": [
      "Aniqligi: yiliga ±2 daqiqa (ichida termokompensatsiyali kvars bor).",
      "DS1307 dan afzalligi: DS1307 yiliga 30 daqiqagacha adashadi, DS3231 esa harorat o'zgarsa ham aniq yuradi.",
@@ -79204,7 +79204,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. RTC DS3231 (real vaqt soati) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. RTC DS3231 (real vaqt soati) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida kvars kristalli 32 768 Hz chastotada tebranadi. Bu son bejiz emas: 32768 = 2 ning 15-darajasi.",
      "Shuning uchun tebranishlarni 15 marta ikkiga bo'lish orqali aniq 1 Hz — ya'ni SEKUND olinadi.",
@@ -79214,7 +79214,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 1 kVt·s nima?  Javob: 1000 vattlik qurilmaning 1 soatlik iste'moli.",
      "Savol: 2 kVt li qurilma 30 daqiqada qancha sarflaydi?  Javob: 1 kVt·s."
@@ -79327,7 +79327,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 5-10% farq nimani bildiradi?  Javob: Bu normal, komponent chetlanishi va o'lchov xatoligi.",
      "Savol: 30% farqning sababi nima bo'lishi mumkin?  Javob: Batareya cho'kkan, kontakt yomon yoki hisobda xato bor."
@@ -79414,7 +79414,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kirxgofning birinchi qonuni nima deydi?  Javob: Tugunga kirgan toklar yig'indisi chiqqan toklar yig'indisiga teng.",
      "Savol: Bir tarmoq uzilsa qolganlarining toki o'zgaradimi?  Javob: Yo'q."
@@ -79501,7 +79501,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ichki qarshilik qanday hisoblanadi?  Javob: Bo'sh va yuklamali kuchlanish farqini tokka bo'lib.",
      "Savol: Eski batareyada ichki qarshilik qanday bo'ladi?  Javob: Kattalashadi."
@@ -79588,7 +79588,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 1 A iste'mol uchun qanday predoxranitel olinadi?  Javob: 1,5-2 A li.",
      "Savol: Motorli qurilmaga qaysi tur qo'yiladi?  Javob: Sekin (T) turi, start tokiga chidashi uchun."
@@ -79675,7 +79675,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tasodifiy va tizimli xatolik farqi nima?  Javob: Tasodifiy har o'lchovda har xil, tizimli doim bir tomonga siljigan.",
      "Savol: Tizimli xatolik qanday tuzatiladi?  Javob: Asbobni kalibrlash bilan."
@@ -79762,7 +79762,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tahlil qaysi tartibda olib boriladi?  Javob: Soddalashtirish, umumiy tok, keyin orqaga qaytib har element.",
      "Savol: Quvvat balansi nimani tekshiradi?  Javob: Manba quvvati elementlar quvvatlari yig'indisiga tengligini."
@@ -80176,7 +80176,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sig'im nimaga bog'liq?  Javob: Plastinalar yuzasiga, oraliq masofasiga va dielektrikga.",
      "Savol: Nega elektrolitik kondensator katta sig'imli?  Javob: Uning dielektrik qatlami juda yupqa."
@@ -80263,7 +80263,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kondensator manbadan uzilgach LED nega yonaveradi?  Javob: Unda to'plangan zaryad LED orqali oqib chiqadi.",
      "Savol: Kondensator va batareya farqi nimada?  Javob: Kondensator kam energiya saqlaydi, lekin uni juda tez beradi."
@@ -80350,7 +80350,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Vaqt doimiysining ma'nosi (4 daqiqa)",
+    "title": "5.3. Vaqt doimiysining ma'nosi (4 daqiqa)",
     "points": [
      "t = R x C formulasida R omda, C faradda bo'lsa natija sekundda chiqadi.",
      "Qarshilik oshsa vaqt uzayadi (tok kam oqadi, kondensator sekin to'ladi).",
@@ -80359,7 +80359,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Amaliy qo'llanishlar (4 daqiqa)",
+    "title": "5.4. Amaliy qo'llanishlar (4 daqiqa)",
     "points": [
      "Tugma sakrashini (bounce) apparat yo'li bilan yo'qotish: tugmaga parallel 100 nF kondensator qo'yiladi.",
      "Sekin yonadigan chiroq: LED zanjiriga RC qo'shilsa yorug'lik asta ko'tariladi.",
@@ -80368,7 +80368,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 47 kOm va 10 uF uchun T qancha?  Javob: 470 ms.",
      "Savol: Noma'lum sig'imni qanday topish mumkin?  Javob: 63% ga yetish vaqtini o'lchab, C = T/R bilan."
@@ -80455,7 +80455,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Quvvat filtri uchun qaysi tur ishlatiladi?  Javob: Elektrolitik.",
      "Savol: Mikrosxema yonidagi shovqin filtri uchun-chi?  Javob: 100 nF keramik."
@@ -80542,7 +80542,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kremniyli diodning ochilish kuchlanishi qancha?  Javob: 0,7 V.",
      "Savol: Teskari yo'nalishda diod nima qiladi?  Javob: Deyarli tok o'tkazmaydi."
@@ -80629,7 +80629,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ikkala tomonda ham OL chiqsa nima demak?  Javob: Diod uzilgan.",
      "Savol: Shottki diodda tushish kuchlanishi qancha?  Javob: 0,2-0,3 V."
@@ -80716,7 +80716,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ko'prikda nechta diod bor?  Javob: To'rtta.",
      "Savol: Ko'prik chiqishidagi kondensator nima qiladi?  Javob: Pulsatsiyani silliqlaydi."
@@ -80803,7 +80803,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Stabilitron qaysi yo'nalishda ulanadi?  Javob: Teskari.",
      "Savol: Ketma-ket rezistor nima uchun kerak?  Javob: Stabilitrondan o'tadigan tokni cheklash uchun."
@@ -80890,7 +80890,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Bipolyar tranzistorning uch oyog'i nima?  Javob: Baza, kollektor, emitter.",
      "Savol: Oyoq tartibini qayerdan bilish kerak?  Javob: Datasheetdan — turlar orasida farq qiladi."
@@ -80977,7 +80977,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: To'yingan tranzistorda kollektor-emitter kuchlanishi qancha?  Javob: Taxminan 0,2 V.",
      "Savol: Nega baza tokini zaxira bilan beriladi?  Javob: To'yinish kafolatlangan bo'lishi va tranzistor qizimasligi uchun."
@@ -81064,7 +81064,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Flyback diod qanday ulanadi?  Javob: Motorga parallel va teskari yo'nalishda.",
      "Savol: Ikki alohida manba ishlatilsa nima umumiy bo'lishi kerak?  Javob: GND."
@@ -81151,7 +81151,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Ikki turning ishlash farqi (4 daqiqa)",
+    "title": "5.3. Ikki turning ishlash farqi (4 daqiqa)",
     "points": [
      "NPN tranzistor bazaga MUSBAT signal berilganda ochiladi. U yuklamaning GND tomoniga qo'yiladi (past tomon kaliti).",
      "PNP tranzistor bazaga MANFIY (past) signal berilganda ochiladi. U yuklamaning plyus tomoniga qo'yiladi (yuqori tomon kaliti).",
@@ -81160,7 +81160,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Uch oyoq va ularning vazifasi (4 daqiqa)",
+    "title": "5.4. Uch oyoq va ularning vazifasi (4 daqiqa)",
     "points": [
      "Baza (B) — boshqaruv oyog'i. Unga kichik tok (1-2 mA) beriladi va u albatta rezistor orqali ulanadi (odatda 1 kOm).",
      "Kollektor (C) — yuklama ulanadigan oyoq.",
@@ -81170,7 +81170,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Nima uchun tranzistor kerak (4 daqiqa)",
+    "title": "5.5. Nima uchun tranzistor kerak (4 daqiqa)",
     "points": [
      "Arduino pini 40 mA beradi, motor esa 300 mA tortadi. Tranzistor kichik boshqaruv toki bilan katta tokni o'tkazadi.",
      "Ya'ni tranzistor — bu elektron kalit: qo'l bilan bosiladigan tugmaning o'rniga dastur boshqaradigan tugma.",
@@ -81178,7 +81178,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: NPN ni boshqarish uchun bazaga qanday signal beriladi?  Javob: Musbat.",
      "Savol: Qaysi turi mikrokontroller bilan sodda ishlaydi?  Javob: NPN."
@@ -81265,7 +81265,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Reed datchigi (magnit kalit) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Reed datchigi (magnit kalit) — texnik tasnif (4 daqiqa)",
     "points": [
      "Shisha kolbaga solingan ikkita elastik metall til.",
      "Magnit yaqinlashganda tillar bir-biriga tortiladi va kontakt ulanadi.",
@@ -81275,7 +81275,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Reed datchigi (magnit kalit) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Reed datchigi (magnit kalit) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Tillar ferromagnit materialdan. Magnit maydoniga tushganda ular o'zlari magnitlanadi — biri shimoliy, ikkinchisi janubiy qutbga aylanadi.",
      "Qarama-qarshi qutblar tortishadi va tillar tegib, zanjirni ulaydi.",
@@ -81284,7 +81284,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Rele moduli — texnik tasnif (4 daqiqa)",
+    "title": "5.5. Rele moduli — texnik tasnif (4 daqiqa)",
     "points": [
      "Elektromagnit kalit: kuchsiz signal bilan kuchli yuklamani ulaydi.",
      "G'altak: 5 V, 70-90 mA (shuning uchun to'g'ridan-to'g'ri pindan quvvatlanmaydi — modulda tranzistor bor).",
@@ -81295,7 +81295,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. Rele moduli — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. Rele moduli — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida g'altak va temir yakor bor. G'altakdan tok o'tsa u elektromagnitga aylanadi va yakorni tortadi.",
      "Yakor kontaktni COM-NC holatidan COM-NO holatiga o'tkazadi. Tok uzilsa prujina uni qaytaradi.",
@@ -81305,7 +81305,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega rele tranzistorsiz boshqarilmaydi?  Javob: G'altagi 40 mA atrofida tok oladi, bu plata pini uchun ko'p.",
      "Savol: Gisterezis nima?  Javob: Ishga tushish va qo'yib yuborish kuchlanishlari orasidagi farq."
@@ -81440,7 +81440,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Rele moduli — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Rele moduli — texnik tasnif (4 daqiqa)",
     "points": [
      "Elektromagnit kalit: kuchsiz signal bilan kuchli yuklamani ulaydi.",
      "G'altak: 5 V, 70-90 mA (shuning uchun to'g'ridan-to'g'ri pindan quvvatlanmaydi — modulda tranzistor bor).",
@@ -81451,7 +81451,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Rele moduli — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Rele moduli — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida g'altak va temir yakor bor. G'altakdan tok o'tsa u elektromagnitga aylanadi va yakorni tortadi.",
      "Yakor kontaktni COM-NC holatidan COM-NO holatiga o'tkazadi. Tok uzilsa prujina uni qaytaradi.",
@@ -81461,7 +81461,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Rele boshqaruv va yuklama zanjirlarini ajratadimi?  Javob: Ha, ular orasida elektr aloqasi yo'q.",
      "Savol: Sinfda maksimal qanday yuklama ishlatiladi?  Javob: 12 V gacha."
@@ -81574,7 +81574,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Optopara ikki zanjirni nima orqali bog'laydi?  Javob: Yorug'lik orqali, elektr aloqasisiz.",
      "Savol: Chiziq bo'ylab yuruvchi robotda qaysi joylashuv ishlatiladi?  Javob: Qaytaruvchi (reflective)."
@@ -81661,7 +81661,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -81671,7 +81671,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -81679,7 +81679,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. RGB LED (umumiy katod) — texnik tasnif (4 daqiqa)",
+    "title": "5.5. RGB LED (umumiy katod) — texnik tasnif (4 daqiqa)",
     "points": [
      "Bitta korpusda uchta LED: qizil, yashil, ko'k. Oyog'i 4 ta.",
      "Umumiy katod turi: eng uzun oyoq GND ga. Umumiy anod turi: eng uzun oyoq 5V ga (mantiq teskari bo'ladi).",
@@ -81688,7 +81688,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. RGB LED (umumiy katod) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. RGB LED (umumiy katod) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ko'z uchta yaqin turgan nurni ajratmaydi va ularni bitta rang deb qabul qiladi — bu ADDITIV rang aralashtirish.",
      "Har bir rangning yorqinligini PWM bilan 0 dan 255 gacha o'zgartirib, 256 x 256 x 256 = 16,7 million tus olinadi.",
@@ -81696,7 +81696,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Uch rang yoqiq/o'chiq holatda nechta kombinatsiya beradi?  Javob: Sakkizta.",
      "Savol: 16,7 million rang qanday hosil bo'ladi?  Javob: Har rangga 256 daraja: 256 ni uchinchi darajaga ko'tarish."
@@ -81827,7 +81827,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. 7-segment indikator (1 razryad) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. 7-segment indikator (1 razryad) — texnik tasnif (4 daqiqa)",
     "points": [
      "Sakkizta LED: a, b, c, d, e, f, g segmentlari va DP (nuqta).",
      "Ikki turi bor: umumiy KATOD (COM -> GND, segment HIGH da yonadi) va umumiy ANOD (COM -> 5V, segment LOW da yonadi).",
@@ -81836,14 +81836,14 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. 7-segment indikator (1 razryad) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. 7-segment indikator (1 razryad) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Har bir raqam ma'lum segmentlar to'plamidan yig'iladi: 1 = b va c; 7 = a, b, c; 8 = hammasi.",
      "Turini aniqlash: multimetrni diod rejimiga qo'yib, COM ga qora shchupni tegizing — segmentlar yonsa umumiy katod."
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega ko'p razryadli indikatorda segment oyoqlari umumiy?  Javob: Pinlar sonini kamaytirish uchun.",
      "Savol: Dinamik indikatsiya nima?  Javob: Razryadlarni juda tez navbat bilan yoqish."
@@ -81951,7 +81951,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Datasheetning eng muhim bo'limi qaysi?  Javob: Absolute Maximum Ratings.",
      "Savol: Loyihalashda min/typ/max dan qaysi biri olinadi?  Javob: Eng yomon holat — vazifaga qarab min yoki max."
@@ -82364,7 +82364,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sensor nima qiladi?  Javob: Fizik kattalikni elektr signalga aylantiradi.",
      "Savol: Fotorezistor qaysi chiqish turiga kiradi?  Javob: Qarshilikli."
@@ -82451,7 +82451,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Fotorezistor (LDR) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Fotorezistor (LDR) — texnik tasnif (4 daqiqa)",
     "points": [
      "LDR = Light Dependent Resistor. Qarshiligi YORUG'LIKKA bog'liq.",
      "Qorong'ida: 200 kOm - 1 MOm. Yorug'da: 1-10 kOm. To'g'ridan-to'g'ri chiroq ostida: 100-500 Om.",
@@ -82460,7 +82460,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Fotorezistor (LDR) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Fotorezistor (LDR) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichidagi kadmiy sulfid (CdS) qatlamiga foton tushganda elektronlar bo'shab qoladi va material tokni yaxshiroq o'tkazadi.",
      "Yorug'lik ko'p -> erkin elektron ko'p -> qarshilik KICHIK. Qorong'i -> qarshilik KATTA.",
@@ -82468,7 +82468,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Yorug'lik oshsa fotorezistor qarshiligi qanday o'zgaradi?  Javob: Kamayadi.",
      "Savol: Uning javob tezligi qanday?  Javob: Sekin — bir necha soniyagacha."
@@ -82577,7 +82577,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Fotorezistor (LDR) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Fotorezistor (LDR) — texnik tasnif (4 daqiqa)",
     "points": [
      "LDR = Light Dependent Resistor. Qarshiligi YORUG'LIKKA bog'liq.",
      "Qorong'ida: 200 kOm - 1 MOm. Yorug'da: 1-10 kOm. To'g'ridan-to'g'ri chiroq ostida: 100-500 Om.",
@@ -82586,7 +82586,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Fotorezistor (LDR) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Fotorezistor (LDR) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichidagi kadmiy sulfid (CdS) qatlamiga foton tushganda elektronlar bo'shab qoladi va material tokni yaxshiroq o'tkazadi.",
      "Yorug'lik ko'p -> erkin elektron ko'p -> qarshilik KICHIK. Qorong'i -> qarshilik KATTA.",
@@ -82594,7 +82594,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega chiroq chegara atrofida miltillaydi?  Javob: Chiroq yorug'ligi sensorga tushib, uni qayta o'chiradi.",
      "Savol: Bu qanday hal qilinadi?  Javob: Gisterezis qo'shish yoki sensorni chiroqdan uzoqlashtirish."
@@ -82703,7 +82703,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. NTC termistor — texnik tasnif (4 daqiqa)",
+    "title": "5.3. NTC termistor — texnik tasnif (4 daqiqa)",
     "points": [
      "NTC = Negative Temperature Coefficient: harorat OSHSA qarshilik KAMAYADI.",
      "Nominal qiymat 25 °C da beriladi — maktab to'plamlarida odatda 10 kOm.",
@@ -82712,7 +82712,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. NTC termistor — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. NTC termistor — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Termistor — yarimo'tkazgich. Isiganda ichidagi erkin elektronlar soni ortadi va tokni yaxshiroq o'tkazadi.",
      "Bog'liqlik CHIZIQLI EMAS — shuning uchun analogRead qiymatini to'g'ridan-to'g'ri gradus deb olib bo'lmaydi.",
@@ -82720,7 +82720,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Termistorni kalibrlash uchun qaysi ikki nuqta ishlatiladi?  Javob: Muzli suv (0) va qaynagan suv (100 daraja).",
      "Savol: Termistorning aniqligi qanday?  Javob: 1-2 daraja atrofida."
@@ -82829,7 +82829,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Chegarani qanday aniq sozlash mumkin?  Javob: Kerakli haroratdagi kuchlanishni o'lchab, potensiometrni shunga sozlab.",
      "Savol: Termistor qayerga joylashtiriladi?  Javob: O'lchanadigan yuzaga tegib turadigan joyga."
@@ -82916,7 +82916,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Reed datchigi (magnit kalit) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Reed datchigi (magnit kalit) — texnik tasnif (4 daqiqa)",
     "points": [
      "Shisha kolbaga solingan ikkita elastik metall til.",
      "Magnit yaqinlashganda tillar bir-biriga tortiladi va kontakt ulanadi.",
@@ -82926,7 +82926,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Reed datchigi (magnit kalit) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Reed datchigi (magnit kalit) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Tillar ferromagnit materialdan. Magnit maydoniga tushganda ular o'zlari magnitlanadi — biri shimoliy, ikkinchisi janubiy qutbga aylanadi.",
      "Qarama-qarshi qutblar tortishadi va tillar tegib, zanjirni ulaydi.",
@@ -82935,7 +82935,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Hall datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.5. Hall datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Magnit maydonini elektr signalga aylantiradi. Ikki turi bor: raqamli (bor/yo'q) va analog (kuchini o'lchaydi).",
      "Ta'minot: 3,3-5 V (A3144 uchun 4,5-24 V). Tok: 5-10 mA.",
@@ -82945,7 +82945,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. Hall datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. Hall datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Hall effekti: tok o'tayotgan yassi plastinka magnit maydoniga qo'yilsa, magnit kuchi elektronlarni bir chetga siqib qo'yadi.",
      "Natijada plastinkaning ikki cheti orasida kichik kuchlanish paydo bo'ladi — bu Hall kuchlanishi.",
@@ -82954,7 +82954,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qaysi datchik tez javob beradi?  Javob: Hall.",
      "Savol: Eshik ochilishini sezish uchun qaysi biri mos?  Javob: Reed — kam takrorlanadi, quvvat talab qilmaydi."
@@ -83087,7 +83087,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Mikrofon moduli nimani o'lchaydi?  Javob: Tovush kuchini.",
      "Savol: Nutqni tanish uchun bu yetarlimi?  Javob: Yo'q, buning uchun boshqa texnologiya kerak."
@@ -83174,7 +83174,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tuproq namligi datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Tuproq namligi datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Ikki xil turi bor: rezistiv (ikki metall vilka) va sig'imli (capacitive, bir butun plastina).",
      "Ta'minot: 3,3-5 V. Tok: 5-20 mA.",
@@ -83184,7 +83184,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tuproq namligi datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Tuproq namligi datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Rezistiv turida: quruq tuproq yomon o'tkazgich, nam tuproq esa (ichidagi tuz eritmasi tufayli) yaxshi o'tkazgich. Ikki vilka orasidagi qarshilik namlikka qarab o'zgaradi.",
      "Doimiy kuchlanish berilganda elektroliz boshlanadi: metall eriydi va vilkaga oq g'ubor o'tiradi — bu korroziya.",
@@ -83192,7 +83192,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Suv sathi datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.5. Suv sathi datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Bir nechta parallel o'tkazgich yo'lakdan iborat plastina.",
      "Ta'minot: 3,3-5 V. Tok: 20 mA gacha.",
@@ -83202,7 +83202,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. Suv sathi datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. Suv sathi datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Plastinada ikki xil yo'lak navbat bilan joylashgan: bittasi quvvatga, ikkinchisi o'lchov chiqishiga ulangan.",
      "Suv ikki yo'lakni tutashtiradi. Qancha ko'p yo'lak suv ostida qolsa, umumiy qarshilik shuncha kichik va chiqish kuchlanishi shuncha katta.",
@@ -83211,7 +83211,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega datchiklar davriy o'lchashi kerak?  Javob: Elektrolizni kamaytirish va quvvat tejash uchun.",
      "Savol: Kalibrlashda qaysi ikki nuqta olinadi?  Javob: Mutlaqo quruq va to'liq nam holat."
@@ -83343,7 +83343,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Qiyalik (tilt) datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Qiyalik (tilt) datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Metall silindr ichida kichik o'tkazuvchi sharcha (yoki simob tomchisi) bor.",
      "Ta'minot kerak emas — oddiy kalit kabi ishlaydi.",
@@ -83352,7 +83352,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Qiyalik (tilt) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Qiyalik (tilt) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Tik holatda sharcha pastga tushib, ikkita kontaktni tutashtiradi — zanjir ulangan.",
      "Qiyaltirilganda sharcha yumalab ketadi va kontakt uziladi.",
@@ -83360,7 +83360,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tebranish datchigi qanday signal beradi?  Javob: Juda qisqa impuls.",
      "Savol: Uni qanday ushlab qolish mumkin?  Javob: Kondensatorli sxema yoki dasturiy usul bilan."
@@ -83469,7 +83469,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. DC motor (tranzistor orqali) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. DC motor (tranzistor orqali) — texnik tasnif (4 daqiqa)",
     "points": [
      "Oddiy kollektorli motor. Kuchlanishi: 3-6 V (maktab to'plamlarida).",
      "Bo'sh yurishda 70-150 mA, yuk ostida 300-500 mA, tiqilib qolganda 1 A dan ortiq.",
@@ -83479,7 +83479,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. DC motor (tranzistor orqali) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. DC motor (tranzistor orqali) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Motor ichida g'altak (rotor) va doimiy magnitlar bor. G'altakdan tok o'tganda u magnitga aylanadi va doimiy magnitlar bilan tortishib-itarishib aylanadi.",
      "Kollektor va cho'tkalar har yarim aylanishda tok yo'nalishini almashtiradi — shuning uchun aylanish to'xtamaydi.",
@@ -83489,7 +83489,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Cho'tkalar nima vazifasini bajaradi?  Javob: G'altakdagi tok yo'nalishini davriy almashtiradi.",
      "Savol: Motor to'xtatilganda tok qanday o'zgaradi?  Javob: Maksimal darajaga ko'tariladi."
@@ -83601,7 +83601,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Rezistor bilan tezlikni kamaytirishning kamchiligi nima?  Javob: Energiya isrof bo'ladi va motor kuchi kamayadi.",
      "Savol: PWM da motor nega kuchini yo'qotmaydi?  Javob: Impuls paytida unga to'liq kuchlanish beriladi."
@@ -83688,7 +83688,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Oldinga yurish uchun qaysi kalitlar yoqiladi?  Javob: S1 va S4.",
      "Savol: Qaysi kombinatsiya taqiqlangan?  Javob: Bir ustundagi ikki kalit — S1 va S3."
@@ -83775,7 +83775,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Servo SG90 — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Servo SG90 — texnik tasnif (4 daqiqa)",
     "points": [
      "Burilish burchagi: 0 dan 180 gradusgacha (360 gradus aylanadigan turi ham bor, lekin u burchakni emas, tezlikni boshqaradi).",
      "Ta'minot: 4,8-6 V. Tinch holatda 10 mA, harakatda 100-250 mA, tiqilib qolganda 700 mA gacha.",
@@ -83786,7 +83786,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Servo SG90 — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Servo SG90 — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida to'rt qism bor: DC motor, tishli reduktor, potensiometr va boshqaruv platasi.",
      "Potensiometr chiqish valiga ulangan — u SERVOGA O'ZI hozir qaysi burchakda turganini bildiradi.",
@@ -83797,7 +83797,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Servoda holatni nima o'lchaydi?  Javob: Ichidagi potensiometr.",
      "Savol: 90 daraja uchun impuls uzunligi qancha?  Javob: 1,5 ms."
@@ -83912,7 +83912,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Qadamli motor 28BYJ-48 + ULN2003 — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Qadamli motor 28BYJ-48 + ULN2003 — texnik tasnif (4 daqiqa)",
     "points": [
      "Kuchlanish: 5 V. Tok: 200-300 mA (Arduino 5V pinidan olish chegarada — tashqi manba yaxshiroq).",
      "Ichki reduktor nisbati: 1:64.",
@@ -83923,7 +83923,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Qadamli motor 28BYJ-48 + ULN2003 — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Qadamli motor 28BYJ-48 + ULN2003 — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Qadamli motorda kollektor va cho'tka YO'Q. Uning o'rniga statorda bir nechta g'altak bor.",
      "G'altaklar NAVBAT BILAN yoqiladi. Rotor har safar yoqilgan g'altakka tortiladi va aniq bir qadam siljiydi.",
@@ -83933,7 +83933,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qadamli motorda holat qanday aniqlanadi?  Javob: Berilgan qadamlar sanab boriladi.",
      "Savol: 28BYJ-48 uchun to'liq aylanish necha qadam?  Javob: Taxminan 2048."
@@ -84047,7 +84047,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Induktiv impulsdan nima himoya qiladi?  Javob: Flyback diod.",
      "Savol: Cho'tka shovqinidan-chi?  Javob: Motor klemmalariga parallel 100 nF keramik kondensator."
@@ -84134,7 +84134,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Avtomatning uch bo'g'ini qaysilar?  Javob: Sezish, qaror, ijro.",
      "Savol: Nega har bo'g'in alohida sinaladi?  Javob: Xatoni tez topish uchun."
@@ -84221,7 +84221,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Texnik topshiriqda talablar qanday yozilishi kerak?  Javob: Aniq va o'lchanadigan raqamlar bilan.",
      "Savol: Blok-sxema nimani ko'rsatadi?  Javob: Qurilma qismlari va ular orasidagi bog'lanishlarni."
@@ -84308,7 +84308,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega breadboard tayyor qurilma uchun mos emas?  Javob: Kontaktlari ishonchsiz, tebranishdan uziladi.",
      "Savol: Simlarga birka qo'yish nima uchun kerak?  Javob: Keyinchalik ta'mirlash va o'zgartirish oson bo'lishi uchun."
@@ -84756,7 +84756,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: mA ni A ga qanday aylantiriladi?  Javob: 1000 ga bo'linadi.",
      "Savol: Motor odatda qancha tok oladi?  Javob: 200-1000 mA."
@@ -84843,7 +84843,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: R1, C2, Q1 belgilari nimani bildiradi?  Javob: Rezistor, kondensator va tranzistorning tartib raqami.",
      "Savol: Sxemani yig'ish nimadan boshlanadi?  Javob: Quvvat shinalarini ulashdan."
@@ -84930,7 +84930,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Breadboard ustunidagi nechta teshik o'zaro ulangan?  Javob: Beshta.",
      "Savol: Breadboard qancha tokka mo'ljallangan?  Javob: Taxminan 1 A gacha."
@@ -85017,7 +85017,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: LED uchun standart rezistor qancha?  Javob: 220 Om (5 V zanjirda).",
      "Savol: Tortuvchi rezistor uchun odatda qaysi qiymat olinadi?  Javob: 10 kOm."
@@ -85104,7 +85104,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -85114,7 +85114,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -85122,7 +85122,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ko'k LEDning tushish kuchlanishi qancha?  Javob: Taxminan 3-3,2 V.",
      "Savol: 5 V da yashil LED (2,1 V, 15 mA) uchun rezistor?  Javob: Taxminan 200 Om, ya'ni 220 Om."
@@ -85233,7 +85233,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Voltmetr qanday ulanadi?  Javob: Parallel.",
      "Savol: Nega qora shchup bir joyda qoldiriladi?  Javob: O'lchovlar bir-biriga solishtiriladigan bo'lishi uchun."
@@ -85320,7 +85320,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tok qanday ulanish bilan o'lchanadi?  Javob: Ketma-ket.",
      "Savol: Bilvosita tok o'lchash usuli qanday?  Javob: Ma'lum rezistordagi kuchlanishni o'lchab, I = U/R bilan hisoblab."
@@ -85407,7 +85407,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Formulaning uch shakli (4 daqiqa)",
+    "title": "5.3. Formulaning uch shakli (4 daqiqa)",
     "points": [
      "U = I x R, I = U / R, R = U / I — uchtasi bir formulaning uch ko'rinishi.",
      "Qaysi shakl kerakligi savolga bog'liq: nomalum kattalik qaysi bo'lsa, o'sha chap tomonga chiqariladi.",
@@ -85415,7 +85415,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Bog'liqlikning ma'nosi (4 daqiqa)",
+    "title": "5.4. Bog'liqlikning ma'nosi (4 daqiqa)",
     "points": [
      "Kuchlanish ikki barobar oshsa, qarshilik o'zgarmasa — tok ham ikki barobar oshadi. Bu to'g'ri proporsionallik.",
      "Qarshilik ikki barobar oshsa, kuchlanish o'zgarmasa — tok ikki barobar kamayadi. Bu teskari proporsionallik.",
@@ -85424,7 +85424,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Mashq qilish tartibi (4 daqiqa)",
+    "title": "5.5. Mashq qilish tartibi (4 daqiqa)",
     "points": [
      "Har bir masalada avval nima berilgani va nima topilishi kerakligi yozib olinadi.",
      "Keyin birliklar tekshiriladi va hammasi V, A, Om ga keltiriladi.",
@@ -85432,7 +85432,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 9 V va 3 kOm: tok qancha?  Javob: 3 mA.",
      "Savol: P = U x I dan boshqa ko'rinishlar qaysi?  Javob: P = I kvadrat x R va P = U kvadrat / R."
@@ -85519,7 +85519,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Ketma-ket ulanish qonuniyatlari (4 daqiqa)",
+    "title": "5.3. Ketma-ket ulanish qonuniyatlari (4 daqiqa)",
     "points": [
      "Tok hamma element orqali BIR XIL oqadi: I = I1 = I2 = I3.",
      "Kuchlanish elementlar orasida BO'LINADI: U = U1 + U2 + U3.",
@@ -85528,7 +85528,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Parallel ulanish qonuniyatlari (4 daqiqa)",
+    "title": "5.4. Parallel ulanish qonuniyatlari (4 daqiqa)",
     "points": [
      "Kuchlanish hamma shoxda BIR XIL: U = U1 = U2 = U3.",
      "Tok shoxlar orasida BO'LINADI: I = I1 + I2 + I3.",
@@ -85538,7 +85538,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Parallel ulanishda umumiy qarshilik qanday bo'ladi?  Javob: Eng kichik tarmoq qarshiligidan ham kichik.",
      "Savol: Ketma-ket zanjirda tok qanday taqsimlanadi?  Javob: Taqsimlanmaydi — hamma joyda bir xil."
@@ -85625,7 +85625,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Potensiometr 10 kOm — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Potensiometr 10 kOm — texnik tasnif (4 daqiqa)",
     "points": [
      "O'zgaruvchan rezistor. Nominal 10 kOm — chetdagi ikki oyoq orasidagi qarshilik doim 10 kOm.",
      "O'rta oyoq (surgich) buralganda 0 dan 10 kOm gacha siljiydi.",
@@ -85634,7 +85634,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Potensiometr 10 kOm — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Potensiometr 10 kOm — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Potensiometr — bu tayyor KUCHLANISH BO'LUVCHI. Surgich yuqoriroqda bo'lsa chiqishda kuchlanish katta, pastroqda bo'lsa kichik.",
      "Qarshilik emas, KUCHLANISH o'lchanadi: plata analog pindagi kuchlanishni raqamga aylantiradi.",
@@ -85642,7 +85642,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Bo'luvchi formulasida R2 qaysi rezistor?  Javob: GND ga ulangan pastki rezistor.",
      "Savol: Yuklama qanchalik katta bo'lishi kerak?  Javob: R2 dan kamida 10 marta."
@@ -85751,7 +85751,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tugma (push button) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Tugma (push button) — texnik tasnif (4 daqiqa)",
     "points": [
      "Taktil tugma (tact switch) — 4 oyoqli, lekin aslida 2 ta kontakt: qarama-qarshi oyoqlar juft-juft ulangan.",
      "Bosilganda kontakt ulanadi, qo'yib yuborilganda prujina uni ochadi.",
@@ -85760,7 +85760,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Rezistorsiz ulangan pin havoda \"suzadi\": unga tegishmagan holatda ham atrofdagi elektr maydonidan tasodifiy 0 va 1 o'qiladi.",
      "Tortuvchi rezistor pinni tinch holatda aniq bir darajaga tortib turadi. INPUT_PULLUP da pin 5 V ga tortiladi, ya'ni tinch holat = HIGH.",
@@ -85768,7 +85768,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Pull-up rezistorli tugma bosilmaganda kirishda qancha bo'ladi?  Javob: VCC, ya'ni 5 V.",
      "Savol: Odatiy tortuvchi rezistor qiymati qancha?  Javob: 10 kOm."
@@ -85877,7 +85877,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. RC zanjir tuzilishi (4 daqiqa)",
+    "title": "5.3. RC zanjir tuzilishi (4 daqiqa)",
     "points": [
      "RC zanjir — ketma-ket ulangan rezistor va kondensator. Eng oddiy vaqt hosil qiluvchi sxema.",
      "Zaryadlanish egri chizig'i: boshida tez ko'tariladi, keyin sekinlashadi va asta to'liq kuchlanishga yaqinlashadi.",
@@ -85886,7 +85886,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Hisob va o'lchov (4 daqiqa)",
+    "title": "5.4. Hisob va o'lchov (4 daqiqa)",
     "points": [
      "t vaqtdan keyin kuchlanish 63 %; 2t da 86 %; 3t da 95 %; 5t da amalda 100 % deb qabul qilinadi.",
      "Misol: 100 kOm va 10 mkF -> t = 100000 x 0,00001 = 1 sekund.",
@@ -85895,7 +85895,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 10 kOm va 47 uF uchun T qancha?  Javob: 470 ms.",
      "Savol: Mikrosxema yonidagi kondensator nima uchun?  Javob: Yuqori chastotali shovqinni filtrlash uchun."
@@ -85982,7 +85982,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Flyback diod qanday ulanadi?  Javob: Yuklamaga parallel va teskari yo'nalishda.",
      "Savol: U nimadan himoya qiladi?  Javob: G'altak o'chganda hosil bo'ladigan yuqori kuchlanish impulsidan."
@@ -86069,7 +86069,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kalit rejimida tranzistor qaysi ikki holatda bo'ladi?  Javob: To'liq ochiq yoki to'liq yopiq.",
      "Savol: Nega tranzistor tugmadan afzal?  Javob: Uni qo'l emas, elektr signal boshqaradi."
@@ -86156,7 +86156,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Passiv zummer — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Passiv zummer — texnik tasnif (4 daqiqa)",
     "points": [
      "Ichida pyezoelektrik plastinka bor. Generator YO'Q — chastotani dastur berishi kerak.",
      "Ishchi kuchlanishi: 3-5 V. Tok: 20-30 mA (pin chegarasida, shuning uchun 100 Om qo'yish tavsiya etiladi).",
@@ -86165,7 +86165,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Passiv zummer — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Passiv zummer — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Pyezoplastinkaga kuchlanish berilsa u biroz egiladi, olinsa qaytadi. Sekundiga 440 marta egilsa — havoda 440 Hz to'lqin hosil bo'ladi, quloq buni \"lya\" notasi deb eshitadi.",
      "Chastota — sekundiga necha marta tebranish. Chastota katta bo'lsa tovush INGICHKA, kichik bo'lsa YO'G'ON.",
@@ -86173,7 +86173,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Melodiya uchun qaysi zummer kerak?  Javob: Passiv.",
      "Savol: LYA notasining chastotasi qancha?  Javob: 440 Hz."
@@ -86282,7 +86282,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. DC motor (tranzistor orqali) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. DC motor (tranzistor orqali) — texnik tasnif (4 daqiqa)",
     "points": [
      "Oddiy kollektorli motor. Kuchlanishi: 3-6 V (maktab to'plamlarida).",
      "Bo'sh yurishda 70-150 mA, yuk ostida 300-500 mA, tiqilib qolganda 1 A dan ortiq.",
@@ -86292,7 +86292,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. DC motor (tranzistor orqali) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. DC motor (tranzistor orqali) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Motor ichida g'altak (rotor) va doimiy magnitlar bor. G'altakdan tok o'tganda u magnitga aylanadi va doimiy magnitlar bilan tortishib-itarishib aylanadi.",
      "Kollektor va cho'tkalar har yarim aylanishda tok yo'nalishini almashtiradi — shuning uchun aylanish to'xtamaydi.",
@@ -86302,7 +86302,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Rele moduli — texnik tasnif (4 daqiqa)",
+    "title": "5.5. Rele moduli — texnik tasnif (4 daqiqa)",
     "points": [
      "Elektromagnit kalit: kuchsiz signal bilan kuchli yuklamani ulaydi.",
      "G'altak: 5 V, 70-90 mA (shuning uchun to'g'ridan-to'g'ri pindan quvvatlanmaydi — modulda tranzistor bor).",
@@ -86313,7 +86313,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. Rele moduli — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. Rele moduli — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida g'altak va temir yakor bor. G'altakdan tok o'tsa u elektromagnitga aylanadi va yakorni tortadi.",
      "Yakor kontaktni COM-NC holatidan COM-NO holatiga o'tkazadi. Tok uzilsa prujina uni qaytaradi.",
@@ -86323,7 +86323,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Motorli sxemada qanday uch himoya elementi kerak?  Javob: Tranzistor (yoki drayver), flyback diod, shovqin kondensatori.",
      "Savol: Ikki manba ishlatilganda nima umumiy bo'lishi kerak?  Javob: GND."
@@ -86459,7 +86459,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Manbalar va ularning imkoniyati (4 daqiqa)",
+    "title": "5.3. Manbalar va ularning imkoniyati (4 daqiqa)",
     "points": [
      "USB porti: 5 V, 500 mA (USB 2.0). Arduino va bir necha LED uchun yetadi, motorlar uchun yetmaydi.",
      "Kron batareya (9 V): sig'imi juda kam (500 mAh), motor yoki servo uchun mos emas. Faqat oz tok tortadigan sxemalar uchun.",
@@ -86469,7 +86469,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Xavfsizlik qoidalari (4 daqiqa)",
+    "title": "5.4. Xavfsizlik qoidalari (4 daqiqa)",
     "points": [
      "220 V bilan ishlash faqat o'qituvchi nazoratida va faqat namoyish tarzida bo'ladi. O'quvchilar 220 V ga tegmaydi.",
      "Qutbni almashtirmaslik: plyus va minusni teskari ulash ko'p modullarni bir zumda ishdan chiqaradi.",
@@ -86479,7 +86479,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: USB port qancha tok bera oladi?  Javob: Odatda 0,5 A gacha.",
      "Savol: 5V 2A adapterning quvvati qancha?  Javob: 10 vatt."
@@ -86566,7 +86566,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Yarmiga bo'lish usuli nima beradi?  Javob: Xatoni ancha kam tekshiruvda topish imkonini.",
      "Savol: Nega bir vaqtda bitta narsa o'zgartiriladi?  Javob: Nima yordam berganini aniq bilish uchun."
@@ -86952,7 +86952,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Raqamli, PWM va analog pinlar farqini bitta dasturda yonma-yon ko'rsatadi.",
      "Doskaga chiqariladigan namuna: \"Har bir pin turini sinab ko'ruvchi dastur\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -86960,7 +86960,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Arduino Uno pinidan maksimal qancha tok olish mumkin?  Javob: Xavfsiz 20 mA, mutlaq chegara 40 mA.",
      "Savol: Qaysi pinlar PWM bera oladi?  Javob: ~ belgili pinlar: 3, 5, 6, 9, 10, 11."
@@ -87052,7 +87052,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Platani ulagach birinchi tekshiruv: platadagi L diodi (D13) miltillasa, port va drayver to'g'ri ishlayapti.",
      "Doskaga chiqariladigan namuna: \"Plata ulanganini tekshiruvchi eng qisqa dastur\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -87060,7 +87060,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Yuklashdan oldin qaysi ikki sozlama tekshiriladi?  Javob: Board va Port.",
      "Savol: Port ko'rinmasa nima tekshiriladi?  Javob: Kabel, drayver va plata turi."
@@ -87152,7 +87152,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Birinchi dastur — lekin uni O'ZGARTIRIB ko'rish o'rganishning asosi.",
      "Doskaga chiqariladigan namuna: \"Blink va uni sekinlashtirish/tezlashtirish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -87160,7 +87160,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: delay(500) qancha vaqt kutadi?  Javob: Yarim sekund.",
      "Savol: D13 pinda nima ulangan?  Javob: Plataning o'z LEDi."
@@ -87252,7 +87252,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Bir xil kod setup va loop ichida butunlay boshqacha natija beradi.",
      "Doskaga chiqariladigan namuna: \"setup va loop farqini ko'rsatuvchi tajriba\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -87260,7 +87260,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: setup() necha marta bajariladi?  Javob: Bir marta — plata yoqilganda yoki reset bosilganda.",
      "Savol: loop() qachon to'xtaydi?  Javob: Plata o'chirilmaguncha to'xtamaydi."
@@ -87352,7 +87352,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "pinMode pinni KIRISH yoki CHIQISH qilib belgilaydi; digitalWrite faqat CHIQISH pinida ma'noga ega.",
      "Doskaga chiqariladigan namuna: \"Kirish va chiqish pinlari bitta sxemada\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -87360,7 +87360,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: pinMode qayerda yoziladi?  Javob: Odatda setup() ichida.",
      "Savol: digitalWrite(pin, HIGH) pinga qancha kuchlanish beradi?  Javob: 5 V."
@@ -87452,7 +87452,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "delay ishlaganda plata BOSHQA HECH NARSA qila olmaydi. Buni tugma bilan isbotlash mumkin.",
      "Doskaga chiqariladigan namuna: \"delay() va uning kamchiligi — millis() bilan solishtirish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -87460,7 +87460,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: delay paytida plata tugmani o'qiy oladimi?  Javob: Yo'q, dastur to'liq to'xtaydi.",
      "Savol: delay(2500) qancha vaqt?  Javob: 2,5 sekund."
@@ -87552,7 +87552,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -87562,7 +87562,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -87570,7 +87570,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Beshta LED birga yonsa qancha tok kerak?  Javob: Taxminan 75 mA.",
      "Savol: Har LEDga alohida rezistor kerakmi?  Javob: Ha."
@@ -87707,7 +87707,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -87717,7 +87717,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -87725,7 +87725,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Svetofor sikli nechta holatdan iborat?  Javob: To'rtta asosiy holat.",
      "Savol: Algoritm nima?  Javob: Masalani yechish qadamlarining aniq ketma-ketligi."
@@ -87862,7 +87862,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "O'zgaruvchining foydasi: qiymatni BIR joyda o'zgartirsangiz butun dastur o'zgaradi.",
      "Doskaga chiqariladigan namuna: \"O'zgaruvchisiz va o'zgaruvchi bilan yozilgan kod\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -87870,7 +87870,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: O'zgaruvchining afzalligi nima?  Javob: Qiymat bir joyda o'zgartirilsa hamma joyda o'zgaradi.",
      "Savol: O'zgaruvchi nomi qanday bo'lishi kerak?  Javob: Ma'noli, nima saqlashini bildiradigan."
@@ -87962,7 +87962,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "int — sanoq, float — o'lchov, bool — holat, long — vaqt, byte — xotira. Har biri o'z sxemasida ko'rsatiladi.",
      "Doskaga chiqariladigan namuna: \"Har bir tur uchun alohida TEMIR namoyish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -87970,7 +87970,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: int qanday chegaraga ega?  Javob: -32768 dan 32767 gacha.",
      "Savol: Holat saqlash uchun qaysi tur qulay?  Javob: bool."
@@ -88062,7 +88062,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Beshta LED uchun 20 qator kod bitta sikl bilan 3 qatorga tushadi.",
      "Doskaga chiqariladigan namuna: \"Yuguruvchi olov — sikl bilan va siklsiz\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -88070,7 +88070,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: for (int i = 0; i < 5; i++) necha marta bajariladi?  Javob: Besh marta — i 0, 1, 2, 3, 4.",
      "Savol: i-- nima qiladi?  Javob: Har siklda i ni bittaga kamaytiradi."
@@ -88162,7 +88162,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "for oldindan necha marta ekanini biladi, while esa BILMAYDI — u shartga qarab ishlaydi.",
      "Doskaga chiqariladigan namuna: \"Shart bajarilguncha kutish — tugma bosilishini kutish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -88170,7 +88170,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: for va while qachon ishlatiladi?  Javob: for — takrorlanish soni ma'lum bo'lganda, while — shartga bog'liq bo'lganda.",
      "Savol: Cheksiz sikldan qanday chiqiladi?  Javob: Reset tugmasi bilan yoki shartni o'zgartirib."
@@ -88262,7 +88262,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tugma (push button) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Tugma (push button) — texnik tasnif (4 daqiqa)",
     "points": [
      "Taktil tugma (tact switch) — 4 oyoqli, lekin aslida 2 ta kontakt: qarama-qarshi oyoqlar juft-juft ulangan.",
      "Bosilganda kontakt ulanadi, qo'yib yuborilganda prujina uni ochadi.",
@@ -88271,7 +88271,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Rezistorsiz ulangan pin havoda \"suzadi\": unga tegishmagan holatda ham atrofdagi elektr maydonidan tasodifiy 0 va 1 o'qiladi.",
      "Tortuvchi rezistor pinni tinch holatda aniq bir darajaga tortib turadi. INPUT_PULLUP da pin 5 V ga tortiladi, ya'ni tinch holat = HIGH.",
@@ -88279,7 +88279,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: INPUT_PULLUP da tugma bosilganda qanday qiymat o'qiladi?  Javob: LOW.",
      "Savol: Nega INPUT_PULLUP qulay?  Javob: Tashqi tortuvchi rezistor kerak bo'lmaydi."
@@ -88413,7 +88413,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "if — dasturga qaror qabul qilishni o'rgatadigan birinchi konstruksiya.",
      "Doskaga chiqariladigan namuna: \"Yorug'lik chegarasidan o'tganda chiroq yonadi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -88421,7 +88421,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tenglikni tekshirish uchun qaysi belgi ishlatiladi?  Javob: == (ikki teng belgisi).",
      "Savol: if (x = 5) nima qiladi?  Javob: x ga 5 beradi va shart har doim rost bo'ladi — bu xato."
@@ -88513,7 +88513,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "else — qolgan HAMMA holat uchun. Uni oxirida qoldirish odat bo'lishi kerak.",
      "Doskaga chiqariladigan namuna: \"Harorat bo'yicha uch rejimli boshqaruv\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -88521,7 +88521,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: else if larda qaysi shart bajariladi?  Javob: Birinchi rost chiqqani, qolganlari tekshirilmaydi.",
      "Savol: Shartlar tartibi muhimmi?  Javob: Ha, torroq shart oldin yozilishi kerak."
@@ -88613,7 +88613,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tugma (push button) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Tugma (push button) — texnik tasnif (4 daqiqa)",
     "points": [
      "Taktil tugma (tact switch) — 4 oyoqli, lekin aslida 2 ta kontakt: qarama-qarshi oyoqlar juft-juft ulangan.",
      "Bosilganda kontakt ulanadi, qo'yib yuborilganda prujina uni ochadi.",
@@ -88622,7 +88622,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Rezistorsiz ulangan pin havoda \"suzadi\": unga tegishmagan holatda ham atrofdagi elektr maydonidan tasodifiy 0 va 1 o'qiladi.",
      "Tortuvchi rezistor pinni tinch holatda aniq bir darajaga tortib turadi. INPUT_PULLUP da pin 5 V ga tortiladi, ya'ni tinch holat = HIGH.",
@@ -88630,7 +88630,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tugma sakrashi qancha davom etadi?  Javob: 5-50 millisekund.",
      "Savol: Dasturiy yechim nima?  Javob: Holat o'zgargach 20-50 ms kutib, qayta tekshirish."
@@ -88764,7 +88764,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Serial nafaqat chiqarish, kompyuterdan buyruq QABUL QILISH uchun ham kerak.",
      "Doskaga chiqariladigan namuna: \"Ikki tomonlama Serial aloqa\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -88772,7 +88772,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Serial.begin() qayerda yoziladi?  Javob: setup() ichida.",
      "Savol: Serial monitor asosan nima uchun ishlatiladi?  Javob: Nosozlik topish va qiymatlarni kuzatish uchun."
@@ -88864,7 +88864,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Tartib doim bir xil: 1) quvvat, 2) GND, 3) pin raqami, 4) mantiq.",
      "Doskaga chiqariladigan namuna: \"Sxema va kodni ketma-ket tekshiruvchi diagnostika dasturi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -88872,7 +88872,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sxema va koddagi xatoni qanday ajratish mumkin?  Javob: Sxemaga eng oddiy tekshiruv kodini yuklab ko'rish.",
      "Savol: Serial.println nosozlik topishda qanday yordam beradi?  Javob: Dastur qayergacha yetganini va qiymatlarni ko'rsatadi."
@@ -89281,7 +89281,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Potensiometr 10 kOm — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Potensiometr 10 kOm — texnik tasnif (4 daqiqa)",
     "points": [
      "O'zgaruvchan rezistor. Nominal 10 kOm — chetdagi ikki oyoq orasidagi qarshilik doim 10 kOm.",
      "O'rta oyoq (surgich) buralganda 0 dan 10 kOm gacha siljiydi.",
@@ -89290,7 +89290,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Potensiometr 10 kOm — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Potensiometr 10 kOm — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Potensiometr — bu tayyor KUCHLANISH BO'LUVCHI. Surgich yuqoriroqda bo'lsa chiqishda kuchlanish katta, pastroqda bo'lsa kichik.",
      "Qarshilik emas, KUCHLANISH o'lchanadi: plata analog pindagi kuchlanishni raqamga aylantiradi.",
@@ -89298,7 +89298,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: analogRead qanday oraliqda qiymat qaytaradi?  Javob: 0 dan 1023 gacha.",
      "Savol: 512 qiymati qanday kuchlanishga to'g'ri keladi?  Javob: Taxminan 2,5 V."
@@ -89439,7 +89439,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Yaxshi log — nosozlikni topishning eng tez yo'li.",
      "Doskaga chiqariladigan namuna: \"Xom qiymat, hisoblangan qiymat va holatni birga chiqarish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -89447,7 +89447,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Serial Plotter uchun nima yuborilishi kerak?  Javob: Faqat raqam.",
      "Savol: Grafik nimani ko'rsatadi?  Javob: Shovqin, javob tezligi va qiymatlar oralig'ini."
@@ -89539,7 +89539,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "map chegaradan tashqariga ham chiqaradi — shuning uchun constrain kerak.",
      "Doskaga chiqariladigan namuna: \"map() va constrain() birga\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -89547,7 +89547,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: map(512, 0, 1023, 0, 255) taxminan qancha beradi?  Javob: Taxminan 128.",
      "Savol: Teskari moslash qanday yoziladi?  Javob: Yangi min va maks joyini almashtirib."
@@ -89639,7 +89639,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "PWM — pinni tez-tez yoqib-o'chirish. O'rtacha quvvat shu bilan boshqariladi.",
      "Doskaga chiqariladigan namuna: \"PWM ni ko'z bilan va o'lchov bilan ko'rish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -89647,7 +89647,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: analogWrite qanday oraliqda qiymat qabul qiladi?  Javob: 0 dan 255 gacha.",
      "Savol: PWM aslida analog signalmi?  Javob: Yo'q, u tez yoqilib-o'chadigan raqamli signal."
@@ -89739,7 +89739,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -89749,7 +89749,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -89757,7 +89757,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ko'z yorqinlikni chiziqli sezadimi?  Javob: Yo'q, chiziqsiz — past darajalardagi o'zgarish ko'proq seziladi.",
      "Savol: Bu qanday qonun bilan tushuntiriladi?  Javob: Weber-Fexner qonuni."
@@ -89894,7 +89894,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -89904,7 +89904,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -89912,7 +89912,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. RGB LED (umumiy katod) — texnik tasnif (4 daqiqa)",
+    "title": "5.5. RGB LED (umumiy katod) — texnik tasnif (4 daqiqa)",
     "points": [
      "Bitta korpusda uchta LED: qizil, yashil, ko'k. Oyog'i 4 ta.",
      "Umumiy katod turi: eng uzun oyoq GND ga. Umumiy anod turi: eng uzun oyoq 5V ga (mantiq teskari bo'ladi).",
@@ -89921,7 +89921,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. RGB LED (umumiy katod) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. RGB LED (umumiy katod) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ko'z uchta yaqin turgan nurni ajratmaydi va ularni bitta rang deb qabul qiladi — bu ADDITIV rang aralashtirish.",
      "Har bir rangning yorqinligini PWM bilan 0 dan 255 gacha o'zgartirib, 256 x 256 x 256 = 16,7 million tus olinadi.",
@@ -89929,7 +89929,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sariq rang uchun RGB qiymatlari qanday?  Javob: 255, 255, 0.",
      "Savol: RGB LED uchun qanday pinlar kerak?  Javob: Uchta PWM pin."
@@ -90123,7 +90123,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Fotorezistor (LDR) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Fotorezistor (LDR) — texnik tasnif (4 daqiqa)",
     "points": [
      "LDR = Light Dependent Resistor. Qarshiligi YORUG'LIKKA bog'liq.",
      "Qorong'ida: 200 kOm - 1 MOm. Yorug'da: 1-10 kOm. To'g'ridan-to'g'ri chiroq ostida: 100-500 Om.",
@@ -90132,7 +90132,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Fotorezistor (LDR) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Fotorezistor (LDR) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichidagi kadmiy sulfid (CdS) qatlamiga foton tushganda elektronlar bo'shab qoladi va material tokni yaxshiroq o'tkazadi.",
      "Yorug'lik ko'p -> erkin elektron ko'p -> qarshilik KICHIK. Qorong'i -> qarshilik KATTA.",
@@ -90140,7 +90140,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Fotorezistor yuqorida bo'lsa qorong'ida qiymat qanday bo'ladi?  Javob: Kichik.",
      "Savol: Nega tayyor chegara ishlatilmaydi?  Javob: Har sensor va sharoit uchun qiymatlar farq qiladi."
@@ -90275,7 +90275,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Fotorezistor (LDR) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Fotorezistor (LDR) — texnik tasnif (4 daqiqa)",
     "points": [
      "LDR = Light Dependent Resistor. Qarshiligi YORUG'LIKKA bog'liq.",
      "Qorong'ida: 200 kOm - 1 MOm. Yorug'da: 1-10 kOm. To'g'ridan-to'g'ri chiroq ostida: 100-500 Om.",
@@ -90284,7 +90284,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Fotorezistor (LDR) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Fotorezistor (LDR) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichidagi kadmiy sulfid (CdS) qatlamiga foton tushganda elektronlar bo'shab qoladi va material tokni yaxshiroq o'tkazadi.",
      "Yorug'lik ko'p -> erkin elektron ko'p -> qarshilik KICHIK. Qorong'i -> qarshilik KATTA.",
@@ -90292,7 +90292,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Gisterezis nima uchun kerak?  Javob: Chegara atrofidagi miltillashni yo'q qilish uchun.",
      "Savol: Ikki chegara qanday tanlanadi?  Javob: Yoqish chegarasi o'chirishdan past bo'ladi."
@@ -90427,7 +90427,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. NTC termistor — texnik tasnif (4 daqiqa)",
+    "title": "5.3. NTC termistor — texnik tasnif (4 daqiqa)",
     "points": [
      "NTC = Negative Temperature Coefficient: harorat OSHSA qarshilik KAMAYADI.",
      "Nominal qiymat 25 °C da beriladi — maktab to'plamlarida odatda 10 kOm.",
@@ -90436,7 +90436,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. NTC termistor — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. NTC termistor — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Termistor — yarimo'tkazgich. Isiganda ichidagi erkin elektronlar soni ortadi va tokni yaxshiroq o'tkazadi.",
      "Bog'liqlik CHIZIQLI EMAS — shuning uchun analogRead qiymatini to'g'ridan-to'g'ri gradus deb olib bo'lmaydi.",
@@ -90444,7 +90444,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Termistordan haroratga o'tish uchun avval nima hisoblanadi?  Javob: Uning qarshiligi.",
      "Savol: Soddaroq usul qanday?  Javob: Kalibrlash jadvali tuzib, oraliq qiymatlarni interpolyatsiya qilish."
@@ -90580,7 +90580,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. DHT22 (harorat va namlik) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. DHT22 (harorat va namlik) — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: DHT22 / AM2302 — raqamli harorat va nisbiy namlik sensori.",
      "Harorat oralig'i: -40 dan +80 °C gacha. Aniqlik: ±0,5 °C. Qadam (rezolyutsiya): 0,1 °C.",
@@ -90592,7 +90592,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. DHT22 (harorat va namlik) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. DHT22 (harorat va namlik) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida ikkita sezgir element bor. Harorat uchun — termistor. Namlik uchun — ikki plastinka orasidagi namlik yutuvchi qatlam (kondensator sig'imi namlikka qarab o'zgaradi).",
      "Muhimi: bu qiymatlarni PLATA emas, SENSORNING O'ZI hisoblaydi. Ichida kichik mikrosxema bor, u o'lchaydi, hisoblaydi va tayyor RAQAM yuboradi.",
@@ -90603,7 +90603,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: DHT22 dan qanchalik tez-tez o'qish mumkin?  Javob: Sekundiga bir marta.",
      "Savol: Nima uchun kutubxona kerak?  Javob: Uzatish protokoli murakkab — impuls uzunligi bilan bit uzatiladi."
@@ -90762,7 +90762,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Kutubxona murakkab ishni bir necha buyruqqa qisqartiradi. Farqni servo misolida ko'rish oson.",
      "Doskaga chiqariladigan namuna: \"Kutubxonasiz va kutubxona bilan yozilgan kod\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -90770,7 +90770,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kutubxona nima?  Javob: Tayyor funksiyalar to'plami.",
      "Savol: Yangi kutubxona bilan ishlashni nimadan boshlash kerak?  Javob: Uning misollaridan."
@@ -90862,7 +90862,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. HC-SR04 (ultratovush masofa) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. HC-SR04 (ultratovush masofa) — texnik tasnif (4 daqiqa)",
     "points": [
      "O'lchov oralig'i: 2 sm dan 400 sm gacha. Amalda ishonchli oraliq — 3 sm dan 200 sm gacha.",
      "Aniqlik: ±3 mm. Ko'rish burchagi: 15 daraja.",
@@ -90873,7 +90873,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. HC-SR04 (ultratovush masofa) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. HC-SR04 (ultratovush masofa) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Modulda ikkita silindr bor: biri tovush YUBORADI (T), ikkinchisi QABUL QILADI (R).",
      "TRIG piniga 10 mikrosekundlik HIGH berilsa, modul 8 ta 40 kHz impuls yuboradi.",
@@ -90884,7 +90884,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega o'lchangan vaqt ikkiga bo'linadi?  Javob: Tovush nishonagacha borib qaytadi.",
      "Savol: HC-SR04 ning ish diapazoni qanday?  Javob: 2 dan 400 santimetrgacha."
@@ -91038,7 +91038,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. HC-SR04 (ultratovush masofa) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. HC-SR04 (ultratovush masofa) — texnik tasnif (4 daqiqa)",
     "points": [
      "O'lchov oralig'i: 2 sm dan 400 sm gacha. Amalda ishonchli oraliq — 3 sm dan 200 sm gacha.",
      "Aniqlik: ±3 mm. Ko'rish burchagi: 15 daraja.",
@@ -91049,7 +91049,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. HC-SR04 (ultratovush masofa) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. HC-SR04 (ultratovush masofa) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Modulda ikkita silindr bor: biri tovush YUBORADI (T), ikkinchisi QABUL QILADI (R).",
      "TRIG piniga 10 mikrosekundlik HIGH berilsa, modul 8 ta 40 kHz impuls yuboradi.",
@@ -91060,7 +91060,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Masofa kamayganda signal qanday o'zgaradi?  Javob: Tez-tez beriladi.",
      "Savol: constrain() nima qiladi?  Javob: Qiymatni belgilangan chegaralar ichida ushlaydi."
@@ -91214,7 +91214,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. PIR HC-SR501 (harakat) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. PIR HC-SR501 (harakat) — texnik tasnif (4 daqiqa)",
     "points": [
      "PIR = Passive InfraRed. \"Passiv\" — o'zi hech narsa nurlantirmaydi, faqat tinglaydi.",
      "Sezish masofasi: 3 dan 7 metrgacha (moduldagi vint bilan sozlanadi).",
@@ -91226,7 +91226,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. PIR HC-SR501 (harakat) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. PIR HC-SR501 (harakat) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Har qanday issiq jism infraqizil nur chiqaradi. Inson tanasi ~10 mikrometr to'lqin uzunligida nurlanadi.",
      "Sensor ichida ikkita sezgir maydon bor. Ular ko'radigan nurlanish TENG bo'lsa — signal yo'q.",
@@ -91236,7 +91236,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: PIR qimirlamay turgan odamni sezadimi?  Javob: Yo'q, u faqat harakatga javob beradi.",
      "Savol: Yoqilgandan keyin qancha vaqt kutish kerak?  Javob: 30-60 sekund."
@@ -91382,7 +91382,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tuproq namligi datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Tuproq namligi datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Ikki xil turi bor: rezistiv (ikki metall vilka) va sig'imli (capacitive, bir butun plastina).",
      "Ta'minot: 3,3-5 V. Tok: 5-20 mA.",
@@ -91392,7 +91392,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tuproq namligi datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Tuproq namligi datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Rezistiv turida: quruq tuproq yomon o'tkazgich, nam tuproq esa (ichidagi tuz eritmasi tufayli) yaxshi o'tkazgich. Ikki vilka orasidagi qarshilik namlikka qarab o'zgaradi.",
      "Doimiy kuchlanish berilganda elektroliz boshlanadi: metall eriydi va vilkaga oq g'ubor o'tiradi — bu korroziya.",
@@ -91400,7 +91400,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nam tuproqda analogRead qiymati qanday bo'ladi?  Javob: Past.",
      "Savol: Sensor umrini qanday uzaytirish mumkin?  Javob: Faqat o'lchash paytida quvvat berib."
@@ -91548,7 +91548,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Olov (flame) datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Olov (flame) datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Infraqizil fotodiod (odatda ko'k rangli) 760-1100 nm to'lqin uzunligiga sezgir.",
      "Sezish masofasi: 80 sm gacha (sham olovi uchun ~30-50 sm).",
@@ -91558,7 +91558,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Olov (flame) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Olov (flame) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Olov ko'zga ko'rinadigan yorug'likdan tashqari kuchli INFRAQIZIL nur ham chiqaradi.",
      "Fotodiod aynan shu infraqizil oraliqda sezgir. Unga IQ nur tushsa, chiqish kuchlanishi o'zgaradi.",
@@ -91567,7 +91567,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega ikki sensor birga ishlatiladi?  Javob: Yolg'on signallarni kamaytirish uchun.",
      "Savol: Olov datchigi nimadan yolg'on ishga tushadi?  Javob: Quyosh va lampa nuridan."
@@ -91715,7 +91715,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Funksiya — nom berilgan va qayta ishlatiladigan kod bo'lagi.",
      "Doskaga chiqariladigan namuna: \"Takrorlanadigan kodni funksiyaga chiqarish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -91723,7 +91723,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: void nimani bildiradi?  Javob: Funksiya qiymat qaytarmasligini.",
      "Savol: Parametr nima uchun kerak?  Javob: Funksiyaga ma'lumot uzatish uchun."
@@ -91815,7 +91815,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Massiv nafaqat pinlarni, o'lchov natijalarini ham saqlaydi — bu ma'lumotni silliqlashning asosi.",
      "Doskaga chiqariladigan namuna: \"O'lchov tarixini massivda saqlash va o'rtacha topish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -91823,7 +91823,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 5 elementli massivda indekslar qanday?  Javob: 0 dan 4 gacha.",
      "Savol: pinlar[2] qaysi elementni beradi?  Javob: Uchinchisini."
@@ -92286,7 +92286,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Servo SG90 — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Servo SG90 — texnik tasnif (4 daqiqa)",
     "points": [
      "Burilish burchagi: 0 dan 180 gradusgacha (360 gradus aylanadigan turi ham bor, lekin u burchakni emas, tezlikni boshqaradi).",
      "Ta'minot: 4,8-6 V. Tinch holatda 10 mA, harakatda 100-250 mA, tiqilib qolganda 700 mA gacha.",
@@ -92297,7 +92297,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Servo SG90 — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Servo SG90 — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida to'rt qism bor: DC motor, tishli reduktor, potensiometr va boshqaruv platasi.",
      "Potensiometr chiqish valiga ulangan — u SERVOGA O'ZI hozir qaysi burchakda turganini bildiradi.",
@@ -92308,7 +92308,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Servo qanday burchak oralig'ida ishlaydi?  Javob: 0 dan 180 gradusgacha.",
      "Savol: Servo quvvatini qayerdan olish kerak?  Javob: Alohida 5 V manbadan, GND umumiy bo'lgan holda."
@@ -92458,7 +92458,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Potensiometr 10 kOm — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Potensiometr 10 kOm — texnik tasnif (4 daqiqa)",
     "points": [
      "O'zgaruvchan rezistor. Nominal 10 kOm — chetdagi ikki oyoq orasidagi qarshilik doim 10 kOm.",
      "O'rta oyoq (surgich) buralganda 0 dan 10 kOm gacha siljiydi.",
@@ -92467,7 +92467,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Potensiometr 10 kOm — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Potensiometr 10 kOm — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Potensiometr — bu tayyor KUCHLANISH BO'LUVCHI. Surgich yuqoriroqda bo'lsa chiqishda kuchlanish katta, pastroqda bo'lsa kichik.",
      "Qarshilik emas, KUCHLANISH o'lchanadi: plata analog pindagi kuchlanishni raqamga aylantiradi.",
@@ -92475,7 +92475,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Servo SG90 — texnik tasnif (4 daqiqa)",
+    "title": "5.5. Servo SG90 — texnik tasnif (4 daqiqa)",
     "points": [
      "Burilish burchagi: 0 dan 180 gradusgacha (360 gradus aylanadigan turi ham bor, lekin u burchakni emas, tezlikni boshqaradi).",
      "Ta'minot: 4,8-6 V. Tinch holatda 10 mA, harakatda 100-250 mA, tiqilib qolganda 700 mA gacha.",
@@ -92486,7 +92486,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. Servo SG90 — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. Servo SG90 — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida to'rt qism bor: DC motor, tishli reduktor, potensiometr va boshqaruv platasi.",
      "Potensiometr chiqish valiga ulangan — u SERVOGA O'ZI hozir qaysi burchakda turganini bildiradi.",
@@ -92497,7 +92497,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Servo ichida qanday boshqaruv ishlatiladi?  Javob: Yopiq halqali — holatni o'lchab, xatoni tuzatadi.",
      "Savol: Silkinishni qanday kamaytirish mumkin?  Javob: Juda kichik o'zgarishlarga buyruq bermaslik bilan."
@@ -92699,7 +92699,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. DC motor (tranzistor orqali) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. DC motor (tranzistor orqali) — texnik tasnif (4 daqiqa)",
     "points": [
      "Oddiy kollektorli motor. Kuchlanishi: 3-6 V (maktab to'plamlarida).",
      "Bo'sh yurishda 70-150 mA, yuk ostida 300-500 mA, tiqilib qolganda 1 A dan ortiq.",
@@ -92709,7 +92709,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. DC motor (tranzistor orqali) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. DC motor (tranzistor orqali) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Motor ichida g'altak (rotor) va doimiy magnitlar bor. G'altakdan tok o'tganda u magnitga aylanadi va doimiy magnitlar bilan tortishib-itarishib aylanadi.",
      "Kollektor va cho'tkalar har yarim aylanishda tok yo'nalishini almashtiradi — shuning uchun aylanish to'xtamaydi.",
@@ -92719,7 +92719,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega past PWM da motor aylanmaydi?  Javob: Start uchun minimal kuchlanish kerak.",
      "Savol: Motorli sxemada qaysi himoya elementi majburiy?  Javob: Flyback diod."
@@ -92876,7 +92876,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. L298N motor drayveri — texnik tasnif (4 daqiqa)",
+    "title": "5.3. L298N motor drayveri — texnik tasnif (4 daqiqa)",
     "points": [
      "Ikkita DC motorni (yoki bitta qadamli motorni) mustaqil boshqaradi.",
      "Motor kuchlanishi: 5-35 V. Bir kanaldan doimiy 2 A, qisqa muddatga 3 A.",
@@ -92887,7 +92887,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. L298N motor drayveri — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. L298N motor drayveri — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida H-KO'PRIK sxemasi bor: to'rtta elektron kalit \"H\" harfi shaklida joylashgan, motor esa o'rtadagi ko'ndalang chiziqda.",
      "Chap yuqori va o'ng past kalit ochilsa — tok bir tomonga oqadi, motor o'ngga aylanadi.",
@@ -92899,7 +92899,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: L298N da yo'nalish qanday belgilanadi?  Javob: IN1 va IN2 pinlarining holati bilan.",
      "Savol: ENA pini nima uchun?  Javob: PWM bilan tezlikni boshqarish uchun."
@@ -93094,7 +93094,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. L298N motor drayveri — texnik tasnif (4 daqiqa)",
+    "title": "5.3. L298N motor drayveri — texnik tasnif (4 daqiqa)",
     "points": [
      "Ikkita DC motorni (yoki bitta qadamli motorni) mustaqil boshqaradi.",
      "Motor kuchlanishi: 5-35 V. Bir kanaldan doimiy 2 A, qisqa muddatga 3 A.",
@@ -93105,7 +93105,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. L298N motor drayveri — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. L298N motor drayveri — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida H-KO'PRIK sxemasi bor: to'rtta elektron kalit \"H\" harfi shaklida joylashgan, motor esa o'rtadagi ko'ndalang chiziqda.",
      "Chap yuqori va o'ng past kalit ochilsa — tok bir tomonga oqadi, motor o'ngga aylanadi.",
@@ -93117,7 +93117,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Differensial shassida burilish qanday bo'ladi?  Javob: Motorlarning turli tezligi hisobiga.",
      "Savol: Nega aravacha to'g'ri yurmaydi?  Javob: Motorlar bir xil emas, tuzatish koeffitsienti kerak."
@@ -93312,7 +93312,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Qadamli motor 28BYJ-48 + ULN2003 — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Qadamli motor 28BYJ-48 + ULN2003 — texnik tasnif (4 daqiqa)",
     "points": [
      "Kuchlanish: 5 V. Tok: 200-300 mA (Arduino 5V pinidan olish chegarada — tashqi manba yaxshiroq).",
      "Ichki reduktor nisbati: 1:64.",
@@ -93323,7 +93323,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Qadamli motor 28BYJ-48 + ULN2003 — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Qadamli motor 28BYJ-48 + ULN2003 — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Qadamli motorda kollektor va cho'tka YO'Q. Uning o'rniga statorda bir nechta g'altak bor.",
      "G'altaklar NAVBAT BILAN yoqiladi. Rotor har safar yoqilgan g'altakka tortiladi va aniq bir qadam siljiydi.",
@@ -93333,7 +93333,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 28BYJ-48 uchun to'liq aylanish necha qadam?  Javob: 2048.",
      "Savol: Qadamli motorning asosiy afzalligi nima?  Javob: Datchiksiz aniq holatni bilish mumkin."
@@ -93506,7 +93506,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Passiv zummer — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Passiv zummer — texnik tasnif (4 daqiqa)",
     "points": [
      "Ichida pyezoelektrik plastinka bor. Generator YO'Q — chastotani dastur berishi kerak.",
      "Ishchi kuchlanishi: 3-5 V. Tok: 20-30 mA (pin chegarasida, shuning uchun 100 Om qo'yish tavsiya etiladi).",
@@ -93515,7 +93515,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Passiv zummer — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Passiv zummer — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Pyezoplastinkaga kuchlanish berilsa u biroz egiladi, olinsa qaytadi. Sekundiga 440 marta egilsa — havoda 440 Hz to'lqin hosil bo'ladi, quloq buni \"lya\" notasi deb eshitadi.",
      "Chastota — sekundiga necha marta tebranish. Chastota katta bo'lsa tovush INGICHKA, kichik bo'lsa YO'G'ON.",
@@ -93523,7 +93523,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: tone() ning uchinchi parametri nima?  Javob: Tovush davomiyligi millisekundda.",
      "Savol: LYA notasi qaysi chastotada?  Javob: 440 Hz."
@@ -93658,7 +93658,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Passiv zummer — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Passiv zummer — texnik tasnif (4 daqiqa)",
     "points": [
      "Ichida pyezoelektrik plastinka bor. Generator YO'Q — chastotani dastur berishi kerak.",
      "Ishchi kuchlanishi: 3-5 V. Tok: 20-30 mA (pin chegarasida, shuning uchun 100 Om qo'yish tavsiya etiladi).",
@@ -93667,7 +93667,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Passiv zummer — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Passiv zummer — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Pyezoplastinkaga kuchlanish berilsa u biroz egiladi, olinsa qaytadi. Sekundiga 440 marta egilsa — havoda 440 Hz to'lqin hosil bo'ladi, quloq buni \"lya\" notasi deb eshitadi.",
      "Chastota — sekundiga necha marta tebranish. Chastota katta bo'lsa tovush INGICHKA, kichik bo'lsa YO'G'ON.",
@@ -93675,7 +93675,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Melodiya uchun nechta massiv kerak?  Javob: Ikkita — notalar va davomiyliklar.",
      "Savol: Notalar orasida pauza nima uchun kerak?  Javob: Ular bir-biriga qo'shilib ketmasligi uchun."
@@ -93810,7 +93810,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
     "points": [
      "16 belgi x 2 qator. Har bir belgi 5x8 nuqtadan iborat.",
      "Ta'minot: 5 V, 20-25 mA (orqa yorug'lik bilan birga).",
@@ -93819,7 +93819,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ekranda suyuq kristall molekulalari kuchlanish ta'sirida buriladi va yorug'likni o'tkazmay qo'yadi — shu joy qora ko'rinadi.",
      "Ekran o'zi yorug'lik chiqarmaydi, orqadan LED yoritib turadi. Shuning uchun quyoshda ham yaxshi ko'rinadi va kam quvvat sarflaydi.",
@@ -93827,7 +93827,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: I2C ulanishida nechta sim kerak?  Javob: To'rtta: VCC, GND, SDA, SCL.",
      "Savol: Matn ko'rinmasa birinchi nima tekshiriladi?  Javob: Kontrast potensiometri."
@@ -93974,7 +93974,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
     "points": [
      "16 belgi x 2 qator. Har bir belgi 5x8 nuqtadan iborat.",
      "Ta'minot: 5 V, 20-25 mA (orqa yorug'lik bilan birga).",
@@ -93983,7 +93983,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ekranda suyuq kristall molekulalari kuchlanish ta'sirida buriladi va yorug'likni o'tkazmay qo'yadi — shu joy qora ko'rinadi.",
      "Ekran o'zi yorug'lik chiqarmaydi, orqadan LED yoritib turadi. Shuning uchun quyoshda ham yaxshi ko'rinadi va kam quvvat sarflaydi.",
@@ -93991,7 +93991,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: lcd.setCursor(0, 1) kursorni qayerga qo'yadi?  Javob: Ikkinchi qatorning boshiga.",
      "Savol: Nega raqam noto'g'ri ko'rinadi?  Javob: Eski matnning qolgan qismi tozalanmagan."
@@ -94138,7 +94138,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
     "points": [
      "16 belgi x 2 qator. Har bir belgi 5x8 nuqtadan iborat.",
      "Ta'minot: 5 V, 20-25 mA (orqa yorug'lik bilan birga).",
@@ -94147,7 +94147,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ekranda suyuq kristall molekulalari kuchlanish ta'sirida buriladi va yorug'likni o'tkazmay qo'yadi — shu joy qora ko'rinadi.",
      "Ekran o'zi yorug'lik chiqarmaydi, orqadan LED yoritib turadi. Shuning uchun quyoshda ham yaxshi ko'rinadi va kam quvvat sarflaydi.",
@@ -94155,7 +94155,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: I2C nechta sim ishlatadi?  Javob: Ikkita: SDA va SCL.",
      "Savol: Bir xil manzilli ikki qurilma ulansa nima bo'ladi?  Javob: Konflikt — ikkalasi ham ishlamaydi."
@@ -94302,7 +94302,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
     "points": [
      "16 belgi x 2 qator. Har bir belgi 5x8 nuqtadan iborat.",
      "Ta'minot: 5 V, 20-25 mA (orqa yorug'lik bilan birga).",
@@ -94311,7 +94311,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ekranda suyuq kristall molekulalari kuchlanish ta'sirida buriladi va yorug'likni o'tkazmay qo'yadi — shu joy qora ko'rinadi.",
      "Ekran o'zi yorug'lik chiqarmaydi, orqadan LED yoritib turadi. Shuning uchun quyoshda ham yaxshi ko'rinadi va kam quvvat sarflaydi.",
@@ -94319,7 +94319,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ekranni qanchalik tez-tez yangilash kerak?  Javob: 500 ms da bir marta yetarli.",
      "Savol: Yangilash vaqtini nima bilan boshqariladi?  Javob: millis() bilan."
@@ -94466,7 +94466,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. 7-segment indikator (1 razryad) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. 7-segment indikator (1 razryad) — texnik tasnif (4 daqiqa)",
     "points": [
      "Sakkizta LED: a, b, c, d, e, f, g segmentlari va DP (nuqta).",
      "Ikki turi bor: umumiy KATOD (COM -> GND, segment HIGH da yonadi) va umumiy ANOD (COM -> 5V, segment LOW da yonadi).",
@@ -94475,14 +94475,14 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. 7-segment indikator (1 razryad) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. 7-segment indikator (1 razryad) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Har bir raqam ma'lum segmentlar to'plamidan yig'iladi: 1 = b va c; 7 = a, b, c; 8 = hammasi.",
      "Turini aniqlash: multimetrni diod rejimiga qo'yib, COM ga qora shchupni tegizing — segmentlar yonsa umumiy katod."
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Bir razryadli indikator uchun nechta pin kerak?  Javob: Yettita (nuqta bilan sakkizta).",
      "Savol: Raqam kombinatsiyalari qayerda saqlanadi?  Javob: Massivda."
@@ -94614,7 +94614,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. 74HC595 siljish registri — texnik tasnif (4 daqiqa)",
+    "title": "5.3. 74HC595 siljish registri — texnik tasnif (4 daqiqa)",
     "points": [
      "Kirish: 3 pin (DATA, CLOCK, LATCH). Chiqish: 8 pin (Q0...Q7).",
      "Ta'minot: 2-6 V. Bitta chiqish maksimum 35 mA, butun mikrosxema 70 mA.",
@@ -94623,7 +94623,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. 74HC595 siljish registri — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. 74HC595 siljish registri — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida 8 ta xotira katagi navbat bo'lib turadi. CLOCK har ko'tarilganda navbat bir qadam siljiydi va DATA pinidagi qiymat boshiga kiradi.",
      "8 marta siljitilgandan keyin LATCH ko'tariladi — shundagina 8 ta qiymat bir vaqtda chiqishga uzatiladi.",
@@ -94631,7 +94631,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 74HC595 uchun nechta pin kerak?  Javob: Uchta.",
      "Savol: Registrlarni ketma-ket ulash nima beradi?  Javob: Bir xil 3 pin bilan ko'proq chiqish."
@@ -94794,7 +94794,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. HC-SR04 (ultratovush masofa) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. HC-SR04 (ultratovush masofa) — texnik tasnif (4 daqiqa)",
     "points": [
      "O'lchov oralig'i: 2 sm dan 400 sm gacha. Amalda ishonchli oraliq — 3 sm dan 200 sm gacha.",
      "Aniqlik: ±3 mm. Ko'rish burchagi: 15 daraja.",
@@ -94805,7 +94805,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. HC-SR04 (ultratovush masofa) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. HC-SR04 (ultratovush masofa) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Modulda ikkita silindr bor: biri tovush YUBORADI (T), ikkinchisi QABUL QILADI (R).",
      "TRIG piniga 10 mikrosekundlik HIGH berilsa, modul 8 ta 40 kHz impuls yuboradi.",
@@ -94816,7 +94816,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. IR qabul qilgich VS1838 — texnik tasnif (4 daqiqa)",
+    "title": "5.5. IR qabul qilgich VS1838 — texnik tasnif (4 daqiqa)",
     "points": [
      "Qabul chastotasi: 38 kHz (eng keng tarqalgan standart).",
      "To'lqin uzunligi: 940 nm — infraqizil, ko'zga ko'rinmaydi.",
@@ -94827,7 +94827,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. IR qabul qilgich VS1838 — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. IR qabul qilgich VS1838 — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Pult IQ diodini shunchaki yoqmaydi — u sekundiga 38 000 marta miltillatib turadi (modulyatsiya).",
      "Nega shunday: quyosh va lampa ham IQ nur chiqaradi. Qabul qilgich ichidagi filtr faqat 38 kHz da tebranayotgan signalni o'tkazadi, doimiy fonni esa rad etadi.",
@@ -94837,7 +94837,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Pult kodlari barcha pultlarda bir xilmi?  Javob: Yo'q, har pultda o'ziga xos.",
      "Savol: Kodlarni qanday bilib olinadi?  Javob: Serial monitorda o'qib, jadval tuzib."
@@ -95049,7 +95049,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Rele moduli — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Rele moduli — texnik tasnif (4 daqiqa)",
     "points": [
      "Elektromagnit kalit: kuchsiz signal bilan kuchli yuklamani ulaydi.",
      "G'altak: 5 V, 70-90 mA (shuning uchun to'g'ridan-to'g'ri pindan quvvatlanmaydi — modulda tranzistor bor).",
@@ -95060,7 +95060,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Rele moduli — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Rele moduli — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida g'altak va temir yakor bor. G'altakdan tok o'tsa u elektromagnitga aylanadi va yakorni tortadi.",
      "Yakor kontaktni COM-NC holatidan COM-NO holatiga o'tkazadi. Tok uzilsa prujina uni qaytaradi.",
@@ -95070,7 +95070,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ko'p rele modullarida rele qachon yoqiladi?  Javob: IN ga LOW berilganda.",
      "Savol: Yuklama qaysi kontaktlarga ulanadi?  Javob: COM va NO ga."
@@ -95222,7 +95222,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Katta vazifani bo'lish (4 daqiqa)",
+    "title": "5.3. Katta vazifani bo'lish (4 daqiqa)",
     "points": [
      "Butun loyihani birdan yig'ishga urinish — eng ko'p uchraydigan xato.",
      "To'g'ri usul: qurilmani mustaqil ishlaydigan bo'laklarga bo'lish.",
@@ -95231,7 +95231,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Bosqichlarni birlashtirish (4 daqiqa)",
+    "title": "5.4. Bosqichlarni birlashtirish (4 daqiqa)",
     "points": [
      "Ikki ishlaydigan bo'lak birlashtirilganda ishlamay qolishi mumkin — bu normal holat.",
      "Sabablari odatda: pin to'qnashuvi, quvvat yetishmasligi, kutubxonalar bir-biriga xalaqit berishi.",
@@ -95240,7 +95240,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Bosqichlar qanday bo'lishi kerak?  Javob: Har biri mustaqil sinaladigan.",
      "Savol: Vaqtning qancha qismi sinovga ajratiladi?  Javob: Taxminan 30%."
@@ -95327,7 +95327,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kodni hujjatlashtirish (4 daqiqa)",
+    "title": "5.3. Kodni hujjatlashtirish (4 daqiqa)",
     "points": [
      "Fayl boshida izoh bloki: loyiha nomi, muallif, sana, qurilma nima qiladi.",
      "Pin ro'yxati doimiylar sifatida boshida beriladi va har biriga izoh yoziladi.",
@@ -95337,7 +95337,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Izoh yozishning qoidasi (4 daqiqa)",
+    "title": "5.4. Izoh yozishning qoidasi (4 daqiqa)",
     "points": [
      "Izoh kod NIMA qilishini emas, NIMA UCHUN qilinganini tushuntirishi kerak.",
      "Yomon izoh: 'i ni bittaga oshiradi' — buni koddan ham ko'rish mumkin.",
@@ -95346,7 +95346,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: BOM nima?  Javob: Komponentlar ro'yxati jadvali.",
      "Savol: Kodda izoh nimani yozishi kerak?  Javob: Nima emas, NEGA shunday qilinganini."
@@ -95732,7 +95732,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Uchta kattalik va ularning birliklari (4 daqiqa)",
+    "title": "5.3. Uchta kattalik va ularning birliklari (4 daqiqa)",
     "points": [
      "Kuchlanish (U) — voltda (V) o'lchanadi. Bu zaryadni harakatlantiruvchi elektr bosimi. Suv quvurida bosimga o'xshaydi.",
      "Tok (I) — amperda (A) o'lchanadi. Bu bir sekundda kesim orqali o'tgan zaryad miqdori. Quvurdagi suv oqimiga o'xshaydi.",
@@ -95742,7 +95742,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Formulani uch ko'rinishda ishlatish (4 daqiqa)",
+    "title": "5.4. Formulani uch ko'rinishda ishlatish (4 daqiqa)",
     "points": [
      "Asosiy shakl: U = I x R — tok va qarshilik ma'lum bo'lsa kuchlanish topiladi.",
      "Ikkinchi shakl: I = U / R — kuchlanish va qarshilik ma'lum bo'lsa tok topiladi. Rezistor tanlashda eng ko'p ishlatiladigan shakl.",
@@ -95751,7 +95751,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Ishlangan misollar (4 daqiqa)",
+    "title": "5.5. Ishlangan misollar (4 daqiqa)",
     "points": [
      "Misol 1: 9 V batareyaga 470 Om rezistor ulandi. I = 9 / 470 = 0,019 A = 19 mA.",
      "Misol 2: Zanjirda 12 mA tok oqmoqda, rezistor 220 Om. U = 0,012 x 220 = 2,64 V.",
@@ -95760,7 +95760,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 9 V va 3 kOm: tok qancha?  Javob: 3 mA.",
      "Savol: Servo qancha tok oladi?  Javob: 500 mA gacha."
@@ -95847,7 +95847,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. O'lchash bosqichlari (4 daqiqa)",
+    "title": "5.3. O'lchash bosqichlari (4 daqiqa)",
     "points": [
      "1) Zanjirni yig'ing va ko'z bilan tekshiring: qisqa tutashuv yo'qmi, qutblar to'g'rimi.",
      "2) Manba kuchlanishini o'lchang — u kutilgan qiymatga yaqinmi.",
@@ -95857,7 +95857,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Kutilgan natijalar (4 daqiqa)",
+    "title": "5.4. Kutilgan natijalar (4 daqiqa)",
     "points": [
      "Ketma-ket zanjirda barcha kuchlanish tushishlari yig'indisi manba kuchlanishiga TENG bo'lishi kerak (Kirxgof qonuni).",
      "Agar yig'indi manbadan kam chiqsa — o'lchamagan element bor yoki kontakt yomon.",
@@ -95866,7 +95866,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tok o'lchashda shchup qayerga ko'chiriladi?  Javob: A yoki mA teshigiga.",
      "Savol: Zumlash nima uchun ishlatiladi?  Javob: Ulanish bor-yo'qligini tez tekshirish uchun."
@@ -95953,7 +95953,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -95963,7 +95963,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -95971,7 +95971,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 5 V uchun LED rezistori qancha?  Javob: 220 Om.",
      "Savol: Pull-up rezistor uchun qaysi qiymat olinadi?  Javob: 10 kOm."
@@ -96108,7 +96108,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kuchlanish bo'luvchining ishlashi (4 daqiqa)",
+    "title": "5.3. Kuchlanish bo'luvchining ishlashi (4 daqiqa)",
     "points": [
      "Ikki rezistor ketma-ket ulansa, ular orasidagi nuqtadan manba kuchlanishining bir qismi olinadi.",
      "Formula: Uchiqish = Ukirish x R2 / (R1 + R2), bu yerda R2 — pastki (GND tomondagi) rezistor.",
@@ -96117,7 +96117,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Bo'luvchining chegarasi (4 daqiqa)",
+    "title": "5.4. Bo'luvchining chegarasi (4 daqiqa)",
     "points": [
      "Bo'luvchi faqat O'LCHOV signali uchun. Undan quvvat olish mumkin emas: yuklama ulansa chiqish kuchlanishi tushib ketadi.",
      "Sabab: yuklama R2 ga parallel bo'ladi va umumiy qarshilikni kamaytiradi.",
@@ -96126,7 +96126,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Bo'luvchi formulasida R2 qaysi?  Javob: GND ga ulangan pastki rezistor.",
      "Savol: Parallel ulanishda umumiy qarshilik qanday bo'ladi?  Javob: Eng kichik tarmoqdan ham kichik."
@@ -96213,7 +96213,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Uch komponentning vazifasi (4 daqiqa)",
+    "title": "5.3. Uch komponentning vazifasi (4 daqiqa)",
     "points": [
      "Kondensator — zaryadni vaqtincha to'playdi. Vazifasi: quvvatni silliqlash, shovqinni yo'qotish, vaqt hosil qilish.",
      "Diod — tokni faqat bir tomonga o'tkazadi. Vazifasi: himoya, to'g'rilash, teskari ulanishdan saqlash.",
@@ -96221,7 +96221,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Diodning muhim xususiyatlari (4 daqiqa)",
+    "title": "5.4. Diodning muhim xususiyatlari (4 daqiqa)",
     "points": [
      "Diodda to'g'ri yo'nalishda 0,7 V atrofida kuchlanish tushadi (kremniy diod uchun).",
      "Korpusdagi halqa KATOD (minus) tomonini ko'rsatadi.",
@@ -96231,7 +96231,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Flyback diod qanday ulanadi?  Javob: Yuklamaga parallel va teskari yo'nalishda.",
      "Savol: To'yingan tranzistorda kollektor-emitter kuchlanishi qancha?  Javob: Taxminan 0,2 V."
@@ -96318,7 +96318,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Birinchi darsda maqsad — zanjir emas, ALOQA: kompyuter platani ko'ryaptimi.",
      "Doskaga chiqariladigan namuna: \"Plata ulanganini tekshiruvchi eng qisqa dastur\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -96326,7 +96326,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Arduino pinidan xavfsiz qancha tok olinadi?  Javob: 20 mA.",
      "Savol: A4 va A5 pinlari qaysi protokol uchun band?  Javob: I2C — SDA va SCL."
@@ -96418,7 +96418,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "setup bir marta, loop cheksiz — buni Serial monitorda ko'z bilan ko'rish mumkin.",
      "Doskaga chiqariladigan namuna: \"setup va loop farqi bitta sxemada ko'rinadi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -96426,7 +96426,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: setup() necha marta bajariladi?  Javob: Bir marta.",
      "Savol: delay(250) qancha vaqt?  Javob: Chorak sekund."
@@ -96518,7 +96518,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Bu uchtasi Arduino dasturlarining 80 % ini tashkil qiladi.",
      "Doskaga chiqariladigan namuna: \"Uchta asosiy buyruq bitta sxemada\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -96526,7 +96526,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: delay paytida tugma o'qiladimi?  Javob: Yo'q, dastur to'liq to'xtaydi.",
      "Savol: pinMode unutilsa nima bo'ladi?  Javob: LED xira yonadi yoki umuman yonmaydi."
@@ -96618,7 +96618,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Turlarning xotira sarfini o'lchab, nima uchun \"hamma joyda float\" yomon fikr ekanini ko'rsatadi.",
      "Doskaga chiqariladigan namuna: \"Turlar va ular egallaydigan xotira\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -96626,7 +96626,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Arduino Uno da qancha SRAM bor?  Javob: 2 kilobayt.",
      "Savol: Nega float dan iloji boricha qochiladi?  Javob: Hisoblash sekin va ko'p xotira oladi."
@@ -96718,7 +96718,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "for: takrorlanish soni MA'LUM. while: shart bilan boshqariladi.",
      "Doskaga chiqariladigan namuna: \"Bir xil vazifa — ikki sikl\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -96726,7 +96726,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: break nima qiladi?  Javob: Sikldan butunlay chiqadi.",
      "Savol: continue-chi?  Javob: Joriy iteratsiyani tashlab, keyingisiga o'tadi."
@@ -96818,7 +96818,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tugma (push button) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Tugma (push button) — texnik tasnif (4 daqiqa)",
     "points": [
      "Taktil tugma (tact switch) — 4 oyoqli, lekin aslida 2 ta kontakt: qarama-qarshi oyoqlar juft-juft ulangan.",
      "Bosilganda kontakt ulanadi, qo'yib yuborilganda prujina uni ochadi.",
@@ -96827,7 +96827,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Rezistorsiz ulangan pin havoda \"suzadi\": unga tegishmagan holatda ham atrofdagi elektr maydonidan tasodifiy 0 va 1 o'qiladi.",
      "Tortuvchi rezistor pinni tinch holatda aniq bir darajaga tortib turadi. INPUT_PULLUP da pin 5 V ga tortiladi, ya'ni tinch holat = HIGH.",
@@ -96835,7 +96835,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: INPUT_PULLUP da bosilgan tugma qanday o'qiladi?  Javob: LOW.",
      "Savol: Toggle uchun nima aniqlanadi?  Javob: Tugmaning bosilish lahzasi, holati emas."
@@ -96969,7 +96969,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "else if bilan bir nechta oraliqni ajratish mumkin — birinchi mos kelgan shart bajariladi, qolganlari TEKSHIRILMAYDI.",
      "Doskaga chiqariladigan namuna: \"Uch bosqichli yorug'lik indikatori\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -96977,7 +96977,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Shartlar tartibi nega muhim?  Javob: Kengroq shart oldin bo'lsa, torroq shart bajarilmaydi.",
      "Savol: switch qachon qulay?  Javob: Bir o'zgaruvchining aniq qiymatlarini tekshirishda."
@@ -97069,7 +97069,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Ikki tugma — to'rtta kombinatsiya. Har biri uchun natija LEDda ko'rinadi.",
      "Doskaga chiqariladigan namuna: \"Rostlik jadvalini LED bilan ko'rsatish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -97077,7 +97077,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: && qachon rost beradi?  Javob: Ikkala shart ham rost bo'lganda.",
      "Savol: ! amali nima qiladi?  Javob: Natijani teskarilaydi."
@@ -97169,7 +97169,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Har bosqichda log qoldirish — dastur qayerda \"o'lganini\" aniq ko'rsatadi.",
      "Doskaga chiqariladigan namuna: \"Bosqichma-bosqich log bilan xatoni topish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -97177,7 +97177,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Dastur qayergacha yetganini qanday bilish mumkin?  Javob: Serial.println bilan nuqtalar qo'yib.",
      "Savol: Serial Plotter nimani ko'rsatadi?  Javob: Qiymatlarning grafigini."
@@ -97269,7 +97269,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Potensiometr 10 kOm — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Potensiometr 10 kOm — texnik tasnif (4 daqiqa)",
     "points": [
      "O'zgaruvchan rezistor. Nominal 10 kOm — chetdagi ikki oyoq orasidagi qarshilik doim 10 kOm.",
      "O'rta oyoq (surgich) buralganda 0 dan 10 kOm gacha siljiydi.",
@@ -97278,7 +97278,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Potensiometr 10 kOm — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Potensiometr 10 kOm — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Potensiometr — bu tayyor KUCHLANISH BO'LUVCHI. Surgich yuqoriroqda bo'lsa chiqishda kuchlanish katta, pastroqda bo'lsa kichik.",
      "Qarshilik emas, KUCHLANISH o'lchanadi: plata analog pindagi kuchlanishni raqamga aylantiradi.",
@@ -97286,7 +97286,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: analogRead qanday oraliq beradi?  Javob: 0 dan 1023 gacha.",
      "Savol: Shovqinni qanday kamaytirish mumkin?  Javob: Bir necha o'lchov o'rtachasini olib."
@@ -97427,7 +97427,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "PWM — pinni tez-tez yoqib-o'chirish. O'rtacha quvvat shu bilan boshqariladi.",
      "Doskaga chiqariladigan namuna: \"PWM ni ko'z bilan va o'lchov bilan ko'rish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -97435,7 +97435,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: analogWrite qanday oraliqda qiymat qabul qiladi?  Javob: 0 dan 255 gacha.",
      "Savol: PWM aslida analog signalmi?  Javob: Yo'q, u tez yoqilib-o'chadigan raqamli signal."
@@ -97527,7 +97527,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Har bir sensorning oralig'i boshqacha — ularni solishtirish uchun avval bir xil o'lchovga (0-100 %) keltirish kerak.",
      "Doskaga chiqariladigan namuna: \"Ikki sensorni bir o'lchovga keltirish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -97535,7 +97535,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: map faqat qanday sonlar bilan ishlaydi?  Javob: Butun sonlar bilan.",
      "Savol: constrain nima qiladi?  Javob: Qiymatni belgilangan chegaralarda ushlaydi."
@@ -97627,7 +97627,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Yaxshi nom izohni ham keraksiz qiladi.",
      "Doskaga chiqariladigan namuna: \"Yomon va yaxshi nom berish yonma-yon\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -97635,7 +97635,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Izohda nima yozilishi kerak?  Javob: Nega shunday qilingani.",
      "Savol: Sehrli raqam nima?  Javob: Kodda to'g'ridan-to'g'ri yozilgan, nomlanmagan son."
@@ -98026,7 +98026,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "void — hech narsa qaytarmaydi. int/float — natija qaytaradi va uni o'zgaruvchiga yozish mumkin.",
      "Doskaga chiqariladigan namuna: \"Qiymat qaytaruvchi funksiya\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -98034,7 +98034,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Funksiya nechta vazifani bajarishi kerak?  Javob: Bitta aniq vazifani.",
      "Savol: return nima qiladi?  Javob: Natijani chaqiruvchi joyga qaytaradi."
@@ -98126,7 +98126,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Nota va davomiylik massivlari bir xil uzunlikda bo'lishi va bir indeks bilan o'qilishi kerak.",
      "Doskaga chiqariladigan namuna: \"Melodiya: ikki massiv birga ishlaydi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -98134,7 +98134,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 10 elementli massivda indekslar qanday?  Javob: 0 dan 9 gacha.",
      "Savol: Chegaradan chiqilsa nima bo'ladi?  Javob: Boshqa o'zgaruvchining xotirasi buziladi."
@@ -98226,7 +98226,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Fotorezistor (LDR) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Fotorezistor (LDR) — texnik tasnif (4 daqiqa)",
     "points": [
      "LDR = Light Dependent Resistor. Qarshiligi YORUG'LIKKA bog'liq.",
      "Qorong'ida: 200 kOm - 1 MOm. Yorug'da: 1-10 kOm. To'g'ridan-to'g'ri chiroq ostida: 100-500 Om.",
@@ -98235,7 +98235,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Fotorezistor (LDR) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Fotorezistor (LDR) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichidagi kadmiy sulfid (CdS) qatlamiga foton tushganda elektronlar bo'shab qoladi va material tokni yaxshiroq o'tkazadi.",
      "Yorug'lik ko'p -> erkin elektron ko'p -> qarshilik KICHIK. Qorong'i -> qarshilik KATTA.",
@@ -98243,7 +98243,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. NTC termistor — texnik tasnif (4 daqiqa)",
+    "title": "5.5. NTC termistor — texnik tasnif (4 daqiqa)",
     "points": [
      "NTC = Negative Temperature Coefficient: harorat OSHSA qarshilik KAMAYADI.",
      "Nominal qiymat 25 °C da beriladi — maktab to'plamlarida odatda 10 kOm.",
@@ -98252,7 +98252,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. NTC termistor — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. NTC termistor — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Termistor — yarimo'tkazgich. Isiganda ichidagi erkin elektronlar soni ortadi va tokni yaxshiroq o'tkazadi.",
      "Bog'liqlik CHIZIQLI EMAS — shuning uchun analogRead qiymatini to'g'ridan-to'g'ri gradus deb olib bo'lmaydi.",
@@ -98260,7 +98260,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: NTC termistorda issiqda qarshilik qanday bo'ladi?  Javob: Kichik.",
      "Savol: Kalibrlash uchun nechta nuqta kerak?  Javob: Kamida ikkita ma'lum nuqta."
@@ -98442,7 +98442,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. DHT22 (harorat va namlik) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. DHT22 (harorat va namlik) — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: DHT22 / AM2302 — raqamli harorat va nisbiy namlik sensori.",
      "Harorat oralig'i: -40 dan +80 °C gacha. Aniqlik: ±0,5 °C. Qadam (rezolyutsiya): 0,1 °C.",
@@ -98454,7 +98454,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. DHT22 (harorat va namlik) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. DHT22 (harorat va namlik) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida ikkita sezgir element bor. Harorat uchun — termistor. Namlik uchun — ikki plastinka orasidagi namlik yutuvchi qatlam (kondensator sig'imi namlikka qarab o'zgaradi).",
      "Muhimi: bu qiymatlarni PLATA emas, SENSORNING O'ZI hisoblaydi. Ichida kichik mikrosxema bor, u o'lchaydi, hisoblaydi va tayyor RAQAM yuboradi.",
@@ -98465,7 +98465,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: DHT22 dan qanchalik tez-tez o'qish mumkin?  Javob: Sekundiga bir marta.",
      "Savol: nan qaytsa nima tekshiriladi?  Javob: O'qish tezligi va tortuvchi rezistor."
@@ -98624,7 +98624,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. HC-SR04 (ultratovush masofa) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. HC-SR04 (ultratovush masofa) — texnik tasnif (4 daqiqa)",
     "points": [
      "O'lchov oralig'i: 2 sm dan 400 sm gacha. Amalda ishonchli oraliq — 3 sm dan 200 sm gacha.",
      "Aniqlik: ±3 mm. Ko'rish burchagi: 15 daraja.",
@@ -98635,7 +98635,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. HC-SR04 (ultratovush masofa) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. HC-SR04 (ultratovush masofa) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Modulda ikkita silindr bor: biri tovush YUBORADI (T), ikkinchisi QABUL QILADI (R).",
      "TRIG piniga 10 mikrosekundlik HIGH berilsa, modul 8 ta 40 kHz impuls yuboradi.",
@@ -98646,7 +98646,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega o'lchangan vaqt ikkiga bo'linadi?  Javob: Tovush borib qaytadi.",
      "Savol: Nega mediana o'rtachadan afzal?  Javob: Bitta katta xato natijaga ta'sir qilmaydi."
@@ -98800,7 +98800,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. PIR HC-SR501 (harakat) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. PIR HC-SR501 (harakat) — texnik tasnif (4 daqiqa)",
     "points": [
      "PIR = Passive InfraRed. \"Passiv\" — o'zi hech narsa nurlantirmaydi, faqat tinglaydi.",
      "Sezish masofasi: 3 dan 7 metrgacha (moduldagi vint bilan sozlanadi).",
@@ -98812,7 +98812,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. PIR HC-SR501 (harakat) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. PIR HC-SR501 (harakat) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Har qanday issiq jism infraqizil nur chiqaradi. Inson tanasi ~10 mikrometr to'lqin uzunligida nurlanadi.",
      "Sensor ichida ikkita sezgir maydon bor. Ular ko'radigan nurlanish TENG bo'lsa — signal yo'q.",
@@ -98822,7 +98822,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: PIR qimirlamay turgan odamni sezadimi?  Javob: Yo'q.",
      "Savol: Yoqilgandan keyin qancha kutish kerak?  Javob: 30-60 sekund."
@@ -98968,7 +98968,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tuproq namligi datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Tuproq namligi datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Ikki xil turi bor: rezistiv (ikki metall vilka) va sig'imli (capacitive, bir butun plastina).",
      "Ta'minot: 3,3-5 V. Tok: 5-20 mA.",
@@ -98978,7 +98978,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tuproq namligi datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Tuproq namligi datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Rezistiv turida: quruq tuproq yomon o'tkazgich, nam tuproq esa (ichidagi tuz eritmasi tufayli) yaxshi o'tkazgich. Ikki vilka orasidagi qarshilik namlikka qarab o'zgaradi.",
      "Doimiy kuchlanish berilganda elektroliz boshlanadi: metall eriydi va vilkaga oq g'ubor o'tiradi — bu korroziya.",
@@ -98986,7 +98986,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Olov (flame) datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.5. Olov (flame) datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Infraqizil fotodiod (odatda ko'k rangli) 760-1100 nm to'lqin uzunligiga sezgir.",
      "Sezish masofasi: 80 sm gacha (sham olovi uchun ~30-50 sm).",
@@ -98996,7 +98996,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. Olov (flame) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. Olov (flame) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Olov ko'zga ko'rinadigan yorug'likdan tashqari kuchli INFRAQIZIL nur ham chiqaradi.",
      "Fotodiod aynan shu infraqizil oraliqda sezgir. Unga IQ nur tushsa, chiqish kuchlanishi o'zgaradi.",
@@ -99005,7 +99005,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Elektroliz muammosi qanday hal qilinadi?  Javob: Faqat o'lchash paytida quvvat berib.",
      "Savol: Olov datchigi nimadan yolg'on ishga tushadi?  Javob: Quyosh va lampa nuridan."
@@ -99212,7 +99212,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Ovoz (mikrofon) datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Ovoz (mikrofon) datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Modulda elektret mikrofon va LM393 taqqoslagich bor.",
      "Ta'minot: 3,3-5 V. Tok: 4-5 mA.",
@@ -99222,7 +99222,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Ovoz (mikrofon) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Ovoz (mikrofon) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Elektret mikrofon ichida juda yupqa membrana bor. Tovush to'lqini unga urilib tebratadi.",
      "Membrana tebranishi sig'imni o'zgartiradi, bu esa kichik o'zgaruvchan kuchlanish hosil qiladi.",
@@ -99231,7 +99231,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega bitta emas, ikki qarsak talab qilinadi?  Javob: Yolg'on ishga tushishni kamaytirish uchun.",
      "Savol: Ikki qarsak orasidagi vaqt qanday tekshiriladi?  Javob: millis() bilan vaqt oynasi orqali."
@@ -99379,7 +99379,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Servo SG90 — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Servo SG90 — texnik tasnif (4 daqiqa)",
     "points": [
      "Burilish burchagi: 0 dan 180 gradusgacha (360 gradus aylanadigan turi ham bor, lekin u burchakni emas, tezlikni boshqaradi).",
      "Ta'minot: 4,8-6 V. Tinch holatda 10 mA, harakatda 100-250 mA, tiqilib qolganda 700 mA gacha.",
@@ -99390,7 +99390,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Servo SG90 — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Servo SG90 — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida to'rt qism bor: DC motor, tishli reduktor, potensiometr va boshqaruv platasi.",
      "Potensiometr chiqish valiga ulangan — u SERVOGA O'ZI hozir qaysi burchakda turganini bildiradi.",
@@ -99401,7 +99401,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Servo qanday burchak oralig'ida ishlaydi?  Javob: 0 dan 180 gradusgacha.",
      "Savol: Servo quvvatini qayerdan olish kerak?  Javob: Alohida 5 V manbadan, GND umumiy bo'lgan holda."
@@ -99551,7 +99551,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. DC motor (tranzistor orqali) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. DC motor (tranzistor orqali) — texnik tasnif (4 daqiqa)",
     "points": [
      "Oddiy kollektorli motor. Kuchlanishi: 3-6 V (maktab to'plamlarida).",
      "Bo'sh yurishda 70-150 mA, yuk ostida 300-500 mA, tiqilib qolganda 1 A dan ortiq.",
@@ -99561,7 +99561,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. DC motor (tranzistor orqali) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. DC motor (tranzistor orqali) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Motor ichida g'altak (rotor) va doimiy magnitlar bor. G'altakdan tok o'tganda u magnitga aylanadi va doimiy magnitlar bilan tortishib-itarishib aylanadi.",
      "Kollektor va cho'tkalar har yarim aylanishda tok yo'nalishini almashtiradi — shuning uchun aylanish to'xtamaydi.",
@@ -99571,7 +99571,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. L298N motor drayveri — texnik tasnif (4 daqiqa)",
+    "title": "5.5. L298N motor drayveri — texnik tasnif (4 daqiqa)",
     "points": [
      "Ikkita DC motorni (yoki bitta qadamli motorni) mustaqil boshqaradi.",
      "Motor kuchlanishi: 5-35 V. Bir kanaldan doimiy 2 A, qisqa muddatga 3 A.",
@@ -99582,7 +99582,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. L298N motor drayveri — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. L298N motor drayveri — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida H-KO'PRIK sxemasi bor: to'rtta elektron kalit \"H\" harfi shaklida joylashgan, motor esa o'rtadagi ko'ndalang chiziqda.",
      "Chap yuqori va o'ng past kalit ochilsa — tok bir tomonga oqadi, motor o'ngga aylanadi.",
@@ -99594,7 +99594,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ENA pini nima uchun?  Javob: PWM bilan tezlikni boshqarish uchun.",
      "Savol: L298N da qancha kuchlanish yo'qoladi?  Javob: 1,5-2 V."
@@ -99857,7 +99857,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Qadamli motor 28BYJ-48 + ULN2003 — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Qadamli motor 28BYJ-48 + ULN2003 — texnik tasnif (4 daqiqa)",
     "points": [
      "Kuchlanish: 5 V. Tok: 200-300 mA (Arduino 5V pinidan olish chegarada — tashqi manba yaxshiroq).",
      "Ichki reduktor nisbati: 1:64.",
@@ -99868,7 +99868,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Qadamli motor 28BYJ-48 + ULN2003 — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Qadamli motor 28BYJ-48 + ULN2003 — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Qadamli motorda kollektor va cho'tka YO'Q. Uning o'rniga statorda bir nechta g'altak bor.",
      "G'altaklar NAVBAT BILAN yoqiladi. Rotor har safar yoqilgan g'altakka tortiladi va aniq bir qadam siljiydi.",
@@ -99878,7 +99878,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 28BYJ-48 uchun to'liq aylanish necha qadam?  Javob: 2048.",
      "Savol: Nega to'xtagan motor qiziydi?  Javob: Fazalarga tok berilib turadi."
@@ -100051,7 +100051,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Rele moduli — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Rele moduli — texnik tasnif (4 daqiqa)",
     "points": [
      "Elektromagnit kalit: kuchsiz signal bilan kuchli yuklamani ulaydi.",
      "G'altak: 5 V, 70-90 mA (shuning uchun to'g'ridan-to'g'ri pindan quvvatlanmaydi — modulda tranzistor bor).",
@@ -100062,7 +100062,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Rele moduli — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Rele moduli — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida g'altak va temir yakor bor. G'altakdan tok o'tsa u elektromagnitga aylanadi va yakorni tortadi.",
      "Yakor kontaktni COM-NC holatidan COM-NO holatiga o'tkazadi. Tok uzilsa prujina uni qaytaradi.",
@@ -100072,7 +100072,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ko'p rele modullarida rele qachon yoqiladi?  Javob: IN ga LOW berilganda.",
      "Savol: Sinfda maksimal qanday yuklama ruxsat etiladi?  Javob: 12 V."
@@ -100224,7 +100224,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Passiv zummer — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Passiv zummer — texnik tasnif (4 daqiqa)",
     "points": [
      "Ichida pyezoelektrik plastinka bor. Generator YO'Q — chastotani dastur berishi kerak.",
      "Ishchi kuchlanishi: 3-5 V. Tok: 20-30 mA (pin chegarasida, shuning uchun 100 Om qo'yish tavsiya etiladi).",
@@ -100233,7 +100233,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Passiv zummer — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Passiv zummer — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Pyezoplastinkaga kuchlanish berilsa u biroz egiladi, olinsa qaytadi. Sekundiga 440 marta egilsa — havoda 440 Hz to'lqin hosil bo'ladi, quloq buni \"lya\" notasi deb eshitadi.",
      "Chastota — sekundiga necha marta tebranish. Chastota katta bo'lsa tovush INGICHKA, kichik bo'lsa YO'G'ON.",
@@ -100241,7 +100241,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Melodiya uchun nechta massiv kerak?  Javob: Ikkita.",
      "Savol: tone() qaysi pinlardagi PWM bilan to'qnashadi?  Javob: 3 va 11-pinlarda."
@@ -100376,7 +100376,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
     "points": [
      "16 belgi x 2 qator. Har bir belgi 5x8 nuqtadan iborat.",
      "Ta'minot: 5 V, 20-25 mA (orqa yorug'lik bilan birga).",
@@ -100385,7 +100385,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ekranda suyuq kristall molekulalari kuchlanish ta'sirida buriladi va yorug'likni o'tkazmay qo'yadi — shu joy qora ko'rinadi.",
      "Ekran o'zi yorug'lik chiqarmaydi, orqadan LED yoritib turadi. Shuning uchun quyoshda ham yaxshi ko'rinadi va kam quvvat sarflaydi.",
@@ -100393,7 +100393,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: I2C LCD uchun nechta sim kerak?  Javob: To'rtta.",
      "Savol: Matn ko'rinmasa birinchi nima tekshiriladi?  Javob: Kontrast potensiometri va I2C manzili."
@@ -100540,7 +100540,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. 7-segment indikator (1 razryad) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. 7-segment indikator (1 razryad) — texnik tasnif (4 daqiqa)",
     "points": [
      "Sakkizta LED: a, b, c, d, e, f, g segmentlari va DP (nuqta).",
      "Ikki turi bor: umumiy KATOD (COM -> GND, segment HIGH da yonadi) va umumiy ANOD (COM -> 5V, segment LOW da yonadi).",
@@ -100549,14 +100549,14 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. 7-segment indikator (1 razryad) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. 7-segment indikator (1 razryad) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Har bir raqam ma'lum segmentlar to'plamidan yig'iladi: 1 = b va c; 7 = a, b, c; 8 = hammasi.",
      "Turini aniqlash: multimetrni diod rejimiga qo'yib, COM ga qora shchupni tegizing — segmentlar yonsa umumiy katod."
     ]
    },
    {
-    "title": "5.4. 74HC595 siljish registri — texnik tasnif (4 daqiqa)",
+    "title": "5.5. 74HC595 siljish registri — texnik tasnif (4 daqiqa)",
     "points": [
      "Kirish: 3 pin (DATA, CLOCK, LATCH). Chiqish: 8 pin (Q0...Q7).",
      "Ta'minot: 2-6 V. Bitta chiqish maksimum 35 mA, butun mikrosxema 70 mA.",
@@ -100565,7 +100565,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. 74HC595 siljish registri — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. 74HC595 siljish registri — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida 8 ta xotira katagi navbat bo'lib turadi. CLOCK har ko'tarilganda navbat bir qadam siljiydi va DATA pinidagi qiymat boshiga kiradi.",
      "8 marta siljitilgandan keyin LATCH ko'tariladi — shundagina 8 ta qiymat bir vaqtda chiqishga uzatiladi.",
@@ -100573,7 +100573,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 74HC595 uchun nechta pin kerak?  Javob: Uchta.",
      "Savol: Dinamik indikatsiyada almashish chastotasi qancha bo'lishi kerak?  Javob: 50 Hz dan yuqori."
@@ -100779,7 +100779,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. IR qabul qilgich VS1838 — texnik tasnif (4 daqiqa)",
+    "title": "5.3. IR qabul qilgich VS1838 — texnik tasnif (4 daqiqa)",
     "points": [
      "Qabul chastotasi: 38 kHz (eng keng tarqalgan standart).",
      "To'lqin uzunligi: 940 nm — infraqizil, ko'zga ko'rinmaydi.",
@@ -100790,7 +100790,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. IR qabul qilgich VS1838 — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. IR qabul qilgich VS1838 — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Pult IQ diodini shunchaki yoqmaydi — u sekundiga 38 000 marta miltillatib turadi (modulyatsiya).",
      "Nega shunday: quyosh va lampa ham IQ nur chiqaradi. Qabul qilgich ichidagi filtr faqat 38 kHz da tebranayotgan signalni o'tkazadi, doimiy fonni esa rad etadi.",
@@ -100800,7 +100800,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Pult kodlari universalmi?  Javob: Yo'q, har pultda o'ziga xos.",
      "Savol: Tugma bosib turilganda nima yuboriladi?  Javob: Takrorlash kodi."
@@ -100947,7 +100947,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. RFID RC522 — texnik tasnif (4 daqiqa)",
+    "title": "5.3. RFID RC522 — texnik tasnif (4 daqiqa)",
     "points": [
      "Chastota: 13,56 MHz (MIFARE standarti).",
      "O'qish masofasi: 2-5 sm. Ko'proq masofa uchun boshqa (qimmatroq) modullar kerak.",
@@ -100958,7 +100958,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. RFID RC522 — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. RFID RC522 — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Kartada BATAREYA YO'Q. Unda faqat mayda mikrosxema va o'ram (antenna) bor.",
      "O'qigich doimiy ravishda 13,56 MHz elektromagnit maydon chiqarib turadi.",
@@ -100969,7 +100969,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: RC522 qanday kuchlanishda ishlaydi?  Javob: Faqat 3.3 V.",
      "Savol: UID nusxalanishi mumkinmi?  Javob: Ha, shuning uchun bu jiddiy xavfsizlik yechimi emas."
@@ -101149,7 +101149,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: BOM nima?  Javob: Komponentlar ro'yxati jadvali.",
      "Savol: Hujjatda sinov natijalari nima uchun kerak?  Javob: Qurilmaning chegaralarini va ishonchliligini ko'rsatish uchun."
@@ -101689,7 +101689,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "5 V signalni to'g'ridan-to'g'ri ESP32 piniga berish pinni shikastlaydi.",
      "Doskaga chiqariladigan namuna: \"3,3 V mantiq va xavfsiz ulash\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -101697,7 +101697,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ESP32 ning mantiq darajasi qancha?  Javob: 3.3 V.",
      "Savol: Qaysi pinlar faqat kirish uchun?  Javob: GPIO 34-39."
@@ -101789,7 +101789,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Board Manager URL qo'shilgach, birinchi tekshiruv — chip ma'lumotini chiqarish.",
      "Doskaga chiqariladigan namuna: \"ESP32 ulanganini tekshiruvchi birinchi dastur\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -101797,7 +101797,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ESP32 ni IDE ga qanday qo'shiladi?  Javob: Board Manager URL qo'shib, keyin Boards Manager orqali o'rnatib.",
      "Savol: Port ko'rinmasa nima tekshiriladi?  Javob: Drayver (CP2102 yoki CH340) va kabel."
@@ -101889,7 +101889,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "3,3 V mantiq, 12 bitli ADC va 115200 tezlik — uch asosiy farq.",
      "Doskaga chiqariladigan namuna: \"ESP32 va Arduino Uno farqi bitta dasturda\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -101897,7 +101897,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ESP32 da odatiy Serial tezligi qancha?  Javob: 115200.",
      "Savol: Yuklash boshlanmasa nima qilinadi?  Javob: BOOT tugmasi bosib turiladi."
@@ -101989,7 +101989,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Har bir yechimning o'z o'rni bor.",
      "Doskaga chiqariladigan namuna: \"Uch yechim: bo'luvchi, daraja o'zgartirgich, optopara\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -101997,7 +101997,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ESP32 kirishiga maksimal qancha berilishi mumkin?  Javob: 3.3 V.",
      "Savol: 5 V dan 3,3 V olish uchun qanday rezistorlar olinadi?  Javob: Masalan 1 kOm va 2 kOm bo'luvchi."
@@ -102089,7 +102089,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "ESP32 pini 12 mA beradi (Uno 20 mA) — rezistorni shunga qarab tanlash kerak.",
      "Doskaga chiqariladigan namuna: \"GPIO chiqish quvvati va rezistor hisobi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -102097,7 +102097,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ESP32 chiqishi qancha kuchlanish beradi?  Javob: 3.3 V.",
      "Savol: ESP32 pinidan xavfsiz qancha tok olinadi?  Javob: Taxminan 12 mA."
@@ -102189,7 +102189,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Bitta o'qish shovqinli, 16 ta o'qishning o'rtachasi ancha barqaror.",
      "Doskaga chiqariladigan namuna: \"12 bitli ADC va o'rtachalash\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -102197,7 +102197,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ESP32 ADC qanday oraliq beradi?  Javob: 0 dan 4095 gacha.",
      "Savol: WiFi yoqilganda qaysi ADC kanallari ishlamaydi?  Javob: ADC2 kanallari."
@@ -102289,7 +102289,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -102299,7 +102299,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -102307,7 +102307,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ESP32 da nechta PWM kanali bor?  Javob: 16 ta.",
      "Savol: 10 razryadli PWM da qiymat oralig'i qanday?  Javob: 0 dan 1023 gacha."
@@ -102445,7 +102445,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "I2C sensorlarni bitta shinaga ulash mumkin — manzillari har xil bo'lsa.",
      "Doskaga chiqariladigan namuna: \"Bir necha sensorni birga ulash\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -102453,7 +102453,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 5V sensor chiqishi qanday ulanadi?  Javob: Bo'luvchi yoki daraja o'tkazgich orqali.",
      "Savol: Sensorni ulashdan oldin nima tekshiriladi?  Javob: Datasheetdagi ish kuchlanishi diapazoni."
@@ -102545,7 +102545,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -102555,7 +102555,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -102563,7 +102563,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
+    "title": "5.5. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
     "points": [
      "16 belgi x 2 qator. Har bir belgi 5x8 nuqtadan iborat.",
      "Ta'minot: 5 V, 20-25 mA (orqa yorug'lik bilan birga).",
@@ -102572,7 +102572,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ekranda suyuq kristall molekulalari kuchlanish ta'sirida buriladi va yorug'likni o'tkazmay qo'yadi — shu joy qora ko'rinadi.",
      "Ekran o'zi yorug'lik chiqarmaydi, orqadan LED yoritib turadi. Shuning uchun quyoshda ham yaxshi ko'rinadi va kam quvvat sarflaydi.",
@@ -102580,7 +102580,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. OLED ekran 0.96\" (SSD1306, I2C) — texnik tasnif (4 daqiqa)",
+    "title": "5.7. OLED ekran 0.96\" (SSD1306, I2C) — texnik tasnif (4 daqiqa)",
     "points": [
      "128 x 64 piksel, o'lchami 0,96 dyuym. 0,91\" (128x32) turi ham bor.",
      "Ta'minot: 3,3 V yoki 5 V (modulda stabilizator bo'lsa). Tok: 10-20 mA.",
@@ -102589,7 +102589,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.7. OLED ekran 0.96\" (SSD1306, I2C) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.8. OLED ekran 0.96\" (SSD1306, I2C) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "OLED = Organic Light Emitting Diode. Har bir piksel O'ZI yorug'lik chiqaradi — orqa yoritish kerak emas.",
      "Qora piksel — butunlay o'chgan piksel. Shuning uchun qorasi chinakam qora va kontrast juda yuqori.",
@@ -102597,7 +102597,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.8. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.9. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: OLED ekran yangilanishi uchun nima chaqiriladi?  Javob: display.display().",
      "Savol: SSD1306 ning odatiy I2C manzili qanday?  Javob: 0x3C."
@@ -102852,7 +102852,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -102862,7 +102862,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -102870,7 +102870,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. OLED ekran 0.96\" (SSD1306, I2C) — texnik tasnif (4 daqiqa)",
+    "title": "5.5. OLED ekran 0.96\" (SSD1306, I2C) — texnik tasnif (4 daqiqa)",
     "points": [
      "128 x 64 piksel, o'lchami 0,96 dyuym. 0,91\" (128x32) turi ham bor.",
      "Ta'minot: 3,3 V yoki 5 V (modulda stabilizator bo'lsa). Tok: 10-20 mA.",
@@ -102879,7 +102879,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. OLED ekran 0.96\" (SSD1306, I2C) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. OLED ekran 0.96\" (SSD1306, I2C) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "OLED = Organic Light Emitting Diode. Har bir piksel O'ZI yorug'lik chiqaradi — orqa yoritish kerak emas.",
      "Qora piksel — butunlay o'chgan piksel. Shuning uchun qorasi chinakam qora va kontrast juda yuqori.",
@@ -102887,7 +102887,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: setCursor qanday koordinata oladi?  Javob: Piksel koordinatalarini.",
      "Savol: Ekran yangilash tartibi qanday?  Javob: clearDisplay, chizish, display."
@@ -103084,7 +103084,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -103094,7 +103094,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -103102,7 +103102,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. OLED ekran 0.96\" (SSD1306, I2C) — texnik tasnif (4 daqiqa)",
+    "title": "5.5. OLED ekran 0.96\" (SSD1306, I2C) — texnik tasnif (4 daqiqa)",
     "points": [
      "128 x 64 piksel, o'lchami 0,96 dyuym. 0,91\" (128x32) turi ham bor.",
      "Ta'minot: 3,3 V yoki 5 V (modulda stabilizator bo'lsa). Tok: 10-20 mA.",
@@ -103111,7 +103111,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. OLED ekran 0.96\" (SSD1306, I2C) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. OLED ekran 0.96\" (SSD1306, I2C) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "OLED = Organic Light Emitting Diode. Har bir piksel O'ZI yorug'lik chiqaradi — orqa yoritish kerak emas.",
      "Qora piksel — butunlay o'chgan piksel. Shuning uchun qorasi chinakam qora va kontrast juda yuqori.",
@@ -103119,7 +103119,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ekranda y = 0 qayerda?  Javob: Yuqorida.",
      "Savol: Grafik uchun qiymatlar qayerda saqlanadi?  Javob: Aylanma buferli massivda."
@@ -103316,7 +103316,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Ulanish holati LED orqali ko'rinadi: miltillash — ulanmoqda, doim yoniq — ulandi.",
      "Doskaga chiqariladigan namuna: \"WiFi ga ulanish va holatni LED bilan ko'rsatish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -103324,7 +103324,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ESP32 qaysi WiFi diapazonini qo'llab-quvvatlaydi?  Javob: Faqat 2.4 GHz.",
      "Savol: IP manzil qanday olinadi?  Javob: WiFi.localIP() bilan."
@@ -103416,7 +103416,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "IP, maska va shlyuz — uchtasi birga tarmoqni tashkil qiladi.",
      "Doskaga chiqariladigan namuna: \"Tarmoqni skanerlash va IP ma'lumotini chiqarish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -103424,7 +103424,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Mahalliy tarmoqda IP odatda qanday ko'rinishda bo'ladi?  Javob: 192.168.x.x.",
      "Savol: Veb-server odatda qaysi portda ishlaydi?  Javob: 80-portda."
@@ -103516,7 +103516,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "ESP32 brauzerga HTML sahifa yuboradi, sahifadagi havolalar esa qurilmani boshqaradi.",
      "Doskaga chiqariladigan namuna: \"Brauzerdan LEDni boshqaruvchi veb-server\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -103524,7 +103524,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: HTTP javobida sarlavhalardan keyin nima kerak?  Javob: Bo'sh qator.",
      "Savol: Veb-server qaysi portda ochiladi?  Javob: Odatda 80-portda."
@@ -103616,7 +103616,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -103626,7 +103626,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -103634,7 +103634,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Brauzer so'rovi qanday keladi?  Javob: Matn sifatida, GET /yo'l ko'rinishida.",
      "Savol: Havolali tugmaning kamchiligi nima?  Javob: Har bosishda sahifa qayta yuklanadi."
@@ -103772,7 +103772,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "HTML — sahifaning skeleti, CSS — ko'rinishi. Ikkalasi ham oddiy matn sifatida yuboriladi.",
      "Doskaga chiqariladigan namuna: \"Stilli va sensor qiymati bilan sahifa\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -103780,7 +103780,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Telefonda to'g'ri ko'rinishi uchun nima kerak?  Javob: meta viewport tegi.",
      "Savol: Katta sahifalar qayerda saqlanadi?  Javob: SPIFFS fayl tizimida."
@@ -103872,7 +103872,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "meta refresh — eng oson usul. Butun sahifa qayta yuklanadi.",
      "Doskaga chiqariladigan namuna: \"Sensor qiymati sahifada, avtomatik yangilanadi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -103880,7 +103880,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: meta refresh ning kamchiligi nima?  Javob: Butun sahifa qayta yuklanadi va miltillaydi.",
      "Savol: AJAX nima qiladi?  Javob: Faqat kerakli qiymatni so'rab, sahifaning bir qismini yangilaydi."
@@ -103972,7 +103972,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: RSSI -80 dBm nimani bildiradi?  Javob: Signal juda kuchsiz, aloqa ishonchsiz.",
      "Savol: Aloqa uzilsa dastur nima qilishi kerak?  Javob: Avtomatik qayta ulanishga urinishi."
@@ -104358,7 +104358,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. microSD kart moduli — texnik tasnif (4 daqiqa)",
+    "title": "5.3. microSD kart moduli — texnik tasnif (4 daqiqa)",
     "points": [
      "Interfeys: SPI (CS, SCK, MOSI, MISO).",
      "Kart formati: FAT16 yoki FAT32 SHART. exFAT va NTFS ishlamaydi.",
@@ -104369,7 +104369,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. microSD kart moduli — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. microSD kart moduli — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida flesh xotira mikrosxemasi va kontroller bor. Kontroller SPI buyruqlarini xotira blokiga aylantiradi.",
      "Kutubxona esa bloklar ustiga FAYL TIZIMINI quradi — shuning uchun kompyuter ham bu faylni o'qiy oladi.",
@@ -104378,7 +104378,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: SD kart qaysi protokol bilan ulanadi?  Javob: SPI.",
      "Savol: Yozgandan keyin nima qilish shart?  Javob: Faylni close() bilan yopish."
@@ -104544,7 +104544,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. microSD kart moduli — texnik tasnif (4 daqiqa)",
+    "title": "5.3. microSD kart moduli — texnik tasnif (4 daqiqa)",
     "points": [
      "Interfeys: SPI (CS, SCK, MOSI, MISO).",
      "Kart formati: FAT16 yoki FAT32 SHART. exFAT va NTFS ishlamaydi.",
@@ -104555,7 +104555,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. microSD kart moduli — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. microSD kart moduli — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida flesh xotira mikrosxemasi va kontroller bor. Kontroller SPI buyruqlarini xotira blokiga aylantiradi.",
      "Kutubxona esa bloklar ustiga FAYL TIZIMINI quradi — shuning uchun kompyuter ham bu faylni o'qiy oladi.",
@@ -104564,7 +104564,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: CSV nima?  Javob: Vergul bilan ajratilgan qiymatlar formati.",
      "Savol: Yozish chastotasi nimaga qarab tanlanadi?  Javob: O'lchanayotgan hodisaning o'zgarish tezligiga."
@@ -104730,7 +104730,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. RTC DS3231 (real vaqt soati) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. RTC DS3231 (real vaqt soati) — texnik tasnif (4 daqiqa)",
     "points": [
      "Aniqligi: yiliga ±2 daqiqa (ichida termokompensatsiyali kvars bor).",
      "DS1307 dan afzalligi: DS1307 yiliga 30 daqiqagacha adashadi, DS3231 esa harorat o'zgarsa ham aniq yuradi.",
@@ -104741,7 +104741,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. RTC DS3231 (real vaqt soati) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. RTC DS3231 (real vaqt soati) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida kvars kristalli 32 768 Hz chastotada tebranadi. Bu son bejiz emas: 32768 = 2 ning 15-darajasi.",
      "Shuning uchun tebranishlarni 15 marta ikkiga bo'lish orqali aniq 1 Hz — ya'ni SEKUND olinadi.",
@@ -104751,7 +104751,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: DS3231 ning aniqligi qanday?  Javob: Yiliga ±2 daqiqa atrofida.",
      "Savol: Sozlashdan keyin kod bilan nima qilinadi?  Javob: Izohga olinadi."
@@ -104906,7 +104906,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega bayroq o'zgaruvchisi kerak?  Javob: Amal bir marta bajarilishi uchun.",
      "Savol: Aniq vaqt kerak bo'lmasa qanday usul soddaroq?  Javob: millis() bilan interval."
@@ -104993,7 +104993,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Bu safar ESP32 — mijoz (client), server emas.",
      "Doskaga chiqariladigan namuna: \"ESP32 tashqi serverdan ma'lumot oladi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -105001,7 +105001,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: HTTP javob kodi 200 nimani bildiradi?  Javob: So'rov muvaffaqiyatli bajarilgan.",
      "Savol: http.end() nima uchun kerak?  Javob: Xotirani bo'shatish uchun."
@@ -105093,7 +105093,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Bulut xizmati ma'lumotni saqlaydi va grafikda ko'rsatadi.",
      "Doskaga chiqariladigan namuna: \"ThingSpeak ga o'lchov yuborish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -105101,7 +105101,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: API kalit nima?  Javob: Xizmatga murojaat qilish uchun maxfiy kalit.",
      "Savol: Bepul rejada odatda qanday cheklov bo'ladi?  Javob: Yuborish chastotasi cheklanadi, masalan 15 sekundda bir marta."
@@ -105193,7 +105193,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Grafikda ma'noli xulosa chiqishi uchun o'lchov ORALIG'I bir xil bo'lishi va ortiqcha shovqin filtrlanishi kerak.",
      "Doskaga chiqariladigan namuna: \"Ma'lumotni tahlil qilish uchun tayyorlash\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -105201,7 +105201,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Grafikda to'satdan tekis chiziq nimani bildirishi mumkin?  Javob: Sensor nosozligini yoki uzilganini.",
      "Savol: Ma'lumotni chuqurroq tahlil qilish uchun nima qilinadi?  Javob: CSV qilib yuklab olib, jadval dasturida ishlash."
@@ -105293,7 +105293,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "BotFather'dan token olinadi, chat ID esa @userinfobot dan.",
      "Doskaga chiqariladigan namuna: \"Botni yaratish va birinchi xabar yuborish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -105301,7 +105301,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Bot yaratish uchun kimga murojaat qilinadi?  Javob: @BotFather ga.",
      "Savol: Token nima?  Javob: Botni boshqarish uchun maxfiy kalit."
@@ -105393,7 +105393,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Muhim: har o'lchovda emas, faqat HOLAT O'ZGARGANDA xabar yuboriladi.",
      "Doskaga chiqariladigan namuna: \"Sensor chegaradan oshganda avtomatik xabar\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -105401,7 +105401,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega bayroq kerak?  Javob: Xabar bir marta yuborilishi uchun.",
      "Savol: Xabarda nima bo'lishi kerak?  Javob: Nima bo'lgani, qachon va qanday qiymat."
@@ -105493,7 +105493,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Matn yozish o'rniga tayyor tugmalar — foydalanish ancha qulay.",
      "Doskaga chiqariladigan namuna: \"Tugmali klaviatura bilan boshqaruv\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -105501,7 +105501,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega chat ID tekshiriladi?  Javob: Faqat ruxsat berilgan odam qurilmani boshqarishi uchun.",
      "Savol: Buyruqlar qanday belgilanadi?  Javob: / belgisi bilan boshlanadi."
@@ -105593,7 +105593,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "MQTT da qurilmalar bir-birini BILMAYDI. Ular faqat brokerni va mavzu nomini biladi.",
      "Doskaga chiqariladigan namuna: \"Broker, mavzu, obuna — uch tushuncha amalda\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -105601,7 +105601,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: MQTT ning uch elementi qaysi?  Javob: Broker, publisher, subscriber.",
      "Savol: Xabarlar nima bo'yicha tashkil qilinadi?  Javob: Mavzu (topic) bo'yicha."
@@ -105693,7 +105693,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "ESP-NOW da router kerak emas — ikki plata bir-biri bilan bevosita gaplashadi. Masofa 100 metrgacha.",
      "Doskaga chiqariladigan namuna: \"ESP-NOW: to'g'ridan-to'g'ri, WiFi tarmog'isiz\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -105701,7 +105701,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ESP-NOW ning afzalligi nima?  Javob: Routersiz, tez va kam quvvat sarflaydi.",
      "Savol: ESP-NOW uchun nima kerak?  Javob: Qabul qiluvchining MAC manzili."
@@ -105793,7 +105793,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Bluetooth HC-05 / JDY-31 — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Bluetooth HC-05 / JDY-31 — texnik tasnif (4 daqiqa)",
     "points": [
      "Bluetooth 2.0 SPP (Serial Port Profile) — simsiz COM port kabi ishlaydi.",
      "Masofa: 10 metrgacha (ochiq joyda).",
@@ -105805,7 +105805,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Bluetooth HC-05 / JDY-31 — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Bluetooth HC-05 / JDY-31 — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Modul ma'lumotni radio to'lqin orqali uzatadi, lekin plata uchun bu oddiy SERIAL aloqadan farq qilmaydi.",
      "Ya'ni plata Serial.print bilan yozadi — modul uni radio orqali telefonga uzatadi. Bu abstraksiya deyiladi: murakkab ish yashiringan.",
@@ -105815,7 +105815,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: BLE ning asosiy afzalligi nima?  Javob: Juda kam quvvat sarflaydi.",
      "Savol: BLE da ma'lumot qanday tashkil qilinadi?  Javob: Service ichida Characteristic."
@@ -105970,7 +105970,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Har bir rejimda tok va uyg'onish tezligi boshqacha.",
      "Doskaga chiqariladigan namuna: \"Uch rejim: aktiv, light sleep, deep sleep\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -105978,7 +105978,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Deep sleep da iste'mol qancha bo'ladi?  Javob: Taxminan 10 mikroamper.",
      "Savol: Uyg'ongandan keyin dastur qayerdan boshlanadi?  Javob: setup() dan."
@@ -106070,7 +106070,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Batareya kuchlanishini ham o'lchab, past bo'lganda ogohlantirish kerak.",
      "Doskaga chiqariladigan namuna: \"To'liq avtonom o'lchov stansiyasi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -106078,7 +106078,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 2000 mAh va 2 mA iste'mol bilan qancha ishlaydi?  Javob: 1000 soat, ya'ni ~41 kun.",
      "Savol: Nega amalda kamroq chiqadi?  Javob: O'z-o'zidan razryadlanish, harorat va stabilizator yo'qotishlari."
@@ -106170,7 +106170,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Metall korpus WiFi ga qanday ta'sir qiladi?  Javob: Signalni to'sadi.",
      "Savol: Simlar nima uchun mahkamlanadi?  Javob: Tebranishdan uzilib qolmasligi uchun."
@@ -106257,7 +106257,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega uzoq muddatli sinov kerak?  Javob: Xotira sizishi va aloqa uzilishi faqat vaqt o'tib ko'rinadi.",
      "Savol: Tuzatishdan keyin nima qilinadi?  Javob: Oldingi sinovlar qayta bajariladi."
@@ -106344,7 +106344,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Taqdimotda sinov natijalari qanday beriladi?  Javob: Aniq raqamlar bilan.",
      "Savol: Nega zaxira video kerak?  Javob: Jonli namoyish buzilib qolishi mumkin."
@@ -106797,7 +106797,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Uch tushunchani bir sxemada ko'rish (4 daqiqa)",
+    "title": "5.3. Uch tushunchani bir sxemada ko'rish (4 daqiqa)",
     "points": [
      "Yopiq zanjir — tok aylanib yuradigan uzluksiz yo'l. Yo'l uzilsa tok to'xtaydi.",
      "Kuchlanish manbada hosil bo'ladi va zanjir bo'ylab elementlarda TAQSIMLANADI.",
@@ -106806,7 +106806,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Multimetr bilan tekshirish tartibi (4 daqiqa)",
+    "title": "5.4. Multimetr bilan tekshirish tartibi (4 daqiqa)",
     "points": [
      "Kuchlanish PARALLEL o'lchanadi: shchuplar element ikki uchiga tegiziladi, zanjir uzilmaydi.",
      "Tok KETMA-KET o'lchanadi: zanjir uziladi va multimetr shu uzilgan joyga qo'yiladi.",
@@ -106815,7 +106815,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tok qanday zanjirda yuradi?  Javob: Faqat yopiq zanjirda.",
      "Savol: 5 V da LED uchun qanday rezistor olinadi?  Javob: 220 Om."
@@ -106902,7 +106902,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Uch rejim va ularning ulanishi (4 daqiqa)",
+    "title": "5.3. Uch rejim va ularning ulanishi (4 daqiqa)",
     "points": [
      "Kuchlanish (V) — PARALLEL ulanadi, zanjir uzilmaydi. Qora shchup GND ga, qizil o'lchanadigan nuqtaga.",
      "Tok (A) — KETMA-KET ulanadi, zanjir uziladi va multimetr shu joyga qo'yiladi. Shchup uyasi ham almashtiriladi.",
@@ -106911,7 +106911,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. O'lchash madaniyati (4 daqiqa)",
+    "title": "5.4. O'lchash madaniyati (4 daqiqa)",
     "points": [
      "Avval oraliqni katta qilib qo'yib, keyin kichraytirish kerak — noma'lum kuchlanishni kichik oraliqda o'lchash asbobni shikastlaydi.",
      "Har o'lchovdan oldin shchup qaysi uyada turganini tekshirish odat bo'lishi kerak: tok uyasida qolgan shchup bilan kuchlanish o'lchash — qisqa tutashuv.",
@@ -106920,7 +106920,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tok qanday ulanish bilan o'lchanadi?  Javob: Ketma-ket.",
      "Savol: Zumlash nima uchun ishlatiladi?  Javob: Ulanish bor-yo'qligini tekshirish uchun."
@@ -107007,7 +107007,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Mashqlarni yechish tartibi (4 daqiqa)",
+    "title": "5.3. Mashqlarni yechish tartibi (4 daqiqa)",
     "points": [
      "1-qadam: berilganlarni yozish va birliklarni asosiy shaklga keltirish (mA -> A, kOm -> Om).",
      "2-qadam: qaysi kattalik noma'lumligiga qarab formulaning kerakli shaklini tanlash.",
@@ -107016,7 +107016,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Namunaviy masalalar va javoblari (4 daqiqa)",
+    "title": "5.4. Namunaviy masalalar va javoblari (4 daqiqa)",
     "points": [
      "5 V manba, 1 kOm rezistor. Tok qancha? I = 5 / 1000 = 0,005 A = 5 mA.",
      "Tok 25 mA, kuchlanish 3 V. Qarshilik qancha? R = 3 / 0,025 = 120 Om.",
@@ -107026,7 +107026,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 6 V va 300 Om: tok qancha?  Javob: 20 mA.",
      "Savol: V / kOm nima beradi?  Javob: Milliamperni."
@@ -107113,7 +107113,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Potensiometr 10 kOm — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Potensiometr 10 kOm — texnik tasnif (4 daqiqa)",
     "points": [
      "O'zgaruvchan rezistor. Nominal 10 kOm — chetdagi ikki oyoq orasidagi qarshilik doim 10 kOm.",
      "O'rta oyoq (surgich) buralganda 0 dan 10 kOm gacha siljiydi.",
@@ -107122,7 +107122,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Potensiometr 10 kOm — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Potensiometr 10 kOm — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Potensiometr — bu tayyor KUCHLANISH BO'LUVCHI. Surgich yuqoriroqda bo'lsa chiqishda kuchlanish katta, pastroqda bo'lsa kichik.",
      "Qarshilik emas, KUCHLANISH o'lchanadi: plata analog pindagi kuchlanishni raqamga aylantiradi.",
@@ -107130,7 +107130,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Bo'luvchi formulasida R2 qaysi rezistor?  Javob: GND ga ulangan pastki rezistor.",
      "Savol: Yuklama qanchalik katta bo'lishi kerak?  Javob: R2 dan kamida 10 marta."
@@ -107239,7 +107239,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Baza rezistori nima uchun kerak?  Javob: Baza tokini cheklash va tranzistorni saqlash uchun.",
      "Savol: To'yingan tranzistorda kollektor-emitter kuchlanishi qancha?  Javob: 0,2 V atrofida."
@@ -107326,7 +107326,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kondensator nima qiladi (4 daqiqa)",
+    "title": "5.3. Kondensator nima qiladi (4 daqiqa)",
     "points": [
      "Kondensator ichida ikki metall plastina va ular orasida izolyator bor. U zaryadni VAQTINCHA to'playdi.",
      "Sig'imi faradda (F) o'lchanadi, lekin farad juda katta birlik. Amalda mikrofarad (mkF), nanofarad (nF) va pikofarad (pF) ishlatiladi.",
@@ -107336,7 +107336,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Zaryadlanish va bo'shash vaqti (4 daqiqa)",
+    "title": "5.4. Zaryadlanish va bo'shash vaqti (4 daqiqa)",
     "points": [
      "Kondensator bir zumda to'lmaydi: rezistor orqali ulansa u ASTA-SEKIN zaryadlanadi.",
      "Vaqt doimiysi: t = R x C. Bu vaqtda kondensator to'liq kuchlanishning 63 % iga yetadi.",
@@ -107346,7 +107346,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Amalda qayerda ishlatiladi (4 daqiqa)",
+    "title": "5.5. Amalda qayerda ishlatiladi (4 daqiqa)",
     "points": [
      "Quvvat liniyasidagi silliqlash: motor ishga tushganda kuchlanish cho'kadi, kondensator shu lahzada zaxira zaryadni beradi va plata qayta yuklanmaydi.",
      "Shuning uchun servo yoki motor bilan ishlaganda quvvat liniyasiga 100-470 mkF kondensator qo'yiladi.",
@@ -107354,7 +107354,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 10 kOm va 47 uF uchun T qancha?  Javob: 470 ms.",
      "Savol: Elektrolitik kondensatorda kalta oyoq qaysi qutb?  Javob: Manfiy."
@@ -107441,7 +107441,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Rele moduli — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Rele moduli — texnik tasnif (4 daqiqa)",
     "points": [
      "Elektromagnit kalit: kuchsiz signal bilan kuchli yuklamani ulaydi.",
      "G'altak: 5 V, 70-90 mA (shuning uchun to'g'ridan-to'g'ri pindan quvvatlanmaydi — modulda tranzistor bor).",
@@ -107452,7 +107452,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Rele moduli — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Rele moduli — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida g'altak va temir yakor bor. G'altakdan tok o'tsa u elektromagnitga aylanadi va yakorni tortadi.",
      "Yakor kontaktni COM-NC holatidan COM-NO holatiga o'tkazadi. Tok uzilsa prujina uni qaytaradi.",
@@ -107462,7 +107462,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Rele nimani ajratadi?  Javob: Boshqaruv va yuklama zanjirlarini.",
      "Savol: Flyback diod nima uchun kerak?  Javob: G'altak o'chganda hosil bo'ladigan impulsni yo'q qilish uchun."
@@ -107575,7 +107575,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ikki sensor ketma-ket ulansa qaysi mantiq hosil bo'ladi?  Javob: VA.",
      "Savol: Dasturiy mantiqning afzalligi nima?  Javob: O'zgartirish uchun sxemani qayta yig'ish kerak emas."
@@ -107662,7 +107662,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Mikrokontrollerda mantiq nima bilan belgilanadi?  Javob: Dastur bilan.",
      "Savol: Oddiy zanjirda-chi?  Javob: Simlar va komponentlarning ulanishi bilan."
@@ -107749,7 +107749,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Plataning har bir qismi (raqamli pin, PWM pin, analog pin, ichki LED, Serial) alohida sinab ko'riladi.",
      "Doskaga chiqariladigan namuna: \"Plata bo'limlarini birma-bir sinaydigan dastur\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -107757,7 +107757,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: USB port nechta vazifani bajaradi?  Javob: Ikkita: dastur yuklash va quvvat berish.",
      "Savol: Reset tugmasi nima qiladi?  Javob: Dasturni boshidan ishga tushiradi."
@@ -107849,7 +107849,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Pin KIRISH bo'lsa plata uni o'qiydi, CHIQISH bo'lsa unga kuchlanish beradi. Bir pin bir vaqtda ikkisi bo'la olmaydi.",
      "Doskaga chiqariladigan namuna: \"Kirish va chiqish pinlarini bir sxemada solishtirish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -107857,7 +107857,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Analog pin nimasi bilan raqamlidan farq qiladi?  Javob: U oraliq qiymatlarni ham o'qiy oladi.",
      "Savol: Pindan maksimal qancha tok olinadi?  Javob: 20 mA."
@@ -107949,7 +107949,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Port ko'rinmasa birinchi nima tekshiriladi?  Javob: USB kabel — unda ma'lumot simlari bormi.",
      "Savol: Klon platalar uchun qaysi drayver kerak?  Javob: CH340."
@@ -108036,7 +108036,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Blok nima?  Javob: Tayyor buyruq, uni sudrab olib qo'yiladi.",
      "Savol: Blokli dasturlashning afzalligi nima?  Javob: Sintaksis xatosi bo'lmaydi."
@@ -108123,7 +108123,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Live va Upload rejimlari farqi nima?  Javob: Live da kompyuter boshqaradi, Upload da plata mustaqil ishlaydi.",
      "Savol: Qaysi rejimda plata kompyutersiz ishlaydi?  Javob: Upload rejimida."
@@ -108210,7 +108210,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -108220,7 +108220,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -108228,7 +108228,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: LEDni yoqish blogi qaysi buyruqqa to'g'ri keladi?  Javob: digitalWrite ga.",
      "Savol: Blok bir marta bajariladimi?  Javob: Ha, takrorlanishi uchun sikl kerak."
@@ -108365,7 +108365,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Blokli muhitdagi kutish blogi Arduino'dagi delay() ga to'g'ri keladi.",
      "Doskaga chiqariladigan namuna: \"Kutish blogining matnli ko'rinishi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -108373,7 +108373,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kutish blogi vaqtni qaysi birlikda oladi?  Javob: Sekundda.",
      "Savol: Juda tez miltillash qanday ko'rinadi?  Javob: LED doim yonayotgandek, faqat xiraroq."
@@ -108465,7 +108465,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Bloklar yuqoridan pastga qat'iy tartibda bajariladi. Tartibni o'zgartirsangiz natija ham o'zgaradi.",
      "Doskaga chiqariladigan namuna: \"Ketma-ketlik: tartib natijani belgilaydi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -108473,7 +108473,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Bloklar qanday tartibda bajariladi?  Javob: Yuqoridan pastga.",
      "Savol: Tartib o'zgarsa natija o'zgaradimi?  Javob: Ha, butunlay boshqa bo'lishi mumkin."
@@ -108565,7 +108565,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Yuklash tugagach ikki belgi bo'lishi kerak: LED miltillaydi va Serial monitorda yozuv chiqadi.",
      "Doskaga chiqariladigan namuna: \"Yuklash muvaffaqiyatli bo'lganini tasdiqlovchi dastur\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -108573,7 +108573,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Yuklangan dastur qayerda saqlanadi?  Javob: Plataning xotirasida.",
      "Savol: Plataga nechta dastur sig'adi?  Javob: Bir vaqtda bittasi."
@@ -109038,7 +109038,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Takrorlash blogi kodni qisqartiradi va xatoni kamaytiradi.",
      "Doskaga chiqariladigan namuna: \"Blokli muhitdagi takrorlash — matnli ko'rinishi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -109046,7 +109046,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: \"Doim\" blogi qaysi matnli konstruksiyaga to'g'ri keladi?  Javob: loop() ga.",
      "Savol: Sikl nima beradi?  Javob: Takrorlanadigan kodni qisqartiradi."
@@ -109138,7 +109138,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -109148,7 +109148,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -109156,7 +109156,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Yugurish effekti uchun nima qilish kerak?  Javob: Keyingisini yoqishdan oldin oldingisini o'chirish.",
      "Savol: Beshta LED qancha tok oladi?  Javob: Taxminan 75 mA."
@@ -109293,7 +109293,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -109303,7 +109303,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -109311,7 +109311,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Svetofor siklida nechta asosiy holat bor?  Javob: To'rtta.",
      "Savol: Har holatda nechta LEDning holati belgilanadi?  Javob: Uchalasi ham."
@@ -109448,7 +109448,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Olov (flame) datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Olov (flame) datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Infraqizil fotodiod (odatda ko'k rangli) 760-1100 nm to'lqin uzunligiga sezgir.",
      "Sezish masofasi: 80 sm gacha (sham olovi uchun ~30-50 sm).",
@@ -109458,7 +109458,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Olov (flame) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Olov (flame) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Olov ko'zga ko'rinadigan yorug'likdan tashqari kuchli INFRAQIZIL nur ham chiqaradi.",
      "Fotodiod aynan shu infraqizil oraliqda sezgir. Unga IQ nur tushsa, chiqish kuchlanishi o'zgaradi.",
@@ -109467,7 +109467,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Effekt uchun nima kerak?  Javob: Keyingisini yoqib, oldingisini o'chirish.",
      "Savol: Tabiiy tezlik uchun kutish qancha bo'ladi?  Javob: 0,05-0,1 sekund."
@@ -109615,7 +109615,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "O'zgaruvchi — nomlangan qiymat. Uni bir joyda o'zgartirsangiz, u ishlatilgan hamma joyda o'zgaradi.",
      "Doskaga chiqariladigan namuna: \"O'zgaruvchi bilan bir joydan boshqarish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -109623,7 +109623,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: O'zgaruvchining afzalligi nima?  Javob: Qiymat bir joyda o'zgartiriladi.",
      "Savol: Nom qanday bo'lishi kerak?  Javob: Ma'noli, nima saqlashini bildiradigan."
@@ -109715,7 +109715,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Sanoq — har hodisada bittaga oshadigan o'zgaruvchi. Uni ekranda ko'rsatish tugma va LCD bilan qilinadi.",
      "Doskaga chiqariladigan namuna: \"Sanoq o'zgaruvchisini ekranda kuzatish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -109723,7 +109723,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sanoq nima?  Javob: Har takrorlanishda oshib boradigan o'zgaruvchi.",
      "Savol: Sanoqni ko'rish uchun nima ishlatiladi?  Javob: Serial aloqa yoki ekran oynasi."
@@ -109815,7 +109815,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -109825,7 +109825,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -109833,7 +109833,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. RGB LED (umumiy katod) — texnik tasnif (4 daqiqa)",
+    "title": "5.5. RGB LED (umumiy katod) — texnik tasnif (4 daqiqa)",
     "points": [
      "Bitta korpusda uchta LED: qizil, yashil, ko'k. Oyog'i 4 ta.",
      "Umumiy katod turi: eng uzun oyoq GND ga. Umumiy anod turi: eng uzun oyoq 5V ga (mantiq teskari bo'ladi).",
@@ -109842,7 +109842,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. RGB LED (umumiy katod) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. RGB LED (umumiy katod) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ko'z uchta yaqin turgan nurni ajratmaydi va ularni bitta rang deb qabul qiladi — bu ADDITIV rang aralashtirish.",
      "Har bir rangning yorqinligini PWM bilan 0 dan 255 gacha o'zgartirib, 256 x 256 x 256 = 16,7 million tus olinadi.",
@@ -109850,7 +109850,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Uch rang yoqiq/o'chiq holatda nechta kombinatsiya beradi?  Javob: Sakkizta.",
      "Savol: 16,7 million rang qanday hosil bo'ladi?  Javob: Har rangga 256 daraja: 256 ni uchinchi darajaga ko'tarish."
@@ -110044,7 +110044,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Ko'z yorqinlikni CHIZIQLI sezmaydi: 0 dan 50 gacha o'zgarish 200 dan 250 gacha o'zgarishdan ancha sezilarli.",
      "Doskaga chiqariladigan namuna: \"Silliq yorishish va ko'zning chiziqsizligi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -110052,7 +110052,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: PWM qiymati qanday oraliqda beriladi?  Javob: 0 dan 255 gacha.",
      "Savol: Qaysi pinlarda ishlaydi?  Javob: ~ belgili pinlarda."
@@ -110144,7 +110144,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Passiv zummer — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Passiv zummer — texnik tasnif (4 daqiqa)",
     "points": [
      "Ichida pyezoelektrik plastinka bor. Generator YO'Q — chastotani dastur berishi kerak.",
      "Ishchi kuchlanishi: 3-5 V. Tok: 20-30 mA (pin chegarasida, shuning uchun 100 Om qo'yish tavsiya etiladi).",
@@ -110153,7 +110153,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Passiv zummer — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Passiv zummer — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Pyezoplastinkaga kuchlanish berilsa u biroz egiladi, olinsa qaytadi. Sekundiga 440 marta egilsa — havoda 440 Hz to'lqin hosil bo'ladi, quloq buni \"lya\" notasi deb eshitadi.",
      "Chastota — sekundiga necha marta tebranish. Chastota katta bo'lsa tovush INGICHKA, kichik bo'lsa YO'G'ON.",
@@ -110161,7 +110161,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Chastota oshsa tovush qanday o'zgaradi?  Javob: Ingichkalashadi.",
      "Savol: Melodiya uchun qaysi zummer kerak?  Javob: Passiv."
@@ -110296,7 +110296,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Passiv zummer — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Passiv zummer — texnik tasnif (4 daqiqa)",
     "points": [
      "Ichida pyezoelektrik plastinka bor. Generator YO'Q — chastotani dastur berishi kerak.",
      "Ishchi kuchlanishi: 3-5 V. Tok: 20-30 mA (pin chegarasida, shuning uchun 100 Om qo'yish tavsiya etiladi).",
@@ -110305,7 +110305,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Passiv zummer — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Passiv zummer — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Pyezoplastinkaga kuchlanish berilsa u biroz egiladi, olinsa qaytadi. Sekundiga 440 marta egilsa — havoda 440 Hz to'lqin hosil bo'ladi, quloq buni \"lya\" notasi deb eshitadi.",
      "Chastota — sekundiga necha marta tebranish. Chastota katta bo'lsa tovush INGICHKA, kichik bo'lsa YO'G'ON.",
@@ -110313,7 +110313,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: LYA notasining chastotasi qancha?  Javob: 440 Hz.",
      "Savol: Notalar orasida nima kerak?  Javob: Qisqa pauza."
@@ -110448,7 +110448,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Servo SG90 — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Servo SG90 — texnik tasnif (4 daqiqa)",
     "points": [
      "Burilish burchagi: 0 dan 180 gradusgacha (360 gradus aylanadigan turi ham bor, lekin u burchakni emas, tezlikni boshqaradi).",
      "Ta'minot: 4,8-6 V. Tinch holatda 10 mA, harakatda 100-250 mA, tiqilib qolganda 700 mA gacha.",
@@ -110459,7 +110459,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Servo SG90 — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Servo SG90 — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida to'rt qism bor: DC motor, tishli reduktor, potensiometr va boshqaruv platasi.",
      "Potensiometr chiqish valiga ulangan — u SERVOGA O'ZI hozir qaysi burchakda turganini bildiradi.",
@@ -110470,7 +110470,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Servo qanday burchak oralig'ida ishlaydi?  Javob: 0 dan 180 gacha.",
      "Savol: Servo quvvatini qayerdan olish kerak?  Javob: Alohida manbadan, GND umumiy holda."
@@ -110620,7 +110620,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Servo SG90 — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Servo SG90 — texnik tasnif (4 daqiqa)",
     "points": [
      "Burilish burchagi: 0 dan 180 gradusgacha (360 gradus aylanadigan turi ham bor, lekin u burchakni emas, tezlikni boshqaradi).",
      "Ta'minot: 4,8-6 V. Tinch holatda 10 mA, harakatda 100-250 mA, tiqilib qolganda 700 mA gacha.",
@@ -110631,7 +110631,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Servo SG90 — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Servo SG90 — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida to'rt qism bor: DC motor, tishli reduktor, potensiometr va boshqaruv platasi.",
      "Potensiometr chiqish valiga ulangan — u SERVOGA O'ZI hozir qaysi burchakda turganini bildiradi.",
@@ -110642,7 +110642,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Silliq harakat qanday qilinadi?  Javob: Burchakni bosqichma-bosqich o'zgartirib.",
      "Savol: Servo tovush chiqarsa nima demak?  Javob: U majburan burilishga urinmoqda — burchak chegarasi noto'g'ri."
@@ -110792,7 +110792,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. DC motor (tranzistor orqali) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. DC motor (tranzistor orqali) — texnik tasnif (4 daqiqa)",
     "points": [
      "Oddiy kollektorli motor. Kuchlanishi: 3-6 V (maktab to'plamlarida).",
      "Bo'sh yurishda 70-150 mA, yuk ostida 300-500 mA, tiqilib qolganda 1 A dan ortiq.",
@@ -110802,7 +110802,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. DC motor (tranzistor orqali) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. DC motor (tranzistor orqali) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Motor ichida g'altak (rotor) va doimiy magnitlar bor. G'altakdan tok o'tganda u magnitga aylanadi va doimiy magnitlar bilan tortishib-itarishib aylanadi.",
      "Kollektor va cho'tkalar har yarim aylanishda tok yo'nalishini almashtiradi — shuning uchun aylanish to'xtamaydi.",
@@ -110812,7 +110812,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Motor nega to'g'ridan-to'g'ri pinga ulanmaydi?  Javob: U pin bera oladigandan ancha ko'p tok oladi.",
      "Savol: Ikki manba ishlatilganda nima umumiy bo'lishi kerak?  Javob: GND."
@@ -110969,7 +110969,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega past PWM da motor aylanmaydi?  Javob: Ishga tushish uchun minimal kuchlanish kerak.",
      "Savol: Bu qanday hal qilinadi?  Javob: Qisqa vaqtga to'liq quvvat berib, keyin pasaytirib."
@@ -111056,7 +111056,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. L298N motor drayveri — texnik tasnif (4 daqiqa)",
+    "title": "5.3. L298N motor drayveri — texnik tasnif (4 daqiqa)",
     "points": [
      "Ikkita DC motorni (yoki bitta qadamli motorni) mustaqil boshqaradi.",
      "Motor kuchlanishi: 5-35 V. Bir kanaldan doimiy 2 A, qisqa muddatga 3 A.",
@@ -111067,7 +111067,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. L298N motor drayveri — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. L298N motor drayveri — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida H-KO'PRIK sxemasi bor: to'rtta elektron kalit \"H\" harfi shaklida joylashgan, motor esa o'rtadagi ko'ndalang chiziqda.",
      "Chap yuqori va o'ng past kalit ochilsa — tok bir tomonga oqadi, motor o'ngga aylanadi.",
@@ -111079,7 +111079,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Burilish qanday bo'ladi?  Javob: Motorlarning turli tezligi hisobiga.",
      "Savol: Nega aravacha to'g'ri yurmaydi?  Javob: Motorlar bir xil emas, tuzatish kerak."
@@ -111274,7 +111274,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kutish blogi nima muammo yaratadi?  Javob: Butun dasturni to'xtatadi.",
      "Savol: Hozircha qanday yechim bor?  Javob: Uzun kutishni qisqa bo'laklarga bo'lish."
@@ -111361,7 +111361,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Bloklarni birma-bir o'chirib sinash — eng ishonchli usul.",
      "Doskaga chiqariladigan namuna: \"Blokli muhitda xatoni bosqichma-bosqich izlash\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -111369,7 +111369,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Blokli dasturda qanday xato bo'ladi?  Javob: Faqat mantiqiy xato.",
      "Savol: Xatoni topish uchun nima qilinadi?  Javob: Bloklarni bo'lib sinash va o'zgaruvchilarni ko'rish."
@@ -111461,7 +111461,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Bir xil ishni bajaradigan ikki kod — biri o'qib bo'lmaydi, ikkinchisi o'zini o'zi tushuntiradi.",
      "Doskaga chiqariladigan namuna: \"Chalkash kod va uning toza varianti\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -111469,7 +111469,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Izohda nima yozilishi kerak?  Javob: Nega shunday qilingani.",
      "Savol: Yaxshi dasturning mezoni nima?  Javob: Boshqa odam uni tushuna olishi."
@@ -111860,7 +111860,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "mBlock blogi va Arduino kodi bir xil ishni bajaradi. Ikkalasini yonma-yon ko'rsatish o'tishni osonlashtiradi.",
      "Doskaga chiqariladigan namuna: \"Blokli muhitda shart — matnli kod bilan yonma-yon\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -111868,7 +111868,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Shart nima?  Javob: Rost yoki yolg'on bo'ladigan ifoda.",
      "Savol: Shart bloki qayerda turishi kerak?  Javob: \"Doim\" siklining ichida."
@@ -111960,7 +111960,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tugma (push button) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Tugma (push button) — texnik tasnif (4 daqiqa)",
     "points": [
      "Taktil tugma (tact switch) — 4 oyoqli, lekin aslida 2 ta kontakt: qarama-qarshi oyoqlar juft-juft ulangan.",
      "Bosilganda kontakt ulanadi, qo'yib yuborilganda prujina uni ochadi.",
@@ -111969,7 +111969,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Rezistorsiz ulangan pin havoda \"suzadi\": unga tegishmagan holatda ham atrofdagi elektr maydonidan tasodifiy 0 va 1 o'qiladi.",
      "Tortuvchi rezistor pinni tinch holatda aniq bir darajaga tortib turadi. INPUT_PULLUP da pin 5 V ga tortiladi, ya'ni tinch holat = HIGH.",
@@ -111977,7 +111977,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tortuvchi rezistorsiz kirish qanday bo'ladi?  Javob: Osilgan holatda, tasodifiy qiymat beradi.",
      "Savol: Tortuvchi rezistor qiymati odatda qancha?  Javob: 10 kOm."
@@ -112111,7 +112111,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "else blogi — \"qolgan hamma holat\". Usiz chiroq bir marta yonib, hech qachon o'chmaydi.",
      "Doskaga chiqariladigan namuna: \"Ikki holat uchun ikki javob\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -112119,7 +112119,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Else blogi qachon bajariladi?  Javob: Shart yolg'on bo'lganda.",
      "Savol: Ikkala yo'l ham bajarilishi mumkinmi?  Javob: Yo'q, doim faqat biri."
@@ -112211,7 +112211,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tugma (push button) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Tugma (push button) — texnik tasnif (4 daqiqa)",
     "points": [
      "Taktil tugma (tact switch) — 4 oyoqli, lekin aslida 2 ta kontakt: qarama-qarshi oyoqlar juft-juft ulangan.",
      "Bosilganda kontakt ulanadi, qo'yib yuborilganda prujina uni ochadi.",
@@ -112220,7 +112220,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Rezistorsiz ulangan pin havoda \"suzadi\": unga tegishmagan holatda ham atrofdagi elektr maydonidan tasodifiy 0 va 1 o'qiladi.",
      "Tortuvchi rezistor pinni tinch holatda aniq bir darajaga tortib turadi. INPUT_PULLUP da pin 5 V ga tortiladi, ya'ni tinch holat = HIGH.",
@@ -112228,7 +112228,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Har tugmaga nima kerak?  Javob: O'z pini va o'z shart bloki.",
      "Savol: Ikkalasi birga bosilsa nima bo'ladi?  Javob: Buni dastur muallifi oldindan hal qilishi kerak."
@@ -112362,7 +112362,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Potensiometr 10 kOm — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Potensiometr 10 kOm — texnik tasnif (4 daqiqa)",
     "points": [
      "O'zgaruvchan rezistor. Nominal 10 kOm — chetdagi ikki oyoq orasidagi qarshilik doim 10 kOm.",
      "O'rta oyoq (surgich) buralganda 0 dan 10 kOm gacha siljiydi.",
@@ -112371,7 +112371,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Potensiometr 10 kOm — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Potensiometr 10 kOm — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Potensiometr — bu tayyor KUCHLANISH BO'LUVCHI. Surgich yuqoriroqda bo'lsa chiqishda kuchlanish katta, pastroqda bo'lsa kichik.",
      "Qarshilik emas, KUCHLANISH o'lchanadi: plata analog pindagi kuchlanishni raqamga aylantiradi.",
@@ -112379,7 +112379,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Analog kirish qanday oraliq beradi?  Javob: 0 dan 1023 gacha.",
      "Savol: Potensiometrning nechta oyog'i ulanadi?  Javob: Uchtasi ham."
@@ -112520,7 +112520,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Potensiometr 10 kOm — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Potensiometr 10 kOm — texnik tasnif (4 daqiqa)",
     "points": [
      "O'zgaruvchan rezistor. Nominal 10 kOm — chetdagi ikki oyoq orasidagi qarshilik doim 10 kOm.",
      "O'rta oyoq (surgich) buralganda 0 dan 10 kOm gacha siljiydi.",
@@ -112529,7 +112529,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Potensiometr 10 kOm — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Potensiometr 10 kOm — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Potensiometr — bu tayyor KUCHLANISH BO'LUVCHI. Surgich yuqoriroqda bo'lsa chiqishda kuchlanish katta, pastroqda bo'lsa kichik.",
      "Qarshilik emas, KUCHLANISH o'lchanadi: plata analog pindagi kuchlanishni raqamga aylantiradi.",
@@ -112537,7 +112537,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Analog kirish va PWM chiqish diapazonlari mos keladimi?  Javob: Yo'q — 0-1023 va 0-255.",
      "Savol: Bu qanday hal qilinadi?  Javob: Moslash (map) yoki 4 ga bo'lish bilan."
@@ -112678,7 +112678,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Fotorezistor (LDR) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Fotorezistor (LDR) — texnik tasnif (4 daqiqa)",
     "points": [
      "LDR = Light Dependent Resistor. Qarshiligi YORUG'LIKKA bog'liq.",
      "Qorong'ida: 200 kOm - 1 MOm. Yorug'da: 1-10 kOm. To'g'ridan-to'g'ri chiroq ostida: 100-500 Om.",
@@ -112687,7 +112687,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Fotorezistor (LDR) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Fotorezistor (LDR) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichidagi kadmiy sulfid (CdS) qatlamiga foton tushganda elektronlar bo'shab qoladi va material tokni yaxshiroq o'tkazadi.",
      "Yorug'lik ko'p -> erkin elektron ko'p -> qarshilik KICHIK. Qorong'i -> qarshilik KATTA.",
@@ -112695,7 +112695,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega tayyor chegara ishlatilmaydi?  Javob: Har sensor va sharoitda qiymatlar farq qiladi.",
      "Savol: Chegara qanday tanlanadi?  Javob: O'lchangan qiymatlarning orasidan."
@@ -112830,7 +112830,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Fotorezistor (LDR) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Fotorezistor (LDR) — texnik tasnif (4 daqiqa)",
     "points": [
      "LDR = Light Dependent Resistor. Qarshiligi YORUG'LIKKA bog'liq.",
      "Qorong'ida: 200 kOm - 1 MOm. Yorug'da: 1-10 kOm. To'g'ridan-to'g'ri chiroq ostida: 100-500 Om.",
@@ -112839,7 +112839,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Fotorezistor (LDR) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Fotorezistor (LDR) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichidagi kadmiy sulfid (CdS) qatlamiga foton tushganda elektronlar bo'shab qoladi va material tokni yaxshiroq o'tkazadi.",
      "Yorug'lik ko'p -> erkin elektron ko'p -> qarshilik KICHIK. Qorong'i -> qarshilik KATTA.",
@@ -112847,7 +112847,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega chiroq miltillaydi?  Javob: Chegara atrofida qiymat tebranadi.",
      "Savol: Gisterezis nima?  Javob: Yoqish va o'chirish uchun ikki xil chegara."
@@ -112982,7 +112982,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. NTC termistor — texnik tasnif (4 daqiqa)",
+    "title": "5.3. NTC termistor — texnik tasnif (4 daqiqa)",
     "points": [
      "NTC = Negative Temperature Coefficient: harorat OSHSA qarshilik KAMAYADI.",
      "Nominal qiymat 25 °C da beriladi — maktab to'plamlarida odatda 10 kOm.",
@@ -112991,7 +112991,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. NTC termistor — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. NTC termistor — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Termistor — yarimo'tkazgich. Isiganda ichidagi erkin elektronlar soni ortadi va tokni yaxshiroq o'tkazadi.",
      "Bog'liqlik CHIZIQLI EMAS — shuning uchun analogRead qiymatini to'g'ridan-to'g'ri gradus deb olib bo'lmaydi.",
@@ -112999,7 +112999,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Analog qiymat gradusmi?  Javob: Yo'q, shunchaki raqam — kalibrlash kerak.",
      "Savol: NTC termistorda issiqda qarshilik qanday bo'ladi?  Javob: Kamayadi."
@@ -113135,7 +113135,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Gisterezis va tasdiqlash bilan — yolg'on signal bermaydigan qilib yoziladi.",
      "Doskaga chiqariladigan namuna: \"Chegaradan oshganda signal beruvchi tizim\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -113143,7 +113143,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Chegara qanday aniqlanadi?  Javob: Kerakli haroratda sensor qiymatini o'lchab.",
      "Savol: Termistor qayerga joylashtiriladi?  Javob: O'lchanadigan yuzaga tegib turadigan joyga."
@@ -113235,7 +113235,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. HC-SR04 (ultratovush masofa) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. HC-SR04 (ultratovush masofa) — texnik tasnif (4 daqiqa)",
     "points": [
      "O'lchov oralig'i: 2 sm dan 400 sm gacha. Amalda ishonchli oraliq — 3 sm dan 200 sm gacha.",
      "Aniqlik: ±3 mm. Ko'rish burchagi: 15 daraja.",
@@ -113246,7 +113246,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. HC-SR04 (ultratovush masofa) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. HC-SR04 (ultratovush masofa) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Modulda ikkita silindr bor: biri tovush YUBORADI (T), ikkinchisi QABUL QILADI (R).",
      "TRIG piniga 10 mikrosekundlik HIGH berilsa, modul 8 ta 40 kHz impuls yuboradi.",
@@ -113257,7 +113257,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: HC-SR04 uchun nechta pin kerak?  Javob: Ikkita: TRIG va ECHO.",
      "Savol: Qanday yuzalarda natija noto'g'ri chiqadi?  Javob: Yumshoq va qiya yuzalarda."
@@ -113411,7 +113411,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Passiv zummer — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Passiv zummer — texnik tasnif (4 daqiqa)",
     "points": [
      "Ichida pyezoelektrik plastinka bor. Generator YO'Q — chastotani dastur berishi kerak.",
      "Ishchi kuchlanishi: 3-5 V. Tok: 20-30 mA (pin chegarasida, shuning uchun 100 Om qo'yish tavsiya etiladi).",
@@ -113420,7 +113420,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Passiv zummer — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Passiv zummer — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Pyezoplastinkaga kuchlanish berilsa u biroz egiladi, olinsa qaytadi. Sekundiga 440 marta egilsa — havoda 440 Hz to'lqin hosil bo'ladi, quloq buni \"lya\" notasi deb eshitadi.",
      "Chastota — sekundiga necha marta tebranish. Chastota katta bo'lsa tovush INGICHKA, kichik bo'lsa YO'G'ON.",
@@ -113428,7 +113428,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. HC-SR04 (ultratovush masofa) — texnik tasnif (4 daqiqa)",
+    "title": "5.5. HC-SR04 (ultratovush masofa) — texnik tasnif (4 daqiqa)",
     "points": [
      "O'lchov oralig'i: 2 sm dan 400 sm gacha. Amalda ishonchli oraliq — 3 sm dan 200 sm gacha.",
      "Aniqlik: ±3 mm. Ko'rish burchagi: 15 daraja.",
@@ -113439,7 +113439,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. HC-SR04 (ultratovush masofa) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. HC-SR04 (ultratovush masofa) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Modulda ikkita silindr bor: biri tovush YUBORADI (T), ikkinchisi QABUL QILADI (R).",
      "TRIG piniga 10 mikrosekundlik HIGH berilsa, modul 8 ta 40 kHz impuls yuboradi.",
@@ -113450,7 +113450,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Masofa kamayganda signal qanday o'zgaradi?  Javob: Tez-tez beriladi.",
      "Savol: Juda yaqinda nima bo'lishi kerak?  Javob: Uzluksiz signal."
@@ -113650,7 +113650,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. PIR HC-SR501 (harakat) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. PIR HC-SR501 (harakat) — texnik tasnif (4 daqiqa)",
     "points": [
      "PIR = Passive InfraRed. \"Passiv\" — o'zi hech narsa nurlantirmaydi, faqat tinglaydi.",
      "Sezish masofasi: 3 dan 7 metrgacha (moduldagi vint bilan sozlanadi).",
@@ -113662,7 +113662,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. PIR HC-SR501 (harakat) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. PIR HC-SR501 (harakat) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Har qanday issiq jism infraqizil nur chiqaradi. Inson tanasi ~10 mikrometr to'lqin uzunligida nurlanadi.",
      "Sensor ichida ikkita sezgir maydon bor. Ular ko'radigan nurlanish TENG bo'lsa — signal yo'q.",
@@ -113672,7 +113672,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: PIR nimani sezadi?  Javob: Issiq jismlarning harakatini.",
      "Savol: Yoqilgandan keyin qancha kutish kerak?  Javob: 30-60 sekund."
@@ -113818,7 +113818,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tuproq namligi datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Tuproq namligi datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Ikki xil turi bor: rezistiv (ikki metall vilka) va sig'imli (capacitive, bir butun plastina).",
      "Ta'minot: 3,3-5 V. Tok: 5-20 mA.",
@@ -113828,7 +113828,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tuproq namligi datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Tuproq namligi datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Rezistiv turida: quruq tuproq yomon o'tkazgich, nam tuproq esa (ichidagi tuz eritmasi tufayli) yaxshi o'tkazgich. Ikki vilka orasidagi qarshilik namlikka qarab o'zgaradi.",
      "Doimiy kuchlanish berilganda elektroliz boshlanadi: metall eriydi va vilkaga oq g'ubor o'tiradi — bu korroziya.",
@@ -113836,7 +113836,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nam tuproqda analogRead qiymati qanday bo'ladi?  Javob: Past.",
      "Savol: Sensor umrini qanday uzaytirish mumkin?  Javob: Faqat o'lchash paytida quvvat berib."
@@ -113984,7 +113984,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Suv sathi datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Suv sathi datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Bir nechta parallel o'tkazgich yo'lakdan iborat plastina.",
      "Ta'minot: 3,3-5 V. Tok: 20 mA gacha.",
@@ -113994,7 +113994,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Suv sathi datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Suv sathi datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Plastinada ikki xil yo'lak navbat bilan joylashgan: bittasi quvvatga, ikkinchisi o'lchov chiqishiga ulangan.",
      "Suv ikki yo'lakni tutashtiradi. Qancha ko'p yo'lak suv ostida qolsa, umumiy qarshilik shuncha kichik va chiqish kuchlanishi shuncha katta.",
@@ -114003,7 +114003,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sensor aniq sathni beradimi?  Javob: Yo'q, nisbiy ko'rsatkich beradi.",
      "Savol: Nima natijaga ta'sir qiladi?  Javob: Suvning tuz miqdori."
@@ -114145,7 +114145,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "&& — ikkalasi ham bajarilishi kerak. || — bittasi yetadi.",
      "Doskaga chiqariladigan namuna: \"Ikki sensor birga qaror qabul qiladi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -114153,7 +114153,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: VA qachon rost beradi?  Javob: Ikkala shart ham rost bo'lganda.",
      "Savol: Sug'orish uchun qaysi mantiq mos?  Javob: VA — quruq va yorug' bo'lsa."
@@ -114245,7 +114245,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Serial monitor kompyuterga bog'liq. Ekran esa qurilmani mustaqil qiladi — bu tayyor mahsulotga birinchi qadam.",
      "Doskaga chiqariladigan namuna: \"Sensor qiymatini ekranda jonli ko'rsatish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -114253,7 +114253,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qiymatlarni ko'rish nima uchun kerak?  Javob: Sensor to'g'ri ishlayotganini tekshirish uchun.",
      "Savol: Bir necha qiymat qanday ko'rsatiladi?  Javob: Har birini nomi bilan ajratib."
@@ -114345,7 +114345,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Chegarani to'g'ri tanlash (4 daqiqa)",
+    "title": "5.3. Chegarani to'g'ri tanlash (4 daqiqa)",
     "points": [
      "Chegara — qurilma qaror qabul qiladigan qiymat. U tajriba yo'li bilan topiladi, taxmin bilan emas.",
      "Tartib: sensorni haqiqiy ish sharoitida qo'yib, qiymatni bir necha daqiqa kuzating va eng past hamda eng baland qiymatni yozib oling.",
@@ -114354,7 +114354,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Gisterezis — titrashni yo'qotish (4 daqiqa)",
+    "title": "5.4. Gisterezis — titrashni yo'qotish (4 daqiqa)",
     "points": [
      "Bitta chegara ishlatilsa, qiymat chegara atrofida turganda qurilma tez-tez yoqilib-o'chib turadi.",
      "Yechim: IKKI chegara qo'yish. Masalan 350 dan past bo'lsa yoq, 450 dan yuqori bo'lsa o'chir.",
@@ -114363,7 +114363,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kalibrlash uchun kamida nechta nuqta kerak?  Javob: Ikkita — eng past va eng yuqori.",
      "Savol: Sensor almashtirilsa nima qilinadi?  Javob: Kalibrlash qayta bajariladi."
@@ -114749,7 +114749,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
     "points": [
      "16 belgi x 2 qator. Har bir belgi 5x8 nuqtadan iborat.",
      "Ta'minot: 5 V, 20-25 mA (orqa yorug'lik bilan birga).",
@@ -114758,7 +114758,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ekranda suyuq kristall molekulalari kuchlanish ta'sirida buriladi va yorug'likni o'tkazmay qo'yadi — shu joy qora ko'rinadi.",
      "Ekran o'zi yorug'lik chiqarmaydi, orqadan LED yoritib turadi. Shuning uchun quyoshda ham yaxshi ko'rinadi va kam quvvat sarflaydi.",
@@ -114766,7 +114766,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: LCD 1602 da nechta belgi sig'adi?  Javob: 32 ta — 2 qator x 16 belgi.",
      "Savol: Matn ko'rinmasa nima tekshiriladi?  Javob: Kontrast potensiometri."
@@ -114913,7 +114913,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
     "points": [
      "16 belgi x 2 qator. Har bir belgi 5x8 nuqtadan iborat.",
      "Ta'minot: 5 V, 20-25 mA (orqa yorug'lik bilan birga).",
@@ -114922,7 +114922,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ekranda suyuq kristall molekulalari kuchlanish ta'sirida buriladi va yorug'likni o'tkazmay qo'yadi — shu joy qora ko'rinadi.",
      "Ekran o'zi yorug'lik chiqarmaydi, orqadan LED yoritib turadi. Shuning uchun quyoshda ham yaxshi ko'rinadi va kam quvvat sarflaydi.",
@@ -114930,7 +114930,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Birinchi qator qaysi raqam bilan belgilanadi?  Javob: 0 bilan.",
      "Savol: Nega raqam noto'g'ri ko'rinadi?  Javob: Eski matn qoldig'i tozalanmagan."
@@ -115077,7 +115077,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
     "points": [
      "16 belgi x 2 qator. Har bir belgi 5x8 nuqtadan iborat.",
      "Ta'minot: 5 V, 20-25 mA (orqa yorug'lik bilan birga).",
@@ -115086,7 +115086,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ekranda suyuq kristall molekulalari kuchlanish ta'sirida buriladi va yorug'likni o'tkazmay qo'yadi — shu joy qora ko'rinadi.",
      "Ekran o'zi yorug'lik chiqarmaydi, orqadan LED yoritib turadi. Shuning uchun quyoshda ham yaxshi ko'rinadi va kam quvvat sarflaydi.",
@@ -115094,7 +115094,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ekranni qanchalik tez-tez yangilash kerak?  Javob: 0,5 sekundda bir marta.",
      "Savol: Nega o'lchov birligi yoziladi?  Javob: Foydalanuvchi raqamni tushunishi uchun."
@@ -115241,7 +115241,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. IR qabul qilgich VS1838 — texnik tasnif (4 daqiqa)",
+    "title": "5.3. IR qabul qilgich VS1838 — texnik tasnif (4 daqiqa)",
     "points": [
      "Qabul chastotasi: 38 kHz (eng keng tarqalgan standart).",
      "To'lqin uzunligi: 940 nm — infraqizil, ko'zga ko'rinmaydi.",
@@ -115252,7 +115252,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. IR qabul qilgich VS1838 — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. IR qabul qilgich VS1838 — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Pult IQ diodini shunchaki yoqmaydi — u sekundiga 38 000 marta miltillatib turadi (modulyatsiya).",
      "Nega shunday: quyosh va lampa ham IQ nur chiqaradi. Qabul qilgich ichidagi filtr faqat 38 kHz da tebranayotgan signalni o'tkazadi, doimiy fonni esa rad etadi.",
@@ -115262,7 +115262,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Pult kodlari universalmi?  Javob: Yo'q, har pultda o'ziga xos.",
      "Savol: Tugma bosib turilganda nima yuboriladi?  Javob: Takrorlash kodi."
@@ -115409,7 +115409,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tugma (push button) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Tugma (push button) — texnik tasnif (4 daqiqa)",
     "points": [
      "Taktil tugma (tact switch) — 4 oyoqli, lekin aslida 2 ta kontakt: qarama-qarshi oyoqlar juft-juft ulangan.",
      "Bosilganda kontakt ulanadi, qo'yib yuborilganda prujina uni ochadi.",
@@ -115418,7 +115418,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Rezistorsiz ulangan pin havoda \"suzadi\": unga tegishmagan holatda ham atrofdagi elektr maydonidan tasodifiy 0 va 1 o'qiladi.",
      "Tortuvchi rezistor pinni tinch holatda aniq bir darajaga tortib turadi. INPUT_PULLUP da pin 5 V ga tortiladi, ya'ni tinch holat = HIGH.",
@@ -115426,7 +115426,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. IR qabul qilgich VS1838 — texnik tasnif (4 daqiqa)",
+    "title": "5.5. IR qabul qilgich VS1838 — texnik tasnif (4 daqiqa)",
     "points": [
      "Qabul chastotasi: 38 kHz (eng keng tarqalgan standart).",
      "To'lqin uzunligi: 940 nm — infraqizil, ko'zga ko'rinmaydi.",
@@ -115437,7 +115437,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. IR qabul qilgich VS1838 — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. IR qabul qilgich VS1838 — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Pult IQ diodini shunchaki yoqmaydi — u sekundiga 38 000 marta miltillatib turadi (modulyatsiya).",
      "Nega shunday: quyosh va lampa ham IQ nur chiqaradi. Qabul qilgich ichidagi filtr faqat 38 kHz da tebranayotgan signalni o'tkazadi, doimiy fonni esa rad etadi.",
@@ -115447,7 +115447,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kodlar qayerda saqlanadi?  Javob: Jadvalda, tugma nomi bilan birga.",
      "Savol: Tugma bosib turilganda nima yuboriladi?  Javob: Takrorlash kodi."
@@ -115639,7 +115639,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Rele moduli — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Rele moduli — texnik tasnif (4 daqiqa)",
     "points": [
      "Elektromagnit kalit: kuchsiz signal bilan kuchli yuklamani ulaydi.",
      "G'altak: 5 V, 70-90 mA (shuning uchun to'g'ridan-to'g'ri pindan quvvatlanmaydi — modulda tranzistor bor).",
@@ -115650,7 +115650,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Rele moduli — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Rele moduli — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida g'altak va temir yakor bor. G'altakdan tok o'tsa u elektromagnitga aylanadi va yakorni tortadi.",
      "Yakor kontaktni COM-NC holatidan COM-NO holatiga o'tkazadi. Tok uzilsa prujina uni qaytaradi.",
@@ -115660,7 +115660,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ko'p rele modullarida rele qachon yoqiladi?  Javob: IN ga LOW berilganda.",
      "Savol: Sinfda maksimal qanday yuklama ruxsat etiladi?  Javob: 12 V."
@@ -115812,7 +115812,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sensorlar qanday tartibda qo'shiladi?  Javob: Bittalab, har biri sinalgandan keyin.",
      "Savol: Analog pinlar yetmasa nima qilinadi?  Javob: Raqamli chiqishli sensorlar tanlanadi."
@@ -115899,7 +115899,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Qurilma algoritmining uch qismi (4 daqiqa)",
+    "title": "5.3. Qurilma algoritmining uch qismi (4 daqiqa)",
     "points": [
      "SEZISH — sensordan qiymat o'qish. Bu algoritmning kirishi.",
      "QAROR — o'qilgan qiymatni chegara bilan solishtirish, mantiqiy shart tekshirish.",
@@ -115908,7 +115908,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Holatlar (state) bilan ishlash (4 daqiqa)",
+    "title": "5.4. Holatlar (state) bilan ishlash (4 daqiqa)",
     "points": [
      "Ba'zi qurilmalar bir necha HOLATDA bo'ladi: kutish, ishlash, ogohlantirish.",
      "Har bir holat uchun alohida qoida yoziladi: shu holatda nima qiladi va qaysi shartda boshqa holatga o'tadi.",
@@ -115917,7 +115917,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Rombda nima yoziladi?  Javob: Shart.",
      "Savol: Blok-sxema qachon chiziladi?  Javob: Dastur yozishdan oldin."
@@ -116004,7 +116004,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Sxemadan blokka o'tish qoidalari (4 daqiqa)",
+    "title": "5.3. Sxemadan blokka o'tish qoidalari (4 daqiqa)",
     "points": [
      "Oval (boshlanish) — 'boshlanganda' blogi.",
      "To'rtburchak (amal) — mos amal blogi: 'yoq', 'kut', 'chiqar'.",
@@ -116014,7 +116014,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tekshirish tartibi (4 daqiqa)",
+    "title": "5.4. Tekshirish tartibi (4 daqiqa)",
     "points": [
      "Dastur yig'ilgach, uni sxema bilan yonma-yon qo'yib solishtirish kerak.",
      "Har bir sxema qadami dasturda o'z blogini topganini belgilab chiqiladi.",
@@ -116023,7 +116023,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Blok-sxemadagi romb dasturda nimaga aylanadi?  Javob: Shart blokiga.",
      "Savol: Orqaga qaytadigan strelka nimani bildiradi?  Javob: Siklni."
@@ -116110,7 +116110,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Sinov bosqichlari (4 daqiqa)",
+    "title": "5.3. Sinov bosqichlari (4 daqiqa)",
     "points": [
      "1) Komponent sinovi: har bir element alohida ishlayaptimi.",
      "2) Modul sinovi: bir necha element birga (masalan sensor + ekran).",
@@ -116120,7 +116120,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Nimani o'lchash kerak (4 daqiqa)",
+    "title": "5.4. Nimani o'lchash kerak (4 daqiqa)",
     "points": [
      "Javob vaqti: sensor o'zgargandan qurilma javob berguncha necha sekund o'tadi.",
      "Aniqlik: o'lchov etalon bilan qanchalik mos.",
@@ -116130,7 +116130,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sinash qanday tartibda olib boriladi?  Javob: Har qism alohida, keyin birga.",
      "Savol: Muammo topilsa nima qilinadi?  Javob: Darhol tuzatiladi, keyingi bosqichga o'tilmaydi."
@@ -116217,7 +116217,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Beshta tipik xato bitta dasturda yig'ilgan.",
      "Doskaga chiqariladigan namuna: \"Ataylab xato qilingan kod — topib tuzatish uchun\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -116225,7 +116225,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Xatoni qanday ajratish mumkin?  Javob: Sxemaga oddiy test dasturi yuklab.",
      "Savol: Nega bir vaqtda bitta narsa o'zgartiriladi?  Javob: Nima yordam berganini aniq bilish uchun."
@@ -116317,7 +116317,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Yaxshilashdan oldin nima qilinadi?  Javob: Ishlaydigan dastur nusxasi saqlanadi.",
      "Savol: Har qo'shimchadan keyin nima qilinadi?  Javob: Butun tizim qayta sinaladi."
@@ -116404,7 +116404,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Korpusning vazifalari (4 daqiqa)",
+    "title": "5.3. Korpusning vazifalari (4 daqiqa)",
     "points": [
      "Himoya: chang, namlik va mexanik zarbadan saqlash.",
      "Mustahkamlash: simlar tortilib uzilmasligi uchun elementlarni qotirish.",
@@ -116413,7 +116413,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Loyihalash qoidalari (4 daqiqa)",
+    "title": "5.4. Loyihalash qoidalari (4 daqiqa)",
     "points": [
      "Razyomlar uchun teshiklar oldindan o'lchab belgilanadi: USB, quvvat, sensor.",
      "Sensorlar tashqariga chiqarilishi kerak: harorat sensori korpus ichida bo'lsa, u korpus haroratini o'lchaydi.",
@@ -116423,7 +116423,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Korpusning uch vazifasi qaysi?  Javob: Himoya, xavfsizlik, foydalanish qulayligi.",
      "Savol: Batareya joyi qanday bo'lishi kerak?  Javob: Almashtirish oson bo'ladigan."
@@ -116510,7 +116510,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tartibsiz simlar qanday muammo yaratadi?  Javob: Uzilish, qisqa tutashuv va ta'mirlash qiyinligi.",
      "Savol: Nega simlarga birka qo'yiladi?  Javob: Qayerdan qayerga borishini bilish uchun."
@@ -116597,7 +116597,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Qo'llanmaning tarkibi (4 daqiqa)",
+    "title": "5.3. Qo'llanmaning tarkibi (4 daqiqa)",
     "points": [
      "Qurilma nima qiladi — bir-ikki gapda, texnik atamalarsiz.",
      "Nima kerak: quvvat manbai, kabel, qo'shimcha jihoz.",
@@ -116607,7 +116607,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Qo'llanma kim uchun yoziladi (4 daqiqa)",
+    "title": "5.4. Qo'llanma kim uchun yoziladi (4 daqiqa)",
     "points": [
      "Qo'llanma qurilmani BIRINCHI MARTA ko'rayotgan odam uchun yoziladi.",
      "Shuning uchun 'ma'lumki', 'oddiy' kabi so'zlar ishlatilmaydi.",
@@ -116616,7 +116616,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qo'llanma kim uchun yoziladi?  Javob: Foydalanuvchi uchun.",
      "Savol: Qaysi bo'lim eng foydali?  Javob: Muammolar va yechimlar."
@@ -116703,7 +116703,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tayyorgarlik ro'yxati (4 daqiqa)",
+    "title": "5.3. Tayyorgarlik ro'yxati (4 daqiqa)",
     "points": [
      "Qurilma to'liq ishlaydigan holatda va zaryadlangan.",
      "Zaxira: qo'shimcha batareya, kabel, eng ko'p buziladigan komponentdan bittadan.",
@@ -116713,7 +116713,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Vaqtni boshqarish (4 daqiqa)",
+    "title": "5.4. Vaqtni boshqarish (4 daqiqa)",
     "points": [
      "Taqdimot vaqti oldindan aytiladi va unga rioya qilinadi.",
      "Mashq paytida sekundomer bilan o'lchash kerak — birinchi urinishda odatda ikki barobar uzun chiqadi.",
@@ -116722,7 +116722,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Taqdimot qancha davom etadi?  Javob: 3-5 daqiqa.",
      "Savol: Nega zaxira video kerak?  Javob: Jonli namoyish buzilib qolishi mumkin."
@@ -116809,7 +116809,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Baholash mezonlari (4 daqiqa)",
+    "title": "5.3. Baholash mezonlari (4 daqiqa)",
     "points": [
      "Ishlaydimi: qurilma e'lon qilingan vazifani bajaradimi.",
      "Talablarga mos keladimi: boshda qo'yilgan bandlarning nechtasi bajarilgan.",
@@ -116819,7 +116819,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Foydali fikr bildirish (4 daqiqa)",
+    "title": "5.4. Foydali fikr bildirish (4 daqiqa)",
     "points": [
      "Avval ishlagan narsani aytish kerak — bu adolat va u muallifga nimani saqlash kerakligini bildiradi.",
      "Keyin ANIQ taklif: 'yaxshi emas' emas, 'sensorni 5 sm pastroq qo'ysangiz aniqlik ortadi'.",
@@ -116828,7 +116828,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tanqid qanday bo'lishi kerak?  Javob: Konstruktiv — taklif bilan.",
      "Savol: Har baholovchi nima aytadi?  Javob: Kamida bitta ijobiy va bitta taklif."
@@ -116915,7 +116915,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Yakuniy sinovning farqi (4 daqiqa)",
+    "title": "5.3. Yakuniy sinovning farqi (4 daqiqa)",
     "points": [
      "Oraliq sinovda alohida qismlar tekshiriladi, yakuniy sinovda esa BUTUN tizim birga.",
      "Sinov haqiqiy ish sharoitida o'tkaziladi: qurilma qayerda ishlasa, o'sha yerda.",
@@ -116924,7 +116924,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tuzatishlarni boshqarish (4 daqiqa)",
+    "title": "5.4. Tuzatishlarni boshqarish (4 daqiqa)",
     "points": [
      "Har bir tuzatishdan keyin BUTUN sinov qaytariladi: tuzatish boshqa joyni buzgan bo'lishi mumkin.",
      "Ishlaydigan variant har safar nusxalab saqlanadi — qaytish nuqtasi bo'ladi.",
@@ -116933,7 +116933,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Yakuniy sinov qanday olib boriladi?  Javob: Ro'yxat bo'yicha, har imkoniyat alohida.",
      "Savol: Tuzatishdan keyin nima qilinadi?  Javob: Butun ro'yxat qayta bajariladi."
@@ -117320,7 +117320,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Quvvat formulasi va uning uch shakli (4 daqiqa)",
+    "title": "5.3. Quvvat formulasi va uning uch shakli (4 daqiqa)",
     "points": [
      "P = U x I — quvvat vattda (Vt) o'lchanadi. Bu vaqt birligida sarflanadigan energiya.",
      "Om qonunini qo'yib boshqa shakllar chiqadi: P = I2 x R va P = U2 / R.",
@@ -117328,7 +117328,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Rezistorning quvvat bardoshi (4 daqiqa)",
+    "title": "5.4. Rezistorning quvvat bardoshi (4 daqiqa)",
     "points": [
      "Maktab to'plamidagi rezistorlar odatda 0,25 Vt ga mo'ljallangan.",
      "Misol: 220 Om rezistordan 20 mA tok o'tsa, P = 0,02^2 x 220 = 0,088 Vt — bu 0,25 Vt dan ancha kam, xavfsiz.",
@@ -117338,7 +117338,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 100 Om da 5 V bo'lsa quvvat qancha?  Javob: 0,25 Vt — chegarada, kuchliroq rezistor kerak.",
      "Savol: V / kOm nima beradi?  Javob: Milliamperni."
@@ -117425,7 +117425,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sensorni yuqoriga qo'ysak natija qanday bo'ladi?  Javob: Teskari — pastga qo'yilgandagiga nisbatan.",
      "Savol: Ikkinchi rezistor qanday tanlanadi?  Javob: Sensor qarshiligining o'rta qiymatiga yaqin."
@@ -117512,7 +117512,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Rele moduli — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Rele moduli — texnik tasnif (4 daqiqa)",
     "points": [
      "Elektromagnit kalit: kuchsiz signal bilan kuchli yuklamani ulaydi.",
      "G'altak: 5 V, 70-90 mA (shuning uchun to'g'ridan-to'g'ri pindan quvvatlanmaydi — modulda tranzistor bor).",
@@ -117523,7 +117523,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Rele moduli — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Rele moduli — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida g'altak va temir yakor bor. G'altakdan tok o'tsa u elektromagnitga aylanadi va yakorni tortadi.",
      "Yakor kontaktni COM-NC holatidan COM-NO holatiga o'tkazadi. Tok uzilsa prujina uni qaytaradi.",
@@ -117533,7 +117533,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Rele nima uchun tranzistor orqali boshqariladi?  Javob: G'altagi plata pinidan ko'proq tok oladi.",
      "Savol: Flyback diod qanday ulanadi?  Javob: Parallel va teskari yo'nalishda."
@@ -117646,7 +117646,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Ikki turdagi signal (4 daqiqa)",
+    "title": "5.3. Ikki turdagi signal (4 daqiqa)",
     "points": [
      "Analog signal UZLUKSIZ o'zgaradi va oraliqdagi istalgan qiymatni olishi mumkin: 0 V, 1,37 V, 2,84 V.",
      "Raqamli signal faqat IKKI holatga ega: past (0) yoki yuqori (1). Oraliq qiymat yo'q.",
@@ -117655,7 +117655,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. ADC — aylantirish qanday boradi (4 daqiqa)",
+    "title": "5.4. ADC — aylantirish qanday boradi (4 daqiqa)",
     "points": [
      "ADC kirish kuchlanishini o'lchab, uni butun songa aylantiradi.",
      "Arduino Uno da ADC 10 bitli: 0-5 V oralig'i 1024 pog'onaga bo'linadi. Bir pog'ona 5/1024 = 4,9 mV.",
@@ -117665,7 +117665,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Analog signalning asosiy xususiyati nima?  Javob: Uzluksiz o'zgarishi.",
      "Savol: Raqamli signalning afzalligi nima?  Javob: Shovqinga chidamli va uzatish oson."
@@ -117752,7 +117752,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Mikrokontrollerda mantiq nima bilan belgilanadi?  Javob: Dastur bilan.",
      "Savol: Kompyuterdan asosiy farqi nima?  Javob: Operatsion tizimi yo'q, bitta dastur bajaradi."
@@ -117839,7 +117839,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Uno da 14 raqamli pin (shundan 6 tasi PWM) va 6 analog pin bor. Har birining o'z chegarasi va vazifasi bor.",
      "Doskaga chiqariladigan namuna: \"Pin turlarini va ularning chegaralarini ko'rsatuvchi dastur\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -117847,7 +117847,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qaysi pinlar Serial aloqa uchun band?  Javob: D0 va D1.",
      "Savol: Pindan xavfsiz qancha tok olinadi?  Javob: 20 mA."
@@ -117939,7 +117939,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Verify (tekshirish) va Upload (yuklash) — ikki asosiy tugma. Verify faqat xatoni topadi, Upload esa plataga yozadi.",
      "Doskaga chiqariladigan namuna: \"IDE ning asosiy tugmalarini sinaydigan dastur\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -117947,7 +117947,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Verify tugmasi nima qiladi?  Javob: Kodni tekshiradi va kompilyatsiya qiladi.",
      "Savol: Xato xabarida nima ko'rsatiladi?  Javob: Xato turi va qator raqami."
@@ -118039,7 +118039,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Blokli dasturlashning afzalligi nima?  Javob: Sintaksis xatosi bo'lmaydi.",
      "Savol: Matnli dasturlashning afzalligi-chi?  Javob: Imkoniyatlari cheksiz, barcha kutubxonalar shunda."
@@ -118126,7 +118126,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Blink — birinchi dastur, lekin uning qiymatlarini O'ZGARTIRIB ko'rish o'rganishning asosiy usuli.",
      "Doskaga chiqariladigan namuna: \"Blink va uni o'zgartirib sinash\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -118134,7 +118134,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Har buyruq oxirida nima bo'lishi kerak?  Javob: Nuqta-vergul.",
      "Savol: digitalWrite va DigitalWrite bir xilmi?  Javob: Yo'q, katta-kichik harf farq qiladi."
@@ -118226,7 +118226,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "setup bir marta, loop cheksiz. Buni sanoq va RESET tugmasi bilan ko'z bilan ko'rish mumkin.",
      "Doskaga chiqariladigan namuna: \"Ikki funksiya farqini isbotlovchi tajriba\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -118234,7 +118234,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: setup() necha marta bajariladi?  Javob: Bir marta.",
      "Savol: Serial.begin qayerda yoziladi?  Javob: setup() ichida."
@@ -118326,7 +118326,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "pinMode pinni KIRISH yoki CHIQISH qilib belgilaydi; digitalWrite faqat CHIQISH pinida ma'noga ega.",
      "Doskaga chiqariladigan namuna: \"Kirish va chiqish pinlari bitta sxemada\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -118334,7 +118334,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: pinMode qayerda yoziladi?  Javob: Odatda setup() ichida.",
      "Savol: digitalWrite(pin, HIGH) pinga qancha kuchlanish beradi?  Javob: 5 V."
@@ -118426,7 +118426,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "delay ishlaganda plata boshqa hech narsa qila olmaydi. millis() esa vaqtni sanaydi va dasturni to'xtatmaydi.",
      "Doskaga chiqariladigan namuna: \"delay() va millis() ni yonma-yon solishtirish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -118434,7 +118434,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: delay paytida tugma o'qiladimi?  Javob: Yo'q.",
      "Savol: Yechim nima?  Javob: millis() bilan vaqtni sanash."
@@ -118526,7 +118526,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -118536,7 +118536,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -118544,7 +118544,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Beshta LED qancha tok oladi?  Javob: Taxminan 75 mA.",
      "Savol: Har LEDga alohida rezistor kerakmi?  Javob: Ha."
@@ -118655,7 +118655,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -118665,7 +118665,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -118673,7 +118673,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Svetofor sikli nechta holatdan iborat?  Javob: To'rtta asosiy holat.",
      "Savol: Algoritm nima?  Javob: Masalani yechish qadamlarining aniq ketma-ketligi."
@@ -118784,7 +118784,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Izohning turlari (4 daqiqa)",
+    "title": "5.3. Izohning turlari (4 daqiqa)",
     "points": [
      "Fayl sarlavhasi: loyiha haqida umumiy ma'lumot.",
      "Bo'lim izohi: kodning katta qismlarini ajratadi (sozlash, o'lchash, qaror).",
@@ -118793,7 +118793,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Qancha izoh yozish kerak (4 daqiqa)",
+    "title": "5.4. Qancha izoh yozish kerak (4 daqiqa)",
     "points": [
      "Har qatorga izoh yozish ham xato: kod izohlar orasida ko'rinmay qoladi.",
      "Izoh kerak bo'ladigan joylar: sehrli sonlar, formulalar, kutilmagan yechimlar, apparat cheklovlari.",
@@ -118802,7 +118802,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: // va /* */ farqi nima?  Javob: Birinchisi bir qatorli, ikkinchisi ko'p qatorli izoh.",
      "Savol: Izohda nima yozilishi kerak?  Javob: Nega shunday qilingani."
@@ -118889,7 +118889,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Xato xabarida nima ko'rsatiladi?  Javob: Fayl, qator raqami va xato tavsifi.",
      "Savol: Nechta xatodan boshlash kerak?  Javob: Birinchisidan — qolganlari uning oqibati bo'lishi mumkin."
@@ -118976,7 +118976,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Nima uchun birga tekshiriladi (4 daqiqa)",
+    "title": "5.3. Nima uchun birga tekshiriladi (4 daqiqa)",
     "points": [
      "Xatolarning katta qismi sxema va kod O'RTASIDA bo'ladi: kodda D9 yozilgan, sim esa D10 da.",
      "Alohida tekshirilganda ikkalasi ham to'g'ri ko'rinadi, birga esa ishlamaydi.",
@@ -118984,7 +118984,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tekshirish tartibi (4 daqiqa)",
+    "title": "5.4. Tekshirish tartibi (4 daqiqa)",
     "points": [
      "1) Koddagi hamma pin doimiylarini ro'yxat qilib yozish.",
      "2) Har biri uchun sxemadagi haqiqiy ulanishni tekshirish.",
@@ -118995,7 +118995,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sxema va koddagi xatoni qanday ajratish mumkin?  Javob: Oddiy test kodi yuklab ko'rish bilan.",
      "Savol: Serial.println nima uchun ishlatiladi?  Javob: Dastur qayergacha yetganini va qiymatlarni ko'rish uchun."
@@ -119082,7 +119082,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Ish faylini tartibda saqlash (4 daqiqa)",
+    "title": "5.3. Ish faylini tartibda saqlash (4 daqiqa)",
     "points": [
      "Har bir loyihaga alohida papka: sketch, sxema rasmi va qisqa izoh bir joyda tursin.",
      "Fayl nomi ma'noli bo'lsin: 'tungi_chiroq_v2' — 'sketch_apr12a' emas.",
@@ -119091,7 +119091,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Ish daftari (logbook) (4 daqiqa)",
+    "title": "5.4. Ish daftari (logbook) (4 daqiqa)",
     "points": [
      "Har darsda yoziladi: sana, mavzu, nima yig'ildi, qanday natija chiqdi, qanday xato bo'ldi va u qanday tuzatildi.",
      "Xato yozilishi natijadan ham muhimroq: bir marta uchragan xato ikkinchi marta tez topiladi.",
@@ -119100,7 +119100,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sketch papkasi nomi qanday bo'lishi kerak?  Javob: Fayl nomi bilan bir xil.",
      "Savol: Nega versiya nusxalari saqlanadi?  Javob: Yangi o'zgarish buzsa qaytish uchun."
@@ -119510,7 +119510,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Turlarning xotira sarfini o'lchab, nima uchun \"hamma joyda float\" yomon fikr ekanini ko'rsatadi.",
      "Doskaga chiqariladigan namuna: \"Turlar va ular egallaydigan xotira\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -119518,7 +119518,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Arduino Uno da qancha SRAM bor?  Javob: 2 kilobayt.",
      "Savol: Nega float dan iloji boricha qochiladi?  Javob: Hisoblash sekin va ko'p xotira oladi."
@@ -119610,7 +119610,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "5/2 = 2, lekin 5.0/2 = 2.5. Bu farq sensor qiymatini voltga aylantirganda darhol sezilib qoladi.",
      "Doskaga chiqariladigan namuna: \"Butun va kasrli bo'lish farqi — o'lchovda ko'rinadi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -119618,7 +119618,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 7 / 2 int larda qancha beradi?  Javob: 3.",
      "Savol: Kasrli natija olish uchun nima qilinadi?  Javob: Kamida bitta sonni float qilish."
@@ -119710,7 +119710,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Beshta LED uchun 20 qator kod bitta sikl bilan 3 qatorga tushadi.",
      "Doskaga chiqariladigan namuna: \"Yuguruvchi olov — sikl bilan va siklsiz\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -119718,7 +119718,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: for (int i = 0; i < 5; i++) necha marta bajariladi?  Javob: Besh marta — i 0, 1, 2, 3, 4.",
      "Savol: i-- nima qiladi?  Javob: Har siklda i ni bittaga kamaytiradi."
@@ -119810,7 +119810,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -119820,7 +119820,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -119828,7 +119828,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nafas olish effekti qanday yasaladi?  Javob: PWM qiymatini sikl bilan silliq o'zgartirib.",
      "Savol: Nega kvadratik moslash tabiiyroq ko'rinadi?  Javob: Ko'z yorqinlikni chiziqsiz sezadi."
@@ -119965,7 +119965,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "for oldindan necha marta ekanini biladi, while esa BILMAYDI — u shartga qarab ishlaydi.",
      "Doskaga chiqariladigan namuna: \"Shart bajarilguncha kutish — tugma bosilishini kutish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -119973,7 +119973,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: for va while qachon ishlatiladi?  Javob: for — takrorlanish soni ma'lum bo'lganda, while — shartga bog'liq bo'lganda.",
      "Savol: Cheksiz sikldan qanday chiqiladi?  Javob: Reset tugmasi bilan yoki shartni o'zgartirib."
@@ -120065,7 +120065,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tugma (push button) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Tugma (push button) — texnik tasnif (4 daqiqa)",
     "points": [
      "Taktil tugma (tact switch) — 4 oyoqli, lekin aslida 2 ta kontakt: qarama-qarshi oyoqlar juft-juft ulangan.",
      "Bosilganda kontakt ulanadi, qo'yib yuborilganda prujina uni ochadi.",
@@ -120074,7 +120074,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Rezistorsiz ulangan pin havoda \"suzadi\": unga tegishmagan holatda ham atrofdagi elektr maydonidan tasodifiy 0 va 1 o'qiladi.",
      "Tortuvchi rezistor pinni tinch holatda aniq bir darajaga tortib turadi. INPUT_PULLUP da pin 5 V ga tortiladi, ya'ni tinch holat = HIGH.",
@@ -120082,7 +120082,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: digitalRead nima qaytaradi?  Javob: HIGH yoki LOW.",
      "Savol: Tugmaning ikkinchi oyog'i qayerga ulanadi?  Javob: Odatda GND ga."
@@ -120216,7 +120216,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Rezistorsiz pin tasodifiy qiymat o'qiydi — buni tajribada ko'rsatish mumkin.",
      "Doskaga chiqariladigan namuna: \"Tortuvchisiz pinning \"suzishini\" ko'rsatish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -120224,7 +120224,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: INPUT_PULLUP da bosilgan tugma qanday o'qiladi?  Javob: LOW.",
      "Savol: Nega INPUT_PULLUP qulay?  Javob: Tashqi rezistor kerak bo'lmaydi."
@@ -120316,7 +120316,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "if — dasturga qaror qabul qilishni o'rgatadigan birinchi konstruksiya.",
      "Doskaga chiqariladigan namuna: \"Yorug'lik chegarasidan o'tganda chiroq yonadi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -120324,7 +120324,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tenglikni tekshirish uchun qaysi belgi ishlatiladi?  Javob: == (ikki teng belgisi).",
      "Savol: if (x = 5) nima qiladi?  Javob: x ga 5 beradi va shart har doim rost bo'ladi — bu xato."
@@ -120416,7 +120416,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "else — qolgan HAMMA holat uchun. Uni oxirida qoldirish odat bo'lishi kerak.",
      "Doskaga chiqariladigan namuna: \"Harorat bo'yicha uch rejimli boshqaruv\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -120424,7 +120424,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: else if larda qaysi shart bajariladi?  Javob: Birinchi rost chiqqani, qolganlari tekshirilmaydi.",
      "Savol: Shartlar tartibi muhimmi?  Javob: Ha, torroq shart oldin yozilishi kerak."
@@ -120516,7 +120516,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "! (EMAS) shartni teskariga aylantiradi.",
      "Doskaga chiqariladigan namuna: \"Uch mantiqiy amal bitta xavfsizlik tizimida\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -120524,7 +120524,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: && qachon rost beradi?  Javob: Ikkala shart ham rost bo'lganda.",
      "Savol: && va & farqi nima?  Javob: Birinchisi mantiqiy, ikkinchisi bitli amal."
@@ -120616,7 +120616,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tugma (push button) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Tugma (push button) — texnik tasnif (4 daqiqa)",
     "points": [
      "Taktil tugma (tact switch) — 4 oyoqli, lekin aslida 2 ta kontakt: qarama-qarshi oyoqlar juft-juft ulangan.",
      "Bosilganda kontakt ulanadi, qo'yib yuborilganda prujina uni ochadi.",
@@ -120625,7 +120625,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Tugma (push button) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Rezistorsiz ulangan pin havoda \"suzadi\": unga tegishmagan holatda ham atrofdagi elektr maydonidan tasodifiy 0 va 1 o'qiladi.",
      "Tortuvchi rezistor pinni tinch holatda aniq bir darajaga tortib turadi. INPUT_PULLUP da pin 5 V ga tortiladi, ya'ni tinch holat = HIGH.",
@@ -120633,7 +120633,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tugma sakrashi qancha davom etadi?  Javob: 5-50 millisekund.",
      "Savol: Dasturiy yechim nima?  Javob: Holat o'zgargach 20-50 ms kutib, qayta tekshirish."
@@ -120767,7 +120767,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Serial Plotter (Tools > Serial Plotter) qiymatni GRAFIK bo'lib chizadi — sensor shovqinini shunda ko'rish oson.",
      "Doskaga chiqariladigan namuna: \"Sensor qiymatini kuzatish va grafikda ko'rish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -120775,7 +120775,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Serial.begin qayerda yoziladi?  Javob: setup() ichida.",
      "Savol: Ekranda tushunarsiz belgilar chiqsa nima tekshiriladi?  Javob: Monitor oynasidagi tezlik."
@@ -120867,7 +120867,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "parseInt() bilan matn ko'rinishidagi son o'qiladi va sozlama sifatida ishlatiladi.",
      "Doskaga chiqariladigan namuna: \"Kompyuterdan son yuborib, qurilmani sozlash\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -120875,7 +120875,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Serial.available() nima qaytaradi?  Javob: Kelgan baytlar sonini.",
      "Savol: Butun qatorni qanday o'qiladi?  Javob: Serial.readStringUntil bilan."
@@ -120967,7 +120967,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Funksiya — nom berilgan va qayta ishlatiladigan kod bo'lagi.",
      "Doskaga chiqariladigan namuna: \"Takrorlanadigan kodni funksiyaga chiqarish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -120975,7 +120975,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: void nimani bildiradi?  Javob: Funksiya qiymat qaytarmasligini.",
      "Savol: Parametr nima uchun kerak?  Javob: Funksiyaga ma'lumot uzatish uchun."
@@ -121067,7 +121067,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Parametr funksiyani UNIVERSAL qiladi: bitta miltillash funksiyasi istalgan pin va tezlikda ishlaydi.",
      "Doskaga chiqariladigan namuna: \"Parametrli funksiya — bitta funksiya, ko'p vazifa\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -121075,7 +121075,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: return nima qiladi?  Javob: Natijani chaqiruvchi joyga qaytaradi.",
      "Savol: Funksiya ichida parametrni o'zgartirsak tashqarida o'zgaradimi?  Javob: Yo'q, u nusxa."
@@ -121167,7 +121167,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Massiv — bir turdagi qiymatlarni bitta nom ostida saqlash. Indeks 0 dan boshlanadi.",
      "Doskaga chiqariladigan namuna: \"Beshta LED — bitta massiv\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -121175,7 +121175,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 5 elementli massivda indekslar qanday?  Javob: 0 dan 4 gacha.",
      "Savol: Chegaradan chiqilsa nima bo'ladi?  Javob: Boshqa xotira buziladi, dastur beqaror ishlaydi."
@@ -121267,7 +121267,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "To'rtta sensor uchun to'rtta alohida o'zgaruvchi emas, bitta massiv.",
      "Doskaga chiqariladigan namuna: \"Bir necha sensorni massiv bilan o'qish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -121275,7 +121275,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Massiv uzunligi qanday hisoblanadi?  Javob: sizeof(massiv) / sizeof(massiv[0]).",
      "Savol: Aylanma bufer nima uchun kerak?  Javob: Oxirgi N ta qiymatni saqlash uchun."
@@ -121367,7 +121367,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Har bir funksiya BITTA ish qilsin — shunda xatoni topish oson bo'ladi.",
      "Doskaga chiqariladigan namuna: \"Katta dasturni funksiyalarga ajratish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -121375,7 +121375,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: loop() ichida nima bo'lishi kerak?  Javob: Faqat funksiyalarning chaqiriqlari.",
      "Savol: Funksiyalarga bo'lish nimani osonlashtiradi?  Javob: Sinash va nosozlik topishni."
@@ -121766,7 +121766,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Potensiometr 10 kOm — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Potensiometr 10 kOm — texnik tasnif (4 daqiqa)",
     "points": [
      "O'zgaruvchan rezistor. Nominal 10 kOm — chetdagi ikki oyoq orasidagi qarshilik doim 10 kOm.",
      "O'rta oyoq (surgich) buralganda 0 dan 10 kOm gacha siljiydi.",
@@ -121775,7 +121775,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Potensiometr 10 kOm — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Potensiometr 10 kOm — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Potensiometr — bu tayyor KUCHLANISH BO'LUVCHI. Surgich yuqoriroqda bo'lsa chiqishda kuchlanish katta, pastroqda bo'lsa kichik.",
      "Qarshilik emas, KUCHLANISH o'lchanadi: plata analog pindagi kuchlanishni raqamga aylantiradi.",
@@ -121783,7 +121783,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ADC nechta darajaga bo'ladi?  Javob: 1024 ta.",
      "Savol: 512 qiymati qanday kuchlanishga to'g'ri keladi?  Javob: Taxminan 2,5 V."
@@ -121924,7 +121924,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Potensiometr 10 kOm — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Potensiometr 10 kOm — texnik tasnif (4 daqiqa)",
     "points": [
      "O'zgaruvchan rezistor. Nominal 10 kOm — chetdagi ikki oyoq orasidagi qarshilik doim 10 kOm.",
      "O'rta oyoq (surgich) buralganda 0 dan 10 kOm gacha siljiydi.",
@@ -121933,7 +121933,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Potensiometr 10 kOm — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Potensiometr 10 kOm — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Potensiometr — bu tayyor KUCHLANISH BO'LUVCHI. Surgich yuqoriroqda bo'lsa chiqishda kuchlanish katta, pastroqda bo'lsa kichik.",
      "Qarshilik emas, KUCHLANISH o'lchanadi: plata analog pindagi kuchlanishni raqamga aylantiradi.",
@@ -121941,7 +121941,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Potensiometr nechta oyog'i bilan ulanadi?  Javob: Uchtasi ham.",
      "Savol: Chetlarda aniq 0 va 1023 chiqmasligi normalmi?  Javob: Ha, bu odatiy holat."
@@ -122082,7 +122082,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "map bir oraliqdagi sonni boshqa oraliqqa proporsional ko'chiradi.",
      "Doskaga chiqariladigan namuna: \"map() bilan oraliqni moslashtirish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -122090,7 +122090,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: map(512, 0, 1023, 0, 255) taxminan qancha beradi?  Javob: 128.",
      "Savol: constrain nima qiladi?  Javob: Qiymatni chegaralar ichida ushlaydi."
@@ -122182,7 +122182,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "PWM — pinni tez-tez yoqib-o'chirish. O'rtacha quvvat shu bilan boshqariladi.",
      "Doskaga chiqariladigan namuna: \"PWM ni ko'z bilan va o'lchov bilan ko'rish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -122190,7 +122190,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: analogWrite qanday oraliqda qiymat qabul qiladi?  Javob: 0 dan 255 gacha.",
      "Savol: PWM aslida analog signalmi?  Javob: Yo'q, u tez yoqilib-o'chadigan raqamli signal."
@@ -122282,7 +122282,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -122292,7 +122292,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -122300,7 +122300,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ko'z yorqinlikni chiziqli sezadimi?  Javob: Yo'q, chiziqsiz — past darajalardagi o'zgarish ko'proq seziladi.",
      "Savol: Bu qanday qonun bilan tushuntiriladi?  Javob: Weber-Fexner qonuni."
@@ -122437,7 +122437,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -122447,7 +122447,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -122455,7 +122455,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. RGB LED (umumiy katod) — texnik tasnif (4 daqiqa)",
+    "title": "5.5. RGB LED (umumiy katod) — texnik tasnif (4 daqiqa)",
     "points": [
      "Bitta korpusda uchta LED: qizil, yashil, ko'k. Oyog'i 4 ta.",
      "Umumiy katod turi: eng uzun oyoq GND ga. Umumiy anod turi: eng uzun oyoq 5V ga (mantiq teskari bo'ladi).",
@@ -122464,7 +122464,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. RGB LED (umumiy katod) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. RGB LED (umumiy katod) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ko'z uchta yaqin turgan nurni ajratmaydi va ularni bitta rang deb qabul qiladi — bu ADDITIV rang aralashtirish.",
      "Har bir rangning yorqinligini PWM bilan 0 dan 255 gacha o'zgartirib, 256 x 256 x 256 = 16,7 million tus olinadi.",
@@ -122472,7 +122472,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nechta tus hosil qilish mumkin?  Javob: 16,7 million.",
      "Savol: Kamalak effekti qanday yasaladi?  Javob: Uch kanalni fazalari siljigan holda o'zgartirib."
@@ -122666,7 +122666,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Fotorezistor (LDR) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Fotorezistor (LDR) — texnik tasnif (4 daqiqa)",
     "points": [
      "LDR = Light Dependent Resistor. Qarshiligi YORUG'LIKKA bog'liq.",
      "Qorong'ida: 200 kOm - 1 MOm. Yorug'da: 1-10 kOm. To'g'ridan-to'g'ri chiroq ostida: 100-500 Om.",
@@ -122675,7 +122675,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Fotorezistor (LDR) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Fotorezistor (LDR) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichidagi kadmiy sulfid (CdS) qatlamiga foton tushganda elektronlar bo'shab qoladi va material tokni yaxshiroq o'tkazadi.",
      "Yorug'lik ko'p -> erkin elektron ko'p -> qarshilik KICHIK. Qorong'i -> qarshilik KATTA.",
@@ -122683,7 +122683,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qorong'ida qiymat qanday bo'ladi?  Javob: Past (fotorezistor yuqorida bo'lsa).",
      "Savol: Nega tayyor chegara ishlatilmaydi?  Javob: Har sensor va sharoitda qiymatlar farq qiladi."
@@ -122818,7 +122818,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Fotorezistor (LDR) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Fotorezistor (LDR) — texnik tasnif (4 daqiqa)",
     "points": [
      "LDR = Light Dependent Resistor. Qarshiligi YORUG'LIKKA bog'liq.",
      "Qorong'ida: 200 kOm - 1 MOm. Yorug'da: 1-10 kOm. To'g'ridan-to'g'ri chiroq ostida: 100-500 Om.",
@@ -122827,7 +122827,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Fotorezistor (LDR) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Fotorezistor (LDR) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichidagi kadmiy sulfid (CdS) qatlamiga foton tushganda elektronlar bo'shab qoladi va material tokni yaxshiroq o'tkazadi.",
      "Yorug'lik ko'p -> erkin elektron ko'p -> qarshilik KICHIK. Qorong'i -> qarshilik KATTA.",
@@ -122835,7 +122835,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Gisterezis nima uchun kerak?  Javob: Chegara atrofidagi miltillashni yo'q qilish uchun.",
      "Savol: Ikki chegara qanday tanlanadi?  Javob: Yoqish chegarasi o'chirishdan past bo'ladi."
@@ -122970,7 +122970,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. NTC termistor — texnik tasnif (4 daqiqa)",
+    "title": "5.3. NTC termistor — texnik tasnif (4 daqiqa)",
     "points": [
      "NTC = Negative Temperature Coefficient: harorat OSHSA qarshilik KAMAYADI.",
      "Nominal qiymat 25 °C da beriladi — maktab to'plamlarida odatda 10 kOm.",
@@ -122979,7 +122979,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. NTC termistor — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. NTC termistor — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Termistor — yarimo'tkazgich. Isiganda ichidagi erkin elektronlar soni ortadi va tokni yaxshiroq o'tkazadi.",
      "Bog'liqlik CHIZIQLI EMAS — shuning uchun analogRead qiymatini to'g'ridan-to'g'ri gradus deb olib bo'lmaydi.",
@@ -122987,7 +122987,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Termistordan haroratga o'tish uchun avval nima hisoblanadi?  Javob: Uning qarshiligi.",
      "Savol: Soddaroq usul qanday?  Javob: Kalibrlash jadvali tuzib, oraliq qiymatlarni interpolyatsiya qilish."
@@ -123123,7 +123123,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. DHT22 (harorat va namlik) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. DHT22 (harorat va namlik) — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: DHT22 / AM2302 — raqamli harorat va nisbiy namlik sensori.",
      "Harorat oralig'i: -40 dan +80 °C gacha. Aniqlik: ±0,5 °C. Qadam (rezolyutsiya): 0,1 °C.",
@@ -123135,7 +123135,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. DHT22 (harorat va namlik) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. DHT22 (harorat va namlik) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida ikkita sezgir element bor. Harorat uchun — termistor. Namlik uchun — ikki plastinka orasidagi namlik yutuvchi qatlam (kondensator sig'imi namlikka qarab o'zgaradi).",
      "Muhimi: bu qiymatlarni PLATA emas, SENSORNING O'ZI hisoblaydi. Ichida kichik mikrosxema bor, u o'lchaydi, hisoblaydi va tayyor RAQAM yuboradi.",
@@ -123146,7 +123146,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: DHT22 dan qanchalik tez-tez o'qish mumkin?  Javob: Sekundiga bir marta.",
      "Savol: nan qaytsa nima qilinadi?  Javob: isnan() bilan tekshirib, o'sha o'qishni tashlab yuborish."
@@ -123305,7 +123305,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. HC-SR04 (ultratovush masofa) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. HC-SR04 (ultratovush masofa) — texnik tasnif (4 daqiqa)",
     "points": [
      "O'lchov oralig'i: 2 sm dan 400 sm gacha. Amalda ishonchli oraliq — 3 sm dan 200 sm gacha.",
      "Aniqlik: ±3 mm. Ko'rish burchagi: 15 daraja.",
@@ -123316,7 +123316,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. HC-SR04 (ultratovush masofa) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. HC-SR04 (ultratovush masofa) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Modulda ikkita silindr bor: biri tovush YUBORADI (T), ikkinchisi QABUL QILADI (R).",
      "TRIG piniga 10 mikrosekundlik HIGH berilsa, modul 8 ta 40 kHz impuls yuboradi.",
@@ -123327,7 +123327,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega vaqt ikkiga bo'linadi?  Javob: Tovush borib qaytadi.",
      "Savol: Nega mediana afzal?  Javob: Bitta katta xato natijaga ta'sir qilmaydi."
@@ -123481,7 +123481,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. HC-SR04 (ultratovush masofa) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. HC-SR04 (ultratovush masofa) — texnik tasnif (4 daqiqa)",
     "points": [
      "O'lchov oralig'i: 2 sm dan 400 sm gacha. Amalda ishonchli oraliq — 3 sm dan 200 sm gacha.",
      "Aniqlik: ±3 mm. Ko'rish burchagi: 15 daraja.",
@@ -123492,7 +123492,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. HC-SR04 (ultratovush masofa) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. HC-SR04 (ultratovush masofa) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Modulda ikkita silindr bor: biri tovush YUBORADI (T), ikkinchisi QABUL QILADI (R).",
      "TRIG piniga 10 mikrosekundlik HIGH berilsa, modul 8 ta 40 kHz impuls yuboradi.",
@@ -123503,7 +123503,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Masofa kamayganda signal qanday o'zgaradi?  Javob: Tez-tez beriladi.",
      "Savol: constrain nima uchun kerak?  Javob: Diapazondan chiqqan qiymatlardan himoya qilish uchun."
@@ -123657,7 +123657,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. PIR HC-SR501 (harakat) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. PIR HC-SR501 (harakat) — texnik tasnif (4 daqiqa)",
     "points": [
      "PIR = Passive InfraRed. \"Passiv\" — o'zi hech narsa nurlantirmaydi, faqat tinglaydi.",
      "Sezish masofasi: 3 dan 7 metrgacha (moduldagi vint bilan sozlanadi).",
@@ -123669,7 +123669,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. PIR HC-SR501 (harakat) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. PIR HC-SR501 (harakat) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Har qanday issiq jism infraqizil nur chiqaradi. Inson tanasi ~10 mikrometr to'lqin uzunligida nurlanadi.",
      "Sensor ichida ikkita sezgir maydon bor. Ular ko'radigan nurlanish TENG bo'lsa — signal yo'q.",
@@ -123679,7 +123679,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: PIR qimirlamay turgan odamni sezadimi?  Javob: Yo'q.",
      "Savol: Yoqilgandan keyin qancha kutish kerak?  Javob: 30-60 sekund."
@@ -123825,7 +123825,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tuproq namligi datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Tuproq namligi datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Ikki xil turi bor: rezistiv (ikki metall vilka) va sig'imli (capacitive, bir butun plastina).",
      "Ta'minot: 3,3-5 V. Tok: 5-20 mA.",
@@ -123835,7 +123835,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tuproq namligi datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Tuproq namligi datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Rezistiv turida: quruq tuproq yomon o'tkazgich, nam tuproq esa (ichidagi tuz eritmasi tufayli) yaxshi o'tkazgich. Ikki vilka orasidagi qarshilik namlikka qarab o'zgaradi.",
      "Doimiy kuchlanish berilganda elektroliz boshlanadi: metall eriydi va vilkaga oq g'ubor o'tiradi — bu korroziya.",
@@ -123843,7 +123843,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Suv sathi datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.5. Suv sathi datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Bir nechta parallel o'tkazgich yo'lakdan iborat plastina.",
      "Ta'minot: 3,3-5 V. Tok: 20 mA gacha.",
@@ -123853,7 +123853,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. Suv sathi datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. Suv sathi datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Plastinada ikki xil yo'lak navbat bilan joylashgan: bittasi quvvatga, ikkinchisi o'lchov chiqishiga ulangan.",
      "Suv ikki yo'lakni tutashtiradi. Qancha ko'p yo'lak suv ostida qolsa, umumiy qarshilik shuncha kichik va chiqish kuchlanishi shuncha katta.",
@@ -123862,7 +123862,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Elektroliz qanday hal qilinadi?  Javob: Faqat o'lchash paytida quvvat berib.",
      "Savol: Nega nasos ishlash vaqti cheklanadi?  Javob: Sensor buzilsa u to'xtovsiz ishlab ketmasligi uchun."
@@ -124063,7 +124063,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Ovoz (mikrofon) datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Ovoz (mikrofon) datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Modulda elektret mikrofon va LM393 taqqoslagich bor.",
      "Ta'minot: 3,3-5 V. Tok: 4-5 mA.",
@@ -124073,7 +124073,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Ovoz (mikrofon) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Ovoz (mikrofon) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Elektret mikrofon ichida juda yupqa membrana bor. Tovush to'lqini unga urilib tebratadi.",
      "Membrana tebranishi sig'imni o'zgartiradi, bu esa kichik o'zgaruvchan kuchlanish hosil qiladi.",
@@ -124082,7 +124082,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Modul nimani o'lchaydi?  Javob: Tovush kuchini.",
      "Savol: Qiymat tez tebransa nima qilinadi?  Javob: Vaqt oynasida maksimal yoki o'rtacha olinadi."
@@ -124230,7 +124230,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kalibrlash nima va nima uchun kerak (4 daqiqa)",
+    "title": "5.3. Kalibrlash nima va nima uchun kerak (4 daqiqa)",
     "points": [
      "Sensor xom qiymat beradi (masalan 0 dan 1023 gacha son). Bu son o'z-o'zicha gradus yoki foizni anglatmaydi.",
      "Kalibrlash — xom qiymatni HAQIQIY o'lchov birligiga bog'lash jarayoni.",
@@ -124239,7 +124239,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Ikki nuqtali kalibrlash tartibi (4 daqiqa)",
+    "title": "5.4. Ikki nuqtali kalibrlash tartibi (4 daqiqa)",
     "points": [
      "1) Sensorni ma'lum PAST holatga qo'ying (masalan termistorni muzli suvga — 0 daraja) va xom qiymatni yozing.",
      "2) Ma'lum BALAND holatga qo'ying (iliq suv, termometr bilan o'lchangan) va xom qiymatni yozing.",
@@ -124249,7 +124249,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kalibrlash uchun kamida nechta nuqta kerak?  Javob: Ikkita.",
      "Savol: Kalibrlash qiymatlari qayerda saqlanadi?  Javob: Kodning boshida, alohida const qiymatlar sifatida."
@@ -124336,7 +124336,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Har bir sensorning o'z o'qish tezligi bor: DHT22 sekundiga bir marta, fotorezistorni esa tez-tez o'qish mumkin.",
      "Doskaga chiqariladigan namuna: \"Uch sensorni bir dasturda o'qish va vaqtni boshqarish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -124344,7 +124344,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega har sensorga o'z intervali kerak?  Javob: Ularning o'qish tezligi va talablari har xil.",
      "Savol: Vaqtni nima bilan boshqariladi?  Javob: millis() bilan."
@@ -124436,7 +124436,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Harakatlanuvchi o'rtacha nima qiladi?  Javob: Shovqinni kamaytirib, qiymatni silliqlaydi.",
      "Savol: Mediana nimasi bilan afzal?  Javob: Keskin chetlanishlarga chidamli."
@@ -124894,7 +124894,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Servo SG90 — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Servo SG90 — texnik tasnif (4 daqiqa)",
     "points": [
      "Burilish burchagi: 0 dan 180 gradusgacha (360 gradus aylanadigan turi ham bor, lekin u burchakni emas, tezlikni boshqaradi).",
      "Ta'minot: 4,8-6 V. Tinch holatda 10 mA, harakatda 100-250 mA, tiqilib qolganda 700 mA gacha.",
@@ -124905,7 +124905,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Servo SG90 — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Servo SG90 — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida to'rt qism bor: DC motor, tishli reduktor, potensiometr va boshqaruv platasi.",
      "Potensiometr chiqish valiga ulangan — u SERVOGA O'ZI hozir qaysi burchakda turganini bildiradi.",
@@ -124916,7 +124916,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Servo qanday burchak oralig'ida ishlaydi?  Javob: 0 dan 180 gradusgacha.",
      "Savol: Servo quvvatini qayerdan olish kerak?  Javob: Alohida 5 V manbadan, GND umumiy bo'lgan holda."
@@ -125066,7 +125066,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Servo SG90 — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Servo SG90 — texnik tasnif (4 daqiqa)",
     "points": [
      "Burilish burchagi: 0 dan 180 gradusgacha (360 gradus aylanadigan turi ham bor, lekin u burchakni emas, tezlikni boshqaradi).",
      "Ta'minot: 4,8-6 V. Tinch holatda 10 mA, harakatda 100-250 mA, tiqilib qolganda 700 mA gacha.",
@@ -125077,7 +125077,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Servo SG90 — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Servo SG90 — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida to'rt qism bor: DC motor, tishli reduktor, potensiometr va boshqaruv platasi.",
      "Potensiometr chiqish valiga ulangan — u SERVOGA O'ZI hozir qaysi burchakda turganini bildiradi.",
@@ -125088,7 +125088,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega servo silkinadi?  Javob: Sensor shovqini har siklda yangi burchak beradi.",
      "Savol: Bu qanday hal qilinadi?  Javob: Silliqlash va kichik o'zgarishlarni e'tiborsiz qoldirish bilan."
@@ -125238,7 +125238,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. DC motor (tranzistor orqali) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. DC motor (tranzistor orqali) — texnik tasnif (4 daqiqa)",
     "points": [
      "Oddiy kollektorli motor. Kuchlanishi: 3-6 V (maktab to'plamlarida).",
      "Bo'sh yurishda 70-150 mA, yuk ostida 300-500 mA, tiqilib qolganda 1 A dan ortiq.",
@@ -125248,7 +125248,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. DC motor (tranzistor orqali) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. DC motor (tranzistor orqali) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Motor ichida g'altak (rotor) va doimiy magnitlar bor. G'altakdan tok o'tganda u magnitga aylanadi va doimiy magnitlar bilan tortishib-itarishib aylanadi.",
      "Kollektor va cho'tkalar har yarim aylanishda tok yo'nalishini almashtiradi — shuning uchun aylanish to'xtamaydi.",
@@ -125258,7 +125258,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: O'lik zona nima?  Javob: Motor aylanmaydigan past PWM qiymatlari oralig'i.",
      "Savol: Motorli sxemada qaysi element majburiy?  Javob: Flyback diod."
@@ -125415,7 +125415,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. L298N motor drayveri — texnik tasnif (4 daqiqa)",
+    "title": "5.3. L298N motor drayveri — texnik tasnif (4 daqiqa)",
     "points": [
      "Ikkita DC motorni (yoki bitta qadamli motorni) mustaqil boshqaradi.",
      "Motor kuchlanishi: 5-35 V. Bir kanaldan doimiy 2 A, qisqa muddatga 3 A.",
@@ -125426,7 +125426,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. L298N motor drayveri — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. L298N motor drayveri — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida H-KO'PRIK sxemasi bor: to'rtta elektron kalit \"H\" harfi shaklida joylashgan, motor esa o'rtadagi ko'ndalang chiziqda.",
      "Chap yuqori va o'ng past kalit ochilsa — tok bir tomonga oqadi, motor o'ngga aylanadi.",
@@ -125438,7 +125438,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ENA pini nima uchun?  Javob: PWM bilan tezlikni boshqarish uchun.",
      "Savol: L298N da qancha kuchlanish yo'qoladi?  Javob: 1,5-2 V."
@@ -125633,7 +125633,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. L298N motor drayveri — texnik tasnif (4 daqiqa)",
+    "title": "5.3. L298N motor drayveri — texnik tasnif (4 daqiqa)",
     "points": [
      "Ikkita DC motorni (yoki bitta qadamli motorni) mustaqil boshqaradi.",
      "Motor kuchlanishi: 5-35 V. Bir kanaldan doimiy 2 A, qisqa muddatga 3 A.",
@@ -125644,7 +125644,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. L298N motor drayveri — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. L298N motor drayveri — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida H-KO'PRIK sxemasi bor: to'rtta elektron kalit \"H\" harfi shaklida joylashgan, motor esa o'rtadagi ko'ndalang chiziqda.",
      "Chap yuqori va o'ng past kalit ochilsa — tok bir tomonga oqadi, motor o'ngga aylanadi.",
@@ -125656,7 +125656,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Burilish qanday bo'ladi?  Javob: Motorlarning turli tezligi hisobiga.",
      "Savol: Nega aravacha to'g'ri yurmaydi?  Javob: Motorlar bir xil emas."
@@ -125851,7 +125851,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Qadamli motor 28BYJ-48 + ULN2003 — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Qadamli motor 28BYJ-48 + ULN2003 — texnik tasnif (4 daqiqa)",
     "points": [
      "Kuchlanish: 5 V. Tok: 200-300 mA (Arduino 5V pinidan olish chegarada — tashqi manba yaxshiroq).",
      "Ichki reduktor nisbati: 1:64.",
@@ -125862,7 +125862,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Qadamli motor 28BYJ-48 + ULN2003 — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Qadamli motor 28BYJ-48 + ULN2003 — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Qadamli motorda kollektor va cho'tka YO'Q. Uning o'rniga statorda bir nechta g'altak bor.",
      "G'altaklar NAVBAT BILAN yoqiladi. Rotor har safar yoqilgan g'altakka tortiladi va aniq bir qadam siljiydi.",
@@ -125872,7 +125872,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 28BYJ-48 uchun to'liq aylanish necha qadam?  Javob: 2048.",
      "Savol: Qadamli motorning asosiy afzalligi nima?  Javob: Datchiksiz aniq holatni bilish mumkin."
@@ -126045,7 +126045,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Passiv zummer — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Passiv zummer — texnik tasnif (4 daqiqa)",
     "points": [
      "Ichida pyezoelektrik plastinka bor. Generator YO'Q — chastotani dastur berishi kerak.",
      "Ishchi kuchlanishi: 3-5 V. Tok: 20-30 mA (pin chegarasida, shuning uchun 100 Om qo'yish tavsiya etiladi).",
@@ -126054,7 +126054,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Passiv zummer — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Passiv zummer — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Pyezoplastinkaga kuchlanish berilsa u biroz egiladi, olinsa qaytadi. Sekundiga 440 marta egilsa — havoda 440 Hz to'lqin hosil bo'ladi, quloq buni \"lya\" notasi deb eshitadi.",
      "Chastota — sekundiga necha marta tebranish. Chastota katta bo'lsa tovush INGICHKA, kichik bo'lsa YO'G'ON.",
@@ -126062,7 +126062,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Melodiya uchun nechta massiv kerak?  Javob: Ikkita.",
      "Savol: tone() qaysi pinlardagi PWM bilan to'qnashadi?  Javob: 3 va 11-pinlarda."
@@ -126197,7 +126197,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
     "points": [
      "16 belgi x 2 qator. Har bir belgi 5x8 nuqtadan iborat.",
      "Ta'minot: 5 V, 20-25 mA (orqa yorug'lik bilan birga).",
@@ -126206,7 +126206,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ekranda suyuq kristall molekulalari kuchlanish ta'sirida buriladi va yorug'likni o'tkazmay qo'yadi — shu joy qora ko'rinadi.",
      "Ekran o'zi yorug'lik chiqarmaydi, orqadan LED yoritib turadi. Shuning uchun quyoshda ham yaxshi ko'rinadi va kam quvvat sarflaydi.",
@@ -126214,7 +126214,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: I2C LCD uchun nechta sim kerak?  Javob: To'rtta.",
      "Savol: Matn ko'rinmasa birinchi nima tekshiriladi?  Javob: Kontrast potensiometri va I2C manzili."
@@ -126361,7 +126361,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
     "points": [
      "16 belgi x 2 qator. Har bir belgi 5x8 nuqtadan iborat.",
      "Ta'minot: 5 V, 20-25 mA (orqa yorug'lik bilan birga).",
@@ -126370,7 +126370,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ekranda suyuq kristall molekulalari kuchlanish ta'sirida buriladi va yorug'likni o'tkazmay qo'yadi — shu joy qora ko'rinadi.",
      "Ekran o'zi yorug'lik chiqarmaydi, orqadan LED yoritib turadi. Shuning uchun quyoshda ham yaxshi ko'rinadi va kam quvvat sarflaydi.",
@@ -126378,7 +126378,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ekranni qanchalik tez-tez yangilash kerak?  Javob: 500 ms da bir marta.",
      "Savol: Yangilash vaqti nima bilan boshqariladi?  Javob: millis() bilan."
@@ -126525,7 +126525,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. 7-segment indikator (1 razryad) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. 7-segment indikator (1 razryad) — texnik tasnif (4 daqiqa)",
     "points": [
      "Sakkizta LED: a, b, c, d, e, f, g segmentlari va DP (nuqta).",
      "Ikki turi bor: umumiy KATOD (COM -> GND, segment HIGH da yonadi) va umumiy ANOD (COM -> 5V, segment LOW da yonadi).",
@@ -126534,14 +126534,14 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. 7-segment indikator (1 razryad) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. 7-segment indikator (1 razryad) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Har bir raqam ma'lum segmentlar to'plamidan yig'iladi: 1 = b va c; 7 = a, b, c; 8 = hammasi.",
      "Turini aniqlash: multimetrni diod rejimiga qo'yib, COM ga qora shchupni tegizing — segmentlar yonsa umumiy katod."
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Bir razryad uchun nechta pin kerak?  Javob: Yettita.",
      "Savol: Raqam kombinatsiyalari qayerda saqlanadi?  Javob: Massivda."
@@ -126673,7 +126673,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. 74HC595 siljish registri — texnik tasnif (4 daqiqa)",
+    "title": "5.3. 74HC595 siljish registri — texnik tasnif (4 daqiqa)",
     "points": [
      "Kirish: 3 pin (DATA, CLOCK, LATCH). Chiqish: 8 pin (Q0...Q7).",
      "Ta'minot: 2-6 V. Bitta chiqish maksimum 35 mA, butun mikrosxema 70 mA.",
@@ -126682,7 +126682,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. 74HC595 siljish registri — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. 74HC595 siljish registri — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida 8 ta xotira katagi navbat bo'lib turadi. CLOCK har ko'tarilganda navbat bir qadam siljiydi va DATA pinidagi qiymat boshiga kiradi.",
      "8 marta siljitilgandan keyin LATCH ko'tariladi — shundagina 8 ta qiymat bir vaqtda chiqishga uzatiladi.",
@@ -126690,7 +126690,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 74HC595 uchun nechta pin kerak?  Javob: Uchta.",
      "Savol: Chiqishlar yangilanmasa nima tekshiriladi?  Javob: STCP ga impuls berilganmi."
@@ -126853,7 +126853,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. IR qabul qilgich VS1838 — texnik tasnif (4 daqiqa)",
+    "title": "5.3. IR qabul qilgich VS1838 — texnik tasnif (4 daqiqa)",
     "points": [
      "Qabul chastotasi: 38 kHz (eng keng tarqalgan standart).",
      "To'lqin uzunligi: 940 nm — infraqizil, ko'zga ko'rinmaydi.",
@@ -126864,7 +126864,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. IR qabul qilgich VS1838 — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. IR qabul qilgich VS1838 — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Pult IQ diodini shunchaki yoqmaydi — u sekundiga 38 000 marta miltillatib turadi (modulyatsiya).",
      "Nega shunday: quyosh va lampa ham IQ nur chiqaradi. Qabul qilgich ichidagi filtr faqat 38 kHz da tebranayotgan signalni o'tkazadi, doimiy fonni esa rad etadi.",
@@ -126874,7 +126874,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Pult kodlari universalmi?  Javob: Yo'q, har pultda o'ziga xos.",
      "Savol: Tugma bosib turilganda nima yuboriladi?  Javob: Takrorlash kodi."
@@ -127021,7 +127021,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Rele moduli — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Rele moduli — texnik tasnif (4 daqiqa)",
     "points": [
      "Elektromagnit kalit: kuchsiz signal bilan kuchli yuklamani ulaydi.",
      "G'altak: 5 V, 70-90 mA (shuning uchun to'g'ridan-to'g'ri pindan quvvatlanmaydi — modulda tranzistor bor).",
@@ -127032,7 +127032,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Rele moduli — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Rele moduli — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida g'altak va temir yakor bor. G'altakdan tok o'tsa u elektromagnitga aylanadi va yakorni tortadi.",
      "Yakor kontaktni COM-NC holatidan COM-NO holatiga o'tkazadi. Tok uzilsa prujina uni qaytaradi.",
@@ -127042,7 +127042,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Rele qachon yoqiladi?  Javob: Ko'p modullarda IN ga LOW berilganda.",
      "Savol: Nega almashish chastotasi cheklanadi?  Javob: Kontaktlar yeyiladi."
@@ -127194,7 +127194,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Rejaning tarkibi (4 daqiqa)",
+    "title": "5.3. Rejaning tarkibi (4 daqiqa)",
     "points": [
      "Muammo bayoni: qanday muammo hal qilinadi va u kimga kerak.",
      "Talablar ro'yxati: qurilma nima qila olishi kerak. Har bir talab TEKSHIRILADIGAN qilib yoziladi.",
@@ -127204,7 +127204,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Yaxshi va yomon talab (4 daqiqa)",
+    "title": "5.4. Yaxshi va yomon talab (4 daqiqa)",
     "points": [
      "Yomon talab: 'qurilma yaxshi ishlasin'. Buni tekshirib bo'lmaydi.",
      "Yaxshi talab: 'harorat 30 darajadan oshganda 2 sekund ichida signal bersin'.",
@@ -127213,7 +127213,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Vaqtni taqsimlash (4 daqiqa)",
+    "title": "5.5. Vaqtni taqsimlash (4 daqiqa)",
     "points": [
      "Amaliyotda yig'ish va dasturlash rejalashtirilganidan ikki barobar ko'p vaqt oladi.",
      "Shuning uchun rejaga zaxira vaqt qo'yish kerak: har uch darsga bitta zaxira dars.",
@@ -127222,7 +127222,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Talablar qanday yozilishi kerak?  Javob: Aniq va o'lchanadigan.",
      "Savol: Vaqtning qancha qismi sinovga ajratiladi?  Javob: Taxminan 30%."
@@ -127309,7 +127309,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Blok-sxemaning shartli belgilari (4 daqiqa)",
+    "title": "5.3. Blok-sxemaning shartli belgilari (4 daqiqa)",
     "points": [
      "Oval — boshlanish va tugash. Har bir sxemada bittadan bo'ladi.",
      "To'g'ri to'rtburchak — amal: 'LEDni yoq', 'sensorni o'qi'.",
@@ -127319,7 +127319,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Algoritmni to'g'ri tuzish (4 daqiqa)",
+    "title": "5.4. Algoritmni to'g'ri tuzish (4 daqiqa)",
     "points": [
      "Har bir qadam BITTA aniq amal bo'lishi kerak. 'Qurilmani ishlat' — bu qadam emas, bu butun loyiha.",
      "Shart romblarida savol 'ha/yo'q' bilan javob beriladigan qilib yoziladi.",
@@ -127328,7 +127328,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Nima uchun avval chizish kerak (4 daqiqa)",
+    "title": "5.5. Nima uchun avval chizish kerak (4 daqiqa)",
     "points": [
      "Kodni yozib bo'lgandan keyin mantiqiy xatoni topish qiyin, sxemada esa u darhol ko'rinadi.",
      "Sxema kodga o'girilishi oson: har bir romb — if, har bir orqaga qaytish — sikl.",
@@ -127337,7 +127337,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Rombda nima yoziladi?  Javob: Shart.",
      "Savol: Blok-sxema qachon chiziladi?  Javob: Dastur yozishdan oldin."
@@ -127424,7 +127424,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Sinov rejasi tuzish (4 daqiqa)",
+    "title": "5.3. Sinov rejasi tuzish (4 daqiqa)",
     "points": [
      "Sinov rejasi talablar ro'yxatidan kelib chiqadi: har bir talab uchun bitta sinov.",
      "Sinovda uch narsa yoziladi: nima qilinadi, nima kutiladi, nima chiqdi.",
@@ -127433,7 +127433,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Nosozlikni topish tartibi (4 daqiqa)",
+    "title": "5.4. Nosozlikni topish tartibi (4 daqiqa)",
     "points": [
      "Avval QUVVAT: manba ulanganmi, kuchlanish yetarlimi, GND umumiymi.",
      "Keyin ULANISH: har bir sim to'g'ri pinda turibdimi, kontakt yaxshimi.",
@@ -127443,7 +127443,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Prototip qanday yig'iladi?  Javob: Bosqichma-bosqich, har qismni sinab.",
      "Savol: Muammo topilsa nima qilinadi?  Javob: Darhol tuzatiladi."
@@ -127530,7 +127530,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Hujjatning tarkibi (4 daqiqa)",
+    "title": "5.3. Hujjatning tarkibi (4 daqiqa)",
     "points": [
      "Muammo va yechim bayoni — bir sahifada, sodda tilda.",
      "Printsipial sxema — hamma ulanishlar ko'rsatilgan chizma.",
@@ -127540,7 +127540,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Sxemani to'g'ri chizish (4 daqiqa)",
+    "title": "5.4. Sxemani to'g'ri chizish (4 daqiqa)",
     "points": [
      "Har bir komponent shartli belgi bilan chiziladi, rasm bilan emas.",
      "Pin raqamlari albatta yoziladi — usiz sxema qayta yig'ish uchun yaroqsiz.",
@@ -127549,7 +127549,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: BOM nima?  Javob: Komponentlar ro'yxati jadvali.",
      "Savol: Hujjatning sifat mezoni nima?  Javob: Boshqa odam faqat unga qarab takrorlay olishi."
@@ -127636,7 +127636,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Taqdimot tuzilishi (5 daqiqa) (4 daqiqa)",
+    "title": "5.3. Taqdimot tuzilishi (5 daqiqa) (4 daqiqa)",
     "points": [
      "1) Muammo (30 sekund): qanday muammo hal qilinmoqda va u kimga kerak.",
      "2) Yechim (1 daqiqa): qurilma nima qiladi va qanday ishlaydi.",
@@ -127646,7 +127646,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Namoyishga tayyorgarlik (4 daqiqa)",
+    "title": "5.4. Namoyishga tayyorgarlik (4 daqiqa)",
     "points": [
      "Namoyish oldindan kamida uch marta mashq qilinadi.",
      "Zaxira reja bo'lishi kerak: qurilma ishlamay qolsa, avval yozib olingan video ko'rsatiladi.",
@@ -127655,7 +127655,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Savollarga javob berish (4 daqiqa)",
+    "title": "5.5. Savollarga javob berish (4 daqiqa)",
     "points": [
      "Bilmagan narsani 'bilmayman, lekin shunday tekshirish mumkin' deb aytish — to'g'ri javob.",
      "Kamchilikni yashirish emas, ochiq aytish kerak: baholovchi uni baribir topadi.",
@@ -127664,7 +127664,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Natijalar qanday beriladi?  Javob: Aniq raqamlar bilan.",
      "Savol: Nega zaxira video kerak?  Javob: Jonli namoyish buzilib qolishi mumkin."
@@ -128050,7 +128050,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "ESP32 ikki yadroli: bitta vazifa bir yadroda, boshqasi ikkinchisida ishlashi mumkin.",
      "Doskaga chiqariladigan namuna: \"Ikki yadro va xotira — o'lchab ko'rish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -128058,7 +128058,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ESP32 da qancha SRAM bor?  Javob: 520 kilobayt.",
      "Savol: Ikki plataning mantiq darajasi qanday farq qiladi?  Javob: ESP32 — 3.3 V, Arduino — 5 V."
@@ -128150,7 +128150,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Har bir GPIO ni sinab, ishlaydiganlar ro'yxatini tuzish.",
      "Doskaga chiqariladigan namuna: \"Xavfsiz pinlarni sinovdan o'tkazish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -128158,7 +128158,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qaysi pinlar faqat kirish uchun?  Javob: GPIO 34-39.",
      "Savol: GPIO 6-11 nima uchun ishlatilmaydi?  Javob: Ular ichki flesh xotiraga ulangan."
@@ -128250,7 +128250,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Ba'zi platalarda yuklash boshlanganda BOOT tugmasini bosib turish kerak.",
      "Doskaga chiqariladigan namuna: \"ESP32 birinchi yuklash va BOOT tugmasi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -128258,7 +128258,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ESP32 paketi qanday o'rnatiladi?  Javob: Board Manager URL qo'shib, keyin Boards Manager orqali.",
      "Savol: Yuklash boshlanmasa nima qilinadi?  Javob: BOOT tugmasi bosib turiladi."
@@ -128350,7 +128350,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "5 V signalni 3,3 V piniga berish pinni shikastlaydi. Ikki rezistor bu muammoni hal qiladi.",
      "Doskaga chiqariladigan namuna: \"Kuchlanish bo'luvchi bilan darajani moslash\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -128358,7 +128358,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Bo'luvchi uchun qanday rezistorlar olinadi?  Javob: Masalan 1 kOm va 2 kOm.",
      "Savol: Qaysi holatda daraja o'tkazgich kerak?  Javob: Tez signallar va ikki tomonlama aloqada."
@@ -128450,7 +128450,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Uno bilan bir xil, faqat pin nomlari GPIO va mantiq 3,3 V.",
      "Doskaga chiqariladigan namuna: \"ESP32 da tugma va LED\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -128458,7 +128458,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ESP32 chiqishi qancha kuchlanish beradi?  Javob: 3.3 V.",
      "Savol: Pindan xavfsiz qancha tok olinadi?  Javob: Taxminan 12 mA."
@@ -128550,7 +128550,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "ESP32 ADC si Uno nikidan aniqroq (12 bit), lekin chetlarida CHIZIQSIZ — buni o'lchab ko'rish kerak.",
      "Doskaga chiqariladigan namuna: \"ESP32 ADC ning chiziqsizligi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -128558,7 +128558,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ESP32 ADC qanday oraliq beradi?  Javob: 0 dan 4095 gacha.",
      "Savol: WiFi yoqilganda qaysi kanallar ishlamaydi?  Javob: ADC2 kanallari."
@@ -128650,7 +128650,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -128660,7 +128660,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -128668,7 +128668,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ESP32 da nechta PWM kanali bor?  Javob: 16 ta.",
      "Savol: 12 razryadli PWM da qiymat oralig'i qanday?  Javob: 0 dan 4095 gacha."
@@ -128806,7 +128806,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "ESP32 da 10 ta touch pin bor. Ular sig'imni o'lchaydi: barmoq yaqinlashganda sig'im ortadi va qiymat TUSHADI.",
      "Doskaga chiqariladigan namuna: \"Sensorli tugma — mexanik tugmasiz\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -128814,7 +128814,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: touchRead tegilganda qanday qiymat beradi?  Javob: Kichikroq qiymat.",
      "Savol: Sensorli tugmaning afzalligi nima?  Javob: Harakatlanuvchi qismi yo'q, yeyilmaydi."
@@ -128906,7 +128906,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Hall datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Hall datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Magnit maydonini elektr signalga aylantiradi. Ikki turi bor: raqamli (bor/yo'q) va analog (kuchini o'lchaydi).",
      "Ta'minot: 3,3-5 V (A3144 uchun 4,5-24 V). Tok: 5-10 mA.",
@@ -128916,7 +128916,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Hall datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Hall datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Hall effekti: tok o'tayotgan yassi plastinka magnit maydoniga qo'yilsa, magnit kuchi elektronlarni bir chetga siqib qo'yadi.",
      "Natijada plastinkaning ikki cheti orasida kichik kuchlanish paydo bo'ladi — bu Hall kuchlanishi.",
@@ -128925,7 +128925,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: hallRead nimani o'lchaydi?  Javob: Chip ichidagi magnit maydon datchigi qiymatini.",
      "Savol: Uning kamchiligi nima?  Javob: Sezgirligi past va shovqinli."
@@ -129069,7 +129069,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
     "points": [
      "16 belgi x 2 qator. Har bir belgi 5x8 nuqtadan iborat.",
      "Ta'minot: 5 V, 20-25 mA (orqa yorug'lik bilan birga).",
@@ -129078,7 +129078,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ekranda suyuq kristall molekulalari kuchlanish ta'sirida buriladi va yorug'likni o'tkazmay qo'yadi — shu joy qora ko'rinadi.",
      "Ekran o'zi yorug'lik chiqarmaydi, orqadan LED yoritib turadi. Shuning uchun quyoshda ham yaxshi ko'rinadi va kam quvvat sarflaydi.",
@@ -129086,7 +129086,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: I2C nechta sim ishlatadi?  Javob: Ikkita: SDA va SCL.",
      "Savol: Bir xil manzilli ikki qurilma ulansa nima bo'ladi?  Javob: Konflikt — ikkalasi ishlamaydi."
@@ -129233,7 +129233,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -129243,7 +129243,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -129251,7 +129251,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. OLED ekran 0.96\" (SSD1306, I2C) — texnik tasnif (4 daqiqa)",
+    "title": "5.5. OLED ekran 0.96\" (SSD1306, I2C) — texnik tasnif (4 daqiqa)",
     "points": [
      "128 x 64 piksel, o'lchami 0,96 dyuym. 0,91\" (128x32) turi ham bor.",
      "Ta'minot: 3,3 V yoki 5 V (modulda stabilizator bo'lsa). Tok: 10-20 mA.",
@@ -129260,7 +129260,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. OLED ekran 0.96\" (SSD1306, I2C) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. OLED ekran 0.96\" (SSD1306, I2C) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "OLED = Organic Light Emitting Diode. Har bir piksel O'ZI yorug'lik chiqaradi — orqa yoritish kerak emas.",
      "Qora piksel — butunlay o'chgan piksel. Shuning uchun qorasi chinakam qora va kontrast juda yuqori.",
@@ -129268,7 +129268,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ekran yangilanishi uchun nima chaqiriladi?  Javob: display.display().",
      "Savol: SSD1306 ning odatiy manzili qanday?  Javob: 0x3C."
@@ -129465,7 +129465,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -129475,7 +129475,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -129483,7 +129483,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. OLED ekran 0.96\" (SSD1306, I2C) — texnik tasnif (4 daqiqa)",
+    "title": "5.5. OLED ekran 0.96\" (SSD1306, I2C) — texnik tasnif (4 daqiqa)",
     "points": [
      "128 x 64 piksel, o'lchami 0,96 dyuym. 0,91\" (128x32) turi ham bor.",
      "Ta'minot: 3,3 V yoki 5 V (modulda stabilizator bo'lsa). Tok: 10-20 mA.",
@@ -129492,7 +129492,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. OLED ekran 0.96\" (SSD1306, I2C) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. OLED ekran 0.96\" (SSD1306, I2C) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "OLED = Organic Light Emitting Diode. Har bir piksel O'ZI yorug'lik chiqaradi — orqa yoritish kerak emas.",
      "Qora piksel — butunlay o'chgan piksel. Shuning uchun qorasi chinakam qora va kontrast juda yuqori.",
@@ -129500,7 +129500,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: setCursor qanday koordinata oladi?  Javob: Piksel koordinatalarini.",
      "Savol: Yangilash tartibi qanday?  Javob: clearDisplay, chizish, display."
@@ -129697,7 +129697,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -129707,7 +129707,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -129715,7 +129715,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. OLED ekran 0.96\" (SSD1306, I2C) — texnik tasnif (4 daqiqa)",
+    "title": "5.5. OLED ekran 0.96\" (SSD1306, I2C) — texnik tasnif (4 daqiqa)",
     "points": [
      "128 x 64 piksel, o'lchami 0,96 dyuym. 0,91\" (128x32) turi ham bor.",
      "Ta'minot: 3,3 V yoki 5 V (modulda stabilizator bo'lsa). Tok: 10-20 mA.",
@@ -129724,7 +129724,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. OLED ekran 0.96\" (SSD1306, I2C) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. OLED ekran 0.96\" (SSD1306, I2C) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "OLED = Organic Light Emitting Diode. Har bir piksel O'ZI yorug'lik chiqaradi — orqa yoritish kerak emas.",
      "Qora piksel — butunlay o'chgan piksel. Shuning uchun qorasi chinakam qora va kontrast juda yuqori.",
@@ -129732,7 +129732,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ekranda y = 0 qayerda?  Javob: Yuqorida.",
      "Savol: Grafik qiymatlari qayerda saqlanadi?  Javob: Aylanma buferli massivda."
@@ -129929,7 +129929,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "SPI tez, lekin ko'p sim talab qiladi. I2C sekin, lekin faqat 2 sim.",
      "Doskaga chiqariladigan namuna: \"SPI va I2C ni solishtirish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -129937,7 +129937,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: SPI nechta sim ishlatadi?  Javob: To'rtta.",
      "Savol: Har SPI qurilmasiga nima kerak?  Javob: Alohida CS pini."
@@ -130029,7 +130029,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. microSD kart moduli — texnik tasnif (4 daqiqa)",
+    "title": "5.3. microSD kart moduli — texnik tasnif (4 daqiqa)",
     "points": [
      "Interfeys: SPI (CS, SCK, MOSI, MISO).",
      "Kart formati: FAT16 yoki FAT32 SHART. exFAT va NTFS ishlamaydi.",
@@ -130040,7 +130040,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. microSD kart moduli — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. microSD kart moduli — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida flesh xotira mikrosxemasi va kontroller bor. Kontroller SPI buyruqlarini xotira blokiga aylantiradi.",
      "Kutubxona esa bloklar ustiga FAYL TIZIMINI quradi — shuning uchun kompyuter ham bu faylni o'qiy oladi.",
@@ -130049,7 +130049,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: SD kart qaysi protokol bilan ulanadi?  Javob: SPI.",
      "Savol: Yozgandan keyin nima shart?  Javob: Faylni close() bilan yopish."
@@ -130215,7 +130215,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. RTC DS3231 (real vaqt soati) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. RTC DS3231 (real vaqt soati) — texnik tasnif (4 daqiqa)",
     "points": [
      "Aniqligi: yiliga ±2 daqiqa (ichida termokompensatsiyali kvars bor).",
      "DS1307 dan afzalligi: DS1307 yiliga 30 daqiqagacha adashadi, DS3231 esa harorat o'zgarsa ham aniq yuradi.",
@@ -130226,7 +130226,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. RTC DS3231 (real vaqt soati) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. RTC DS3231 (real vaqt soati) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida kvars kristalli 32 768 Hz chastotada tebranadi. Bu son bejiz emas: 32768 = 2 ning 15-darajasi.",
      "Shuning uchun tebranishlarni 15 marta ikkiga bo'lish orqali aniq 1 Hz — ya'ni SEKUND olinadi.",
@@ -130236,7 +130236,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: DS3231 ning aniqligi qanday?  Javob: Yiliga ±2 daqiqa atrofida.",
      "Savol: Sozlashdan keyin kod bilan nima qilinadi?  Javob: Izohga olinadi."
@@ -130391,7 +130391,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Oddiy rejimda ESP32 ~80 mA, deep sleep da esa ~10 mikroamper tortadi.",
      "Doskaga chiqariladigan namuna: \"Deep sleep — batareya umrini o'nlab marta uzaytiradi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -130399,7 +130399,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Deep sleep da iste'mol qancha?  Javob: Taxminan 10 mikroamper.",
      "Savol: Uyg'ongandan keyin dastur qayerdan boshlanadi?  Javob: setup() dan."
@@ -130491,7 +130491,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "ESP32 ning eng ko'p uchraydigan muammosi — yuklanmasligi yoki qayta-qayta yuklanib turishi (boot loop).",
      "Doskaga chiqariladigan namuna: \"Yuklash xatolari va ularning sabablari\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -130499,7 +130499,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Brownout xatosi nimani bildiradi?  Javob: Quvvat cho'kkanini.",
      "Savol: Qaysi pinlarga komponent ulash yuklashni buzadi?  Javob: GPIO 0, 2, 12, 15."
@@ -131079,7 +131079,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Ulanish holati LED orqali ko'rinadi: miltillash — ulanmoqda, doim yoniq — ulandi.",
      "Doskaga chiqariladigan namuna: \"WiFi ga ulanish va holatni LED bilan ko'rsatish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -131087,7 +131087,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ESP32 qaysi WiFi diapazonini qo'llab-quvvatlaydi?  Javob: Faqat 2.4 GHz.",
      "Savol: IP manzil qanday olinadi?  Javob: WiFi.localIP() bilan."
@@ -131179,7 +131179,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "IP — uyning manzili, port — o'sha uydagi xonaning raqami.",
      "Doskaga chiqariladigan namuna: \"Port tushunchasi — bitta IP, ko'p xizmat\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -131187,7 +131187,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Veb-server odatda qaysi portda ishlaydi?  Javob: 80-portda.",
      "Savol: Statik IP nima beradi?  Javob: Manzil doim bir xil qoladi."
@@ -131279,7 +131279,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "ESP32 brauzerga HTML sahifa yuboradi, sahifadagi havolalar esa qurilmani boshqaradi.",
      "Doskaga chiqariladigan namuna: \"Brauzerdan LEDni boshqaruvchi veb-server\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -131287,7 +131287,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: HTTP javobida sarlavhalardan keyin nima kerak?  Javob: Bo'sh qator.",
      "Savol: Veb-server qaysi portda ochiladi?  Javob: Odatda 80-portda."
@@ -131379,7 +131379,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "HTML — sahifaning skeleti, CSS — ko'rinishi. Ikkalasi ham oddiy matn sifatida yuboriladi.",
      "Doskaga chiqariladigan namuna: \"Stilli va sensor qiymati bilan sahifa\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -131387,7 +131387,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Telefonda to'g'ri ko'rinishi uchun nima kerak?  Javob: meta viewport tegi.",
      "Savol: Katta sahifalar qayerda saqlanadi?  Javob: SPIFFS fayl tizimida."
@@ -131479,7 +131479,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "HTML forma elementlari qurilmaning haqiqiy sozlamalariga bog'lanadi.",
      "Doskaga chiqariladigan namuna: \"Slayder bilan yorqinlik va tugmalar bilan rele\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -131487,7 +131487,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Brauzer so'rovi qanday keladi?  Javob: Matn sifatida, GET /yo'l ko'rinishida.",
      "Savol: Havolali tugmaning kamchiligi nima?  Javob: Har bosishda sahifa qayta yuklanadi."
@@ -131579,7 +131579,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Panel — bir qarashda hamma ko'rsatkichni ko'rsatadigan sahifa.",
      "Doskaga chiqariladigan namuna: \"Bir necha sensor — bitta boshqaruv paneli\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -131587,7 +131587,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: meta refresh ning kamchiligi nima?  Javob: Butun sahifa qayta yuklanadi.",
      "Savol: Yaxshiroq yechim nima?  Javob: Alohida manzildan faqat qiymatni olish."
@@ -131679,7 +131679,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "meta refresh butun sahifani qayta yuklaydi (miltillaydi). AJAX faqat kerakli qiymatni oladi — sahifa silliq yangilanadi.",
      "Doskaga chiqariladigan namuna: \"Faqat SONNI yangilash — butun sahifani emas\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -131687,7 +131687,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: AJAX nima qiladi?  Javob: Sahifani qayta yuklamasdan ma'lumot oladi.",
      "Savol: So'rovni takrorlash uchun nima ishlatiladi?  Javob: setInterval."
@@ -131779,7 +131779,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "CSS mazmunni o'zgartirmaydi, faqat ko'rinishini boshqaradi.",
      "Doskaga chiqariladigan namuna: \"Bir xil sahifa — stilsiz va stil bilan\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -131787,7 +131787,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: CSS qayerda yoziladi?  Javob: HTML ichidagi <style> tegida.",
      "Savol: Telefon uchun tugma o'lchami qanday bo'lishi kerak?  Javob: Kamida 44x44 piksel."
@@ -131879,7 +131879,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Xatoga chidamlilik: so'rov muvaffaqiyatsiz bo'lsa dastur to'xtamasligi kerak.",
      "Doskaga chiqariladigan namuna: \"Sensor qiymatini serverga muntazam yuborish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -131887,7 +131887,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Javob kodi 200 nimani bildiradi?  Javob: So'rov muvaffaqiyatli.",
      "Savol: http.end() nima uchun kerak?  Javob: Xotirani bo'shatish uchun."
@@ -131979,7 +131979,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Bulut xizmati ma'lumotni saqlaydi va grafikda ko'rsatadi.",
      "Doskaga chiqariladigan namuna: \"ThingSpeak ga o'lchov yuborish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -131987,7 +131987,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: API kalit nima?  Javob: Xizmatga murojaat qilish uchun maxfiy kalit.",
      "Savol: Bepul rejada odatda qanday cheklov bo'ladi?  Javob: Yuborish chastotasi cheklanadi, masalan 15 sekundda bir marta."
@@ -132079,7 +132079,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Grafikdan xulosa chiqarish — ma'lumotni yig'ishdan ham muhimroq bosqich.",
      "Doskaga chiqariladigan namuna: \"Kunlik o'lchov va xulosа chiqarish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -132087,7 +132087,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Grafikda to'satdan tekis chiziq nimani bildiradi?  Javob: Sensor nosozligini yoki uzilganini.",
      "Savol: Chuqurroq tahlil uchun nima qilinadi?  Javob: CSV yuklab, jadval dasturida ishlash."
@@ -132179,7 +132179,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Bot nafaqat yuboradi, telefondan kelgan buyruqni ham o'qiydi.",
      "Doskaga chiqariladigan namuna: \"Bot buyruqlarini qabul qilish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -132187,7 +132187,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Bot yaratish uchun kimga murojaat qilinadi?  Javob: @BotFather ga.",
      "Savol: Chat ID nima uchun kerak?  Javob: Bot kimga xabar yuborishini belgilash uchun."
@@ -132279,7 +132279,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Diqqat va Xavf — ikki daraja, har biri o'z xabarini yuboradi.",
      "Doskaga chiqariladigan namuna: \"Ikki darajali ogohlantirish tizimi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -132287,7 +132287,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega bayroq kerak?  Javob: Xabar bir marta yuborilishi uchun.",
      "Savol: Xabarda nima bo'lishi kerak?  Javob: Nima bo'lgani, qachon va qanday qiymat."
@@ -132379,7 +132379,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Bot havolasi topilsa kim bo'lsa ham boshqara oladi — shuning uchun chat ID tekshiruvi kerak.",
      "Doskaga chiqariladigan namuna: \"Parol bilan himoyalangan boshqaruv\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -132387,7 +132387,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega chat ID tekshiriladi?  Javob: Faqat ruxsat berilgan odam boshqarishi uchun.",
      "Savol: Klaviatura nima beradi?  Javob: Foydalanuvchiga tayyor tugmalar."
@@ -132479,7 +132479,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "MQTT — IoT uchun yengil protokol: qurilma broker orqali mavzuga (topic) yozadi va obuna bo'ladi.",
      "Doskaga chiqariladigan namuna: \"MQTT bilan xabar yuborish va qabul qilish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -132487,7 +132487,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: MQTT ning uch elementi qaysi?  Javob: Broker, publisher, subscriber.",
      "Savol: Mavzular qanday tuziladi?  Javob: Daraxt ko'rinishida, masalan uy/oshxona/harorat."
@@ -132579,7 +132579,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Har bir qurilmaning MAC manzili — uning noyob raqami. Uni bilmasdan ESP-NOW ishlamaydi.",
      "Doskaga chiqariladigan namuna: \"Ikki qurilma — yuboruvchi va qabul qiluvchi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -132587,7 +132587,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ESP-NOW ning afzalligi nima?  Javob: Routersiz, tez va kam quvvat.",
      "Savol: ESP-NOW uchun nima kerak?  Javob: Qabul qiluvchining MAC manzili."
@@ -132679,7 +132679,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Bluetooth HC-05 / JDY-31 — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Bluetooth HC-05 / JDY-31 — texnik tasnif (4 daqiqa)",
     "points": [
      "Bluetooth 2.0 SPP (Serial Port Profile) — simsiz COM port kabi ishlaydi.",
      "Masofa: 10 metrgacha (ochiq joyda).",
@@ -132691,7 +132691,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Bluetooth HC-05 / JDY-31 — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Bluetooth HC-05 / JDY-31 — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Modul ma'lumotni radio to'lqin orqali uzatadi, lekin plata uchun bu oddiy SERIAL aloqadan farq qilmaydi.",
      "Ya'ni plata Serial.print bilan yozadi — modul uni radio orqali telefonga uzatadi. Bu abstraksiya deyiladi: murakkab ish yashiringan.",
@@ -132701,7 +132701,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: BLE ning asosiy afzalligi nima?  Javob: Juda kam quvvat sarflaydi.",
      "Savol: BLE da ma'lumot qanday tashkil qilinadi?  Javob: Service ichida Characteristic."
@@ -132856,7 +132856,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Parol kodda ochiq yozilsa, kodni ulashganda parol ham ketadi.",
      "Doskaga chiqariladigan namuna: \"Parolni koddan ajratish va HTTPS\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -132864,7 +132864,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kodda parol saqlash nima uchun xavfli?  Javob: Kod boshqalarga o'tsa parol ham o'tadi.",
      "Savol: Minimal himoya nimalardan iborat?  Javob: Parol, autentifikatsiya va shifrlangan aloqa."
@@ -133257,7 +133257,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Uch tushuncha bir-birining ichida (4 daqiqa)",
+    "title": "5.3. Uch tushuncha bir-birining ichida (4 daqiqa)",
     "points": [
      "Sun'iy intellekt (AI) — eng keng tushuncha: inson aqliy vazifalarini bajaradigan har qanday tizim. Shaxmat dasturi ham, qoidalar to'plami ham unga kiradi.",
      "Mashinaviy o'rganish (ML) — AI ning bir qismi: qoidalar YOZILMAYDI, ular ma'lumotdan TOPILADI.",
@@ -133267,7 +133267,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. TinyML ning o'lchamlari (4 daqiqa)",
+    "title": "5.4. TinyML ning o'lchamlari (4 daqiqa)",
     "points": [
      "Oddiy kompyuterdagi model bir necha gigabayt bo'lishi mumkin. Mikrokontrollerda esa atigi bir necha yuz kilobayt xotira bor.",
      "XIAO ESP32S3 da 8 MB PSRAM bor — bu telefondagi xotiraning mingdan bir qismi.",
@@ -133276,7 +133276,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Nima uchun modelni qurilmada ishlatish kerak (4 daqiqa)",
+    "title": "5.5. Nima uchun modelni qurilmada ishlatish kerak (4 daqiqa)",
     "points": [
      "Tezlik: javob 100 millisekunddan kam vaqtda keladi, internetga borib qaytish esa yarim sekund oladi.",
      "Maxfiylik: ovoz va tasvir qurilmadan CHIQMAYDI, hech qayerga yuborilmaydi.",
@@ -133285,7 +133285,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ML SI ning bir qismimi yoki aksincha?  Javob: ML — SI ning bir qismi.",
      "Savol: TinyML nima?  Javob: Mikrokontrollerda ishlaydigan kichik ML modellari."
@@ -133373,7 +133373,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Ikki yondashuvning tuzilishi (4 daqiqa)",
+    "title": "5.3. Ikki yondashuvning tuzilishi (4 daqiqa)",
     "points": [
      "An'anaviy dastur: KIRISH + QOIDA -> NATIJA. Qoidani odam yozadi.",
      "Mashinaviy o'rganish: KIRISH + NATIJA -> QOIDA. Qoidani mashina topadi.",
@@ -133382,7 +133382,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Har birining kuchli va zaif tomoni (4 daqiqa)",
+    "title": "5.4. Har birining kuchli va zaif tomoni (4 daqiqa)",
     "points": [
      "An'anaviy dastur: natijasi oldindan ma'lum, tushuntirish oson, xatoni topish oson. Lekin murakkab vazifalarda qoida yozib bo'lmaydi.",
      "Model: murakkab vazifani uddalaydi. Lekin nima uchun shunday javob berganini tushuntirish qiyin va u xato ham qilishi mumkin.",
@@ -133391,7 +133391,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: An'anaviy dasturda qoidalarni kim yozadi?  Javob: Dasturchi.",
      "Savol: ML qachon kerak?  Javob: Qoidalarni qo'lda yozib bo'lmaydigan vazifalarda."
@@ -133479,7 +133479,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Dataset tuzilishi (4 daqiqa)",
+    "title": "5.3. Dataset tuzilishi (4 daqiqa)",
     "points": [
      "Dataset — modelni o'rgatish uchun yig'ilgan misollar to'plami. Har bir misolda kirish ma'lumoti va to'g'ri javob bo'ladi.",
      "Ovoz loyihasida bir misol — bu bir sekundlik yozuv va uning sinfi ('yoq', 'o'chir', 'fon').",
@@ -133488,7 +133488,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Ma'lumot sifati modeldan muhimroq (4 daqiqa)",
+    "title": "5.4. Ma'lumot sifati modeldan muhimroq (4 daqiqa)",
     "points": [
      "Yomon ma'lumot bilan eng yaxshi model ham yomon natija beradi. Yaxshi ma'lumot bilan oddiy model ham yaxshi ishlaydi.",
      "Xilma-xillik shart: turli odamlar, turli tezlik, turli fon shovqini bilan yozib olish kerak.",
@@ -133498,7 +133498,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Dataset nima?  Javob: Modelni o'rgatish uchun yig'ilgan misollar to'plami.",
      "Savol: ML loyihasining vaqtining ko'p qismi nimaga ketadi?  Javob: Ma'lumot yig'ish va tayyorlashga."
@@ -133586,7 +133586,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Belgi nima (4 daqiqa)",
+    "title": "5.3. Belgi nima (4 daqiqa)",
     "points": [
      "Belgi (feature) — ma'lumotdan ajratilgan va model uchun ma'noli bo'lgan son.",
      "Xom akselerometr ma'lumoti 2 sekundda 600 ta son beradi. Model bularning hammasi bilan ishlashi qiyin.",
@@ -133595,7 +133595,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Sinf nima (4 daqiqa)",
+    "title": "5.4. Sinf nima (4 daqiqa)",
     "points": [
      "Sinf (class) — model ajratadigan toifalardan biri. 'yoq', 'o'chir', 'fon' — uchta sinf.",
      "Sinflar bir-birini istisno qilishi kerak: bir misol faqat bitta sinfga tegishli.",
@@ -133604,7 +133604,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Belgi (feature) nima?  Javob: Ma'lumotdan ajratilgan muhim xususiyat.",
      "Savol: Sinf nima?  Javob: Model ajratadigan toifalardan biri."
@@ -133692,7 +133692,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. O'rgatish ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.3. O'rgatish ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "1) Boshida model og'irliklari TASODIFIY qiymatlarga to'ldiriladi — model hech narsa bilmaydi.",
      "2) Bir misol beriladi, model javob qaytaradi. Javob deyarli har doim noto'g'ri chiqadi.",
@@ -133703,7 +133703,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Qachon to'xtatish kerak (4 daqiqa)",
+    "title": "5.4. Qachon to'xtatish kerak (4 daqiqa)",
     "points": [
      "Xato kamayishdan to'xtasa, davom etish foydasiz.",
      "Tekshirish aniqligi tusha boshlasa — bu overfitting boshlangani va o'rgatishni to'xtatish kerakligini bildiradi.",
@@ -133712,7 +133712,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ma'lumot qanday bo'linadi?  Javob: O'rgatish (80%) va tekshirish (20%) to'plamlariga.",
      "Savol: Tekshirish to'plami nima uchun kerak?  Javob: Modelning haqiqiy sifatini baholash uchun."
@@ -133800,7 +133800,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Platformaning bo'limlari (4 daqiqa)",
+    "title": "5.3. Platformaning bo'limlari (4 daqiqa)",
     "points": [
      "Data acquisition — ma'lumot yig'ish va belgilash.",
      "Impulse design — ish oqimini qurish: kirish bloki, belgi bloki, o'rgatish bloki.",
@@ -133810,7 +133810,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Qurilmani ulash (4 daqiqa)",
+    "title": "5.4. Qurilmani ulash (4 daqiqa)",
     "points": [
      "Edge Impulse CLI o'rnatiladi yoki brauzer orqali ulanish ishlatiladi.",
      "Qurilma ulangach, u ma'lumot yig'ish sahifasida ko'rinadi.",
@@ -133819,7 +133819,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Edge Impulse qayerda ishlaydi?  Javob: Brauzerda.",
      "Savol: Natija qanday shaklda olinadi?  Javob: Tayyor Arduino kutubxonasi sifatida."
@@ -133907,7 +133907,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Edge Impulse ga ulashdan oldin sensor to'g'ri ishlayotganini va namuna olish tezligi barqarorligini tekshirish kerak.",
      "Doskaga chiqariladigan namuna: \"Ma'lumot yig'ish uchun qurilmani tayyorlash\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -133915,7 +133915,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qurilma qanday ulanadi?  Javob: CLI, telefon yoki qo'lda yuklash orqali.",
      "Savol: CLI uchun nima kerak?  Javob: Node.js o'rnatilgan bo'lishi."
@@ -134008,7 +134008,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. MPU6050 (akselerometr va giroskop) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. MPU6050 (akselerometr va giroskop) — texnik tasnif (4 daqiqa)",
     "points": [
      "6 o'qli: 3 o'q akselerometr (tezlanish) + 3 o'q giroskop (burilish tezligi).",
      "Akselerometr oralig'i: ±2g, ±4g, ±8g, ±16g (sozlanadi). 1g = 9,8 m/s2.",
@@ -134020,7 +134020,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. MPU6050 (akselerometr va giroskop) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. MPU6050 (akselerometr va giroskop) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "MEMS texnologiyasi: kremniy plastinkasiga mikroskopik mexanik tuzilmalar o'yib chiqilgan.",
      "Akselerometrda kichkina osilgan massa bor. Qurilma tezlanganda massa inersiya bilan biroz siljiydi va sig'im o'zgaradi — shu o'zgarish o'lchanadi.",
@@ -134031,7 +134031,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: MPU6050 nimalarni o'lchaydi?  Javob: Tezlanish va burilish tezligini.",
      "Savol: Tinch holatda akselerometr nima ko'rsatadi?  Javob: Yer tortishini, ya'ni 1g."
@@ -134196,7 +134196,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. MPU6050 (akselerometr va giroskop) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. MPU6050 (akselerometr va giroskop) — texnik tasnif (4 daqiqa)",
     "points": [
      "6 o'qli: 3 o'q akselerometr (tezlanish) + 3 o'q giroskop (burilish tezligi).",
      "Akselerometr oralig'i: ±2g, ±4g, ±8g, ±16g (sozlanadi). 1g = 9,8 m/s2.",
@@ -134208,7 +134208,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. MPU6050 (akselerometr va giroskop) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. MPU6050 (akselerometr va giroskop) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "MEMS texnologiyasi: kremniy plastinkasiga mikroskopik mexanik tuzilmalar o'yib chiqilgan.",
      "Akselerometrda kichkina osilgan massa bor. Qurilma tezlanganda massa inersiya bilan biroz siljiydi va sig'im o'zgaradi — shu o'zgarish o'lchanadi.",
@@ -134219,7 +134219,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Har sinf uchun kamida nechta namuna kerak?  Javob: 30-50 ta.",
      "Savol: Nega xilma-xillik muhim?  Javob: Model turli bajarilish usullarini tanishi uchun."
@@ -134384,7 +134384,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Belgilash qoidalari (4 daqiqa)",
+    "title": "5.3. Belgilash qoidalari (4 daqiqa)",
     "points": [
      "Har bir misolga aniq bitta sinf nomi qo'yiladi. Nom qisqa va bir xil yoziladi: 'yoq' va 'Yoq' ikki xil sinf sifatida qabul qilinadi.",
      "Chegaradagi holatlar uchun qoida oldindan kelishiladi: yarim aytilgan so'z qaysi sinfga kiradi.",
@@ -134393,7 +134393,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Belgilash — eng ko'p vaqt oladigan bosqich (4 daqiqa)",
+    "title": "5.4. Belgilash — eng ko'p vaqt oladigan bosqich (4 daqiqa)",
     "points": [
      "Amalda AI loyihasining vaqtining 60-80 % i ma'lumot yig'ish va belgilashga ketadi, model o'rgatish esa bir necha daqiqa oladi.",
      "Bu o'quvchilar uchun kutilmagan bo'ladi va aynan shuni bir marta boshdan kechirish kerak.",
@@ -134402,7 +134402,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Belgilash nima?  Javob: Har namunaga to'g'ri sinf nomini qo'yish.",
      "Savol: Shubhali namuna bilan nima qilinadi?  Javob: Tashlab yuborilgani ma'qul."
@@ -134490,7 +134490,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Nima uchun ma'lumot bo'linadi (4 daqiqa)",
+    "title": "5.3. Nima uchun ma'lumot bo'linadi (4 daqiqa)",
     "points": [
      "Model o'rgatilgan ma'lumotda doim yaxshi natija beradi — u ularni ko'rgan.",
      "Haqiqiy savol: model KO'RMAGAN ma'lumotda qanday ishlaydi.",
@@ -134499,7 +134499,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Natijalarni o'qish (4 daqiqa)",
+    "title": "5.4. Natijalarni o'qish (4 daqiqa)",
     "points": [
      "O'rgatish aniqligi 98 %, tekshirish aniqligi 95 % — bu yaxshi model.",
      "O'rgatish 99 %, tekshirish 60 % — bu ortiqcha moslashuv (overfitting): model yodlab olgan.",
@@ -134508,7 +134508,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Test to'plami nima uchun kerak?  Javob: Modelning haqiqiy sifatini baholash uchun.",
      "Savol: Test natijasi ancha yomon bo'lsa nima demak?  Javob: Model yodlab olgan, umumlashtira olmagan."
@@ -134596,7 +134596,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. O'rgatishni ishga tushirish (4 daqiqa)",
+    "title": "5.3. O'rgatishni ishga tushirish (4 daqiqa)",
     "points": [
      "Edge Impulse: Create impulse -> belgi bloki -> o'rgatish bloki tanlanadi.",
      "Parametrlar qo'yiladi: epoch soni, learning rate, model o'lchami.",
@@ -134605,7 +134605,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Natijani o'qish (4 daqiqa)",
+    "title": "5.4. Natijani o'qish (4 daqiqa)",
     "points": [
      "Accuracy — umumiy aniqlik foizi.",
      "Loss — xato o'lchovi, u kichik bo'lishi kerak.",
@@ -134615,7 +134615,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Aniqlik nima?  Javob: To'g'ri javoblar ulushi.",
      "Savol: Nega aniqlik yolg'iz yetarli emas?  Javob: U qaysi sinflar adashtirilayotganini ko'rsatmaydi."
@@ -134703,7 +134703,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Jadvalni tuzish (4 daqiqa)",
+    "title": "5.3. Jadvalni tuzish (4 daqiqa)",
     "points": [
      "Uch sinfli model uchun matritsa 3x3 bo'ladi.",
      "Har bir katakda: haqiqiy sinf X bo'lgan va model Y deb aytgan misollar soni.",
@@ -134712,7 +134712,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Xulosa chiqarish (4 daqiqa)",
+    "title": "5.4. Xulosa chiqarish (4 daqiqa)",
     "points": [
      "Bir sinf doim boshqasiga adashtirilsa — bu ikki sinf bir-biriga juda o'xshash yoki ma'lumot yetarli emas.",
      "Bitta sinfda natija yomon bo'lsa — o'sha sinf uchun ko'proq va xilma-xil misol yig'ish kerak.",
@@ -134721,7 +134721,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Matritsaning diagonalida nima turadi?  Javob: To'g'ri javoblar soni.",
      "Savol: Matritsa nima haqida ma'lumot beradi?  Javob: Qaysi sinflar bir-biri bilan adashtirilayotgani haqida."
@@ -134809,7 +134809,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Yuklash tartibi (4 daqiqa)",
+    "title": "5.3. Yuklash tartibi (4 daqiqa)",
     "points": [
      "1) Edge Impulse da Deployment > Arduino library tanlanadi.",
      "2) Quantized (int8) varianti tanlanib, ZIP fayl yuklab olinadi.",
@@ -134819,7 +134819,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Ko'p uchraydigan xatolar (4 daqiqa)",
+    "title": "5.4. Ko'p uchraydigan xatolar (4 daqiqa)",
     "points": [
      "PSRAM o'chiq qolsa kamera ishlamaydi va dastur ishga tushmaydi.",
      "Eski model kutubxonasi o'chirilmasa, IDE ikkisini aralashtiradi — yangisini qo'shishdan oldin eskisini o'chirish kerak.",
@@ -134828,7 +134828,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Model qanday shaklda olinadi?  Javob: Arduino kutubxonasi (ZIP) sifatida.",
      "Savol: Model xotiraga sig'masa nima qilinadi?  Javob: Kvantlash yoki modelni kichraytirish."
@@ -134916,7 +134916,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. RTC DS3231 (real vaqt soati) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. RTC DS3231 (real vaqt soati) — texnik tasnif (4 daqiqa)",
     "points": [
      "Aniqligi: yiliga ±2 daqiqa (ichida termokompensatsiyali kvars bor).",
      "DS1307 dan afzalligi: DS1307 yiliga 30 daqiqagacha adashadi, DS3231 esa harorat o'zgarsa ham aniq yuradi.",
@@ -134927,7 +134927,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. RTC DS3231 (real vaqt soati) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. RTC DS3231 (real vaqt soati) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida kvars kristalli 32 768 Hz chastotada tebranadi. Bu son bejiz emas: 32768 = 2 ning 15-darajasi.",
      "Shuning uchun tebranishlarni 15 marta ikkiga bo'lish orqali aniq 1 Hz — ya'ni SEKUND olinadi.",
@@ -134937,7 +134937,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. MPU6050 (akselerometr va giroskop) — texnik tasnif (4 daqiqa)",
+    "title": "5.5. MPU6050 (akselerometr va giroskop) — texnik tasnif (4 daqiqa)",
     "points": [
      "6 o'qli: 3 o'q akselerometr (tezlanish) + 3 o'q giroskop (burilish tezligi).",
      "Akselerometr oralig'i: ±2g, ±4g, ±8g, ±16g (sozlanadi). 1g = 9,8 m/s2.",
@@ -134949,7 +134949,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. MPU6050 (akselerometr va giroskop) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. MPU6050 (akselerometr va giroskop) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "MEMS texnologiyasi: kremniy plastinkasiga mikroskopik mexanik tuzilmalar o'yib chiqilgan.",
      "Akselerometrda kichkina osilgan massa bor. Qurilma tezlanganda massa inersiya bilan biroz siljiydi va sig'im o'zgaradi — shu o'zgarish o'lchanadi.",
@@ -134960,7 +134960,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Model natijani qanday shaklda beradi?  Javob: Har sinf uchun ehtimollik sifatida.",
      "Savol: Chegara nima uchun qo'yiladi?  Javob: Ishonchsiz bashoratlarni rad etish uchun."
@@ -135191,7 +135191,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Ma'lumot miqdorining ta'siri (4 daqiqa)",
+    "title": "5.3. Ma'lumot miqdorining ta'siri (4 daqiqa)",
     "points": [
      "Ko'p hollarda modelni yaxshilashning eng samarali yo'li — ko'proq ma'lumot.",
      "Sinf uchun 20 misoldan 100 misolga o'tish aniqlikni 20-30 % ga oshirishi mumkin.",
@@ -135200,7 +135200,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Sifat miqdordan muhim (4 daqiqa)",
+    "title": "5.4. Sifat miqdordan muhim (4 daqiqa)",
     "points": [
      "1000 ta bir xil sharoitda yozilgan misol 100 ta xilma-xil misoldan yomonroq natija beradi.",
      "Yangi ma'lumot yig'ishda qidiriladigan narsa — MODEL KO'RMAGAN holatlar.",
@@ -135209,7 +135209,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Modelni yaxshilashning eng ishonchli usuli nima?  Javob: Ko'proq va xilma-xil ma'lumot yig'ish.",
      "Savol: Qaysi holatlar uchun ma'lumot qo'shish samarali?  Javob: Model xato qiladigan holatlar uchun."
@@ -135297,7 +135297,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Overfitting nima (4 daqiqa)",
+    "title": "5.3. Overfitting nima (4 daqiqa)",
     "points": [
      "Model o'rgatish misollarini YODLAB oladi, lekin umumiy qonuniyatni topa olmaydi.",
      "Belgisi: o'rgatish aniqligi juda yuqori (99 %), tekshirish aniqligi esa ancha past (60-70 %).",
@@ -135306,7 +135306,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Overfitting ni oldini olish (4 daqiqa)",
+    "title": "5.4. Overfitting ni oldini olish (4 daqiqa)",
     "points": [
      "Ko'proq va XILMA-XIL ma'lumot yig'ish — bu eng samarali usul.",
      "Modelni soddalashtirish: qatlam va neyron sonini kamaytirish.",
@@ -135316,7 +135316,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Overfitting nima?  Javob: Model o'rgatish ma'lumotini yodlab, yangisida xato qilishi.",
      "Savol: Uning belgisi nima?  Javob: O'rgatish va test aniqliklari orasidagi katta farq."
@@ -135404,7 +135404,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Ma'lumot yig'ishdagi javobgarlik (4 daqiqa)",
+    "title": "5.3. Ma'lumot yig'ishdagi javobgarlik (4 daqiqa)",
     "points": [
      "Odamning ovozi, tasviri yoki harakati — bu shaxsiy ma'lumot.",
      "Yozib olishdan oldin ROZILIK so'ralishi kerak. Bu qoida maktab loyihasida ham amal qiladi.",
@@ -135413,7 +135413,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. TinyML ning maxfiylik afzalligi (4 daqiqa)",
+    "title": "5.4. TinyML ning maxfiylik afzalligi (4 daqiqa)",
     "points": [
      "Model qurilmada ishlaganda ma'lumot hech qayerga yuborilmaydi.",
      "Kamera tasvirni ko'radi, qaror qabul qiladi va tasvirni o'chiradi — u saqlanmaydi ham, uzatilmaydi ham.",
@@ -135422,7 +135422,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: TinyML ning maxfiylik bo'yicha afzalligi nima?  Javob: Ma'lumot qurilmada qayta ishlanadi, internetga yuborilmaydi.",
      "Savol: Xolislik (bias) qanday paydo bo'ladi?  Javob: Dataset bir xil guruhdan yig'ilsa."
@@ -136104,7 +136104,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. XIAO ESP32S3 Sense (kamera va mikrofon) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. XIAO ESP32S3 Sense (kamera va mikrofon) — texnik tasnif (4 daqiqa)",
     "points": [
      "Protsessor: ESP32-S3, ikki yadroli, 240 MHz. AI hisoblari uchun maxsus buyruqlari bor.",
      "Xotira: 8 MB PSRAM + 8 MB Flash. Kamera tasviri uchun PSRAM SHART.",
@@ -136117,7 +136117,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. XIAO ESP32S3 Sense (kamera va mikrofon) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. XIAO ESP32S3 Sense (kamera va mikrofon) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Bu plata AI darslari uchun tanlangan asosiy sabab: kamera ham, mikrofon ham PLATADA — qo'shimcha sim va modul kerak emas.",
      "Model qurilmaning O'ZIDA ishlaydi (TinyML). Internetga ulanish shart emas, ma'lumot hech qayerga yuborilmaydi.",
@@ -136127,7 +136127,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: XIAO ESP32S3 Sense da nima bor?  Javob: Kamera va mikrofon.",
      "Savol: PSRAM nima uchun kerak?  Javob: Kamera tasviri katta joy egallaydi."
@@ -136293,7 +136293,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Ovoz (mikrofon) datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Ovoz (mikrofon) datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Modulda elektret mikrofon va LM393 taqqoslagich bor.",
      "Ta'minot: 3,3-5 V. Tok: 4-5 mA.",
@@ -136303,7 +136303,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Ovoz (mikrofon) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Ovoz (mikrofon) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Elektret mikrofon ichida juda yupqa membrana bor. Tovush to'lqini unga urilib tebratadi.",
      "Membrana tebranishi sig'imni o'zgartiradi, bu esa kichik o'zgaruvchan kuchlanish hosil qiladi.",
@@ -136312,7 +136312,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. XIAO ESP32S3 Sense (kamera va mikrofon) — texnik tasnif (4 daqiqa)",
+    "title": "5.5. XIAO ESP32S3 Sense (kamera va mikrofon) — texnik tasnif (4 daqiqa)",
     "points": [
      "Protsessor: ESP32-S3, ikki yadroli, 240 MHz. AI hisoblari uchun maxsus buyruqlari bor.",
      "Xotira: 8 MB PSRAM + 8 MB Flash. Kamera tasviri uchun PSRAM SHART.",
@@ -136325,7 +136325,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. XIAO ESP32S3 Sense (kamera va mikrofon) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. XIAO ESP32S3 Sense (kamera va mikrofon) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Bu plata AI darslari uchun tanlangan asosiy sabab: kamera ham, mikrofon ham PLATADA — qo'shimcha sim va modul kerak emas.",
      "Model qurilmaning O'ZIDA ishlaydi (TinyML). Internetga ulanish shart emas, ma'lumot hech qayerga yuborilmaydi.",
@@ -136335,7 +136335,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nutq uchun qanday namuna chastotasi yetarli?  Javob: 16 kHz.",
      "Savol: Ovozdan qanday belgi ajratiladi?  Javob: Spektrogramma — chastotalar taqsimoti."
@@ -136561,7 +136561,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Ovoz (mikrofon) datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Ovoz (mikrofon) datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Modulda elektret mikrofon va LM393 taqqoslagich bor.",
      "Ta'minot: 3,3-5 V. Tok: 4-5 mA.",
@@ -136571,7 +136571,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Ovoz (mikrofon) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Ovoz (mikrofon) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Elektret mikrofon ichida juda yupqa membrana bor. Tovush to'lqini unga urilib tebratadi.",
      "Membrana tebranishi sig'imni o'zgartiradi, bu esa kichik o'zgaruvchan kuchlanish hosil qiladi.",
@@ -136580,7 +136580,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. XIAO ESP32S3 Sense (kamera va mikrofon) — texnik tasnif (4 daqiqa)",
+    "title": "5.5. XIAO ESP32S3 Sense (kamera va mikrofon) — texnik tasnif (4 daqiqa)",
     "points": [
      "Protsessor: ESP32-S3, ikki yadroli, 240 MHz. AI hisoblari uchun maxsus buyruqlari bor.",
      "Xotira: 8 MB PSRAM + 8 MB Flash. Kamera tasviri uchun PSRAM SHART.",
@@ -136593,7 +136593,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. XIAO ESP32S3 Sense (kamera va mikrofon) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. XIAO ESP32S3 Sense (kamera va mikrofon) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Bu plata AI darslari uchun tanlangan asosiy sabab: kamera ham, mikrofon ham PLATADA — qo'shimcha sim va modul kerak emas.",
      "Model qurilmaning O'ZIDA ishlaydi (TinyML). Internetga ulanish shart emas, ma'lumot hech qayerga yuborilmaydi.",
@@ -136603,7 +136603,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega \"boshqa\" sinfi kerak?  Javob: Model buyruq bo'lmagan tovushlarni ajratishi uchun.",
      "Savol: Nega turli odamlardan yig'iladi?  Javob: Model faqat bir ovozga moslashib qolmasligi uchun."
@@ -136829,7 +136829,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Ovoz (mikrofon) datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Ovoz (mikrofon) datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Modulda elektret mikrofon va LM393 taqqoslagich bor.",
      "Ta'minot: 3,3-5 V. Tok: 4-5 mA.",
@@ -136839,7 +136839,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Ovoz (mikrofon) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Ovoz (mikrofon) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Elektret mikrofon ichida juda yupqa membrana bor. Tovush to'lqini unga urilib tebratadi.",
      "Membrana tebranishi sig'imni o'zgartiradi, bu esa kichik o'zgaruvchan kuchlanish hosil qiladi.",
@@ -136848,7 +136848,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. XIAO ESP32S3 Sense (kamera va mikrofon) — texnik tasnif (4 daqiqa)",
+    "title": "5.5. XIAO ESP32S3 Sense (kamera va mikrofon) — texnik tasnif (4 daqiqa)",
     "points": [
      "Protsessor: ESP32-S3, ikki yadroli, 240 MHz. AI hisoblari uchun maxsus buyruqlari bor.",
      "Xotira: 8 MB PSRAM + 8 MB Flash. Kamera tasviri uchun PSRAM SHART.",
@@ -136861,7 +136861,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. XIAO ESP32S3 Sense (kamera va mikrofon) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. XIAO ESP32S3 Sense (kamera va mikrofon) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Bu plata AI darslari uchun tanlangan asosiy sabab: kamera ham, mikrofon ham PLATADA — qo'shimcha sim va modul kerak emas.",
      "Model qurilmaning O'ZIDA ishlaydi (TinyML). Internetga ulanish shart emas, ma'lumot hech qayerga yuborilmaydi.",
@@ -136871,7 +136871,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ovoz uchun qanday belgi ajratish ishlatiladi?  Javob: MFCC yoki MFE — spektrogramma asosida.",
      "Savol: Qanday buyruqlar tanlanishi kerak?  Javob: Bir-biridan tovushi bilan aniq farq qiladigan."
@@ -137097,7 +137097,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Ovoz (mikrofon) datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Ovoz (mikrofon) datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Modulda elektret mikrofon va LM393 taqqoslagich bor.",
      "Ta'minot: 3,3-5 V. Tok: 4-5 mA.",
@@ -137107,7 +137107,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Ovoz (mikrofon) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Ovoz (mikrofon) datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Elektret mikrofon ichida juda yupqa membrana bor. Tovush to'lqini unga urilib tebratadi.",
      "Membrana tebranishi sig'imni o'zgartiradi, bu esa kichik o'zgaruvchan kuchlanish hosil qiladi.",
@@ -137116,7 +137116,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Keyword spotting nima?  Javob: Uzluksiz oqimdan belgilangan so'zni topish.",
      "Savol: Chegara past bo'lsa nima bo'ladi?  Javob: Yolg'on ishga tushish ko'payadi."
@@ -137266,7 +137266,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. XIAO ESP32S3 Sense (kamera va mikrofon) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. XIAO ESP32S3 Sense (kamera va mikrofon) — texnik tasnif (4 daqiqa)",
     "points": [
      "Protsessor: ESP32-S3, ikki yadroli, 240 MHz. AI hisoblari uchun maxsus buyruqlari bor.",
      "Xotira: 8 MB PSRAM + 8 MB Flash. Kamera tasviri uchun PSRAM SHART.",
@@ -137279,7 +137279,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. XIAO ESP32S3 Sense (kamera va mikrofon) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. XIAO ESP32S3 Sense (kamera va mikrofon) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Bu plata AI darslari uchun tanlangan asosiy sabab: kamera ham, mikrofon ham PLATADA — qo'shimcha sim va modul kerak emas.",
      "Model qurilmaning O'ZIDA ishlaydi (TinyML). Internetga ulanish shart emas, ma'lumot hech qayerga yuborilmaydi.",
@@ -137289,7 +137289,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: TinyML uchun qanday rasm o'lchami ishlatiladi?  Javob: Kichik — masalan 96x96.",
      "Savol: Nima tasvir sifatiga eng ko'p ta'sir qiladi?  Javob: Yorug'lik."
@@ -137455,7 +137455,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. XIAO ESP32S3 Sense (kamera va mikrofon) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. XIAO ESP32S3 Sense (kamera va mikrofon) — texnik tasnif (4 daqiqa)",
     "points": [
      "Protsessor: ESP32-S3, ikki yadroli, 240 MHz. AI hisoblari uchun maxsus buyruqlari bor.",
      "Xotira: 8 MB PSRAM + 8 MB Flash. Kamera tasviri uchun PSRAM SHART.",
@@ -137468,7 +137468,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. XIAO ESP32S3 Sense (kamera va mikrofon) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. XIAO ESP32S3 Sense (kamera va mikrofon) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Bu plata AI darslari uchun tanlangan asosiy sabab: kamera ham, mikrofon ham PLATADA — qo'shimcha sim va modul kerak emas.",
      "Model qurilmaning O'ZIDA ishlaydi (TinyML). Internetga ulanish shart emas, ma'lumot hech qayerga yuborilmaydi.",
@@ -137478,7 +137478,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Har sinf uchun nechta rasm kerak?  Javob: Kamida 50-100 ta.",
      "Savol: Nega fon xilma-xil bo'lishi kerak?  Javob: Model buyumni emas, fonni tanib qolmasligi uchun."
@@ -137644,7 +137644,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tasnif va obyekt aniqlash farqi nima?  Javob: Tasnifda faqat sinf, obyekt aniqlashda joy ham belgilanadi.",
      "Savol: Qachon oq-qora yetarli?  Javob: Rang muhim bo'lmagan vazifalarda."
@@ -137732,7 +137732,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. XIAO ESP32S3 Sense (kamera va mikrofon) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. XIAO ESP32S3 Sense (kamera va mikrofon) — texnik tasnif (4 daqiqa)",
     "points": [
      "Protsessor: ESP32-S3, ikki yadroli, 240 MHz. AI hisoblari uchun maxsus buyruqlari bor.",
      "Xotira: 8 MB PSRAM + 8 MB Flash. Kamera tasviri uchun PSRAM SHART.",
@@ -137745,7 +137745,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. XIAO ESP32S3 Sense (kamera va mikrofon) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. XIAO ESP32S3 Sense (kamera va mikrofon) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Bu plata AI darslari uchun tanlangan asosiy sabab: kamera ham, mikrofon ham PLATADA — qo'shimcha sim va modul kerak emas.",
      "Model qurilmaning O'ZIDA ishlaydi (TinyML). Internetga ulanish shart emas, ma'lumot hech qayerga yuborilmaydi.",
@@ -137755,7 +137755,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Transfer learning nima?  Javob: Tayyor o'rgatilgan modeldan foydalanib, faqat oxirgi qismini qayta o'rgatish.",
      "Savol: Nega u foydali?  Javob: Kam ma'lumot bilan yaxshi natija beradi."
@@ -137921,7 +137921,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Sinov rejasi (4 daqiqa)",
+    "title": "5.3. Sinov rejasi (4 daqiqa)",
     "points": [
      "Sinov brauzerdagi natijaga emas, HAQIQIY sharoitdagi natijaga qaraladi.",
      "Har bir sinf uchun kamida 20 marta sinov o'tkaziladi va to'g'ri javoblar sanaladi.",
@@ -137930,7 +137930,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Natijani tahlil qilish (4 daqiqa)",
+    "title": "5.4. Natijani tahlil qilish (4 daqiqa)",
     "points": [
      "Brauzerdagi aniqlik 95 %, qurilmada esa 70 % chiqishi normal holat.",
      "Sabab odatda bitta: yig'ilgan ma'lumot haqiqiy sharoitga o'xshamagan.",
@@ -137939,7 +137939,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Bir bashorat qancha vaqt oladi?  Javob: Odatda 100-500 millisekund.",
      "Savol: Nega real aniqlik pastroq bo'ladi?  Javob: Real sharoit datasetdan farq qiladi."
@@ -138027,7 +138027,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tasnif va obyekt aniqlash farqi (4 daqiqa)",
+    "title": "5.3. Tasnif va obyekt aniqlash farqi (4 daqiqa)",
     "points": [
      "Tasnif: 'bu rasmda mushuk bor' deb aytadi, lekin qayerdaligini bilmaydi.",
      "Obyekt aniqlash: buyumni topadi VA uning joyini ramka bilan ko'rsatadi.",
@@ -138036,7 +138036,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Cheklovlar (4 daqiqa)",
+    "title": "5.4. Cheklovlar (4 daqiqa)",
     "points": [
      "Obyekt aniqlash modeli tasnif modelidan ancha katta va sekin.",
      "Ma'lumot belgilash ham og'irroq: har bir obyektni qo'lda ramkaga olish kerak.",
@@ -138045,7 +138045,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Obyekt aniqlash tasnifdan nimasi bilan farq qiladi?  Javob: Buyumning joyini ham ko'rsatadi.",
      "Savol: FOMO nima beradi?  Javob: Buyum markazini, lekin aniq o'lchamini emas."
@@ -138133,7 +138133,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kvantlash nima qiladi (4 daqiqa)",
+    "title": "5.3. Kvantlash nima qiladi (4 daqiqa)",
     "points": [
      "Model ichidagi sonlar odatda 32 bitli kasrli (float32) formatda saqlanadi.",
      "Kvantlash ularni 8 bitli butun songa (int8) aylantiradi.",
@@ -138142,7 +138142,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Nima uchun bu ishlaydi (4 daqiqa)",
+    "title": "5.4. Nima uchun bu ishlaydi (4 daqiqa)",
     "points": [
      "Neyron tarmoq og'irliklarida juda yuqori aniqlik shart emas: 0,7134 va 0,71 amalda bir xil natija beradi.",
      "Mikrokontrollerda butun sonlar bilan hisoblash kasrli sonlarga qaraganda ancha tez bajariladi.",
@@ -138151,7 +138151,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kvantlash nima qiladi?  Javob: Model parametrlarini kamroq joy egallaydigan formatga o'tkazadi.",
      "Savol: Hajm qancha kamayadi?  Javob: Taxminan 4 marta."
@@ -138239,7 +138239,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Model qurilmada ishlaydi, faqat NATIJA (sinf nomi va ishonch) tarmoqqa yuboriladi — xom ma'lumot emas.",
      "Doskaga chiqariladigan namuna: \"Model natijasini bulutga yuborish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -138247,7 +138247,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nima internetga yuboriladi?  Javob: Faqat model natijasi, xom ma'lumot emas.",
      "Savol: Bu qanday afzallik beradi?  Javob: Maxfiylik saqlanadi va trafik kamayadi."
@@ -138340,7 +138340,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: G'oya tanlashda qanday savol beriladi?  Javob: AI haqiqatan kerakmi yoki oddiy shart yetarlimi.",
      "Savol: Talablar qanday yozilishi kerak?  Javob: O'lchanadigan raqamlar bilan."
@@ -138428,7 +138428,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Prototip nima va nima uchun kerak (4 daqiqa)",
+    "title": "5.3. Prototip nima va nima uchun kerak (4 daqiqa)",
     "points": [
      "Prototip — g'oyani sinab ko'rish uchun yig'ilgan dastlabki namuna. U chiroyli bo'lishi shart emas.",
      "Maqsad — g'oya UMUMAN ishlashini tekshirish, tayyor mahsulot yasash emas.",
@@ -138437,7 +138437,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Yig'ish tartibi (4 daqiqa)",
+    "title": "5.4. Yig'ish tartibi (4 daqiqa)",
     "points": [
      "1) Quvvat liniyalarini birinchi ulash: breadboardning ikki chetiga 5V va GND.",
      "2) Bitta komponentni ulab, uni ALOHIDA sinash.",
@@ -138447,7 +138447,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Simlarni tartibga solish (4 daqiqa)",
+    "title": "5.5. Simlarni tartibga solish (4 daqiqa)",
     "points": [
      "Rang bilan belgilash: qizil — quvvat, qora yoki ko'k — GND, qolgan ranglar — signal.",
      "Simlar qisqa va yassi bo'lsin: uzun va osilgan sim uzilib ketadi va xatoni ko'rsatmaydi.",
@@ -138456,7 +138456,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Yig'ish qaysi tartibda olib boriladi?  Javob: Kirish, keyin model, oxirida chiqish.",
      "Savol: AI dan oldin nima tekshiriladi?  Javob: Ma'lumot to'g'ri kelayotgani."
@@ -138544,7 +138544,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Sozlash siklini boshqarish (4 daqiqa)",
+    "title": "5.3. Sozlash siklini boshqarish (4 daqiqa)",
     "points": [
      "Har safar FAQAT BITTA parametr o'zgartiriladi va natija yoziladi.",
      "Bir vaqtda ikkitasini o'zgartirsangiz, qaysi biri yordam berganini bilib bo'lmaydi.",
@@ -138553,7 +138553,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Nimadan boshlash kerak (4 daqiqa)",
+    "title": "5.4. Nimadan boshlash kerak (4 daqiqa)",
     "points": [
      "1-navbat: ma'lumotni ko'paytirish va muvozanatlash — bu eng katta ta'sir beradi.",
      "2-navbat: belgi blokini almashtirish yoki uning parametrlarini sozlash.",
@@ -138563,7 +138563,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega bir vaqtda bitta narsa o'zgartiriladi?  Javob: Nima yordam berganini aniq bilish uchun.",
      "Savol: Nega to'xtash mezoni oldindan belgilanadi?  Javob: Cheksiz yaxshilashga urinmaslik uchun."
@@ -138651,7 +138651,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. O'lchanadigan ko'rsatkichlar (4 daqiqa)",
+    "title": "5.3. O'lchanadigan ko'rsatkichlar (4 daqiqa)",
     "points": [
      "Javob vaqti (latency): hodisa bo'lgandan javob kelguncha o'tgan vaqt.",
      "Aniqlik: o'lchov etalonga qanchalik yaqin, foizda yoki mutlaq xatoda.",
@@ -138661,7 +138661,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. O'lchash usullari (4 daqiqa)",
+    "title": "5.4. O'lchash usullari (4 daqiqa)",
     "points": [
      "Javob vaqti: millis() bilan hodisa va javob orasidagi farqni kodda o'lchash.",
      "Aniqlik: etalon asbob bilan yonma-yon o'lchab, farqni jadvalga yozish.",
@@ -138671,7 +138671,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Real aniqlik qanday o'lchanadi?  Javob: Ko'p marta sinab, to'g'ri javoblarni sanab.",
      "Savol: Nega uzoq muddatli sinov kerak?  Javob: Ba'zi muammolar faqat vaqt o'tgach ko'rinadi."
@@ -138759,7 +138759,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: BOM nima?  Javob: Komponentlar ro'yxati jadvali.",
      "Savol: Hujjatda sinov natijalari nima uchun kerak?  Javob: Qurilmaning chegaralarini va ishonchliligini ko'rsatish uchun."
@@ -139285,7 +139285,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Heap, PSRAM va Flash — uchtasi uch xil maqsad uchun.",
      "Doskaga chiqariladigan namuna: \"Xotira turlari va ularni o'lchash\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -139293,7 +139293,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ESP32 da nechta yadro bor?  Javob: Ikkita.",
      "Savol: Arduino kodi odatda qaysi yadroda ishlaydi?  Javob: Core 1 da."
@@ -139385,7 +139385,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "PWM analog EMAS, u tez yoqib-o'chirish. DAC esa HAQIQIY oraliq kuchlanish beradi. ESP32 da GPIO25 va GPIO26 — DAC pinlari.",
      "Doskaga chiqariladigan namuna: \"DAC — haqiqiy analog chiqish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -139393,7 +139393,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ESP32 da haqiqiy analog chiqish bormi?  Javob: Ha, DAC — GPIO25 va GPIO26 da.",
      "Savol: ADC ning asosiy kamchiligi nima?  Javob: Chiziqsizligi."
@@ -139485,7 +139485,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Hall datchigi — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Hall datchigi — texnik tasnif (4 daqiqa)",
     "points": [
      "Magnit maydonini elektr signalga aylantiradi. Ikki turi bor: raqamli (bor/yo'q) va analog (kuchini o'lchaydi).",
      "Ta'minot: 3,3-5 V (A3144 uchun 4,5-24 V). Tok: 5-10 mA.",
@@ -139495,7 +139495,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Hall datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Hall datchigi — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Hall effekti: tok o'tayotgan yassi plastinka magnit maydoniga qo'yilsa, magnit kuchi elektronlarni bir chetga siqib qo'yadi.",
      "Natijada plastinkaning ikki cheti orasida kichik kuchlanish paydo bo'ladi — bu Hall kuchlanishi.",
@@ -139504,7 +139504,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ESP32 da nechta touch pini bor?  Javob: 10 ta.",
      "Savol: Touch pini yana nima uchun ishlatiladi?  Javob: Uyqu rejimidan uyg'otish uchun."
@@ -139648,7 +139648,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LCD 1602 (I2C moduli bilan) — texnik tasnif (4 daqiqa)",
     "points": [
      "16 belgi x 2 qator. Har bir belgi 5x8 nuqtadan iborat.",
      "Ta'minot: 5 V, 20-25 mA (orqa yorug'lik bilan birga).",
@@ -139657,7 +139657,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LCD 1602 (I2C moduli bilan) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ekranda suyuq kristall molekulalari kuchlanish ta'sirida buriladi va yorug'likni o'tkazmay qo'yadi — shu joy qora ko'rinadi.",
      "Ekran o'zi yorug'lik chiqarmaydi, orqadan LED yoritib turadi. Shuning uchun quyoshda ham yaxshi ko'rinadi va kam quvvat sarflaydi.",
@@ -139665,7 +139665,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: ESP32 da nechta apparat I2C shinasi bor?  Javob: Ikkita.",
      "Savol: Bir xil manzilli qurilmalar uchun qanday yechim bor?  Javob: Ikkinchi shina yoki multiplekser."
@@ -139812,7 +139812,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. LED — texnik tasnif (4 daqiqa)",
+    "title": "5.3. LED — texnik tasnif (4 daqiqa)",
     "points": [
      "To'liq nomi: Light Emitting Diode — yorug'lik chiqaruvchi diod.",
      "Ishchi kuchlanishi (tushish kuchlanishi Uf): qizil 1,8-2,2 V; sariq va yashil 2,0-2,4 V; ko'k va oq 3,0-3,4 V.",
@@ -139822,7 +139822,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. LED — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. LED — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "LED ichida ikki xil yarimo'tkazgich qatlami tutashadi. Tok o'tganda elektron energiyasini yo'qotib, o'sha energiya YORUG'LIK sifatida chiqadi.",
      "Chiqadigan rang materialga bog'liq, kuchlanishga emas: ko'proq kuchlanish bersangiz rang o'zgarmaydi, LED kuyadi.",
@@ -139830,7 +139830,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. OLED ekran 0.96\" (SSD1306, I2C) — texnik tasnif (4 daqiqa)",
+    "title": "5.5. OLED ekran 0.96\" (SSD1306, I2C) — texnik tasnif (4 daqiqa)",
     "points": [
      "128 x 64 piksel, o'lchami 0,96 dyuym. 0,91\" (128x32) turi ham bor.",
      "Ta'minot: 3,3 V yoki 5 V (modulda stabilizator bo'lsa). Tok: 10-20 mA.",
@@ -139839,7 +139839,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. OLED ekran 0.96\" (SSD1306, I2C) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.6. OLED ekran 0.96\" (SSD1306, I2C) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "OLED = Organic Light Emitting Diode. Har bir piksel O'ZI yorug'lik chiqaradi — orqa yoritish kerak emas.",
      "Qora piksel — butunlay o'chgan piksel. Shuning uchun qorasi chinakam qora va kontrast juda yuqori.",
@@ -139847,7 +139847,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.7. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Holat mashinasi nima?  Javob: Qurilmaning holatlar to'plami va ular orasidagi o'tishlar.",
      "Savol: Nega grafik elementlar foydali?  Javob: Ma'lumotni matndan tezroq yetkazadi."
@@ -140044,7 +140044,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. microSD kart moduli — texnik tasnif (4 daqiqa)",
+    "title": "5.3. microSD kart moduli — texnik tasnif (4 daqiqa)",
     "points": [
      "Interfeys: SPI (CS, SCK, MOSI, MISO).",
      "Kart formati: FAT16 yoki FAT32 SHART. exFAT va NTFS ishlamaydi.",
@@ -140055,7 +140055,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. microSD kart moduli — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. microSD kart moduli — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida flesh xotira mikrosxemasi va kontroller bor. Kontroller SPI buyruqlarini xotira blokiga aylantiradi.",
      "Kutubxona esa bloklar ustiga FAYL TIZIMINI quradi — shuning uchun kompyuter ham bu faylni o'qiy oladi.",
@@ -140064,7 +140064,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kart qanday fayl tizimida bo'lishi kerak?  Javob: FAT32.",
      "Savol: Tez yozish uchun nima qilinadi?  Javob: Buferlash — bir necha yozuvni yig'ib, keyin saqlash."
@@ -140230,7 +140230,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. RTC DS3231 (real vaqt soati) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. RTC DS3231 (real vaqt soati) — texnik tasnif (4 daqiqa)",
     "points": [
      "Aniqligi: yiliga ±2 daqiqa (ichida termokompensatsiyali kvars bor).",
      "DS1307 dan afzalligi: DS1307 yiliga 30 daqiqagacha adashadi, DS3231 esa harorat o'zgarsa ham aniq yuradi.",
@@ -140241,7 +140241,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. RTC DS3231 (real vaqt soati) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. RTC DS3231 (real vaqt soati) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida kvars kristalli 32 768 Hz chastotada tebranadi. Bu son bejiz emas: 32768 = 2 ning 15-darajasi.",
      "Shuning uchun tebranishlarni 15 marta ikkiga bo'lish orqali aniq 1 Hz — ya'ni SEKUND olinadi.",
@@ -140251,7 +140251,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: NTP nima?  Javob: Internet orqali aniq vaqtni olish xizmati.",
      "Savol: O'zbekiston vaqt zonasi qanday?  Javob: UTC+5."
@@ -140406,7 +140406,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. INA219 (tok va quvvat o'lchagich) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. INA219 (tok va quvvat o'lchagich) — texnik tasnif (4 daqiqa)",
     "points": [
      "O'lchaydi: kuchlanish (0-26 V), tok (±3,2 A) va quvvat.",
      "Aniqlik: tokda 0,8 mA qadam, kuchlanishda 4 mV qadam.",
@@ -140416,7 +140416,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. INA219 (tok va quvvat o'lchagich) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. INA219 (tok va quvvat o'lchagich) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Tokni to'g'ridan-to'g'ri o'lchab bo'lmaydi. Buning o'rniga zanjirga juda kichik (0,1 Om) rezistor ketma-ket qo'yiladi.",
      "Om qonuni bo'yicha shu rezistorda kuchlanish tushishi hosil bo'ladi: U = I x R.",
@@ -140427,7 +140427,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: INA219 qanday ulanadi?  Javob: Yuklama bilan ketma-ket.",
      "Savol: U nimalarni o'lchaydi?  Javob: Kuchlanish, tok va quvvatni."
@@ -140595,7 +140595,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. BMP280 (bosim va balandlik) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. BMP280 (bosim va balandlik) — texnik tasnif (4 daqiqa)",
     "points": [
      "Bosim oralig'i: 300-1100 hPa (gektopaskal). Aniqlik: ±1 hPa.",
      "Balandlik hisoblash aniqligi: ±1 metr.",
@@ -140606,7 +140606,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. BMP280 (bosim va balandlik) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. BMP280 (bosim va balandlik) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida juda yupqa kremniy membrana bor, uning bir tomonida vakuum.",
      "Tashqi bosim membranani egadi. Egilish miqdori piezorezistiv element qarshiligini o'zgartiradi.",
@@ -140617,7 +140617,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Har 8 metrda bosim qancha o'zgaradi?  Javob: Taxminan 1 hPa.",
      "Savol: Nega mutlaq balandlik noaniq?  Javob: Dengiz sathidagi bosim ob-havoga qarab o'zgaradi."
@@ -140773,7 +140773,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. HX711 + tenzodatchik (og'irlik) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. HX711 + tenzodatchik (og'irlik) — texnik tasnif (4 daqiqa)",
     "points": [
      "HX711 — 24 bitli ADC, aynan tenzodatchik uchun mo'ljallangan.",
      "Tenzodatchik turlari: 1 kg, 5 kg, 20 kg, 50 kg.",
@@ -140784,7 +140784,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. HX711 + tenzodatchik (og'irlik) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. HX711 + tenzodatchik (og'irlik) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Tenzodatchik ichida metall balka bor va unga juda yupqa zigzag simli plyonka (tenzorezistor) yopishtirilgan.",
      "Yuk qo'yilganda balka MIKRON darajasida egiladi. Sim biroz cho'ziladi — cho'zilgan sim INGICHKALASHADI va uzunlashadi, ya'ni qarshiligi ORTADI.",
@@ -140795,7 +140795,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: HX711 nima qiladi?  Javob: Tenzodatchikning kichik signalini kuchaytirib, aniq o'qiydi.",
      "Savol: Tara nima?  Javob: Idish og'irligini natijadan ayirish."
@@ -140957,7 +140957,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Aniqlik, qadam va takrorlanuvchanlik (4 daqiqa)",
+    "title": "5.3. Aniqlik, qadam va takrorlanuvchanlik (4 daqiqa)",
     "points": [
      "Aniqlik (accuracy) — ko'rsatkich haqiqiy qiymatga qanchalik yaqin. DHT22 uchun bu +-0,5 daraja.",
      "Qadam (rezolyutsiya) — sensor sezadigan eng kichik o'zgarish. DHT22 uchun 0,1 daraja.",
@@ -140966,7 +140966,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Xatoni kamaytirish usullari (4 daqiqa)",
+    "title": "5.4. Xatoni kamaytirish usullari (4 daqiqa)",
     "points": [
      "O'rtachalash: bitta o'lchov o'rniga 10-32 ta o'lchov olib, o'rtachasini hisoblash tasodifiy shovqinni sezilarli kamaytiradi.",
      "Isinishni kutish: ko'p sensorlar yoqilgandan keyin barqarorlashishi uchun vaqt talab qiladi (PIR 40 sekund, MQ-2 bir necha daqiqa).",
@@ -140975,7 +140975,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.5. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Har bir sensor o'z xatosiga ega. Ikki ma'lum nuqta bo'yicha to'g'rilash — eng oddiy va samarali usul.",
      "Doskaga chiqariladigan namuna: \"Ikki nuqtali kalibrlash\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -140983,7 +140983,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.6. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ikki nuqtali kalibrlash nima beradi?  Javob: Siljish va koeffitsientni — chiziqli tuzatishni.",
      "Savol: Aniqlik va takrorlanuvchanlik farqi nima?  Javob: Birinchisi haqiqatga yaqinlik, ikkinchisi natijalarning o'zaro yaqinligi."
@@ -141075,7 +141075,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Xom qiymat, oddiy o'rtacha va eksponensial silliqlash — uchtasi bir grafikda.",
      "Doskaga chiqariladigan namuna: \"Uch xil filtr yonma-yon\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -141083,7 +141083,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Mediana filtri nimadan yaxshi himoya qiladi?  Javob: Yagona keskin chetlanishlardan.",
      "Savol: Eksponensial filtrning afzalligi nima?  Javob: Kam xotira talab qiladi."
@@ -141175,7 +141175,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "O'rtacha tok = (ish toki x ish vaqti + uyqu toki x uyqu vaqti) / umumiy vaqt.",
      "Doskaga chiqariladigan namuna: \"Batareya umrini hisoblash\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -141183,7 +141183,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Deep sleep da iste'mol qancha?  Javob: Taxminan 10 mikroamper.",
      "Savol: Nega amalda muddat qisqaroq bo'ladi?  Javob: O'z-o'zidan razryadlanish, harorat va yo'qotishlar tufayli."
@@ -141275,7 +141275,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "5 V dan 3,3 V ga tushirish uchun stabilizator kerak. Rezistorli bo'luvchi faqat O'LCHOV uchun, quvvat berish uchun emas.",
      "Doskaga chiqariladigan namuna: \"Kuchlanishni o'lchash va himoya\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -141283,7 +141283,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Chiziqli stabilizatorda yo'qotish qanday hisoblanadi?  Javob: (kirish - chiqish) x tok.",
      "Savol: Batareyali loyihada qaysi tur afzal?  Javob: Impulsli (DC-DC) stabilizator."
@@ -141375,7 +141375,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "FreeRTOS vazifalarni navbat bilan (yoki ikki yadroda) bajaradi — bitta sekin ish boshqalarini to'xtatmaydi.",
      "Doskaga chiqariladigan namuna: \"Bir vaqtda bir necha ish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -141383,7 +141383,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: FreeRTOS nima qiladi?  Javob: Bir necha vazifani navbat bilan bajaradi.",
      "Savol: Vazifalar orasida ma'lumot qanday uzatiladi?  Javob: Navbat (queue) yoki semafor orqali."
@@ -141475,7 +141475,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Katta loyihada hamma kodni bitta faylga yozish — xatolarni topishni qiyinlashtiradi.",
      "Doskaga chiqariladigan namuna: \"Loyihani bir necha faylga ajratish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -141483,7 +141483,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: .h faylda nima yoziladi?  Javob: E'lonlar — funksiya va o'zgaruvchi nomlari.",
      "Savol: Modul qanday bo'lishi kerak?  Javob: Mustaqil, boshqalarga kam bog'liq."
@@ -141575,7 +141575,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Bir necha loyihada takrorlanadigan kodni kutubxonaga chiqarish kerak.",
      "Doskaga chiqariladigan namuna: \"O'z kutubxonangni yozish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -141583,7 +141583,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kutubxona qanday yoziladi?  Javob: Sinf (class) sifatida.",
      "Savol: Konstruktor nima qiladi?  Javob: Obyekt yaratilganda boshlang'ich sozlamalarni bajaradi."
@@ -141675,7 +141675,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Tartib: quvvat -> aloqa -> sensor -> mantiq. Har bosqich alohida tekshiriladi.",
      "Doskaga chiqariladigan namuna: \"Nosozlikni bosqichma-bosqich toraytirish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -141683,7 +141683,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nosozlik izlash qanday olib boriladi?  Javob: Gipoteza qo'yib, uni sinov bilan tekshirib.",
      "Savol: Vaqtga bog'liq nosozliklar sabablari nima?  Javob: Xotira sizishi, sanoq to'lishi, aloqa uzilishi."
@@ -142074,7 +142074,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: RSSI -80 dBm nimani bildiradi?  Javob: Signal juda kuchsiz.",
      "Savol: Kanal to'qnashuvi nimaga olib keladi?  Javob: Aloqa sekinlashadi."
@@ -142161,7 +142161,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Sahifa ODAM uchun (HTML), API esa DASTUR uchun (JSON).",
      "Doskaga chiqariladigan namuna: \"Sahifa va API — ikki xil javob\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -142169,7 +142169,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: API nima?  Javob: Dasturlar o'rtasida ma'lumot almashish qoidalari.",
      "Savol: REST da o'qish uchun qaysi metod ishlatiladi?  Javob: GET."
@@ -142261,7 +142261,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "JSON — qurilmalar o'rtasida ma'lumot almashishning standart formati.",
      "Doskaga chiqariladigan namuna: \"JSON tuzish va o'qish (ArduinoJson)\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -142269,7 +142269,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: JSON da matn qanday yoziladi?  Javob: Qo'shtirnoq ichida.",
      "Savol: Xotira yetmasa nima bo'ladi?  Javob: Ma'lumot qisqarib qoladi."
@@ -142361,7 +142361,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "GET so'rovda ma'lumot manzilda ko'rinadi, POST da esa yashirin tanada yuboriladi.",
      "Doskaga chiqariladigan namuna: \"GET — olish, POST — yuborish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -142369,7 +142369,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Maxfiy ma'lumot qaysi metod bilan yuboriladi?  Javob: POST bilan.",
      "Savol: POST da qanday sarlavha kerak?  Javob: Content-Type."
@@ -142461,7 +142461,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Har bir bulut xizmatida uch narsa bo'ladi: kanal, kalit va maydonlar.",
      "Doskaga chiqariladigan namuna: \"Kanal sozlash va birinchi yozuv\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -142469,7 +142469,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Vendor lock-in nima?  Javob: Bir platformaga qattiq bog'lanib qolish.",
      "Savol: Uni qanday kamaytirish mumkin?  Javob: Kodni qatlamlarga bo'lib, aloqa qismini ajratib."
@@ -142561,7 +142561,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Bulutsiz ham grafik chizish mumkin — OLED ekranda yoki veb-sahifada.",
      "Doskaga chiqariladigan namuna: \"Qurilmaning o'zida grafik chizish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -142569,7 +142569,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Vaqt bo'yicha o'zgarish uchun qaysi grafik mos?  Javob: Chiziqli grafik.",
      "Savol: Avtomatik masshtab nima bilan chalg'itishi mumkin?  Javob: Kichik o'zgarishni katta ko'rsatib."
@@ -142661,7 +142661,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Mavzu papkaga o'xshaydi: uy/oshxona/harorat. + va # joker belgilari bir necha mavzuga birdan obuna bo'lishga imkon beradi.",
      "Doskaga chiqariladigan namuna: \"Mavzu daraxti va joker belgilar\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -142669,7 +142669,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Wildcard # nimani bildiradi?  Javob: Barcha ostki mavzularni.",
      "Savol: QoS 2 nimani kafolatlaydi?  Javob: Xabar aynan bir marta yetkazilishini."
@@ -142761,7 +142761,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Ikki tomonlama tizimda holat ham qaytariladi — buyruq bajarilganini tasdiqlash uchun.",
      "Doskaga chiqariladigan namuna: \"Qurilma ham yozadi, ham buyruq qabul qiladi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -142769,7 +142769,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega holat va buyruq uchun alohida mavzu kerak?  Javob: Aylanma (qayta ishga tushish) hosil bo'lmasligi uchun.",
      "Savol: LWT nima qiladi?  Javob: Qurilma aloqani yo'qotsa avtomatik xabar yuboradi."
@@ -142861,7 +142861,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Inline klaviatura nima beradi?  Javob: Xabar ostida interaktiv tugmalar.",
      "Savol: Menyu holati qanday boshqariladi?  Javob: Holat mashinasi bilan."
@@ -142948,7 +142948,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Yaxshi ogohlantirish tizimi yolg'on signal bermaydi.",
      "Doskaga chiqariladigan namuna: \"Chegara, gisterezis va kechikish birga\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -142956,7 +142956,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega minimal interval qo'yiladi?  Javob: Takroriy xabarlar bilan spam qilmaslik uchun.",
      "Savol: Normal holatga qaytganda nima qilinadi?  Javob: Bu haqda ham xabar beriladi."
@@ -143048,7 +143048,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "BLE — kam quvvat sarflaydigan Bluetooth. iPhone bilan ham ishlaydi (HC-05 esa ishlamaydi).",
      "Doskaga chiqariladigan namuna: \"BLE orqali telefondan boshqarish\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -143056,7 +143056,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Notify nima beradi?  Javob: Qiymat o'zgarganda telefonga avtomatik xabar.",
      "Savol: BLE da ma'lumot qanday tashkil qilinadi?  Javob: Service ichida Characteristic."
@@ -143148,7 +143148,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "ESP-NOW da bitta qurilma bir necha juftlikka birdan xabar yubora oladi (broadcast).",
      "Doskaga chiqariladigan namuna: \"Bir yuboruvchi — bir necha qabul qiluvchi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -143156,7 +143156,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Mesh topologiyasining afzalligi nima?  Javob: Masofa kengayadi va ishonchlilik oshadi.",
      "Savol: Uning kamchiligi nima?  Javob: Murakkabroq, kechikish va quvvat sarfi ko'proq."
@@ -143248,7 +143248,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Klaviatura 4x4 (keypad) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. Klaviatura 4x4 (keypad) — texnik tasnif (4 daqiqa)",
     "points": [
      "16 tugma, lekin atigi 8 pin: 4 qator (R1-R4) va 4 ustun (C1-C4).",
      "Ta'minot kerak emas — passiv matritsa, faqat tugmalar va o'tkazgichlar.",
@@ -143257,7 +143257,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Klaviatura 4x4 (keypad) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. Klaviatura 4x4 (keypad) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Agar har bir tugmaga alohida pin bersak, 16 pin kerak bo'lardi — Arduino Uno'da esa hammasi bo'lib 20 ta pin bor.",
      "Matritsa skanerlash: plata qatorlarni BIRMA-BIR pastga tortadi va shu payt ustunlarni o'qiydi.",
@@ -143267,7 +143267,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Xesh funksiyasining xossasi nima?  Javob: Undan asl qiymatni tiklab bo'lmaydi.",
      "Savol: Parollar qayerda saqlanadi?  Javob: Alohida faylda, ochiq joyga qo'yilmaydigan."
@@ -143406,7 +143406,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. HC-SR04 (ultratovush masofa) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. HC-SR04 (ultratovush masofa) — texnik tasnif (4 daqiqa)",
     "points": [
      "O'lchov oralig'i: 2 sm dan 400 sm gacha. Amalda ishonchli oraliq — 3 sm dan 200 sm gacha.",
      "Aniqlik: ±3 mm. Ko'rish burchagi: 15 daraja.",
@@ -143417,7 +143417,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. HC-SR04 (ultratovush masofa) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. HC-SR04 (ultratovush masofa) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Modulda ikkita silindr bor: biri tovush YUBORADI (T), ikkinchisi QABUL QILADI (R).",
      "TRIG piniga 10 mikrosekundlik HIGH berilsa, modul 8 ta 40 kHz impuls yuboradi.",
@@ -143428,7 +143428,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega dastur hajmi fleshning yarmidan oshmasligi kerak?  Javob: Yangi dastur uchun joy kerak.",
      "Savol: OTA da qanday himoya kerak?  Javob: Parol."
@@ -143582,7 +143582,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Arxitektura sxemasi nima (4 daqiqa)",
+    "title": "5.3. Arxitektura sxemasi nima (4 daqiqa)",
     "points": [
      "Bu printsipial sxema emas — bu qurilmaning KATTA bloklari va ular orasidagi aloqa.",
      "Bloklar: sensorlar, protsessor, ijro qurilmalari, aloqa moduli, quvvat manbai.",
@@ -143591,7 +143591,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Chizish tartibi (4 daqiqa)",
+    "title": "5.4. Chizish tartibi (4 daqiqa)",
     "points": [
      "Markazga protsessor (plata) qo'yiladi.",
      "Chap tomonga kirishlar: sensorlar, tugmalar.",
@@ -143602,7 +143602,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Arxitektura chizmasida nima ko'rsatiladi?  Javob: Qismlar va ular orasidagi aloqalar.",
      "Savol: Aloqada nima yoziladi?  Javob: Uzatiladigan ma'lumot va protokol."
@@ -143689,7 +143689,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Ishonchli IoT qurilma — bu hech qachon qotib qolmaydigan qurilma. Watchdog va qayta ulanish shart.",
      "Doskaga chiqariladigan namuna: \"Aloqa uzilsa o'zi tiklanadigan tizim\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -143697,7 +143697,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Exponential backoff nima?  Javob: Qayta urinishlar orasidagi vaqtni ortib boruvchi qilish.",
      "Savol: Watchdog taymer nima qiladi?  Javob: Dastur qotib qolsa qurilmani qayta yuklaydi."
@@ -143789,7 +143789,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Yaxshi log — muammoni telefon orqali ham tushuntirib bera oladigan log.",
      "Doskaga chiqariladigan namuna: \"Darajali log tizimi\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -143797,7 +143797,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nega logda vaqt belgisi kerak?  Javob: Hodisalar ketma-ketligini tiklash uchun.",
      "Savol: Ishlab chiqarishda qaysi daraja o'chiriladi?  Javob: DEBUG."
@@ -143889,7 +143889,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Regressiya sinovi nima?  Javob: Tuzatishdan keyin oldingi sinovlarni qayta bajarish.",
      "Savol: Qabul mezonlari qachon belgilanadi?  Javob: Oldindan, sinovdan avval."
@@ -144277,7 +144277,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Farqni misolda ko'rish (4 daqiqa)",
+    "title": "5.3. Farqni misolda ko'rish (4 daqiqa)",
     "points": [
      "Vazifa: rasmda mushuk bormi degan savolga javob berish.",
      "Klassik AI yondashuvi: dasturchi qoidalar yozadi — 'agar uchburchak quloq bo'lsa va mo'ylov bo'lsa'. Bu yondashuv amalda ishlamagan, chunki qoidalar cheksiz ko'p.",
@@ -144286,7 +144286,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Qaysi holatda qaysi yondashuv (4 daqiqa)",
+    "title": "5.4. Qaysi holatda qaysi yondashuv (4 daqiqa)",
     "points": [
      "Qoida aniq va oz bo'lsa — oddiy dastur yozgan ma'qul. Chegaradan oshsa signal berish uchun AI kerak emas.",
      "Qoidani so'z bilan tushuntirib bo'lmasa — mashinaviy o'rganish kerak. 'Bu ovoz — mening ovozim' degan qoidani yozib bo'lmaydi.",
@@ -144295,7 +144295,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: DL ML ning bir qismimi?  Javob: Ha.",
      "Savol: DL ning rivojlanishiga nima sabab bo'ldi?  Javob: Katta ma'lumot, GPU quvvati va yaxshilangan algoritmlar."
@@ -144383,7 +144383,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Nazorat ostida o'rganish (supervised) (4 daqiqa)",
+    "title": "5.3. Nazorat ostida o'rganish (supervised) (4 daqiqa)",
     "points": [
      "Har bir misolga TO'G'RI JAVOB birga beriladi: bu rasm — mushuk, bu — it.",
      "Model o'z javobini to'g'ri javob bilan solishtiradi va farqni kamaytirish tomonga sozlanadi.",
@@ -144392,7 +144392,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Nazoratsiz o'rganish (unsupervised) (4 daqiqa)",
+    "title": "5.4. Nazoratsiz o'rganish (unsupervised) (4 daqiqa)",
     "points": [
      "To'g'ri javob berilmaydi. Model ma'lumotning o'zidagi tuzilmani topadi.",
      "Asosiy vazifa — guruhlarga ajratish (klasterlash): o'xshash misollarni bir joyga to'plash.",
@@ -144401,7 +144401,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nazorat ostida o'rganishda nima bor?  Javob: Ma'lumotda to'g'ri javob.",
      "Savol: Nega anomaliya aniqlash nazoratsiz qilinadi?  Javob: Barcha nosozlik turlarini oldindan yig'ib bo'lmaydi."
@@ -144489,7 +144489,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Bitta neyron nima qiladi (4 daqiqa)",
+    "title": "5.3. Bitta neyron nima qiladi (4 daqiqa)",
     "points": [
      "Neyron bir necha son qabul qiladi, har birini o'z og'irligiga ko'paytiradi va yig'indini hisoblaydi.",
      "Yig'indiga siljish (bias) qo'shiladi, keyin natija aktivatsiya funksiyasidan o'tkaziladi.",
@@ -144498,7 +144498,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Qatlamlar va o'rganish (4 daqiqa)",
+    "title": "5.4. Qatlamlar va o'rganish (4 daqiqa)",
     "points": [
      "Bitta neyron oz ish qiladi. Kuch — ularni QATLAM qilib joylashtirib, qatlamlarni ketma-ket ulashda.",
      "Kirish qatlami ma'lumotni qabul qiladi, yashirin qatlamlar uni bosqichma-bosqich qayta ishlaydi, chiqish qatlami javob beradi.",
@@ -144508,7 +144508,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Neyron nima qiladi?  Javob: Kirishlarni og'irliklarga ko'paytirib yig'adi va aktivatsiyadan o'tkazadi.",
      "Savol: O'rganish nima?  Javob: Og'irliklarni sozlash jarayoni."
@@ -144596,7 +144596,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Cheklovlar va ular bilan ishlash (4 daqiqa)",
+    "title": "5.3. Cheklovlar va ular bilan ishlash (4 daqiqa)",
     "points": [
      "Xotira: model va u ishlatadigan buffer birga mikrokontroller RAM iga sig'ishi kerak.",
      "Tezlik: 240 MHz protsessor telefon protsessoridan o'nlab barobar sekin.",
@@ -144605,7 +144605,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Ish oqimi (4 daqiqa)",
+    "title": "5.4. Ish oqimi (4 daqiqa)",
     "points": [
      "1) Ma'lumot yig'ish — qurilmaning O'ZIDA, chunki model shu sensordan kelgan ma'lumotda ishlaydi.",
      "2) Belgilash — har bir bo'lakka to'g'ri sinf nomini qo'yish.",
@@ -144617,7 +144617,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Odatiy TinyML modeli qancha joy egallaydi?  Javob: 20-200 kilobayt.",
      "Savol: TinyML ning uch afzalligi nima?  Javob: Kechikish yo'q, maxfiylik, kam quvvat."
@@ -144705,7 +144705,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Boshdan oxirigacha bosqichlar (4 daqiqa)",
+    "title": "5.3. Boshdan oxirigacha bosqichlar (4 daqiqa)",
     "points": [
      "1) Loyiha yaratish va qurilmani ulash.",
      "2) Har bir sinf uchun ma'lumot yig'ish (kamida 50-100 misol), 'fon' sinfini unutmaslik.",
@@ -144719,7 +144719,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Har bosqichda tekshirish nuqtasi (4 daqiqa)",
+    "title": "5.4. Har bosqichda tekshirish nuqtasi (4 daqiqa)",
     "points": [
      "Ma'lumotdan keyin: sinflar muvozanatlimi, grafiklar to'g'rimi.",
      "Belgilardan keyin: Feature explorer da sinflar alohida to'plamlar hosil qilayaptimi.",
@@ -144729,7 +144729,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Impulse nima?  Javob: Ma'lumotni qayta ishlash zanjiri.",
      "Savol: Ovoz uchun qanday belgi ajratish bloki ishlatiladi?  Javob: MFCC yoki MFE."
@@ -144817,7 +144817,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Rejalashtirish bosqichi (4 daqiqa)",
+    "title": "5.3. Rejalashtirish bosqichi (4 daqiqa)",
     "points": [
      "Avval sinflar ro'yxati yoziladi: qurilma nechta holatni ajratishi kerak.",
      "Har bir sinf uchun necha misol kerakligi belgilanadi (kamida 50, yaxshisi 100+).",
@@ -144827,7 +144827,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Yig'ish va tekshirish (4 daqiqa)",
+    "title": "5.4. Yig'ish va tekshirish (4 daqiqa)",
     "points": [
      "Yozib olishdan oldin bir necha sinov yozuvi qilinadi va ular ko'z bilan tekshiriladi.",
      "Grafik tekis chiziq bo'lsa — sensor ulanmagan. To'yingan bo'lsa — oraliq noto'g'ri tanlangan.",
@@ -144836,7 +144836,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ma'lumot qanday sharoitda yig'ilishi kerak?  Javob: Real ishlash sharoitiga yaqin.",
      "Savol: Ma'lumot yig'ish loyiha vaqtining qancha qismini oladi?  Javob: Eng katta qismini."
@@ -144924,7 +144924,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Muvozanat nima uchun muhim (4 daqiqa)",
+    "title": "5.3. Muvozanat nima uchun muhim (4 daqiqa)",
     "points": [
      "Model o'z xatosini kamaytirishga intiladi. Agar bir sinf 90 % ni tashkil qilsa, model doim shu sinfni aytib ham 90 % aniqlikka erishadi.",
      "Bunday model foydasiz bo'lsa ham, aniqlik ko'rsatkichi yuqori chiqadi — bu aldanishning eng ko'p uchraydigan sababi.",
@@ -144933,7 +144933,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Sifatni oshirish yo'llari (4 daqiqa)",
+    "title": "5.4. Sifatni oshirish yo'llari (4 daqiqa)",
     "points": [
      "Yozib olish sharoitini haqiqiy ish sharoitiga yaqinlashtirish: qurilma qayerda ishlasa, o'sha yerda yozib olish.",
      "Turli holatlarni qamrab olish: sekin va tez harakat, baland va past ovoz, yorug' va qorong'i.",
@@ -144942,7 +144942,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Nomutanosib datasetda aniqlik nega aldamchi?  Javob: Model faqat ko'p sinfni tanlab ham yuqori foiz oladi.",
      "Savol: Yechim nima?  Javob: Ma'lumotni muvozanatlash yoki boshqa ko'rsatkichlar ishlatish."
@@ -145030,7 +145030,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Nima uchun xom ma'lumot yetarli emas (4 daqiqa)",
+    "title": "5.3. Nima uchun xom ma'lumot yetarli emas (4 daqiqa)",
     "points": [
      "Xom ma'lumot juda ko'p sondan iborat va ularning ko'pi keraksiz.",
      "Belgi ajratish ma'lumotni siqadi: 600 ta sondan 30 ta ma'noli belgi qoladi.",
@@ -145039,7 +145039,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Amaldagi belgi turlari (4 daqiqa)",
+    "title": "5.4. Amaldagi belgi turlari (4 daqiqa)",
     "points": [
      "Vaqt sohasidagi belgilar: o'rtacha, standart og'ish, eng katta va eng kichik qiymat, RMS.",
      "Chastota sohasidagi belgilar: Fure o'zgartirishi orqali signal qanday chastotalardan iboratligini topish.",
@@ -145049,7 +145049,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Belgi ajratish nima qiladi?  Javob: Xom ma'lumotdan muhim xususiyatlarni hisoblaydi.",
      "Savol: Yaxshi belgi nima beradi?  Javob: Model soddaroq va tezroq bo'ladi."
@@ -145137,7 +145137,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Vazifaga qarab tanlash (4 daqiqa)",
+    "title": "5.3. Vazifaga qarab tanlash (4 daqiqa)",
     "points": [
      "Tasnif (classification) — javob toifalardan biri: 'yoq', 'o'chir', 'fon'. Maktab loyihalarining ko'pi shunday.",
      "Regressiya — javob son: harorat bashorati, masofa qiymati.",
@@ -145146,7 +145146,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Model o'lchamini tanlash (4 daqiqa)",
+    "title": "5.4. Model o'lchamini tanlash (4 daqiqa)",
     "points": [
      "Kichik model: tez ishlaydi, kam xotira oladi, lekin murakkab vazifani uddalamaydi.",
      "Katta model: aniqroq, lekin mikrokontrollerga sig'masligi mumkin.",
@@ -145155,7 +145155,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qaysi modeldan boshlash kerak?  Javob: Eng soddasidan.",
      "Savol: CNN qaysi ma'lumot turi uchun mos?  Javob: Tasvir va spektrogramma uchun."
@@ -145243,7 +145243,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Epoch — necha marta o'tish (4 daqiqa)",
+    "title": "5.3. Epoch — necha marta o'tish (4 daqiqa)",
     "points": [
      "Epoch — butun o'rgatish to'plamidan bir marta to'liq o'tish.",
      "Kam epoch: model yetarli o'rganmaydi (underfitting).",
@@ -145252,7 +145252,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Learning rate — qadam kattaligi (4 daqiqa)",
+    "title": "5.4. Learning rate — qadam kattaligi (4 daqiqa)",
     "points": [
      "Learning rate — har bir xatodan keyin og'irliklar qanchalik o'zgarishini belgilaydi.",
      "Juda katta bo'lsa: model to'g'ri javobdan sakrab o'tib ketadi va hech qachon barqarorlashmaydi.",
@@ -145262,7 +145262,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Epoch nima?  Javob: Butun dataset bo'ylab bir marta o'tish.",
      "Savol: Learning rate juda katta bo'lsa nima bo'ladi?  Javob: Model yaqinlasha olmaydi."
@@ -145350,7 +145350,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Aniqlik yolg'iz yetarli emas (4 daqiqa)",
+    "title": "5.3. Aniqlik yolg'iz yetarli emas (4 daqiqa)",
     "points": [
      "Aniqlik (accuracy) — to'g'ri javoblar ulushi. Oddiy, lekin aldashi mumkin.",
      "Misol: 95 % holatda 'hech narsa yo'q' bo'lsa, doim 'yo'q' deydigan model 95 % aniqlik beradi — foydasiz bo'lsa ham.",
@@ -145361,7 +145361,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Chalkashlik matritsasini o'qish (4 daqiqa)",
+    "title": "5.4. Chalkashlik matritsasini o'qish (4 daqiqa)",
     "points": [
      "Bu jadvalning qatorlari — haqiqiy sinf, ustunlari — model javobi.",
      "Diagonaldagi sonlar — to'g'ri javoblar. Ular qancha katta bo'lsa shuncha yaxshi.",
@@ -145371,7 +145371,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Recall nimani o'lchaydi?  Javob: Haqiqiy holatlarning nechtasi topilganini.",
      "Savol: Yong'in signalizatsiyasida qaysi ko'rsatkich muhimroq?  Javob: Recall — hodisani o'tkazib yubormaslik."
@@ -145459,7 +145459,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Ikki qarama-qarshi muammo (4 daqiqa)",
+    "title": "5.3. Ikki qarama-qarshi muammo (4 daqiqa)",
     "points": [
      "Underfitting — model juda sodda, hatto o'rgatish ma'lumotida ham yomon natija beradi.",
      "Overfitting — model juda murakkab, o'rgatish ma'lumotini yodlab olgan.",
@@ -145468,7 +145468,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Amaliy tartib (4 daqiqa)",
+    "title": "5.4. Amaliy tartib (4 daqiqa)",
     "points": [
      "1) Modelni o'rgating va ikki aniqlikni yozib oling.",
      "2) Farq 10 % dan katta bo'lsa — overfitting bor.",
@@ -145479,7 +145479,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Overfitting belgisi nima?  Javob: O'rgatish va test aniqliklari orasidagi katta farq.",
      "Savol: Dropout nima qiladi?  Javob: O'rgatish paytida neyronlarning bir qismini tasodifiy o'chirib, yodlashning oldini oladi."
@@ -145567,7 +145567,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Amaliy bosqichlar (4 daqiqa)",
+    "title": "5.3. Amaliy bosqichlar (4 daqiqa)",
     "points": [
      "Edge Impulse Deployment sahifasida ikki variant beriladi: Quantized (int8) va Unoptimized (float32).",
      "Har biri uchun xotira sarfi va kechikish ko'rsatiladi — ularni yozib olib solishtirish kerak.",
@@ -145576,7 +145576,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Natijani o'lchash (4 daqiqa)",
+    "title": "5.4. Natijani o'lchash (4 daqiqa)",
     "points": [
      "Ikkala variantni ham qurilmaga yuklab, bir xil sinovdan o'tkazish kerak.",
      "O'lchanadigan ko'rsatkichlar: model hajmi, RAM sarfi, bitta bashoratga ketgan vaqt (latency), aniqlik.",
@@ -145585,7 +145585,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kvantlash hajmni qancha kamaytiradi?  Javob: Taxminan 4 marta.",
      "Savol: Aniqlik qancha pasayadi?  Javob: Odatda 1-2%."
@@ -145673,7 +145673,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kodda modelni ishlatish (4 daqiqa)",
+    "title": "5.3. Kodda modelni ishlatish (4 daqiqa)",
     "points": [
      "Kutubxona ulanadi: #include <loyiha_nomi_inferencing.h>",
      "Sensor ma'lumoti signal tuzilmasiga to'ldiriladi — u modelning kirishi.",
@@ -145682,7 +145682,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Qaror qabul qilish (4 daqiqa)",
+    "title": "5.4. Qaror qabul qilish (4 daqiqa)",
     "points": [
      "Eng katta ehtimollikli sinf tanlanadi, lekin u CHEGARADAN yuqori bo'lishi kerak.",
      "Chegara odatda 0,7-0,8 qilib olinadi. Undan past bo'lsa 'noaniq' deb javob berilgani ma'qul.",
@@ -145691,7 +145691,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qanday uch ko'rsatkich o'lchanadi?  Javob: Flesh, RAM va bashorat vaqti.",
      "Savol: RAM yetmasa nima bo'ladi?  Javob: Dastur ishlash paytida qulaydi."
@@ -145779,7 +145779,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. RTC DS3231 (real vaqt soati) — texnik tasnif (4 daqiqa)",
+    "title": "5.3. RTC DS3231 (real vaqt soati) — texnik tasnif (4 daqiqa)",
     "points": [
      "Aniqligi: yiliga ±2 daqiqa (ichida termokompensatsiyali kvars bor).",
      "DS1307 dan afzalligi: DS1307 yiliga 30 daqiqagacha adashadi, DS3231 esa harorat o'zgarsa ham aniq yuradi.",
@@ -145790,7 +145790,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. RTC DS3231 (real vaqt soati) — ichida nima sodir bo'ladi (4 daqiqa)",
+    "title": "5.4. RTC DS3231 (real vaqt soati) — ichida nima sodir bo'ladi (4 daqiqa)",
     "points": [
      "Ichida kvars kristalli 32 768 Hz chastotada tebranadi. Bu son bejiz emas: 32768 = 2 ning 15-darajasi.",
      "Shuning uchun tebranishlarni 15 marta ikkiga bo'lish orqali aniq 1 Hz — ya'ni SEKUND olinadi.",
@@ -145800,7 +145800,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kechikish nima?  Javob: Kirish kelgandan javob chiqquncha o'tgan vaqt.",
      "Savol: Odatda eng ko'p vaqt qayerga ketadi?  Javob: Ma'lumot yig'ishga."
@@ -145956,7 +145956,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Cheklovlarni o'lchash (4 daqiqa)",
+    "title": "5.3. Cheklovlarni o'lchash (4 daqiqa)",
     "points": [
      "Flash xotira — dastur va model saqlanadigan joy. Model hajmi shunga sig'ishi kerak.",
      "RAM — ish paytida ishlatiladigan xotira. Model buferlari va sensor ma'lumoti shu yerda turadi.",
@@ -145965,7 +145965,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Cheklovga sig'dirish yo'llari (4 daqiqa)",
+    "title": "5.4. Cheklovga sig'dirish yo'llari (4 daqiqa)",
     "points": [
      "Model o'lchamini kamaytirish (kamroq qatlam, kamroq neyron).",
      "Kvantlash qo'llash — 4 barobar yutuq.",
@@ -145975,7 +145975,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: 96x96 rangli rasm qancha joy egallaydi?  Javob: Taxminan 27 kilobayt.",
      "Savol: Model murakkabligini oshirish nimaga olib keladi?  Javob: Aniqlik oshadi, lekin resurs va tezlik yomonlashadi."
@@ -146063,7 +146063,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Sikl bosqichlari (4 daqiqa)",
+    "title": "5.3. Sikl bosqichlari (4 daqiqa)",
     "points": [
      "Yig'ish -> belgilash -> o'rgatish -> sinash -> XATONI TAHLIL QILISH -> yana yig'ish.",
      "Sikl to'xtaydigan joy — natija maqsadga yetganda, mukammal bo'lganda emas.",
@@ -146071,7 +146071,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Xatoni tahlil qilish — eng muhim bosqich (4 daqiqa)",
+    "title": "5.4. Xatoni tahlil qilish — eng muhim bosqich (4 daqiqa)",
     "points": [
      "Model qaysi holatlarda xato qilayotganini YOZIB BORISH kerak.",
      "Xatolar odatda guruhlanadi: masalan hamma xato tez aytilgan buyruqlarda bo'ladi.",
@@ -146080,7 +146080,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Yaxshilash sikli qanday bosqichlardan iborat?  Javob: Baholash, kamchilik, gipoteza, o'zgartirish, qayta baholash.",
      "Savol: Xato namunalarni ko'rish nima beradi?  Javob: Ular orasida qonuniyat topilishi mumkin."
@@ -146168,7 +146168,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Xolislik (bias) muammosi (4 daqiqa)",
+    "title": "5.3. Xolislik (bias) muammosi (4 daqiqa)",
     "points": [
      "Model faqat ko'rgan ma'lumotidan o'rganadi. Ma'lumot bir tomonlama bo'lsa, model ham bir tomonlama bo'ladi.",
      "Misol: faqat o'g'il bolalar ovozi bilan o'rgatilgan model qiz bolalarni yomon taniydi.",
@@ -146177,7 +146177,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Mas'uliyat (4 daqiqa)",
+    "title": "5.4. Mas'uliyat (4 daqiqa)",
     "points": [
      "Model xato qilsa, javobgarlik modelda emas — uni yaratgan va ishlatgan odamda.",
      "Shuning uchun muhim qarorlarda (sog'liq, xavfsizlik) model yolg'iz qaror qabul qilmasligi kerak.",
@@ -146186,7 +146186,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Xolislik qanday paydo bo'ladi?  Javob: Dataset bir xil guruhdan yig'ilsa.",
      "Savol: TinyML ning maxfiylik afzalligi nima?  Javob: Ma'lumot qurilmada qoladi."
@@ -146576,7 +146576,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Loyiha nimadan boshlanadi?  Javob: Muammodan, texnologiyadan emas.",
      "Savol: Muammo bayonida nima bo'lishi kerak?  Javob: Kim, qachon, nimaga duch keladi va oqibati."
@@ -146664,7 +146664,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Suhbatda qanday savol berilishi kerak?  Javob: Ochiq savol — muammo haqida.",
      "Savol: Nega yechimni so'rash noto'g'ri?  Javob: Odamlar nima xohlashini aniq ayta olmaydi."
@@ -146752,7 +146752,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Talablar qanday bo'lishi kerak?  Javob: O'lchanadigan.",
      "Savol: Qabul mezonlari nima?  Javob: Loyiha bajarilgan hisoblanadigan shartlar."
@@ -146840,7 +146840,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Variantlarni tuzish (4 daqiqa)",
+    "title": "5.3. Variantlarni tuzish (4 daqiqa)",
     "points": [
      "Bitta muammoning kamida uch yechimi o'ylab topiladi.",
      "Birinchi kelgan g'oya deyarli hech qachon eng yaxshisi bo'lmaydi.",
@@ -146849,7 +146849,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Solishtirish jadvali (4 daqiqa)",
+    "title": "5.4. Solishtirish jadvali (4 daqiqa)",
     "points": [
      "Ustunlar: variantlar. Qatorlar: mezonlar (aniqlik, narx, murakkablik, quvvat sarfi, mavjudlik).",
      "Har bir katakka baho qo'yiladi yoki aniq son yoziladi.",
@@ -146859,7 +146859,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kamida nechta variant ko'rib chiqiladi?  Javob: Uchta.",
      "Savol: Nega tanlov sababi yoziladi?  Javob: Keyinchalik qarorni tushuntirish uchun."
@@ -146947,7 +146947,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Loyihalashda hal qilinadigan savollar (4 daqiqa)",
+    "title": "5.3. Loyihalashda hal qilinadigan savollar (4 daqiqa)",
     "points": [
      "Qaysi ish qurilmada, qaysi ish bulutda bajariladi.",
      "Ma'lumot qayerda saqlanadi: qurilmada, SD kartda yoki serverda.",
@@ -146957,7 +146957,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Yaxshi arxitektura belgilari (4 daqiqa)",
+    "title": "5.4. Yaxshi arxitektura belgilari (4 daqiqa)",
     "points": [
      "Bloklar mustaqil: bittasini almashtirsa qolganlariga tegmaydi.",
      "Nosozlikka chidamli: bir qism ishlamay qolsa, tizim xavfsiz holatga o'tadi.",
@@ -146966,7 +146966,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Arxitekturada nima ko'rsatiladi?  Javob: Qismlar va ular orasidagi aloqalar.",
      "Savol: Nega qarorlar yozib boriladi?  Javob: Keyinchalik sababni tushuntirish uchun."
@@ -147054,7 +147054,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tanlov mezonlari (4 daqiqa)",
+    "title": "5.3. Tanlov mezonlari (4 daqiqa)",
     "points": [
      "Vazifaga moslik: sensor o'lchaydigan oraliq kerakli oraliqni qamrab oladimi.",
      "Aniqlik: talab qilingan aniqlik yetarlimi (DHT22 uchun 0,5 daraja, DHT11 uchun 2 daraja).",
@@ -147064,7 +147064,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tanlovni asoslash (4 daqiqa)",
+    "title": "5.4. Tanlovni asoslash (4 daqiqa)",
     "points": [
      "Har bir komponent uchun kamida ikki variant solishtiriladi.",
      "Solishtirish jadval shaklida: parametr, 1-variant, 2-variant, tanlov sababi.",
@@ -147073,7 +147073,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Zaxira qoidasi qanday?  Javob: Ishchi qiymat maksimalning 50-70% idan oshmasin.",
      "Savol: BOM da nima bo'ladi?  Javob: Nomi, nominali, soni, narxi, manbasi."
@@ -147161,7 +147161,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Sxemada quvvat qayerda chiziladi?  Javob: Yuqorida, GND pastda.",
      "Savol: Sxema qanday tekshiriladi?  Javob: Har oyoq ulanganmi, quvvat va himoya to'g'rimi."
@@ -147249,7 +147249,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Birinchi bosqichning maqsadi (4 daqiqa)",
+    "title": "5.3. Birinchi bosqichning maqsadi (4 daqiqa)",
     "points": [
      "1-bosqichda butun qurilma emas, uning ENG MUHIM qismi yig'iladi.",
      "Eng muhim qism — loyihaning butun g'oyasi bog'liq bo'lgan qism.",
@@ -147258,7 +147258,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Bosqich yakunida tekshiriladigan narsalar (4 daqiqa)",
+    "title": "5.4. Bosqich yakunida tekshiriladigan narsalar (4 daqiqa)",
     "points": [
      "Asosiy qism o'z vazifasini bajaryaptimi.",
      "O'lchangan qiymatlar mantiqiy oraliqdami.",
@@ -147267,7 +147267,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Birinchi navbatda nima tekshiriladi?  Javob: Quvvat — kuchlanishlar va iste'mol.",
      "Savol: Komponentlar qanday qo'shiladi?  Javob: Bittalab, har biri sinalgach."
@@ -147355,7 +147355,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Dasturni bosqichma-bosqich yozish (4 daqiqa)",
+    "title": "5.3. Dasturni bosqichma-bosqich yozish (4 daqiqa)",
     "points": [
      "Butun dasturni birdan yozib, keyin yuklash — xatoni topishni juda qiyinlashtiradi.",
      "To'g'ri usul: eng kichik ishlaydigan qismni yozib yuklash, keyin ustiga qo'shib borish.",
@@ -147364,7 +147364,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Boshlang'ich tuzilma (4 daqiqa)",
+    "title": "5.4. Boshlang'ich tuzilma (4 daqiqa)",
     "points": [
      "Avval pin doimiylari e'lon qilinadi va ularga ma'noli nom beriladi.",
      "setup() da pinMode va Serial.begin yoziladi.",
@@ -147373,7 +147373,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kod qanday tuziladi?  Javob: Modullarga bo'lib, har vazifa uchun alohida funksiya.",
      "Savol: Nega versiya saqlanadi?  Javob: Muammo chiqsa ishlaydigan variantga qaytish uchun."
@@ -147461,7 +147461,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Ma'lumot formati nimaga mos bo'lishi kerak?  Javob: O'rgatishda ishlatilgan formatga.",
      "Savol: Bashorat natijasi bilan nima qilinadi?  Javob: Chegara bilan filtrlanadi."
@@ -147549,7 +147549,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Birinchi sinovda nimaga qarash kerak (4 daqiqa)",
+    "title": "5.3. Birinchi sinovda nimaga qarash kerak (4 daqiqa)",
     "points": [
      "Qurilma umuman ishga tushdimi: quvvat bormi, indikator yonyaptimi.",
      "Sensor mantiqiy qiymat qaytaryaptimi yoki 0 va maksimumda qotib turibdimi.",
@@ -147558,7 +147558,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Boshlang'ich o'lchovlarni yozib olish (4 daqiqa)",
+    "title": "5.4. Boshlang'ich o'lchovlarni yozib olish (4 daqiqa)",
     "points": [
      "Sensorning tinch holatdagi qiymati — bu keyin kalibrlash uchun etalon bo'ladi.",
      "Eng past va eng baland qiymat — chegara tanlashda kerak.",
@@ -147567,7 +147567,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Natijalar nima bilan solishtiriladi?  Javob: Texnik topshiriqdagi talablar bilan.",
      "Savol: Qayerda sinash kerak?  Javob: Real ishlash sharoitida."
@@ -147655,7 +147655,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kamchiliklarni tizimli izlash (4 daqiqa)",
+    "title": "5.3. Kamchiliklarni tizimli izlash (4 daqiqa)",
     "points": [
      "Kamchilik uch joydan kelib chiqadi: sxema, kod yoki g'oyaning o'zi.",
      "Sxema kamchiligi: kontakt yomon, quvvat yetmaydi, sensor noto'g'ri joyda.",
@@ -147665,7 +147665,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Kamchiliklarni yozib borish (4 daqiqa)",
+    "title": "5.4. Kamchiliklarni yozib borish (4 daqiqa)",
     "points": [
      "Har bir kamchilik yoziladi: nima bo'ldi, qachon bo'ldi, qanday takrorlanadi.",
      "Takrorlanish shartini yozish eng muhimi: takrorlab bo'lmaydigan xatoni tuzatib ham bo'lmaydi.",
@@ -147674,7 +147674,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Kamchiliklar qanday saralanadi?  Javob: Muhimlik darajasi bo'yicha.",
      "Savol: Nega takrorlash qadamlari yoziladi?  Javob: Tuzatilganini tekshirish uchun."
@@ -147762,7 +147762,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Nimani yaxshilash kerakligini aniqlash (4 daqiqa)",
+    "title": "5.3. Nimani yaxshilash kerakligini aniqlash (4 daqiqa)",
     "points": [
      "Yaxshilash tasodifiy emas, sinov natijalariga asoslangan bo'lishi kerak.",
      "Sinov jadvalidan eng ko'p muammo chiqqan joy topiladi va birinchi o'sha tuzatiladi.",
@@ -147771,7 +147771,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Qayta sinash qoidasi (4 daqiqa)",
+    "title": "5.4. Qayta sinash qoidasi (4 daqiqa)",
     "points": [
      "Har o'zgarishdan keyin FAQAT o'sha joy emas, butun sinov rejasi qaytariladi.",
      "Natijalar oldingi jadval bilan yonma-yon yoziladi — yaxshilanish shunda ko'rinadi.",
@@ -147780,7 +147780,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Regressiya sinovi nima?  Javob: Tuzatish boshqa joyni buzmaganini tekshirish.",
      "Savol: Bir vaqtda nechta kamchilik tuzatiladi?  Javob: Bittasi."
@@ -147868,7 +147868,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Montaj tartibi (4 daqiqa)",
+    "title": "5.3. Montaj tartibi (4 daqiqa)",
     "points": [
      "1) Korpusdagi hamma teshik oldindan tayyorlanadi.",
      "2) Razyomlar va tugmalar o'rnatiladi.",
@@ -147879,7 +147879,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Simlarni mahkamlash (4 daqiqa)",
+    "title": "5.4. Simlarni mahkamlash (4 daqiqa)",
     "points": [
      "Har bir sim shunday bog'lanishi kerakki, tortilganda kontakt emas, bog'lam kuchni ko'tarsin.",
      "Breadboard simlari korpusda ishonchsiz — yakuniy montajda kavsharlash yoki razyom ishlatiladi.",
@@ -147888,7 +147888,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Korpusda antenna uchun nima hisobga olinadi?  Javob: Metall qismlar signalni to'sadi.",
      "Savol: Yakuniy tekshiruvga nima kiradi?  Javob: Silkitish, uzoq ishlatish, isish."
@@ -147976,7 +147976,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tilni soddalashtirish (4 daqiqa)",
+    "title": "5.3. Tilni soddalashtirish (4 daqiqa)",
     "points": [
      "Texnik atama ishlatilsa, u birinchi marta izohlanadi.",
      "Uzun gap o'rniga qisqa gaplar: bir gapda bir fikr.",
@@ -147985,7 +147985,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Rasm va sxemalar (4 daqiqa)",
+    "title": "5.4. Rasm va sxemalar (4 daqiqa)",
     "points": [
      "Har bir muhim qadamga rasm qo'yish tushunishni bir necha barobar osonlashtiradi.",
      "Rasmda tugma yoki razyom strelka bilan belgilanadi.",
@@ -147994,7 +147994,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Qo'llanma kim uchun yoziladi?  Javob: Foydalanuvchi uchun.",
      "Savol: Qaysi bo'lim eng foydali?  Javob: Muammolar va yechimlar."
@@ -148082,7 +148082,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Texnik topshiriq (TZ) (4 daqiqa)",
+    "title": "5.3. Texnik topshiriq (TZ) (4 daqiqa)",
     "points": [
      "TZ — loyiha boshlanishida yoziladigan hujjat: qurilma NIMA qilishi kerak.",
      "Unda funksional talablar bo'ladi: qurilma qanday vazifalarni bajaradi.",
@@ -148091,7 +148091,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Yakuniy texnik hujjat (4 daqiqa)",
+    "title": "5.4. Yakuniy texnik hujjat (4 daqiqa)",
     "points": [
      "Tuzilish sxemasi: qurilma qanday bloklardan iborat va ular qanday bog'langan.",
      "Printsipial sxema: aniq ulanishlar va pin raqamlari.",
@@ -148102,7 +148102,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.5. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Hujjatning eng qimmatli qismi nima?  Javob: Qarorlar va ularning sabablari.",
      "Savol: Hujjat sifatining mezoni nima?  Javob: Boshqa muhandis loyihani davom ettira olishi."
@@ -148190,7 +148190,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Kod namunasi nima qiladi (4 daqiqa)",
+    "title": "5.3. Kod namunasi nima qiladi (4 daqiqa)",
     "points": [
      "Taqdimot rejimi: qurilma yoqilishi bilan o'zini ko'rsatadigan holatga o'tadi va sozlash talab qilmaydi.",
      "Doskaga chiqariladigan namuna: \"Namoyish uchun qurilmani tayyorlash\" (quyidagi \"Tayyor kod namunasi\" bo'limida to'liq berilgan).",
@@ -148198,7 +148198,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.4. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Namoyishga vaqtning qancha qismi ajratiladi?  Javob: Kamida uchdan biri.",
      "Savol: Nega zaxira video kerak?  Javob: Jonli namoyish buzilishi mumkin."
@@ -148291,7 +148291,7 @@ window.LESSON_CONTENT = {
     ]
    },
    {
-    "title": "5.2. Tushunganini tekshirish (4 daqiqa)",
+    "title": "5.3. Tushunganini tekshirish (4 daqiqa)",
     "points": [
      "Savol: Tanqid qanday bo'lishi kerak?  Javob: Konstruktiv — taklif bilan va asoslangan.",
      "Savol: Peer review baholovchiga nima beradi?  Javob: Boshqalarning yechimlaridan o'rganish imkonini."
