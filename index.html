@@ -3,32 +3,41 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Tarbion xususiy maktabi — Robototexnika Dars Rejalari</title>
-<meta name="description" content="Tarbion xususiy maktabi — 0–4-sinf robototexnika va IT dasturi bo'yicha dars rejalari bazasi.">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cg fill='%2317602D'%3E%3Cpath d='M16 19.4Q9.4 18.8 9.4 11.8Q16 12.8 16 19.4Z'/%3E%3Cpath d='M16 19.4Q22.6 18.8 22.6 11.8Q16 12.8 16 19.4Z'/%3E%3Cpath d='M16 13.2Q11.2 11.4 12.4 5.6Q16.8 7.8 16 13.2Z'/%3E%3Cpath d='M16 13.2Q20.8 11.4 19.6 5.6Q15.2 7.8 16 13.2Z'/%3E%3Cpath d='M15.2 22.8Q10.4 20.2 5.4 20.6V27.2Q10.4 26.8 15.2 29.4Z'/%3E%3Cpath d='M16.8 22.8Q21.6 20.2 26.6 20.6V27.2Q21.6 26.8 16.8 29.4Z'/%3E%3C/g%3E%3Cpath d='M16 20.6V12.6' stroke='%2317602D' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E">
+<title>Tarbion xususiy maktabi — Dars Rejalar Bazasi</title>
+<meta name="description" content="Tarbion xususiy maktabi — barcha fanlar bo'yicha dars rejalari bazasi. Robototexnika va IT dasturi to'liq tayyor.">
+<meta name="theme-color" content="#22A03C">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%2322A03C'/%3E%3Ctext x='16' y='23' font-family='Georgia,serif' font-size='21' font-weight='700' fill='%23fff' text-anchor='middle'%3ET%3C/text%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;800&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;800&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=Playfair+Display:wght@700;800;900&display=swap" rel="stylesheet">
 <style>
 :root{
   /* Tarbion xususiy maktabi — yorug' tema.
-     Asosiy rang maktab peshtoqi va logotipidagi to'q yashildan olingan. */
+     --brand      : logotipdagi jonli yashil (so'z-belgi, belgilar, urg'ular)
+     --accent     : matn va chegaralar uchun to'q yashil (oq fonda o'qish uchun
+                    kontrasti yetarli; jonli yashil kichik matnda past kontrast beradi) */
+  --brand: #22A03C;
+  --brand-soft: #eaf6ec;
   --bg: #ffffff;
-  --bg-deep: #f3f7f3;
+  --bg-deep: #f4f8f4;
   --panel: #ffffff;
   --panel-2: #eaf1eb;
   --grid-line: rgba(23,96,45,0.045);
-  --border: #d9e4da;
-  --border-light: #bed0c1;
-  --accent: #17602D;        /* brend yashili — logotip va "Tarbion" yozuvidagi to'q yashil */
-  --accent-dim: #a3c5ad;    /* och yashil — chegaralar uchun */
+  --border: #dde7de;
+  --border-light: #c2d5c5;
+  --accent: #17602D;
+  --accent-dim: #a3c5ad;
   --accent2: #9a6410;       /* ikkilamchi urg'u (yorug' fonda o'qiladigan amber) */
   --accent2-dim: #dcc39a;
   --text: #16261b;
   --text-dim: #4c5d52;
   --text-faint: #7a8b80;
   --red: #c0392b;
-  --green: #6AB42D;         /* brendning ikkinchi, ochroq yashili (posterdagi "QABUL") */
+  --green: #22A03C;
+  --shadow-sm: 0 1px 2px rgba(22,38,27,0.05), 0 2px 8px rgba(22,38,27,0.04);
+  --shadow-md: 0 4px 14px rgba(22,38,27,0.09), 0 12px 34px rgba(22,38,27,0.07);
   --font-display: 'Big Shoulders Display', sans-serif;
+  --font-mark: 'Playfair Display', Georgia, serif;   /* logotip so'z-belgisi */
   --font-mono: 'IBM Plex Mono', monospace;
   --font-body: 'IBM Plex Sans', sans-serif;
   /* Sarlavha balandligi — app.js har safar o'lchab yangilaydi.
@@ -42,70 +51,87 @@ body{
   background:
     linear-gradient(var(--grid-line) 1px, transparent 1px) 0 0/40px 40px,
     linear-gradient(90deg, var(--grid-line) 1px, transparent 1px) 0 0/40px 40px,
-    radial-gradient(ellipse 1200px 600px at 20% -10%, rgba(23,96,45,0.07), transparent),
-    radial-gradient(ellipse 800px 500px at 90% 10%, rgba(154,100,16,0.045), transparent),
+    radial-gradient(ellipse 1200px 600px at 20% -10%, rgba(34,160,60,0.07), transparent),
+    radial-gradient(ellipse 800px 500px at 90% 10%, rgba(154,100,16,0.04), transparent),
     var(--bg-deep);
   color:var(--text);
   font-family:var(--font-body);
   min-height:100vh;
   display:flex;
   flex-direction:column;
+  -webkit-font-smoothing:antialiased;
 }
+a{color:inherit;}
+
+/* ======================= SARLAVHA ======================= */
 header{
-  display:flex; align-items:center; gap:20px; flex-wrap:wrap;
-  padding:14px 24px;
-  background:linear-gradient(180deg, var(--panel), var(--bg));
+  display:flex; align-items:center; gap:18px; flex-wrap:wrap;
+  padding:12px 24px;
+  background:rgba(255,255,255,0.92);
+  backdrop-filter:saturate(1.4) blur(8px);
   border-bottom:1px solid var(--border);
   position:sticky; top:0; z-index:50;
 }
 /* Telefon uchun "burger" tugma — 860px dan keng ekranda ko'rinmaydi */
 .nav-toggle{
   display:none; flex:0 0 auto; width:42px; height:42px; padding:0;
-  background:var(--bg-deep); border:1px solid var(--border-light); border-radius:9px;
+  background:var(--bg-deep); border:1px solid var(--border-light); border-radius:10px;
   cursor:pointer; flex-direction:column; align-items:center; justify-content:center; gap:4px;
 }
 .nav-toggle span{display:block; width:18px; height:2px; background:var(--accent); border-radius:2px; transition:transform .2s, opacity .2s;}
 .nav-toggle[aria-expanded="true"] span:nth-child(1){transform:translateY(6px) rotate(45deg);}
 .nav-toggle[aria-expanded="true"] span:nth-child(2){opacity:0;}
 .nav-toggle[aria-expanded="true"] span:nth-child(3){transform:translateY(-6px) rotate(-45deg);}
-.brand-wrap{min-width:0;}
 .nav-backdrop{display:none;}
 .open-nav-btn{display:none;}
-/* Maktab emblemasi — kitob ustida o'sayotgan nihol.
-   Inline SVG: rangni currentColor orqali temadan oladi, alohida rasm fayli kerak emas. */
-.logo-mark{
-  width:42px; height:42px; flex:0 0 auto;
-  border:2px solid var(--accent);
-  border-radius:9px;
-  display:flex; align-items:center; justify-content:center;
-  color:var(--accent); background:#fff;
-  position:relative;
-  box-shadow:0 2px 10px rgba(23,96,45,0.16);
+
+/* --- Logotip: "Tarbion" so'z-belgisi ---
+   Maktab logotipi — matnli belgi, "i" ustidagi nuqta o'rniga bayroqcha turadi.
+   Shu shakl î (circumflex) bilan juda yaqin chiqadi. Rasm fayli kerak emas,
+   shuning uchun sayt hech qanday tashqi rasmga bog'lanmaydi.
+   Haqiqiy vektor logotip qo'shilsa: logo/tarbion.svg ga joylab, shu blokni
+   <img> bilan almashtirish yetarli. */
+.brand-link{display:flex; align-items:center; gap:12px; text-decoration:none; min-width:0; cursor:pointer; background:none; border:none; padding:0; text-align:left;}
+.wordmark{
+  font-family:var(--font-mark); font-weight:800; font-size:30px; line-height:0.95;
+  color:var(--brand); letter-spacing:-0.5px; white-space:nowrap;
 }
-.logo-mark svg{width:26px; height:26px; display:block;}
-h1.brand{
-  font-family:var(--font-display); font-weight:800; font-size:26px;
-  letter-spacing:0.5px; text-transform:uppercase; color:var(--text);
-  line-height:1;
-}
-h1.brand span{color:var(--accent);}
+.wordmark .wm-i{letter-spacing:-0.02em;}
 .brand-sub{
-  font-family:var(--font-mono); font-size:11px; color:var(--text-faint);
-  letter-spacing:1.5px; text-transform:uppercase; margin-top:2px;
+  font-family:var(--font-body); font-size:10.5px; font-weight:500; color:var(--text-faint);
+  letter-spacing:0.2px; margin-top:3px; line-height:1.25; max-width:180px;
 }
-/* HTML tartibi: burger, logo, brend, hisob, qidiruv.
-   Kompyuterda ko'rinish tartibi boshqacha (qidiruv o'ngda, hisob eng oxirida),
-   shuning uchun order bilan qayta joylashtiriladi. */
+.brand-divider{width:1px; height:34px; background:var(--border); flex:0 0 auto;}
+.brand-role{
+  font-family:var(--font-mono); font-size:10.5px; letter-spacing:1.4px; text-transform:uppercase;
+  color:var(--text-dim); line-height:1.5;
+}
+.brand-role b{display:block; color:var(--accent); font-size:12px; letter-spacing:0.6px; text-transform:none; font-family:var(--font-body); font-weight:600;}
+
+/* Faol fan yorlig'i (sarlavhada) + "Fanlar" ga qaytish */
+.fan-pill{
+  display:none; align-items:center; gap:9px;
+  font-size:13px; font-weight:600; color:var(--text);
+  background:var(--brand-soft); border:1px solid var(--accent-dim);
+  border-radius:22px; padding:7px 15px 7px 11px; cursor:pointer;
+  transition:border-color .15s, background .15s;
+}
+.fan-pill:hover{border-color:var(--brand); background:#dff0e3;}
+.fan-pill .fp-ico{font-size:15px; line-height:1;}
+.fan-pill .fp-back{font-family:var(--font-mono); font-size:11px; color:var(--text-faint); border-left:1px solid var(--accent-dim); padding-left:9px;}
+body[data-view="darslar"] .fan-pill,
+body[data-view="reja"] .fan-pill{display:inline-flex;}
+
 .search-wrap{
-  order:3; margin-left:auto; position:relative; width:340px; max-width:40vw;
+  order:3; margin-left:auto; position:relative; width:320px; max-width:36vw;
 }
 .search-wrap input{
   width:100%; background:var(--bg-deep); border:1px solid var(--border-light);
-  border-radius:8px; padding:10px 14px 10px 36px; color:var(--text);
+  border-radius:9px; padding:10px 14px 10px 36px; color:var(--text);
   font-family:var(--font-mono); font-size:13px; outline:none;
   transition:border-color .2s, box-shadow .2s;
 }
-.search-wrap input:focus{border-color:var(--accent); box-shadow:0 0 0 3px rgba(23,96,45,0.14);}
+.search-wrap input:focus{border-color:var(--brand); box-shadow:0 0 0 3px rgba(34,160,60,0.16);}
 .search-wrap input::placeholder{color:var(--text-faint);}
 .search-icon{position:absolute; left:12px; top:50%; transform:translateY(-50%); color:var(--text-faint); font-size:14px; pointer-events:none;}
 .stats-badge{
@@ -120,21 +146,23 @@ h1.brand span{color:var(--accent);}
   order:5;
   display:inline-flex; align-items:center; gap:7px;
   font-family:var(--font-mono); font-size:11px; text-decoration:none;
-  color:var(--accent); background:var(--panel-2);
+  color:var(--accent); background:var(--brand-soft);
   border:1px solid var(--accent-dim); border-radius:20px; padding:6px 14px;
-  white-space:nowrap; transition:background .18s, border-color .18s;
+  white-space:nowrap; transition:background .18s, border-color .18s, color .18s;
 }
-.dl-badge:hover{background:var(--accent); border-color:var(--accent); color:#fff;}
+.dl-badge:hover{background:var(--brand); border-color:var(--brand); color:#fff;}
 .dl-badge .dl-ico{font-size:13px; line-height:1;}
-/* Bosh sahifadagi kattaroq variant */
-.dl-big{
-  display:inline-flex; align-items:center; gap:9px; margin-top:6px;
-  font-family:var(--font-mono); font-size:13px; text-decoration:none;
-  color:#fff; background:var(--accent); border:1px solid var(--accent);
-  border-radius:9px; padding:11px 20px; transition:opacity .18s;
-}
-.dl-big:hover{opacity:.88;}
-.dl-note{font-size:12px; color:var(--text-faint); margin-top:-6px;}
+/* Faqat robototexnika ochilganda kerak bo'ladigan boshqaruvlar */
+body[data-view="home"] .search-wrap,
+body[data-view="home"] .stats-badge,
+body[data-view="home"] .dl-badge,
+body[data-view="home"] .nav-toggle,
+body[data-view="reja"] .search-wrap,
+body[data-view="reja"] .stats-badge,
+body[data-view="reja"] .dl-badge,
+body[data-view="reja"] .nav-toggle{display:none;}
+
+/* ======================= TARTIB ======================= */
 .layout{display:flex; flex:1; min-height:0; min-width:0;}
 nav.tree{
   width:340px; flex:0 0 auto;
@@ -143,22 +171,24 @@ nav.tree{
   overflow-y:auto;
   padding:16px 10px 40px;
 }
+body[data-view="home"] nav.tree,
+body[data-view="reja"] nav.tree{display:none;}
 nav.tree::-webkit-scrollbar{width:8px;}
 nav.tree::-webkit-scrollbar-thumb{background:var(--border-light); border-radius:4px;}
 nav.tree::-webkit-scrollbar-track{background:transparent;}
 .yil-tabs{display:flex; gap:8px; padding:0 6px 14px;}
 .yil-tab{
-  flex:1; text-align:center; padding:9px 0; border-radius:7px;
+  flex:1; text-align:center; padding:9px 0; border-radius:8px;
   font-family:var(--font-mono); font-size:12px; font-weight:600; letter-spacing:0.5px;
   border:1px solid var(--border-light); color:var(--text-dim); cursor:pointer;
   transition:all .15s;
 }
-.yil-tab.active{background:var(--accent); color:var(--bg-deep); border-color:var(--accent);}
-.yil-tab:not(.active):hover{border-color:var(--accent-dim); color:var(--text);}
+.yil-tab.active{background:var(--accent); color:#fff; border-color:var(--accent);}
+.yil-tab:not(.active):hover{border-color:var(--brand); color:var(--text);}
 .sinf-block{margin-bottom:4px;}
 .sinf-head{
   display:flex; align-items:center; gap:10px;
-  padding:10px 12px; border-radius:7px; cursor:pointer;
+  padding:10px 12px; border-radius:8px; cursor:pointer;
   font-family:var(--font-mono); font-size:13px; font-weight:600; color:var(--text);
   transition:background .15s;
 }
@@ -166,7 +196,7 @@ nav.tree::-webkit-scrollbar-track{background:transparent;}
 .sinf-head .chevron{
   transition:transform .18s; color:var(--text-faint); font-size:10px; width:10px;
 }
-.sinf-head.open .chevron{transform:rotate(90deg); color:var(--accent);}
+.sinf-head.open .chevron{transform:rotate(90deg); color:var(--brand);}
 .sinf-count{margin-left:auto; font-size:10px; color:var(--text-faint); background:var(--bg-deep); padding:2px 7px; border-radius:10px;}
 .chorak-list{max-height:0; overflow:hidden; transition:max-height .25s ease; padding-left:14px;}
 .chorak-list.open{max-height:3000px;}
@@ -176,7 +206,7 @@ nav.tree::-webkit-scrollbar-track{background:transparent;}
   font-size:12px; color:var(--text-dim); border-left:2px solid var(--border-light);
 }
 .chorak-head:hover{color:var(--text); border-left-color:var(--accent-dim);}
-.chorak-head.open{color:var(--accent); border-left-color:var(--accent);}
+.chorak-head.open{color:var(--accent); border-left-color:var(--brand);}
 .chorak-head .chevron{font-size:9px; transition:transform .18s;}
 .chorak-head.open .chevron{transform:rotate(90deg);}
 .dars-list{max-height:0; overflow:hidden; transition:max-height .3s ease; padding-left:16px; border-left:1px dashed var(--border);}
@@ -188,11 +218,107 @@ nav.tree::-webkit-scrollbar-track{background:transparent;}
   transition:background .12s, color .12s;
 }
 .dars-item:hover{background:var(--panel-2); color:var(--text);}
-.dars-item.active{background:rgba(23,96,45,0.10); color:var(--accent);}
-.dars-item.ready::before{content:'●'; color:var(--green); font-size:8px; margin-top:4px;}
+.dars-item.active{background:rgba(34,160,60,0.12); color:var(--accent); font-weight:500;}
+.dars-item.ready::before{content:'●'; color:var(--brand); font-size:8px; margin-top:4px;}
 .dars-item:not(.ready)::before{content:'○'; color:var(--text-faint); font-size:8px; margin-top:4px;}
 .dars-item .dnum{font-family:var(--font-mono); color:var(--text-faint); font-size:10px; flex:0 0 auto;}
 main{flex:1; min-width:0; overflow-y:auto; padding:36px 44px 80px;}
+
+/* ======================= BOSH SAHIFA: FANLAR ======================= */
+.home{max-width:1180px; margin:0 auto;}
+.hero{
+  border:1px solid var(--border); border-radius:18px; background:var(--panel);
+  box-shadow:var(--shadow-sm); padding:34px 36px 30px; margin-bottom:34px;
+  position:relative; overflow:hidden;
+}
+.hero::after{
+  content:''; position:absolute; right:-90px; top:-90px; width:300px; height:300px;
+  background:radial-gradient(circle, rgba(34,160,60,0.11), transparent 70%); pointer-events:none;
+}
+.hero-eyebrow{
+  font-family:var(--font-mono); font-size:11px; letter-spacing:2px; text-transform:uppercase;
+  color:var(--brand); margin-bottom:12px;
+}
+.hero h1{
+  font-family:var(--font-display); font-weight:800; font-size:44px; line-height:1.05;
+  text-transform:uppercase; letter-spacing:0.5px; color:var(--text); margin-bottom:12px;
+}
+.hero h1 em{font-style:normal; color:var(--brand);}
+.hero p{font-size:15px; line-height:1.7; color:var(--text-dim); max-width:640px;}
+.hero-stats{display:flex; flex-wrap:wrap; gap:26px; margin-top:24px;}
+.hs{min-width:88px;}
+.hs .n{font-family:var(--font-display); font-weight:800; font-size:30px; color:var(--accent); line-height:1;}
+.hs .k{font-family:var(--font-mono); font-size:10.5px; letter-spacing:1.1px; text-transform:uppercase; color:var(--text-faint); margin-top:5px;}
+.hero-actions{display:flex; flex-wrap:wrap; gap:11px; margin-top:24px;}
+.btn{
+  display:inline-flex; align-items:center; gap:9px; cursor:pointer;
+  font-family:var(--font-body); font-size:13.5px; font-weight:600; text-decoration:none;
+  border-radius:10px; padding:11px 20px; border:1px solid transparent; transition:all .18s;
+}
+.btn-primary{background:var(--brand); color:#fff; border-color:var(--brand);}
+.btn-primary:hover{background:var(--accent); border-color:var(--accent);}
+.btn-ghost{background:var(--panel); color:var(--accent); border-color:var(--border-light);}
+.btn-ghost:hover{border-color:var(--brand); background:var(--brand-soft);}
+
+.fan-guruh{margin-bottom:34px;}
+.fan-guruh > h2{
+  font-family:var(--font-mono); font-size:11.5px; letter-spacing:2px; text-transform:uppercase;
+  color:var(--text-faint); margin-bottom:14px; display:flex; align-items:center; gap:12px;
+}
+.fan-guruh > h2::after{content:''; flex:1; height:1px; background:var(--border);}
+.fan-grid{display:grid; grid-template-columns:repeat(auto-fill, minmax(268px,1fr)); gap:14px;}
+.fan-card{
+  position:relative; text-align:left; cursor:pointer;
+  background:var(--panel); border:1px solid var(--border); border-radius:14px;
+  padding:18px 18px 16px; font-family:inherit;
+  transition:transform .16s, box-shadow .16s, border-color .16s;
+  display:flex; flex-direction:column; gap:9px;
+  border-top:3px solid var(--fan-rang, var(--brand));
+}
+.fan-card:hover{transform:translateY(-2px); box-shadow:var(--shadow-md); border-color:var(--border-light);}
+.fan-card .fc-top{display:flex; align-items:flex-start; gap:11px;}
+.fan-card .fc-ico{
+  flex:0 0 auto; width:42px; height:42px; border-radius:11px;
+  display:flex; align-items:center; justify-content:center; font-size:21px;
+  background:var(--fan-yumshoq, var(--brand-soft));
+}
+.fan-card .fc-nom{font-size:16.5px; font-weight:700; color:var(--text); line-height:1.25;}
+.fan-card .fc-sinf{font-family:var(--font-mono); font-size:11px; color:var(--text-faint); margin-top:3px;}
+.fan-card .fc-tav{font-size:13px; line-height:1.55; color:var(--text-dim); flex:1;}
+.fan-card .fc-foot{
+  display:flex; align-items:center; gap:9px; flex-wrap:wrap;
+  border-top:1px dashed var(--border); padding-top:11px; margin-top:2px;
+}
+.holat{
+  font-family:var(--font-mono); font-size:10px; letter-spacing:0.9px; text-transform:uppercase;
+  padding:4px 10px; border-radius:20px; border:1px solid;
+}
+.holat.tayyor{color:#14722a; border-color:#9ed4ad; background:rgba(34,160,60,0.11);}
+.holat.reja{color:var(--text-faint); border-color:var(--border-light); background:var(--bg-deep);}
+.fc-son{font-family:var(--font-mono); font-size:11.5px; color:var(--text-dim); margin-left:auto;}
+.fc-son b{color:var(--accent);}
+/* Kontenti yo'q fanlar biroz xiraroq turadi, lekin baribir ochiladi */
+.fan-card.reja{background:linear-gradient(180deg,#fff, #fbfcfb);}
+.fan-card.reja .fc-ico{filter:grayscale(0.35); opacity:0.85;}
+
+/* Fan tayyorlanmoqda sahifasi */
+.fan-soon{max-width:720px; margin:0 auto; text-align:center; padding-top:6vh;}
+.fan-soon .fs-ico{
+  width:88px; height:88px; margin:0 auto 20px; border-radius:24px;
+  display:flex; align-items:center; justify-content:center; font-size:42px;
+  background:var(--fan-yumshoq, var(--brand-soft));
+}
+.fan-soon h1{font-family:var(--font-display); font-weight:800; font-size:36px; text-transform:uppercase; letter-spacing:0.5px; margin-bottom:8px;}
+.fan-soon .fs-sinf{font-family:var(--font-mono); font-size:12px; color:var(--text-faint); letter-spacing:1px; margin-bottom:20px;}
+.fan-soon p{font-size:15px; line-height:1.75; color:var(--text-dim); margin-bottom:16px;}
+.fs-list{
+  text-align:left; display:inline-block; margin:8px auto 22px; padding:18px 22px;
+  background:var(--panel); border:1px solid var(--border); border-radius:12px; box-shadow:var(--shadow-sm);
+}
+.fs-list .fsl-h{font-family:var(--font-mono); font-size:10.5px; letter-spacing:1.4px; text-transform:uppercase; color:var(--text-faint); margin-bottom:10px;}
+.fs-list ul{padding-left:20px;}
+.fs-list li{font-size:13.5px; line-height:1.9; color:var(--text-dim);}
+
 .empty-state{
   height:100%; display:flex; flex-direction:column; align-items:center; justify-content:center;
   color:var(--text-faint); text-align:center; gap:14px; padding-top:10vh;
@@ -201,18 +327,85 @@ main{flex:1; min-width:0; overflow-y:auto; padding:36px 44px 80px;}
 .empty-state h2{font-family:var(--font-display); font-size:28px; color:var(--text-dim); font-weight:600;}
 .empty-state p{max-width:420px; font-size:14px; line-height:1.6;}
 .not-ready{
-  border:1px dashed var(--border-light); border-radius:12px; padding:50px 30px;
-  text-align:center; color:var(--text-faint); margin-top:20px;
+  border:1px dashed var(--border-light); border-radius:14px; padding:50px 30px;
+  text-align:center; color:var(--text-faint); margin-top:20px; background:var(--panel);
 }
 .not-ready .tag{
   display:inline-block; font-family:var(--font-mono); font-size:11px; letter-spacing:1px;
   color:var(--accent2); border:1px solid var(--accent2-dim); border-radius:20px; padding:4px 14px; margin-bottom:16px;
 }
+
+/* ======================= DARS SAHIFASI ======================= */
+.lesson-wrap{max-width:940px;}
+/* Yo'l ko'rsatkich: Fan › yil › sinf › chorak */
+.crumbs{
+  display:flex; align-items:center; gap:8px; flex-wrap:wrap; margin-bottom:14px;
+  font-family:var(--font-mono); font-size:11px; color:var(--text-faint); letter-spacing:0.4px;
+}
+.crumbs a{color:var(--accent); text-decoration:none; cursor:pointer;}
+.crumbs a:hover{text-decoration:underline;}
+.crumbs .sep{color:var(--border-light);}
+.lesson-header{margin-bottom:26px; position:relative;}
+.badge-row{display:flex; gap:8px; flex-wrap:wrap; margin-bottom:14px; align-items:center;}
+.type-badge{
+  font-family:var(--font-mono); font-size:10px; letter-spacing:1px; text-transform:uppercase;
+  padding:4px 11px; border-radius:20px; border:1px solid;
+}
+.type-badge.qurish{color:var(--accent); border-color:var(--accent-dim); background:rgba(34,160,60,0.08);}
+.type-badge.nazorat{color:var(--accent2); border-color:var(--accent2-dim); background:rgba(154,100,16,0.07);}
+.type-badge.loyiha{color:#6b3fa0; border-color:#c9b3e0; background:rgba(107,63,160,0.07);}
+.type-badge.dasturlash{color:#0b6b8f; border-color:#a9d3e4; background:rgba(11,107,143,0.07);}
+.type-badge.spike{color:#b04a20; border-color:#e6bda9; background:rgba(176,74,32,0.07);}
+/* 5-8-sinf yo'nalishlari */
+.type-badge.elektronika{color:#0b6b8f; border-color:#a9d3e4; background:rgba(11,107,143,0.07);}
+.type-badge.arduino{color:#0f7a72; border-color:#a5d3cf; background:rgba(15,122,114,0.07);}
+.type-badge.esp32{color:#6b3fa0; border-color:#c9b3e0; background:rgba(107,63,160,0.07);}
+.type-badge.ai{color:#a03a6b; border-color:#e0b3cb; background:rgba(160,58,107,0.07);}
+/* Chop etish tugmasi — o'qituvchi rejani qog'ozda olib chiqishi uchun */
+.print-btn{
+  margin-left:auto; display:inline-flex; align-items:center; gap:7px; cursor:pointer;
+  font-family:var(--font-mono); font-size:11px; color:var(--text-dim);
+  background:var(--panel); border:1px solid var(--border-light); border-radius:20px; padding:5px 13px;
+  transition:border-color .15s, color .15s;
+}
+.print-btn:hover{border-color:var(--brand); color:var(--accent);}
+.lesson-title{font-family:var(--font-display); font-weight:800; font-size:36px; line-height:1.12; color:var(--text); margin-bottom:8px; letter-spacing:0.3px;}
+.lesson-model{font-family:var(--font-mono); font-size:14.5px; color:var(--accent);}
+.meta-grid{
+  display:grid; grid-template-columns:repeat(3,1fr); gap:1px;
+  background:var(--border); border:1px solid var(--border); border-radius:12px; overflow:hidden;
+  margin:22px 0 34px; box-shadow:var(--shadow-sm);
+}
+.meta-cell{background:var(--panel); padding:12px 16px;}
+.meta-cell .k{font-family:var(--font-mono); font-size:10px; text-transform:uppercase; letter-spacing:1px; color:var(--text-faint); margin-bottom:4px;}
+.meta-cell .v{font-size:13px; color:var(--text); font-weight:500;}
+.section{margin-bottom:30px;}
+.section-num{
+  font-family:var(--font-mono); font-size:11px; color:var(--brand);
+  letter-spacing:2px; margin-bottom:6px; font-weight:600;
+}
+.section h2{
+  font-family:var(--font-display); font-weight:700; font-size:23px; text-transform:uppercase;
+  color:var(--text); border-bottom:1px solid var(--border); padding-bottom:10px; margin-bottom:16px;
+  letter-spacing:0.3px;
+}
+.section ol, .section ul{padding-left:22px;}
+.section li{margin-bottom:9px; font-size:14.5px; line-height:1.65; color:var(--text);}
+.section p{font-size:14.5px; line-height:1.7; color:var(--text);}
+.subhead{
+  font-family:var(--font-mono); font-size:13px; font-weight:600; color:var(--accent2);
+  margin:18px 0 8px; padding-left:2px;
+}
+.subhead:first-child{margin-top:0;}
+.soft-skill-box{
+  background:linear-gradient(135deg, rgba(154,100,16,0.09), rgba(154,100,16,0.03));
+  border:1px solid var(--accent2-dim); border-radius:12px; padding:18px 20px;
+}
 /* O'qituvchi qo'llanmasidagi "ko'p uchraydigan xato" bandi */
 .xato-box{
   margin-top:12px; padding:12px 15px;
   border:1px solid var(--accent2-dim); border-left:3px solid var(--accent2);
-  border-radius:8px; background:var(--panel-2);
+  border-radius:10px; background:var(--panel-2);
   font-size:14px; line-height:1.65; color:var(--text-dim);
 }
 .xato-box b{color:var(--accent2);}
@@ -231,8 +424,8 @@ main{flex:1; min-width:0; overflow-y:auto; padding:36px 44px 80px;}
 /* Tayyor kod namunasi */
 .kod-wrap{
   overflow-x:auto; -webkit-overflow-scrolling:touch;
-  border:1px solid var(--border); border-left:3px solid var(--accent);
-  border-radius:10px; background:var(--panel-2); margin:8px 0 16px;
+  border:1px solid var(--border); border-left:3px solid var(--brand);
+  border-radius:12px; background:var(--panel-2); margin:8px 0 16px;
 }
 pre.kod{
   margin:0; padding:14px 16px;
@@ -244,7 +437,7 @@ pre.kod code{font:inherit; color:inherit; background:none; padding:0;}
    orasida rangli simlar: qizil = quvvat, qora = GND, ko'k = signal. */
 .wd-wrap{
   overflow-x:auto; -webkit-overflow-scrolling:touch;
-  border:1px solid var(--border); border-radius:10px;
+  border:1px solid var(--border); border-radius:12px;
   background:var(--panel-2); padding:14px 12px 10px; margin:6px 0 12px;
 }
 .wd{display:block; width:100%; min-width:560px; height:auto;}
@@ -260,60 +453,12 @@ pre.kod code{font:inherit; color:inherit; background:none; padding:0;}
 .wd-gnd{stroke:#16261b; fill:#16261b;}
 .wd-sig{stroke:#0b6b8f; fill:#0b6b8f;}
 .wd-none{stroke:var(--border-light); stroke-dasharray:5 5; fill:var(--border-light);}
-.lesson-header{margin-bottom:28px;}
-.badge-row{display:flex; gap:8px; flex-wrap:wrap; margin-bottom:14px;}
-.type-badge{
-  font-family:var(--font-mono); font-size:10px; letter-spacing:1px; text-transform:uppercase;
-  padding:4px 11px; border-radius:20px; border:1px solid;
-}
-.type-badge.qurish{color:var(--accent); border-color:var(--accent-dim); background:rgba(23,96,45,0.07);}
-.type-badge.nazorat{color:var(--accent2); border-color:var(--accent2-dim); background:rgba(154,100,16,0.07);}
-.type-badge.loyiha{color:#6b3fa0; border-color:#c9b3e0; background:rgba(107,63,160,0.07);}
-.type-badge.dasturlash{color:#0b6b8f; border-color:#a9d3e4; background:rgba(11,107,143,0.07);}
-.type-badge.spike{color:#b04a20; border-color:#e6bda9; background:rgba(176,74,32,0.07);}
-/* 5-8-sinf yo'nalishlari */
-.type-badge.elektronika{color:#0b6b8f; border-color:#a9d3e4; background:rgba(11,107,143,0.07);}
-.type-badge.arduino{color:#0f7a72; border-color:#a5d3cf; background:rgba(15,122,114,0.07);}
-.type-badge.esp32{color:#6b3fa0; border-color:#c9b3e0; background:rgba(107,63,160,0.07);}
-.type-badge.ai{color:#a03a6b; border-color:#e0b3cb; background:rgba(160,58,107,0.07);}
-.lesson-title{font-family:var(--font-display); font-weight:700; font-size:34px; line-height:1.15; color:var(--text); margin-bottom:6px;}
-.lesson-model{font-family:var(--font-mono); font-size:15px; color:var(--accent);}
-.meta-grid{
-  display:grid; grid-template-columns:repeat(3,1fr); gap:1px;
-  background:var(--border); border:1px solid var(--border); border-radius:10px; overflow:hidden;
-  margin:22px 0 34px;
-}
-.meta-cell{background:var(--panel); padding:12px 16px;}
-.meta-cell .k{font-family:var(--font-mono); font-size:10px; text-transform:uppercase; letter-spacing:1px; color:var(--text-faint); margin-bottom:4px;}
-.meta-cell .v{font-size:13px; color:var(--text); font-weight:500;}
-.section{margin-bottom:30px;}
-.section-num{
-  font-family:var(--font-mono); font-size:11px; color:var(--accent);
-  letter-spacing:2px; margin-bottom:6px;
-}
-.section h2{
-  font-family:var(--font-display); font-weight:700; font-size:22px; text-transform:uppercase;
-  color:var(--text); border-bottom:1px solid var(--border); padding-bottom:10px; margin-bottom:16px;
-  letter-spacing:0.3px;
-}
-.section ol, .section ul{padding-left:22px;}
-.section li{margin-bottom:9px; font-size:14.5px; line-height:1.6; color:var(--text);}
-.section p{font-size:14.5px; line-height:1.7; color:var(--text);}
-.subhead{
-  font-family:var(--font-mono); font-size:13px; font-weight:600; color:var(--accent2);
-  margin:18px 0 8px; padding-left:2px;
-}
-.subhead:first-child{margin-top:0;}
-.soft-skill-box{
-  background:linear-gradient(135deg, rgba(154,100,16,0.09), rgba(154,100,16,0.03));
-  border:1px solid var(--accent2-dim); border-radius:10px; padding:18px 20px;
-}
 .res-list{list-style:none; padding-left:0;}
 .res-item{
   display:flex; align-items:center; gap:12px; flex-wrap:wrap;
   padding:11px 14px; margin-bottom:8px;
   background:var(--panel); border:1px solid var(--border);
-  border-radius:9px; transition:border-color .15s, background .15s;
+  border-radius:10px; transition:border-color .15s, background .15s;
 }
 .res-item:hover{border-color:var(--accent-dim); background:var(--panel-2);}
 .res-link{display:flex; align-items:center; gap:11px; text-decoration:none; flex:1; min-width:0;}
@@ -322,9 +467,9 @@ pre.kod code{font:inherit; color:inherit; background:none; padding:0;}
   letter-spacing:0.8px; padding:4px 8px; border-radius:4px; border:1px solid;
 }
 .res-type.pdf{color:#b04a20; border-color:#e6bda9; background:rgba(176,74,32,0.09);}
-.res-type.web{color:var(--accent); border-color:var(--accent-dim); background:rgba(23,96,45,0.09);}
+.res-type.web{color:var(--accent); border-color:var(--accent-dim); background:rgba(34,160,60,0.09);}
 .res-type.video{color:#6b3fa0; border-color:#c9b3e0; background:rgba(107,63,160,0.09);}
-.res-type.lokal{color:#4a7d1c; border-color:#c2dba0; background:rgba(106,180,45,0.14);}
+.res-type.lokal{color:#4a7d1c; border-color:#c2dba0; background:rgba(34,160,60,0.13);}
 .res-name{font-size:14px; color:var(--text); line-height:1.4;}
 .res-link:hover .res-name{color:var(--accent);}
 .res-src{
@@ -332,7 +477,7 @@ pre.kod code{font:inherit; color:inherit; background:none; padding:0;}
   white-space:nowrap; margin-left:auto;
 }
 /* --- Makerzoid bosqichma-bosqich qurish instruksiyasi (galereya) --- */
-.instr{border:1px solid var(--border); border-radius:10px; overflow:hidden; background:var(--panel); margin-bottom:14px;}
+.instr{border:1px solid var(--border); border-radius:12px; overflow:hidden; background:var(--panel); margin-bottom:14px;}
 .instr-bar{
   display:flex; align-items:center; gap:12px; padding:9px 14px;
   background:var(--panel-2); border-bottom:1px solid var(--border);
@@ -348,11 +493,11 @@ pre.kod code{font:inherit; color:inherit; background:none; padding:0;}
 }
 .ig-btn{
   font-family:var(--font-mono); font-size:12px; color:var(--text-dim); cursor:pointer;
-  background:var(--bg-deep); border:1px solid var(--border-light); border-radius:7px; padding:7px 13px;
+  background:var(--bg-deep); border:1px solid var(--border-light); border-radius:8px; padding:7px 13px;
   transition:border-color .15s, color .15s;
 }
-.ig-btn:hover{border-color:var(--accent-dim); color:var(--text);}
-.ig-btn.on{background:var(--accent); color:var(--bg-deep); border-color:var(--accent);}
+.ig-btn:hover{border-color:var(--brand); color:var(--text);}
+.ig-btn.on{background:var(--accent); color:#fff; border-color:var(--accent);}
 .ig-toggle{margin-left:auto;}
 .ig-pos{font-family:var(--font-mono); font-size:13px; color:var(--text-dim);}
 .ig-pos b{color:var(--accent); font-size:15px;}
@@ -364,9 +509,9 @@ pre.kod code{font:inherit; color:inherit; background:none; padding:0;}
 .instr-grid[hidden]{display:none;}
 .ig-thumb{
   position:relative; padding:0; cursor:pointer; background:#fff;
-  border:1px solid var(--border-light); border-radius:6px; overflow:hidden; line-height:0;
+  border:1px solid var(--border-light); border-radius:7px; overflow:hidden; line-height:0;
 }
-.ig-thumb:hover{border-color:var(--accent);}
+.ig-thumb:hover{border-color:var(--brand);}
 .ig-thumb img{width:100%; height:auto; display:block;}
 .ig-thumb span{
   position:absolute; left:3px; top:3px; font-family:var(--font-mono); font-size:9px;
@@ -399,25 +544,25 @@ body.ig-fs-open{overflow:hidden;}   /* orqadagi sahifa aylanmasin */
 
 /* --- Missiya darslari: dars topshirig'i va ball jadvali --- */
 .task-box{
-  background:linear-gradient(135deg, rgba(23,96,45,0.08), rgba(23,96,45,0.025));
-  border:1px solid var(--accent-dim); border-radius:10px; padding:18px 20px; margin-bottom:22px;
+  background:linear-gradient(135deg, rgba(34,160,60,0.09), rgba(34,160,60,0.025));
+  border:1px solid var(--accent-dim); border-radius:12px; padding:18px 20px; margin-bottom:22px;
 }
 .task-head{display:flex; align-items:center; gap:12px; flex-wrap:wrap; margin-bottom:14px;}
 .task-code{
   font-family:var(--font-mono); font-size:12px; font-weight:600; letter-spacing:0.5px;
-  color:var(--bg-deep); background:var(--accent); padding:4px 11px; border-radius:5px;
+  color:#fff; background:var(--accent); padding:4px 11px; border-radius:6px;
 }
-.task-title{font-family:var(--font-display); font-size:20px; font-weight:700; color:var(--text); letter-spacing:0.3px;}
+.task-title{font-family:var(--font-display); font-size:21px; font-weight:700; color:var(--text); letter-spacing:0.3px;}
 .task-list{padding-left:20px; margin-bottom:14px;}
 .task-list li{margin-bottom:8px; font-size:14.5px; line-height:1.6;}
 .task-mezon{
   font-size:13.5px; line-height:1.6; color:var(--text-dim);
   border-top:1px dashed var(--border-light); padding-top:12px;
 }
-.task-mezon b{color:var(--accent);}   /* --green faqat belgi/nuqta uchun — matnda kontrasti past */
+.task-mezon b{color:var(--accent);}
 .score-table{
   width:100%; border-collapse:collapse; font-size:14px;
-  border:1px solid var(--border); border-radius:9px; overflow:hidden;
+  border:1px solid var(--border); border-radius:10px; overflow:hidden;
 }
 .score-table th{
   background:var(--panel-2); text-align:left; padding:9px 13px;
@@ -430,7 +575,7 @@ body.ig-fs-open{overflow:hidden;}   /* orqadagi sahifa aylanmasin */
 .score-table tfoot td{background:var(--panel-2); font-weight:600; color:var(--text);}
 /* --- Musobaqa maydonchasi chizmasi --- */
 .field-wrap{
-  border:1px solid var(--border); border-radius:10px; overflow-x:auto; background:var(--bg-deep);
+  border:1px solid var(--border); border-radius:12px; overflow-x:auto; background:var(--bg-deep);
   padding:10px;
 }
 .field-wrap svg{display:block; width:100%; min-width:520px; height:auto;}
@@ -441,19 +586,27 @@ body.ig-fs-open{overflow:hidden;}   /* orqadagi sahifa aylanmasin */
   font-family:var(--font-mono); font-size:10.5px; color:var(--text-faint); letter-spacing:0.5px;
 }
 footer{
-  text-align:center; padding:20px; font-family:var(--font-mono); font-size:11px;
-  color:var(--text-faint); border-top:1px solid var(--border);
+  text-align:center; padding:22px; font-family:var(--font-mono); font-size:11px;
+  color:var(--text-faint); border-top:1px solid var(--border); background:rgba(255,255,255,0.6);
 }
 /* Ishlab chiquvchi va bog'lanish — asosiy qatordan pastda, biroz xiraroq */
 .foot-dev{margin-top:6px; font-size:10.5px; letter-spacing:0.3px;}
 .foot-dev a{color:var(--accent); text-decoration:none;}
 .foot-dev a:hover{text-decoration:underline;}
+
 /* ================= PLANSHET va TELEFON ================= */
+@media (max-width: 1000px){
+  .hero h1{font-size:34px;}
+  .hero{padding:26px 24px 24px;}
+}
 @media (max-width: 860px){
-  .nav-toggle{display:flex;}
-  header{gap:12px; padding:10px 14px;}
-  h1.brand{font-size:18px;}
+  body[data-view="darslar"] .nav-toggle{display:flex;}
+  header{gap:10px; padding:9px 13px;}
+  .wordmark{font-size:23px;}
   .brand-sub{display:none;}
+  .brand-divider, .brand-role{display:none;}
+  .fan-pill{font-size:12px; padding:6px 12px 6px 9px;}
+  .fan-pill .fp-back{display:none;}
   .stats-badge{order:2; margin-left:auto; font-size:10px; padding:5px 10px;}
   .dl-badge{order:3; font-size:10px; padding:5px 10px;}
   /* Qidiruv maydoni ikkinchi qatorga to'liq kenglikda tushadi */
@@ -475,7 +628,12 @@ footer{
   }
   .nav-backdrop.on{opacity:1; pointer-events:auto;}
 
-  main{padding:22px 16px 60px;}
+  main{padding:20px 15px 60px;}
+  .hero h1{font-size:27px;}
+  .hero p{font-size:14px;}
+  .hero-stats{gap:18px; margin-top:18px;}
+  .hs .n{font-size:24px;}
+  .fan-grid{grid-template-columns:repeat(auto-fill, minmax(240px,1fr)); gap:11px;}
   .lesson-title{font-size:26px;}
   .lesson-model{font-size:14px;}
   .meta-grid{grid-template-columns:1fr 1fr; margin:18px 0 26px;}
@@ -487,8 +645,8 @@ footer{
   .empty-state{padding-top:6vh;}
   .open-nav-btn{
     display:inline-block; margin-top:8px; cursor:pointer;
-    font-family:var(--font-mono); font-size:13px; color:var(--bg-deep);
-    background:var(--accent); border:none; border-radius:8px; padding:11px 20px;
+    font-family:var(--font-mono); font-size:13px; color:#fff;
+    background:var(--brand); border:none; border-radius:9px; padding:11px 20px;
   }
   /* Topshiriq va ball jadvali */
   .task-box{padding:15px 15px;}
@@ -517,10 +675,13 @@ footer{
 /* ================= KICHIK TELEFON ================= */
 @media (max-width: 480px){
   .stats-badge{font-size:9px; padding:4px 9px;}
-  h1.brand{font-size:16px;}
+  .wordmark{font-size:20px;}
   /* Juda tor ekranda hisoblagich alohida qator egallamasin */
   @media (max-width: 400px){ .stats-badge{display:none;} .dl-badge{margin-left:auto;} }
-  main{padding:18px 13px 50px;}
+  main{padding:16px 12px 50px;}
+  .hero{padding:20px 17px 18px; border-radius:14px;}
+  .hero h1{font-size:23px;}
+  .fan-grid{grid-template-columns:1fr;}
   .lesson-title{font-size:22px;}
   .section h2{font-size:17px;}
   .subhead{font-size:12px;}
@@ -529,42 +690,67 @@ footer{
   .dars-item{font-size:12.5px; padding:9px 10px;}   /* barmoq bilan bosish qulay bo'lishi uchun */
   .chorak-head{padding:10px;}
   .sinf-head{padding:12px;}
+  .fan-soon h1{font-size:26px;}
 }
 
 /* Sensorli ekranda hover effektlari "yopishib" qolmasligi uchun */
 @media (hover: none){
   .dars-item:hover{background:none; color:var(--text-faint);}
-  .dars-item.active{background:rgba(23,96,45,0.10); color:var(--accent);}
+  .dars-item.active{background:rgba(34,160,60,0.12); color:var(--accent);}
   .res-item:hover{border-color:var(--border); background:var(--panel);}
+  .fan-card:hover{transform:none; box-shadow:none;}
+}
+
+/* ================= CHOP ETISH =================
+   O'qituvchi dars rejasini qog'ozda olib chiqadi: sarlavha, yon panel,
+   pastki qism va chizmalarning ortiqcha bezaklari chiqmaydi. */
+@media print{
+  @page{margin:14mm 12mm;}
+  body{background:#fff; display:block;}
+  header, nav.tree, footer, .nav-backdrop, .print-btn, .instr-grid, .instr-nav,
+  .open-nav-btn, .scroll-hint, .hero-actions{display:none !important;}
+  .layout{display:block;}
+  main{overflow:visible; padding:0;}
+  .lesson-wrap{max-width:none;}
+  .lesson-title{font-size:22pt; color:#000;}
+  .section{margin-bottom:14pt; break-inside:avoid; page-break-inside:avoid;}
+  .section h2{font-size:13pt; break-after:avoid; page-break-after:avoid;}
+  .section li, .section p{font-size:10.5pt; line-height:1.45; margin-bottom:4pt;}
+  .meta-grid{box-shadow:none; break-inside:avoid;}
+  .soft-skill-box, .task-box, .xato-box, .kod-wrap, .wd-wrap, .field-wrap{
+    background:#fff !important; break-inside:avoid;
+  }
+  .score-table{break-inside:avoid;}
+  .instr-stage img{max-height:none; width:70%;}
+  .crumbs{color:#555;}
+  a{text-decoration:none; color:#000;}
 }
 </style>
 </head>
-<body>
+<body data-view="home">
 
 <header>
   <button class="nav-toggle" id="navToggle" type="button" aria-label="Darslar ro'yxati" aria-expanded="false">
     <span></span><span></span><span></span>
   </button>
-  <div class="logo-mark" aria-hidden="true">
-    <svg viewBox="0 0 32 32">
-      <g fill="currentColor">
-        <!-- nihol: pastki juft barg -->
-        <path d="M16 19.4Q9.4 18.8 9.4 11.8Q16 12.8 16 19.4Z"/>
-        <path d="M16 19.4Q22.6 18.8 22.6 11.8Q16 12.8 16 19.4Z"/>
-        <!-- nihol: yuqori juft barg -->
-        <path d="M16 13.2Q11.2 11.4 12.4 5.6Q16.8 7.8 16 13.2Z"/>
-        <path d="M16 13.2Q20.8 11.4 19.6 5.6Q15.2 7.8 16 13.2Z"/>
-        <!-- ochiq kitob: chap va o'ng sahifa, o'rtada tabiiy tirqish -->
-        <path d="M15.2 22.8Q10.4 20.2 5.4 20.6V27.2Q10.4 26.8 15.2 29.4Z"/>
-        <path d="M16.8 22.8Q21.6 20.2 26.6 20.6V27.2Q21.6 26.8 16.8 29.4Z"/>
-      </g>
-      <path d="M16 20.6V12.6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
-    </svg>
-  </div>
-  <div class="brand-wrap">
-    <h1 class="brand">Xususiy <span>Tarbion</span> Maktabi</h1>
-    <div class="brand-sub">Robototexnika · Dars Rejalar Bazasi</div>
-  </div>
+
+  <!-- Logotip: "Tarbion" so'z-belgisi. Bosilganda fanlar ro'yxatiga qaytadi. -->
+  <button class="brand-link" id="brandHome" type="button" aria-label="Bosh sahifa — fanlar ro'yxati">
+    <div>
+      <div class="wordmark" aria-hidden="true">Tarb<span class="wm-i">&#238;</span>on</div>
+      <div class="brand-sub">Tarbiyaga asoslangan zamonaviy ta'lim</div>
+    </div>
+    <div class="brand-divider" aria-hidden="true"></div>
+    <div class="brand-role">Xususiy maktab<b>Dars rejalar bazasi</b></div>
+  </button>
+
+  <!-- Faol fan (dars ko'rilayotganda ko'rinadi) -->
+  <button class="fan-pill" id="fanPill" type="button">
+    <span class="fp-ico" id="fanPillIco">🤖</span>
+    <span id="fanPillNom">Robototexnika va IT</span>
+    <span class="fp-back">← Fanlar</span>
+  </button>
+
   <div class="stats-badge"><b id="readyCount">0</b> / <span id="totalCount">0</span> tayyor</div>
   <a class="dl-badge" href="jihozlar_5-8-sinf.xlsx" download
      title="5–8-sinf kursi uchun kerakli komponentlar ro'yxati (Excel)">
@@ -579,28 +765,20 @@ footer{
 <div class="layout">
   <div class="nav-backdrop" id="navBackdrop"></div>
   <nav class="tree" id="treeNav"></nav>
-  <main id="mainContent">
-    <div class="empty-state">
-      <div class="big-icon">◧</div>
-      <h2>Dars tanlang</h2>
-      <p>Ro'yxatdan yil → sinf → chorak → dars bo'yicha tanlang.<br>Yashil nuqta (●) — to'liq tayyorlangan dars rejasi.</p>
-      <button class="open-nav-btn" type="button" onclick="setNav(true)">Darslar ro'yxatini ochish</button>
-      <a class="dl-big" href="jihozlar_5-8-sinf.xlsx" download>⤓ 5–8-sinf jihozlari ro'yxati (Excel)</a>
-      <div class="dl-note">SET A (5–6-sinf) va SET B (7–8-sinf) to'plamlari, sinf uchun umumiy jihozlar</div>
-    </div>
-  </main>
+  <main id="mainContent"></main>
 </div>
 
 <footer>
-  <div class="foot-main">TARBION XUSUSIY MAKTABI — ROBOTOTEXNIKA VA IT DASTURI</div>
+  <div class="foot-main">TARBION XUSUSIY MAKTABI — DARS REJALAR BAZASI</div>
   <div class="foot-dev">EcoDev · <a href="tel:+998993757532">+998 99 375 75 32</a></div>
 </footer>
 
-<script src="tree_data.js?v=20260810a"></script>
-<script src="sample_lessons.js?v=20260810a"></script>
-<script src="resources.js?v=20260810a"></script>
-<script src="instructions_index.js?v=20260810a"></script>
-<script src="maydon.js?v=20260810a"></script>
-<script src="app.js?v=20260810a"></script>
+<script src="fanlar.js?v=20260810b"></script>
+<script src="tree_data.js?v=20260810b"></script>
+<script src="sample_lessons.js?v=20260810b"></script>
+<script src="resources.js?v=20260810b"></script>
+<script src="instructions_index.js?v=20260810b"></script>
+<script src="maydon.js?v=20260810b"></script>
+<script src="app.js?v=20260810b"></script>
 </body>
 </html>

@@ -1,10 +1,12 @@
-# Robbit Academy — Robototexnika Dasturi va Dars Rejalari Loyihasi
+# Tarbion xususiy maktabi — Dars Rejalar Bazasi
 
 ## Loyiha haqida
-Robbit Academy (Toshkent, O'zbekiston) uchun 0–4-sinf robototexnika va IT dasturi.
+Tarbion xususiy maktabi (Toshkent, O'zbekiston) uchun **barcha fanlar** bo'yicha
+dars rejalari bazasi. Birinchi to'liq tayyorlangan fan — robototexnika va IT
+(0–8-sinf); qolgan fanlar ro'yxatda turadi va navbat bilan to'ldiriladi.
 Ikkita asosiy natija tayyorlanmoqda:
 1. **Excel dastur fayli** (`Dastur_0-4sinf_Makerzoid_SPIKE.xlsx`) — to'liq o'quv rejasi, tayyor va tasdiqlangan.
-2. **Dars rejalar sayti** (`site/`) — har bir darsning to'liq ishlanmasi (maqsad, lug'at, soft skill, resurslar, nazariya, amaliyot, uyga vazifa). **878/878 dars TAYYOR.** Har bir qurish darsiga bosqichma-bosqich rasmli instruksiya biriktirilgan (666/666).
+2. **Dars rejalar sayti** (`site/`) — har bir darsning to'liq ishlanmasi (maqsad, lug'at, soft skill, resurslar, nazariya, amaliyot, uyga vazifa). **1512/1512 dars TAYYOR** (0–4: 840, 5–8: 672; yashirilgan 38 ta dasturlash darsi hisobga kirmaydi). Har bir qurish darsiga bosqichma-bosqich rasmli instruksiya biriktirilgan (666/666).
 
 **Jonli sayt:** http://169.58.130.201:8081 (Docker `nginx:alpine`, `/opt/robbit-academy` bind-mount).
 Server o'sha papkada git ishchi nusxasi — **yangilash uchun `cd /opt/robbit-academy && git pull`** yetarli.
@@ -13,9 +15,12 @@ Server o'sha papkada git ishchi nusxasi — **yangilash uchun `cd /opt/robbit-ac
 ```
 site/                  — Dars rejalar sayti (statik HTML/JS). GIT REPO = AYNAN SHU PAPKA.
   index.html              — asosiy sahifa + barcha CSS
-  app.js                  — navigatsiya, qidiruv, dars ko'rsatish, instruksiya galereyasi
-  tree_data.js            — barcha 878 ta darsning tuzilishi (sinf/yil/chorak/mavzu/model)
-  sample_lessons.js       — 878 ta to'liq dars rejasi (kalit: "yil|sinf|chorak|index")
+  app.js                  — marshrut, fanlar, navigatsiya, qidiruv, dars ko'rsatish,
+                            instruksiya galereyasi
+  fanlar.js               — MAKTAB FANLARI ro'yxati (19 fan, 4 guruh). Yangi fan
+                            qo'shish uchun FAQAT shu fayl tahrirlanadi.
+  tree_data.js            — barcha 1550 ta darsning tuzilishi (sinf/yil/chorak/mavzu/model)
+  sample_lessons.js       — 1550 ta to'liq dars rejasi (kalit: "yil|sinf|chorak|index")
   resources.js            — SPIKE uchun LEGO rasmiy instruksiya havolalari (18 dars)
   instructions_index.js   — Makerzoid instruksiyalari ko'rsatkichi (AVTOMATIK, qo'lda tegmang)
   instructions/makerzoid/ — 241 model x qadamlar = 16 681 WebP rasm (~323 MB)
@@ -86,6 +91,38 @@ D:\maktab uchun sayt\Robot master(PM) instruction-*.zip  — manba rasmlar (2 ta
 ⚠️ **Yo'l qoidasi:** `curriculum/` sayt repo'sining ICHIDA. Skriptlarda sayt ildizi
 `os.path.dirname(HERE)` (ota-papka) orqali topiladi — `HERE/../site` DEYILMAYDI.
 `output/` esa repo'dan tashqarida: `HERE/../../output`.
+
+## SAYT TUZILISHI (2026-08-10 da ko'p fanli qilindi)
+
+- **Bosh sahifa = fanlar ro'yxati.** `fanlar.js` dagi har bir yozuv bitta
+  kartochka. `holat: "tayyor"` bo'lsa dars daraxti ochiladi, `holat: "reja"`
+  bo'lsa "tayyorlanmoqda" sahifasi chiqadi. Yangi fan qo'shish = `fanlar.js`
+  ga bitta yozuv; `app.js` va `index.html` ga tegilmaydi.
+- **Har fanning o'z daraxti bo'ladi.** Hozircha faqat robototexnikada
+  `manba:"tree"` bor va u `window.TREE_DATA` ni o'qiydi. Boshqa fan
+  to'ldirilganda o'z global o'zgaruvchisi beriladi (`manba:"tree_matematika"`)
+  va `app.js` da faqat shu joy kengaytiriladi.
+- **Havola holatni saqlaydi** (`app.js` dagi `marshrutYoz`/`marshrutOqi`):
+  `#/robototexnika` — fan, `#/robototexnika/1-yil/0-sinf/1-chorak/3` — aniq
+  dars. Shu sababli o'qituvchiga dars havolasini yuborish mumkin; brauzerning
+  "orqaga" tugmasi ham ishlaydi.
+- **⚠️ 2-yil 2- va 3-sinfdagi "Dasturlash" choraklari VAQTINCHA YASHIRILGAN**
+  (2026-08-10, foydalanuvchi so'rovi — dasturlash kursi alohida qo'shiladi).
+  Ma'lumot O'CHIRILMAGAN: 38 ta dars `tree_data.js` va `sample_lessons.js` da
+  o'z joyida turibdi. `app.js` dagi `DASTURLASH_KORINSIN = false` ularni
+  ro'yxatdan, qidiruvdan va hisobdan chiqarib turadi.
+  **QAYTARISH: shu qiymatni `true` qilish yetarli** — boshqa hech narsa
+  o'zgartirilmaydi, generatorlarni qayta ishga tushirish shart emas.
+- **Brend:** logotip — "Tarbion" so'z-belgisi ("i" ustidagi bayroqcha î bilan
+  beriladi, Playfair Display), shiori "Tarbiyaga asoslangan zamonaviy ta'lim".
+  Ranglar: `--brand: #22A03C` (logotip yashili — belgilar, urg'ular) va
+  `--accent: #17602D` (matn uchun to'q yashil — oq fonda kontrasti yetarli).
+  Sayt hech qanday tashqi rasmga bog'lanmaydi. Haqiqiy vektor logotip kelsa:
+  `site/logo/tarbion.svg` ga qo'yib, `index.html` dagi `.wordmark` blokini
+  `<img>` bilan almashtirish yetarli.
+- **Chop etish uslubi** (`@media print`): sarlavha, yon panel, pastki qism,
+  galereya boshqaruvlari chiqmaydi; bo'limlar sahifa o'rtasidan bo'linmaydi.
+  Dars sahifasidagi "⎙ Chop etish" tugmasi shuni ishga tushiradi.
 
 ## MUHIM QARORLAR (o'zgartirmaslik kerak, foydalanuvchi bilan kelishilgan)
 

@@ -1,7 +1,246 @@
 const TYPE_LABELS = {qurish:"Qurish", nazorat:"Nazorat / Musobaqa", loyiha:"Loyiha", dasturlash:"Dasturlash", spike:"SPIKE",
                      elektronika:"Elektronika", arduino:"Arduino", esp32:"ESP32", ai:"Sun'iy intellekt"};
+
+/* ============================================================
+   KONFIGURATSIYA — vaqtincha yashiriladigan bo'limlar
+   ============================================================
+   2-yil, 2- va 3-sinfdagi "3-chorak (Dasturlash)" va "4-chorak (Dasturlash)"
+   choraklari VAQTINCHA yashirilgan (2026-08-10, foydalanuvchi so'rovi:
+   dasturlash kursi alohida qo'shiladi).
+
+   Ma'lumot O'CHIRILMAGAN — 38 ta dars tree_data.js va sample_lessons.js da
+   o'z joyida turibdi. Faqat ro'yxatda ko'rsatilmaydi, qidiruvga tushmaydi va
+   "tayyor darslar" hisobiga qo'shilmaydi.
+
+   QAYTARISH: quyidagi qiymatni true qilish yetarli, boshqa hech narsa
+   o'zgartirilmaydi. */
+const DASTURLASH_KORINSIN = false;
+const YASHIRIN_CHORAK = /\(Dasturlash\)/;
+
+function chorakKorinsinmi(chorak){
+  return DASTURLASH_KORINSIN || !YASHIRIN_CHORAK.test(chorak);
+}
+// Sinf ichidagi KO'RINADIGAN choraklar ro'yxati (tartibi tree_data.js dagidek)
+function choraklarRoyxati(yil, sinf){
+  return Object.keys(TREE_DATA[yil][sinf]).filter(chorakKorinsinmi);
+}
+
+/* ============================================================
+   HOLAT
+   ============================================================ */
+let activeFan = null;        // null = bosh sahifa (fanlar ro'yxati)
 let activeYil = "1-yil";
 let activeKey = null;
+
+const FANLAR = window.FANLAR || [];
+function fanTopilsin(id){
+  for (const f of FANLAR) if (f.id === id) return f;
+  return null;
+}
+// Kartochka belgisi ostidagi yumshoq fon — fanning o'z rangidan hosil qilinadi
+function yumshoqRang(hex, alfa){
+  const m = /^#?([0-9a-f]{6})$/i.exec(String(hex || ''));
+  if (!m) return 'var(--brand-soft)';
+  const n = parseInt(m[1], 16);
+  return `rgba(${(n>>16)&255}, ${(n>>8)&255}, ${n&255}, ${alfa})`;
+}
+
+/* ============================================================
+   MARSHRUT (havolada saqlanadi)
+   ============================================================
+   #/robototexnika                                  — fan ochilgan
+   #/robototexnika/1-yil/0-sinf/1-chorak/3          — aniq dars
+   Shu sababli dars havolasini o'qituvchiga yuborish mumkin va sahifa
+   yangilanganda ham o'sha dars ochiladi. */
+let hashOzimYozdim = false;
+
+function marshrutYoz(){
+  const qism = ['#'];
+  if (activeFan){
+    qism.push(encodeURIComponent(activeFan));
+    if (activeKey) activeKey.split('|').forEach(p => qism.push(encodeURIComponent(p)));
+  }
+  const h = qism.join('/');
+  if (location.hash === h || (!location.hash && h === '#/')) return;
+  hashOzimYozdim = true;
+  location.hash = h;
+  setTimeout(()=>{ hashOzimYozdim = false; }, 0);
+}
+
+function marshrutOqi(){
+  const raw = location.hash.replace(/^#\/?/, '');
+  if (!raw) return {fan:null, key:null};
+  let p;
+  try { p = raw.split('/').map(decodeURIComponent); }
+  catch(e){ return {fan:null, key:null}; }
+  return {fan: p[0] || null, key: p.length >= 5 ? p.slice(1,5).join('|') : null};
+}
+
+// Kalitdan dars yozuvini topadi (havoladan tiklanganda kerak)
+function darsTop(key){
+  const p = String(key || '').split('|');
+  if (p.length !== 4) return null;
+  const [yil, sinf, chorak, idx] = p;
+  const arr = TREE_DATA[yil] && TREE_DATA[yil][sinf] && TREE_DATA[yil][sinf][chorak];
+  if (!arr) return null;
+  const l = arr[Number(idx)];
+  return l ? {l, yil, sinf, chorak, idx: Number(idx)} : null;
+}
+
+/* ============================================================
+   KO'RINISHLAR
+   ============================================================ */
+function korinish(nom){ document.body.dataset.view = nom; }
+
+function render(){
+  const fan = activeFan ? fanTopilsin(activeFan) : null;
+  const main = document.getElementById('mainContent');
+
+  if (!fan){
+    activeKey = null;
+    korinish('home');
+    renderHome(main);
+    marshrutYoz();
+    return;
+  }
+
+  const pill = document.getElementById('fanPill');
+  document.getElementById('fanPillIco').textContent = fan.belgi || '📘';
+  document.getElementById('fanPillNom').textContent = fan.qisqa || fan.nom;
+  pill.style.setProperty('--fan-rang', fan.rang || 'var(--brand)');
+
+  if (fan.holat !== 'tayyor'){
+    activeKey = null;
+    korinish('reja');
+    renderFanReja(main, fan);
+    marshrutYoz();
+    return;
+  }
+
+  korinish('darslar');
+  const dars = activeKey ? darsTop(activeKey) : null;
+  if (dars) activeYil = dars.yil;
+  renderTree();
+  if (dars){
+    selectLesson(dars.l, activeKey, null);
+    treeFokus(activeKey);
+  } else {
+    renderFanBosh(main, fan);
+  }
+  marshrutYoz();
+}
+
+function fanOch(id){
+  activeFan = id;
+  activeKey = null;
+  render();
+  window.scrollTo(0, 0);
+}
+function fanlarga(){
+  activeFan = null;
+  activeKey = null;
+  render();
+}
+
+/* --- Bosh sahifa: fanlar ro'yxati --- */
+function fanCard(fan){
+  const tayyor = fan.holat === 'tayyor';
+  const s = (tayyor && fan.manba === 'tree') ? sanoq() : null;
+  const son = s ? `<span class="fc-son"><b>${s.ready}</b> ta dars rejasi</span>` : '';
+  return `<button class="fan-card ${tayyor ? 'tayyor' : 'reja'}" type="button" data-fan="${esc(fan.id)}"
+      style="--fan-rang:${esc(fan.rang || '#22A03C')}; --fan-yumshoq:${yumshoqRang(fan.rang, 0.14)}">
+    <div class="fc-top">
+      <div class="fc-ico" aria-hidden="true">${esc(fan.belgi || '📘')}</div>
+      <div>
+        <div class="fc-nom">${esc(fan.nom)}</div>
+        <div class="fc-sinf">${esc(fan.sinflar || '')}</div>
+      </div>
+    </div>
+    <div class="fc-tav">${esc(fan.tavsif || '')}</div>
+    <div class="fc-foot">
+      <span class="holat ${tayyor ? 'tayyor' : 'reja'}">${tayyor ? 'Tayyor' : 'Tayyorlanmoqda'}</span>
+      ${son}
+    </div>
+  </button>`;
+}
+
+function renderHome(main){
+  const s = sanoq();
+  const tayyorFan = FANLAR.filter(f => f.holat === 'tayyor').length;
+  const guruhlar = (window.FAN_GURUHLARI || []).slice();
+  // Ro'yxatdagi noma'lum guruh oxirida chiqadi — fan hech qachon yo'qolib qolmaydi
+  FANLAR.forEach(f=>{ if (guruhlar.indexOf(f.guruh) === -1) guruhlar.push(f.guruh || 'Boshqa fanlar'); });
+
+  const bloklar = guruhlar.map(g=>{
+    const ichida = FANLAR.filter(f => (f.guruh || 'Boshqa fanlar') === g);
+    if (!ichida.length) return '';
+    return `<section class="fan-guruh">
+      <h2>${esc(g)}</h2>
+      <div class="fan-grid">${ichida.map(fanCard).join('')}</div>
+    </section>`;
+  }).join('');
+
+  main.innerHTML = `
+    <div class="home">
+      <div class="hero">
+        <div class="hero-eyebrow">Tarbion xususiy maktabi</div>
+        <h1>Dars rejalar <em>bazasi</em></h1>
+        <p>Maktabning barcha fanlari bo'yicha to'liq dars ishlanmalari bitta joyda:
+           darsning maqsadi, lug'ati, nazariy qismi, sinfda bajariladigan amaliy ishlar,
+           baholash mezonlari va uyga vazifa. Fanni tanlang.</p>
+        <div class="hero-stats">
+          <div class="hs"><div class="n">${FANLAR.length}</div><div class="k">Fan</div></div>
+          <div class="hs"><div class="n">${tayyorFan}</div><div class="k">Kontenti tayyor</div></div>
+          <div class="hs"><div class="n">${s.ready}</div><div class="k">Tayyor dars rejasi</div></div>
+        </div>
+        <div class="hero-actions">
+          <button class="btn btn-primary" type="button" data-fan="robototexnika">Robototexnika darslarini ochish →</button>
+          <a class="btn btn-ghost" href="jihozlar_5-8-sinf.xlsx" download>⤓ 5–8-sinf jihozlari ro'yxati</a>
+        </div>
+      </div>
+      ${bloklar}
+    </div>`;
+  main.scrollTop = 0;
+}
+
+/* --- Kontenti hali tayyorlanmagan fan --- */
+function renderFanReja(main, fan){
+  main.innerHTML = `
+    <div class="fan-soon" style="--fan-yumshoq:${yumshoqRang(fan.rang, 0.14)}">
+      <div class="fs-ico" aria-hidden="true">${esc(fan.belgi || '📘')}</div>
+      <h1>${esc(fan.nom)}</h1>
+      <div class="fs-sinf">${esc(fan.sinflar || '')}</div>
+      <p>${esc(fan.tavsif || '')}</p>
+      <p>Bu fanning dars rejalari hali tayyorlanmagan. Fan ro'yxatga kiritilgan —
+         kontent bazasi tayyor bo'lgach, darslar xuddi robototexnika kabi
+         sinf → chorak → dars tartibida ochiladi.</p>
+      <div class="fs-list">
+        <div class="fsl-h">Har bir dars rejasida bo'ladi</div>
+        <ul>
+          <li>Darsning maqsadi va lug'ati</li>
+          <li>Soft skill va kerakli resurslar</li>
+          <li>Nazariy qism — o'qituvchi aytadigan to'liq matn</li>
+          <li>Sinfda bajariladigan amaliy ishlar</li>
+          <li>Baholash mezonlari va uyga vazifa</li>
+        </ul>
+      </div>
+      <div><button class="btn btn-ghost" type="button" data-home="1">← Fanlar ro'yxatiga qaytish</button></div>
+    </div>`;
+  main.scrollTop = 0;
+}
+
+/* --- Fan ochildi, lekin dars hali tanlanmagan --- */
+function renderFanBosh(main, fan){
+  main.innerHTML = `
+    <div class="empty-state">
+      <div class="big-icon">${esc(fan.belgi || '◧')}</div>
+      <h2>Dars tanlang</h2>
+      <p>Ro'yxatdan yil → sinf → chorak → dars bo'yicha tanlang.<br>
+         Yashil nuqta (●) — to'liq tayyorlangan dars rejasi.</p>
+      <button class="open-nav-btn" type="button" onclick="setNav(true)">Darslar ro'yxatini ochish</button>
+    </div>`;
+  main.scrollTop = 0;
+}
 
 // --- Telefon: darslar ro'yxati chetdan chiqadigan panel sifatida ochiladi ---
 // (860px dan keng ekranda panel doim ko'rinib turadi va bu funksiya hech narsaga ta'sir qilmaydi)
@@ -29,11 +268,14 @@ function syncHeaderHeight(){
 // avval bularning barchasi bitta yozuvga to'qnashardi).
 function lessonKey(yil, sinf, chorak, idx){ return yil + "|" + sinf + "|" + chorak + "|" + idx; }
 
-function countAll(){
+// Jami va tayyor darslar soni. Yashirilgan choraklar hisobga OLINMAYDI —
+// aks holda "878 dan 878 tayyor" degan hisob noto'g'ri ko'rinardi.
+function sanoq(){
   let total = 0, ready = 0;
   for (const yil in TREE_DATA){
     for (const sinf in TREE_DATA[yil]){
       for (const chorak in TREE_DATA[yil][sinf]){
+        if (!chorakKorinsinmi(chorak)) continue;
         TREE_DATA[yil][sinf][chorak].forEach((l, idx)=>{
           total++;
           if (LESSON_CONTENT[lessonKey(yil, sinf, chorak, idx)]) ready++;
@@ -41,8 +283,28 @@ function countAll(){
       }
     }
   }
-  document.getElementById('totalCount').textContent = total;
-  document.getElementById('readyCount').textContent = ready;
+  return {total, ready};
+}
+
+function countAll(){
+  const s = sanoq();
+  document.getElementById('totalCount').textContent = s.total;
+  document.getElementById('readyCount').textContent = s.ready;
+}
+
+// Havoladan tiklanganda: darsni ro'yxatda topib, ustidagi bo'limlarni ochadi.
+function treeFokus(key){
+  const el = document.querySelector('.dars-item[data-key="' + key + '"]');
+  if (!el) return;
+  document.querySelectorAll('.dars-item.active').forEach(e=>e.classList.remove('active'));
+  el.classList.add('active');
+  const dl = el.closest('.dars-list');
+  dl.classList.add('open');
+  dl.previousElementSibling.classList.add('open');
+  const blok = el.closest('.sinf-block');
+  blok.querySelector('.chorak-list').classList.add('open');
+  blok.querySelector('.sinf-head').classList.add('open');
+  el.scrollIntoView({block:'center'});
 }
 
 function renderTree(){
@@ -55,7 +317,12 @@ function renderTree(){
     const t = document.createElement('div');
     t.className = 'yil-tab' + (yil===activeYil ? ' active':'');
     t.textContent = yil.toUpperCase();
-    t.onclick = ()=>{ activeYil = yil; renderTree(); };
+    t.onclick = ()=>{
+      activeYil = yil;
+      renderTree();
+      // Ochiq dars shu yilda bo'lsa, ro'yxatda yana belgilanib turadi
+      if (activeKey && activeKey.split('|')[0] === yil) treeFokus(activeKey);
+    };
     tabs.appendChild(t);
   });
   nav.appendChild(tabs);
@@ -65,8 +332,9 @@ function renderTree(){
     const block = document.createElement('div');
     block.className = 'sinf-block';
 
+    const korinadigan = choraklarRoyxati(activeYil, sinf);
     let sinfLessonCount = 0;
-    Object.values(grades[sinf]).forEach(arr=> sinfLessonCount += arr.length);
+    korinadigan.forEach(ch=> sinfLessonCount += grades[sinf][ch].length);
 
     const head = document.createElement('div');
     head.className = 'sinf-head';
@@ -76,7 +344,7 @@ function renderTree(){
     const chorakList = document.createElement('div');
     chorakList.className = 'chorak-list';
 
-    Object.keys(grades[sinf]).forEach(chorak=>{
+    korinadigan.forEach(chorak=>{
       const cHead = document.createElement('div');
       cHead.className = 'chorak-head';
       cHead.innerHTML = `<span class="chevron">▸</span><span>${chorak}</span>`;
@@ -90,6 +358,7 @@ function renderTree(){
         const item = document.createElement('div');
         const isReady = !!LESSON_CONTENT[key];
         item.className = 'dars-item' + (isReady ? ' ready':'') + (key===activeKey ? ' active':'');
+        item.dataset.key = key;
         // 5-8-sinfda "model" — amaliy ish tavsifi, u uzun bo'lishi mumkin.
         // Ro'yxatda qisqartiriladi, to'liq matni dars sahifasida ko'rinadi.
         const qisqa = l.model && l.model.length > 46 ? l.model.slice(0, 44) + '…' : l.model;
@@ -566,6 +835,17 @@ function extraSections(l, content){
   return parts.join('');
 }
 
+// Yo'l ko'rsatkich: Fan › yil › sinf › chorak. Fan nomi bosilsa fanlar ro'yxatiga qaytadi.
+function crumbs(key){
+  const p = String(key || '').split('|');
+  const fan = activeFan ? fanTopilsin(activeFan) : null;
+  const qismlar = [
+    `<a data-home="1">${esc(fan ? fan.nom : 'Fanlar')}</a>`,
+    esc(p[0] || ''), esc(p[1] || ''), esc(p[2] || '')
+  ].filter(Boolean);
+  return `<div class="crumbs">${qismlar.join('<span class="sep">›</span>')}</div>`;
+}
+
 function selectLesson(l, key, itemEl){
   activeKey = key;
   document.querySelectorAll('.dars-item.active').forEach(e=>e.classList.remove('active'));
@@ -574,32 +854,35 @@ function selectLesson(l, key, itemEl){
 
   const main = document.getElementById('mainContent');
   const content = LESSON_CONTENT[key];
-
-  if (!content){
-    main.innerHTML = `
+  const bosh = `
+      ${crumbs(key)}
       <div class="lesson-header">
-        <div class="badge-row"><span class="type-badge ${l.type}">${TYPE_LABELS[l.type]||l.type}</span></div>
+        <div class="badge-row">
+          <span class="type-badge ${l.type}">${TYPE_LABELS[l.type]||l.type}</span>
+          <button class="print-btn" type="button" onclick="window.print()">⎙ Chop etish</button>
+        </div>
         <div class="lesson-title">${esc(l.title)}</div>
         ${l.model ? `<div class="lesson-model">▸ ${modelLabel(key)}${esc(l.model)}</div>` : ''}
-      </div>
+      </div>`;
+
+  if (!content){
+    main.innerHTML = `<div class="lesson-wrap">
+      ${bosh}
       <div class="not-ready">
         <div class="tag">TAYYORLANMOQDA</div>
         <p>Bu darsning to'liq ishlanmasi (maqsad, lug'at, nazariya, amaliyot, uyga vazifa) hali tayyorlanmagan.<br>
         Iltimos, boshqa darsni tanlang.</p>
       </div>
-      ${extraSections(l, null)}`;
+      ${extraSections(l, null)}</div>`;
     initGallery();
     main.scrollTop = 0;
+    marshrutYoz();
     return;
   }
 
   const m = content.meta;
-  main.innerHTML = `
-    <div class="lesson-header">
-      <div class="badge-row"><span class="type-badge ${l.type}">${TYPE_LABELS[l.type]||l.type}</span></div>
-      <div class="lesson-title">${esc(l.title)}</div>
-      ${l.model ? `<div class="lesson-model">▸ ${modelLabel(key)}${esc(l.model)}</div>` : ''}
-    </div>
+  main.innerHTML = `<div class="lesson-wrap">
+    ${bosh}
 
     <div class="meta-grid">
       <div class="meta-cell"><div class="k">Sinf / Yil</div><div class="v">${m.sinf}, ${m.yil}</div></div>
@@ -653,9 +936,10 @@ function selectLesson(l, key, itemEl){
     </div>
 
     ${extraSections(l, content)}
-  `;
+  </div>`;
   initGallery();
   main.scrollTop = 0;
+  marshrutYoz();
 }
 
 document.getElementById('searchInput').addEventListener('input', (e)=>{
@@ -691,8 +975,33 @@ window.matchMedia('(max-width: 860px)').addEventListener('change', (e)=>{
 window.addEventListener('resize', syncHeaderHeight);
 window.addEventListener('orientationchange', syncHeaderHeight);
 
-renderTree();
+/* --- Fan tanlash: bosh sahifadagi kartochkalar, sarlavhadagi logotip va yorliq ---
+   Kartochkalar har safar qaytadan chiziladi, shuning uchun hodisa main ga
+   biriktiriladi (delegatsiya) — har bir tugmaga alohida ulash shart emas. */
+document.getElementById('mainContent').addEventListener('click', (e)=>{
+  const home = e.target.closest('[data-home]');
+  if (home){ fanlarga(); return; }
+  const kart = e.target.closest('[data-fan]');
+  if (kart){ fanOch(kart.dataset.fan); }
+});
+document.getElementById('brandHome').addEventListener('click', fanlarga);
+document.getElementById('fanPill').addEventListener('click', fanlarga);
+
+// Brauzerning "orqaga" tugmasi va tashqaridan kelgan havola
+window.addEventListener('hashchange', ()=>{
+  if (hashOzimYozdim) return;
+  const m = marshrutOqi();
+  activeFan = m.fan;
+  activeKey = m.key;
+  render();
+});
+
+// --- Ishga tushirish ---
+const boshlangich = marshrutOqi();
+activeFan = boshlangich.fan && fanTopilsin(boshlangich.fan) ? boshlangich.fan : null;
+activeKey = activeFan ? boshlangich.key : null;
 countAll();
+render();
 syncHeaderHeight();
 // Shriftlar yuklangach sarlavha balandligi biroz o'zgarishi mumkin
 if (document.fonts && document.fonts.ready) document.fonts.ready.then(syncHeaderHeight);
