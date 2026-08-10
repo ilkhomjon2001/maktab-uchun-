@@ -59,10 +59,13 @@ site/curriculum/       — Excel dasturini generatsiya qiluvchi Python skriptlar
   kb_kod.py + kb_kod2.py — 135 sof dasturlash mavzusi uchun sketch. Har birida
                            `amaliy` ham bor va u sillabusdagi amaliy ishni
                            ALMASHTIRADI (nazariy dars temirsiz qolmasligi uchun).
-  kb_chuqur.py + _2 + _3 — 92 mavzu uchun QO'SHIMCHA nazariya bloklari (elektronika
-                           nazariyasi, AI tushunchalari, muhandislik bosqichlari)
+  kb_chuqur.py + _2.._6 — 226 mavzu uchun QO'SHIMCHA nazariya bloklari (497 blok,
+                           2237 band): elektronika asoslari, o'lchov, zanjir
+                           turlari, komponentlar, AI tushunchalari, muhandislik
+                           bosqichlari, nosozlik topish.
                            + KIRISH_YO: chorak kirish darslari uchun yo'nalish
-                           bo'yicha umumiy bloklar (4 yo'nalish)
+                           bo'yicha umumiy bloklar (4 yo'nalish).
+                           `python kb_chuqur.py` — sanoq va takror kalit tekshiruvi
   kb_amaliy.py           — 24 ta qog'ozdagi amaliyot temirga bog'langan variantga
                            qayta yozilgan (eng yuqori ustunlikka ega)
   jihozlar.py + build_jihozlar_xlsx.py — SET A/SET B jihoz ro'yxati va Excel
@@ -102,7 +105,10 @@ D:\maktab uchun sayt\Robot master(PM) instruction-*.zip  — manba rasmlar (2 ta
   shart: sonlar, formulalar, ishlangan misollar. Komponent darslarida datasheet
   darajasidagi tasnif (oraliq, aniqlik, ta'minot, oyoqlar, kutubxona, qiymatni
   o'qish tartibi) va ishlaydigan kod beriladi — `pasport.py`. O'rtacha nazariya
-  hajmi 5-8 uchun ~1170 belgi (dastlab 396 edi); undan pastga tushirilmaydi.
+  hajmi 5-8 uchun ~1325 belgi (dastlab 396 edi); undan pastga tushirilmaydi.
+  672 darsning HAMMASIDA asosiy 4 banddan tashqari qo'shimcha bo'lim bor
+  (pasport, kod yoki kb_chuqur bloki) — nazorat va loyiha darslaridan tashqari,
+  ularda nazariya o'rniga musobaqa sharti va baholash jadvali turadi.
 - **Har bir 5-8 darsida ELEKTRONIKA amaliyoti bo'ladi.** Sof nazariy dars
   qoldirilmaydi: "ma'lumot turlari" darsida ham potensiometr, tugma va LED
   yig'iladi. Ustunlik tartibi: `kb_amaliy.py` > `kb_kod*.py` dagi `amaliy` >

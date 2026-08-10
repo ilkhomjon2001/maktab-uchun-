@@ -453,9 +453,12 @@ _ASOS = {
 # ketmasligi uchun. Ikkalasi shu yerda birlashtiriladi.
 from kb_chuqur2 import CHUQUR2 as _AI
 from kb_chuqur3 import CHUQUR3 as _MUH, KIRISH_YO
+from kb_chuqur4 import CHUQUR4 as _ELEK
+from kb_chuqur5 import CHUQUR5 as _ZANJIR
+from kb_chuqur6 import CHUQUR6 as _QOLGAN
 
 CHUQUR = dict(_ASOS)
-for _manba in (_AI, _MUH):
+for _manba in (_AI, _MUH, _ELEK, _ZANJIR, _QOLGAN):
     for _k, _v in _manba.items():
         if _k in CHUQUR:
             raise ValueError("kb_chuqur: kalit ikki faylda takrorlangan: " + _k)
