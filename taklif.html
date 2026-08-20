@@ -1,0 +1,843 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tarbion — raqamli ta'lim platformasi | EcoDev taklifi</title>
+<meta name="description" content="EcoDev taklifi: Tarbion xususiy maktabi uchun raqamli ta'lim platformasi — bajarilgan ish va keyingi bosqichlar.">
+<meta name="theme-color" content="#22A03C">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%2322A03C'/%3E%3Ctext x='16' y='23' font-family='Georgia,serif' font-size='21' font-weight='700' fill='%23fff' text-anchor='middle'%3ET%3C/text%3E%3C/svg%3E">
+<style>
+/* ============================================================
+   TARBION x ECODEV — taklif
+   Palitra: Tarbion yashilidan olingan. Yashil = bajarilgan ish,
+   amber = taklif qilinayotgan ish. Rang ma'no tashiydi, bezak emas.
+   Shriftlar tizimniki — internet bo'lmasa ham to'g'ri ko'rinadi.
+   ============================================================ */
+:root{
+  --ground:#F6F9F5;
+  --surface:#FFFFFF;
+  --surface-2:#EFF4EE;
+  --ink:#10241A;
+  --ink-2:#55685C;
+  --ink-3:#849A8C;
+  --line:#DCE7DC;
+  --line-2:#C4D6C6;
+  --green:#1E8F36;
+  --green-deep:#0E4F26;
+  --green-wash:#E7F4E9;
+  --amber:#96660C;
+  --amber-wash:#F8F0DF;
+  --shadow:0 1px 2px rgba(16,36,26,.05), 0 8px 28px rgba(16,36,26,.055);
+
+  --serif:Georgia,'Iowan Old Style','Times New Roman',serif;
+  --sans:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;
+  --mono:ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --ground:#0C1611;
+    --surface:#131F18;
+    --surface-2:#182620;
+    --ink:#E8F0E9;
+    --ink-2:#A0B4A6;
+    --ink-3:#7C9184;
+    --line:#233229;
+    --line-2:#2E4136;
+    --green:#48C761;
+    --green-deep:#93E2A4;
+    --green-wash:#16291C;
+    --amber:#D9A845;
+    --amber-wash:#2A2214;
+    --shadow:0 1px 2px rgba(0,0,0,.3), 0 8px 28px rgba(0,0,0,.35);
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#0C1611;
+  --surface:#131F18;
+  --surface-2:#182620;
+  --ink:#E8F0E9;
+  --ink-2:#A0B4A6;
+  --ink-3:#7C9184;
+  --line:#233229;
+  --line-2:#2E4136;
+  --green:#48C761;
+  --green-deep:#93E2A4;
+  --green-wash:#16291C;
+  --amber:#D9A845;
+  --amber-wash:#2A2214;
+  --shadow:0 1px 2px rgba(0,0,0,.3), 0 8px 28px rgba(0,0,0,.35);
+}
+
+*{box-sizing:border-box;}
+body{
+  margin:0; background:var(--ground); color:var(--ink);
+  font-family:var(--sans); font-size:16px; line-height:1.65;
+  -webkit-font-smoothing:antialiased;
+}
+h1,h2,h3,h4{font-family:var(--serif); font-weight:700; text-wrap:balance; margin:0;}
+p{margin:0;}
+a{color:var(--green-deep);}
+
+/* ---------- tartib ---------- */
+.shell{display:grid; grid-template-columns:1fr; max-width:1240px; margin:0 auto; padding:0 22px;}
+@media (min-width:1080px){
+  .shell{grid-template-columns:196px minmax(0,1fr); gap:56px; padding:0 32px;}
+}
+.rail{display:none;}
+@media (min-width:1080px){
+  .rail{
+    display:block; position:sticky; top:0; align-self:start;
+    height:100vh; padding:38px 0; overflow-y:auto;
+    border-right:1px solid var(--line);
+  }
+}
+.rail-brand{
+  font-family:var(--serif); font-size:21px; font-weight:700; color:var(--green);
+  letter-spacing:-.4px; margin-bottom:4px;
+}
+.rail-sub{font-family:var(--mono); font-size:10px; letter-spacing:.12em; text-transform:uppercase; color:var(--ink-3); margin-bottom:26px;}
+.rail ol{list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:2px;}
+.rail a{
+  display:flex; gap:9px; padding:6px 8px 6px 0; text-decoration:none;
+  color:var(--ink-2); font-size:12.5px; line-height:1.4; border-radius:5px;
+  transition:color .15s;
+}
+.rail a:hover,.rail a:focus-visible{color:var(--green-deep);}
+.rail a .n{font-family:var(--mono); font-size:10.5px; color:var(--ink-3); flex:0 0 auto; padding-top:1px;}
+.col{min-width:0; padding-bottom:80px;}
+
+/* ---------- bo'lim ---------- */
+section{padding:64px 0; border-top:1px solid var(--line);}
+section:first-of-type{border-top:none;}
+.eyebrow{
+  font-family:var(--mono); font-size:11px; letter-spacing:.16em; text-transform:uppercase;
+  color:var(--green); display:flex; align-items:center; gap:11px; margin-bottom:16px;
+}
+.eyebrow::after{content:''; flex:1; height:1px; background:var(--line); max-width:120px;}
+.eyebrow.tak{color:var(--amber);}
+h2{font-size:clamp(28px,4.2vw,40px); line-height:1.12; letter-spacing:-.6px; margin-bottom:14px;}
+.lede{font-size:17.5px; line-height:1.7; color:var(--ink-2); max-width:64ch;}
+h3{font-size:20px; line-height:1.25; letter-spacing:-.2px;}
+h4{font-size:16px; line-height:1.3; font-family:var(--sans); font-weight:650;}
+.grid-2{display:grid; grid-template-columns:1fr; gap:16px; margin-top:30px;}
+@media (min-width:720px){.grid-2{grid-template-columns:1fr 1fr;}}
+
+/* ---------- muqova ---------- */
+.hero{padding:78px 0 62px; border-top:none;}
+.hero-tag{
+  display:inline-flex; align-items:center; gap:8px; font-family:var(--mono);
+  font-size:11px; letter-spacing:.13em; text-transform:uppercase; color:var(--green-deep);
+  background:var(--green-wash); border:1px solid var(--line-2);
+  padding:6px 13px; border-radius:100px; margin-bottom:26px;
+}
+.hero h1{font-size:clamp(38px,7vw,68px); line-height:1.03; letter-spacing:-1.6px; margin-bottom:22px;}
+.hero h1 em{font-style:italic; color:var(--green);}
+.hero .lede{font-size:19px; max-width:60ch;}
+.hero-meta{
+  display:flex; flex-wrap:wrap; gap:10px 26px; margin-top:32px;
+  font-family:var(--mono); font-size:11.5px; letter-spacing:.05em; color:var(--ink-3);
+}
+
+/* ---------- raqamlar ---------- */
+.stats{
+  display:grid; grid-template-columns:repeat(2,1fr); gap:1px;
+  background:var(--line); border:1px solid var(--line); border-radius:12px;
+  overflow:hidden; margin-top:34px; box-shadow:var(--shadow);
+}
+@media (min-width:680px){.stats{grid-template-columns:repeat(4,1fr);}}
+.stat{background:var(--surface); padding:20px 18px;}
+.stat .n{
+  font-family:var(--mono); font-variant-numeric:tabular-nums;
+  font-size:30px; font-weight:600; letter-spacing:-1px; color:var(--green-deep); line-height:1;
+}
+.stat .k{font-size:12.5px; color:var(--ink-2); margin-top:8px; line-height:1.4;}
+
+/* ---------- kartochkalar ---------- */
+.card{
+  background:var(--surface); border:1px solid var(--line); border-radius:12px;
+  padding:22px 24px; box-shadow:var(--shadow); border-left:3px solid var(--green);
+}
+.card.tak{border-left-color:var(--amber);}
+.card h3{margin-bottom:8px;}
+.card h4{margin-bottom:6px;}
+.card p{color:var(--ink-2); font-size:15px;}
+.card .who{
+  font-family:var(--mono); font-size:10.5px; letter-spacing:.11em; text-transform:uppercase;
+  color:var(--green); margin-bottom:10px;
+}
+.card.tak .who{color:var(--amber);}
+.card ul{margin:12px 0 0; padding-left:19px; color:var(--ink-2); font-size:14.5px; line-height:1.7;}
+.card li{margin-bottom:4px;}
+.card li::marker{color:var(--line-2);}
+
+/* ---------- ro'yxat (bajarilgan ish) ---------- */
+.facts{list-style:none; margin:26px 0 0; padding:0; display:flex; flex-direction:column;}
+.facts li{
+  display:grid; grid-template-columns:1fr; gap:2px;
+  padding:15px 0; border-bottom:1px solid var(--line);
+}
+@media (min-width:680px){
+  .facts li{grid-template-columns:200px minmax(0,1fr); gap:24px; align-items:baseline;}
+}
+.facts .lab{
+  font-family:var(--mono); font-size:11.5px; letter-spacing:.09em; text-transform:uppercase;
+  color:var(--green); padding-top:3px;
+}
+.facts .val{color:var(--ink-2); font-size:15px;}
+.facts .val b{color:var(--ink); font-weight:600;}
+
+/* ---------- dars rejasi maketi ---------- */
+.mock{
+  background:var(--surface); border:1px solid var(--line); border-radius:12px;
+  overflow:hidden; box-shadow:var(--shadow); margin-top:30px;
+}
+.mock-bar{
+  display:flex; align-items:center; gap:9px; padding:11px 16px;
+  background:var(--surface-2); border-bottom:1px solid var(--line);
+  font-family:var(--mono); font-size:10.5px; letter-spacing:.1em; text-transform:uppercase; color:var(--ink-3);
+}
+.mock-dot{width:8px; height:8px; border-radius:50%; background:var(--green);}
+.mock-body{padding:20px 22px 24px;}
+.mock-title{font-family:var(--serif); font-size:23px; font-weight:700; letter-spacing:-.3px; line-height:1.2;}
+.mock-amaliy{font-family:var(--mono); font-size:12.5px; color:var(--green-deep); margin-top:7px;}
+.mock-secs{list-style:none; margin:20px 0 0; padding:0; display:flex; flex-direction:column;}
+.mock-secs li{
+  display:flex; gap:14px; padding:10px 0; border-top:1px solid var(--line);
+  font-size:14.5px; color:var(--ink-2); align-items:baseline;
+}
+.mock-secs li:first-child{border-top:none;}
+.mock-secs .sn{
+  font-family:var(--mono); font-variant-numeric:tabular-nums; font-size:11.5px;
+  color:var(--green); flex:0 0 26px;
+}
+.mock-secs .st{color:var(--ink); font-weight:550;}
+.mock-secs .sd{color:var(--ink-3); font-size:13.5px;}
+.mock-note{
+  margin-top:18px; padding:14px 16px; border-radius:9px;
+  background:var(--green-wash); border:1px solid var(--line-2);
+  font-size:14px; line-height:1.65; color:var(--ink-2);
+}
+.mock-note b{color:var(--green-deep);}
+
+/* ---------- jadval ---------- */
+.tw{overflow-x:auto; margin-top:26px; border:1px solid var(--line); border-radius:12px; background:var(--surface); box-shadow:var(--shadow);}
+table{border-collapse:collapse; width:100%; min-width:560px; font-size:14.5px;}
+th{
+  text-align:left; padding:12px 16px; background:var(--surface-2);
+  font-family:var(--mono); font-size:10.5px; letter-spacing:.1em; text-transform:uppercase;
+  color:var(--ink-3); font-weight:600; border-bottom:1px solid var(--line);
+}
+td{padding:13px 16px; border-bottom:1px solid var(--line); color:var(--ink-2); vertical-align:top;}
+tr:last-child td{border-bottom:none;}
+td.toifa{color:var(--ink); font-weight:600; white-space:nowrap;}
+td.ball{font-family:var(--mono); font-variant-numeric:tabular-nums; color:var(--green-deep); white-space:nowrap;}
+td.num{font-family:var(--mono); font-variant-numeric:tabular-nums; text-align:right; white-space:nowrap; color:var(--ink);}
+
+/* ---------- bot oqimi ----------
+   `.card ul` dan kuchliroq bo'lishi uchun ikkala sinf bilan yoziladi,
+   aks holda kartochka ichidagi umumiy ro'yxat uslubi buni bosib ketadi. */
+.card ul.flow, .flow{list-style:none; margin:16px 0 0; padding:0; display:flex; flex-direction:column;}
+.card ul.flow li, .flow li{
+  position:relative; margin:0; padding:0 0 16px 26px; border-left:1px solid var(--line);
+  font-size:14.5px; color:var(--ink-2); line-height:1.6;
+}
+.card ul.flow li:last-child, .flow li:last-child{border-left-color:transparent; padding-bottom:0;}
+.card ul.flow li::before, .flow li::before{
+  content:''; position:absolute; left:-4.5px; top:7px; width:8px; height:8px;
+  border-radius:50%; background:var(--amber); border:2px solid var(--surface);
+}
+.flow b{color:var(--ink); font-weight:600;}
+
+/* ---------- yorliqlar ---------- */
+.tags{display:flex; flex-wrap:wrap; gap:8px; margin-top:22px;}
+.tag{
+  font-family:var(--mono); font-size:11.5px; letter-spacing:.04em;
+  padding:6px 12px; border-radius:100px;
+  border:1px solid var(--line-2); background:var(--surface); color:var(--ink-2);
+}
+.tag.on{background:var(--green-wash); border-color:var(--green); color:var(--green-deep);}
+.legend{display:flex; flex-wrap:wrap; gap:18px; margin-top:14px; font-family:var(--mono); font-size:11px; color:var(--ink-3); letter-spacing:.05em;}
+.legend i{display:inline-block; width:9px; height:9px; border-radius:2px; margin-right:6px; vertical-align:middle;}
+
+/* ---------- bosqichlar ---------- */
+.phases{list-style:none; margin:30px 0 0; padding:0; display:flex; flex-direction:column; gap:14px;}
+.phase{
+  background:var(--surface); border:1px solid var(--line); border-radius:12px;
+  padding:20px 22px; box-shadow:var(--shadow);
+  display:grid; grid-template-columns:1fr; gap:10px;
+}
+@media (min-width:760px){.phase{grid-template-columns:112px minmax(0,1fr); gap:26px;}}
+.phase .p-n{
+  font-family:var(--mono); font-size:11px; letter-spacing:.11em; text-transform:uppercase; color:var(--amber);
+}
+.phase .p-n span{display:block; font-size:26px; letter-spacing:-1px; color:var(--ink); margin-top:4px; font-variant-numeric:tabular-nums;}
+.phase h3{margin-bottom:6px;}
+.phase p{color:var(--ink-2); font-size:15px;}
+.phase ul{margin:10px 0 0; padding-left:19px; color:var(--ink-2); font-size:14.5px; line-height:1.7;}
+
+.note{
+  margin-top:24px; padding:15px 18px; border-radius:10px;
+  background:var(--amber-wash); border:1px solid var(--line-2);
+  font-size:14px; line-height:1.65; color:var(--ink-2);
+}
+.note b{color:var(--amber);}
+
+/* ---------- aloqa ---------- */
+.contact{
+  margin-top:64px; padding:38px 32px; border-radius:14px;
+  background:var(--surface); border:1px solid var(--line); box-shadow:var(--shadow);
+  border-top:3px solid var(--green);
+}
+.contact h2{font-size:clamp(26px,3.4vw,34px); margin-bottom:12px;}
+.contact-rows{display:grid; grid-template-columns:1fr; gap:1px; background:var(--line); border:1px solid var(--line); border-radius:10px; overflow:hidden; margin-top:26px;}
+@media (min-width:640px){.contact-rows{grid-template-columns:1fr 1fr;}}
+.crow{background:var(--surface); padding:16px 18px;}
+.crow .k{font-family:var(--mono); font-size:10.5px; letter-spacing:.11em; text-transform:uppercase; color:var(--ink-3); margin-bottom:5px;}
+.crow .v{font-size:15.5px; color:var(--ink); font-weight:550;}
+.crow a{text-decoration:none;}
+.crow a:hover{text-decoration:underline;}
+
+/* ---------- chop etish tugmasi (ekranda) ---------- */
+.print-fab{
+  position:fixed; right:20px; bottom:20px; z-index:40;
+  display:inline-flex; align-items:center; gap:8px; cursor:pointer;
+  font-family:var(--sans); font-size:13.5px; font-weight:600;
+  color:#fff; background:var(--green); border:1px solid var(--green);
+  border-radius:100px; padding:11px 19px; box-shadow:var(--shadow);
+}
+.print-fab:hover{background:var(--green-deep); border-color:var(--green-deep);}
+
+:focus-visible{outline:2px solid var(--green); outline-offset:3px; border-radius:3px;}
+@media (prefers-reduced-motion: reduce){*{transition:none !important; scroll-behavior:auto !important;}}
+html{scroll-behavior:smooth;}
+
+/* ---------- chop etish / PDF ---------- */
+@media print{
+  @page{margin:15mm 13mm;}
+  body{background:#fff; color:#000; font-size:11pt;}
+  .rail,.print-fab{display:none;}
+  .shell{display:block; max-width:none; padding:0;}
+  section{padding:18pt 0; break-inside:avoid;}
+  .card,.phase,.stat,.mock,.tw,.contact{box-shadow:none; break-inside:avoid;}
+  h1{font-size:26pt;} h2{font-size:17pt;}
+  a{color:#000; text-decoration:none;}
+}
+</style>
+</head>
+<body>
+
+<div class="shell">
+
+  <nav class="rail" aria-label="Bo'limlar">
+    <div class="rail-brand">EcoDev</div>
+    <div class="rail-sub">Tarbion uchun taklif</div>
+    <ol>
+      <li><a href="#s1"><span class="n">01</span>Bugungi natija</a></li>
+      <li><a href="#s2"><span class="n">02</span>Dars rejasi ichida</a></li>
+      <li><a href="#s3"><span class="n">03</span>Ko'p fanli platforma</a></li>
+      <li><a href="#s4"><span class="n">04</span>Nimalarni qo'sha olamiz</a></li>
+      <li><a href="#s5"><span class="n">05</span>Ustozlar toifasi</a></li>
+      <li><a href="#s6"><span class="n">06</span>Telegram botlar</a></li>
+      <li><a href="#s7"><span class="n">07</span>Musobaqalar</a></li>
+      <li><a href="#s8"><span class="n">08</span>EcoDev xizmatlari</a></li>
+      <li><a href="#s9"><span class="n">09</span>Joriy etish bosqichlari</a></li>
+      <li><a href="#aloqa"><span class="n">→</span>Aloqa</a></li>
+    </ol>
+  </nav>
+
+  <main class="col">
+
+    <!-- ============ MUQOVA ============ -->
+    <section class="hero">
+      <div class="hero-tag">EcoDev · Tarbion xususiy maktabi</div>
+      <h1>Bitta dars rejasidan <em>butun maktab</em> platformasigacha</h1>
+      <p class="lede">Robototexnika dasturi tayyor va ishlab turibdi — 1512 ta to'liq dars
+      ishlanmasi, ustozning qo'lida. Endi shu poydevorga barcha fanlarni, o'quvchi va
+      ota-ona kabinetini, ustozlar toifasi nazoratini va avtomatik hisobotlarni
+      qo'shish mumkin. Quyida bajarilgan ish va keyingi qadamlar.</p>
+      <div class="hero-meta">
+        <span>2026-yil, 10-avgust</span>
+        <span>Tayyorladi: EcoDev</span>
+        <span>ecodev.uz</span>
+      </div>
+    </section>
+
+    <!-- ============ 01 ============ -->
+    <section id="s1">
+      <div class="eyebrow">01 — Bajarildi</div>
+      <h2>Bugungi natija: ishlab turgan dars rejalar bazasi</h2>
+      <p class="lede">Ustoz saytga kiradi, sinf va chorakni tanlaydi va darsga tayyor
+      ishlanmani ochadi. Qog'ozga chop etsa ham bo'ladi, telefondan ochsa ham. Hech qanday
+      o'rnatish, hech qanday litsenziya to'lovi yo'q — sayt maktabning o'z serverida.</p>
+
+      <div class="stats">
+        <div class="stat"><div class="n">1512</div><div class="k">Tayyor dars ishlanmasi</div></div>
+        <div class="stat"><div class="n">9</div><div class="k">Sinf qamrovi (0–8)</div></div>
+        <div class="stat"><div class="n">16 681</div><div class="k">Qurish instruksiyasi rasmi</div></div>
+        <div class="stat"><div class="n">241</div><div class="k">Robot modeli</div></div>
+      </div>
+
+      <ul class="facts">
+        <li>
+          <span class="lab">0–4-sinf</span>
+          <span class="val"><b>840 dars.</b> Konstruksiya va mexanika: richag, tishli uzatma,
+          muvozanat, ishqalanish. Har bir modelga bosqichma-bosqich rasmli yig'ish
+          instruksiyasi biriktirilgan. 4-sinfda LEGO SPIKE va missiya-musobaqalar.</span>
+        </li>
+        <li>
+          <span class="lab">5–8-sinf</span>
+          <span class="val"><b>672 dars.</b> Elektronika asoslari, o'lchov, Arduino, ESP32
+          va sun'iy intellekt. Nazariya yuza emas: o'qituvchi aytadigan matnning o'zi
+          bazada turadi — sonlar, formulalar, ishlangan misollar bilan.</span>
+        </li>
+        <li>
+          <span class="lab">Komponent pasporti</span>
+          <span class="val"><b>221 darsda</b> datasheet darajasidagi ma'lumot: o'lchov
+          oralig'i, aniqlik, ta'minot kuchlanishi, oyoqlar, kutubxona nomi va qiymatni
+          o'qish tartibi. Masalan DHT22 uchun 40 bitlik ma'lumot paketi qanday kelishigacha.</span>
+        </li>
+        <li>
+          <span class="lab">Tayyor kod</span>
+          <span class="val"><b>148 darsda</b> ishlaydigan sketch — ustoz doskaga chiqaradi
+          yoki ko'chirib beradi. Ustiga ulanish sxemasi va pin jadvali chiziladi.</span>
+        </li>
+        <li>
+          <span class="lab">Baholash</span>
+          <span class="val"><b>64 nazorat va loyiha darsida</b> aniq, o'lchanadigan mezon:
+          musobaqa nomi, vaqt chegarasi, 5/4/3/2 ball taqsimoti. Ustoz "yaxshi bajardi"
+          demaydi — sekundomer va jadval bo'yicha baholaydi.</span>
+        </li>
+        <li>
+          <span class="lab">Metodik yordam</span>
+          <span class="val"><b>672 darsda</b> o'qituvchi uchun qo'llanma: mavzuni qanday
+          tushuntirish kerak va shu mavzuda o'quvchilar ko'p qiladigan xato nima.</span>
+        </li>
+        <li>
+          <span class="lab">Qo'shimcha</span>
+          <span class="val">Excel formatidagi to'liq o'quv dasturi va 5–8-sinf uchun
+          jihozlar ro'yxati (SET A / SET B, xarid uchun tayyor).</span>
+        </li>
+      </ul>
+    </section>
+
+    <!-- ============ 02 ============ -->
+    <section id="s2">
+      <div class="eyebrow">02 — Bajarildi</div>
+      <h2>Dars rejasining ichida nima bor</h2>
+      <p class="lede">Har bir dars bir xil, tasdiqlangan shablonda. Ustoz qaysi darsni
+      ochmasin, kerakli narsani o'sha joyidan topadi — bu darsga tayyorgarlik vaqtini
+      keskin qisqartiradi va yosh ustozni ham birinchi kunidan ishga qo'shadi.</p>
+
+      <div class="mock">
+        <div class="mock-bar"><span class="mock-dot"></span> 7-sinf · 2-chorak · 9-dars · Arduino</div>
+        <div class="mock-body">
+          <div class="mock-title">Harorat va namlikni o'lchash: DHT22</div>
+          <div class="mock-amaliy">▸ Amaliy ish: xona havosini o'lchab, Serial monitorga chiqarish</div>
+          <ul class="mock-secs">
+            <li><span class="sn">01</span><span><span class="st">Darsning maqsadi</span> <span class="sd">— 3 ta o'lchanadigan natija</span></span></li>
+            <li><span class="sn">02</span><span><span class="st">Lug'at</span> <span class="sd">— 5 ta yangi atama, ta'rifi bilan</span></span></li>
+            <li><span class="sn">03</span><span><span class="st">Soft skill</span> <span class="sd">— shu darsda qaysi ko'nikma o'sadi</span></span></li>
+            <li><span class="sn">04</span><span><span class="st">Kerakli resurslar</span> <span class="sd">— jihoz va materiallar ro'yxati</span></span></li>
+            <li><span class="sn">05</span><span><span class="st">Nazariya qismi</span> <span class="sd">— kichik bo'limlarga bo'lingan, har biriga daqiqa yozilgan</span></span></li>
+            <li><span class="sn">06</span><span><span class="st">Amaliy ishlar</span> <span class="sd">— sinfda bosqichma-bosqich nima qilinadi</span></span></li>
+            <li><span class="sn">07</span><span><span class="st">Uyga vazifa</span></span></li>
+            <li><span class="sn">08</span><span><span class="st">O'qituvchi qo'llanmasi</span> <span class="sd">— va ko'p uchraydigan xato</span></span></li>
+            <li><span class="sn">09</span><span><span class="st">Komponent pasporti</span> <span class="sd">— to'liq texnik tasnif</span></span></li>
+            <li><span class="sn">10</span><span><span class="st">Ulanish sxemasi</span> <span class="sd">— chizma, pin jadvali, kutubxona</span></span></li>
+            <li><span class="sn">11</span><span><span class="st">Tayyor kod namunasi</span></span></li>
+          </ul>
+          <div class="mock-note"><b>01–07</b> — har bir darsda bor, o'zgarmaydi.
+          <b>08 dan keyingilari</b> darsning turiga qarab qo'shiladi: nazorat darsida
+          ball jadvali va musobaqa maydonchasi chizmasi, qurish darsida esa
+          bosqichma-bosqich rasmli instruksiya chiqadi.</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ 03 ============ -->
+    <section id="s3">
+      <div class="eyebrow">03 — Bajarildi</div>
+      <h2>Platforma allaqachon ko'p fanli</h2>
+      <p class="lede">Sayt endi faqat robototexnika emas. Bosh sahifada maktabning 19 ta
+      fani turadi — robototexnika kontenti bilan to'liq, qolganlari o'z o'rnini kutib.
+      Ya'ni har bir yangi fan uchun yangi sayt yasash kerak emas: kontent tayyor bo'lishi
+      bilan o'sha fan kartochkasi ochiladi.</p>
+
+      <div class="tags">
+        <span class="tag on">Robototexnika va IT</span>
+        <span class="tag">Matematika</span><span class="tag">Fizika</span>
+        <span class="tag">Kimyo</span><span class="tag">Biologiya</span>
+        <span class="tag">Informatika</span><span class="tag">Astronomiya</span>
+        <span class="tag">Ona tili</span><span class="tag">Adabiyot</span>
+        <span class="tag">Ingliz tili</span><span class="tag">Rus tili</span>
+        <span class="tag">Tarix</span><span class="tag">Geografiya</span>
+        <span class="tag">Tarbiya</span><span class="tag">Chizmachilik</span>
+        <span class="tag">Tasviriy san'at</span><span class="tag">Musiqa</span>
+        <span class="tag">Texnologiya</span><span class="tag">Jismoniy tarbiya</span>
+      </div>
+      <div class="legend">
+        <span><i style="background:var(--green)"></i>Kontenti tayyor — 1 fan</span>
+        <span><i style="background:var(--line-2)"></i>Ro'yxatda, to'ldirilishi kutilmoqda — 18 fan</span>
+      </div>
+
+      <div class="grid-2">
+        <div class="card">
+          <div class="who">Bugun ishlaydi</div>
+          <h3>Havola bilan ulashish</h3>
+          <p>Har bir darsning o'z manzili bor. Zavuch ustozga aniq darsni link qilib
+          yuboradi, ustoz ochadi — o'sha dars ochiladi. Telefonda ham, kompyuterda ham.</p>
+        </div>
+        <div class="card">
+          <div class="who">Bugun ishlaydi</div>
+          <h3>Qog'ozga chop etish</h3>
+          <p>"Chop etish" tugmasi dars rejasini toza ko'rinishda chiqaradi: menyu va
+          tugmalarsiz, bo'limlar sahifa o'rtasidan bo'linmagan holda.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ 04 ============ -->
+    <section id="s4">
+      <div class="eyebrow tak">04 — Taklif</div>
+      <h2>Nimalarni qo'shib bera olamiz</h2>
+      <p class="lede">Quyidagilarning har biri alohida ham ishlaydi, lekin bittasi
+      ustiga ikkinchisi qo'yilganda qiymat bir necha barobar oshadi: bitta ma'lumot
+      bazasi, bitta login, bitta hisobot. Tartib maktab uchun qaysi biri shoshilinch
+      bo'lsa, shunga qarab tanlanadi.</p>
+
+      <div class="grid-2">
+        <div class="card tak">
+          <div class="who">Ustozlar uchun</div>
+          <h3>Yagona metodik platforma</h3>
+          <p>Barcha fanlarning dars rejalari, taqvim-mavzu rejasi va materiallari bir
+          joyda. Ustoz o'zi ham yangi reja qo'sha oladi.</p>
+          <ul>
+            <li>Fan → sinf → chorak → dars tuzilishi</li>
+            <li>Qidiruv: mavzu, atama yoki jihoz bo'yicha</li>
+            <li>Ustozning shaxsiy kabineti va yuklamasi</li>
+            <li>Fayl ilova qilish: taqdimot, video, ish varaqasi</li>
+          </ul>
+        </div>
+
+        <div class="card tak">
+          <div class="who">O'quvchilar uchun</div>
+          <h3>O'quvchi kabineti</h3>
+          <p>Dars jadvali, uy vazifasi, o'z natijalari va o'qituvchi bergan materiallar.</p>
+          <ul>
+            <li>Uy vazifasini onlayn topshirish</li>
+            <li>Test va viktorinalar, avtomatik tekshiruv</li>
+            <li>Baho va davomat tarixi, o'sish grafigi</li>
+            <li>Robototexnika bo'yicha loyiha portfoliosi</li>
+          </ul>
+        </div>
+
+        <div class="card tak">
+          <div class="who">Ota-onalar uchun</div>
+          <h3>Ota-ona kabineti</h3>
+          <p>Farzandi haqidagi hamma narsa bitta ekranda — maktabga qo'ng'iroq qilmasdan.</p>
+          <ul>
+            <li>Davomat, baholar, o'qituvchi izohi</li>
+            <li>To'lov holati va kvitansiya tarixi</li>
+            <li>Maktab e'lonlari va tadbirlar taqvimi</li>
+            <li>Murojaat yuborish va javobni kuzatish</li>
+          </ul>
+        </div>
+
+        <div class="card tak">
+          <div class="who">Rahbariyat uchun</div>
+          <h3>Direktor paneli</h3>
+          <p>Maktabning holati raqamlarda: kim qanday ishlayapti, qayerda muammo bor.</p>
+          <ul>
+            <li>Sinflar va fanlar bo'yicha o'zlashtirish</li>
+            <li>Ustozlar faoliyati va toifa dinamikasi</li>
+            <li>Davomat va to'lov yig'ilishi</li>
+            <li>Murojaatlar statistikasi va javob muddati</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="note"><b>Muhim:</b> ro'yxatdagi hamma narsani birdan qilish shart emas.
+      Odatda ota-ona boti va davomat birinchi bosqichda ishga tushiriladi — ular eng tez
+      seziladigan foyda beradi va qolgan tizim uchun ma'lumot to'playdi.</div>
+    </section>
+
+    <!-- ============ 05 ============ -->
+    <section id="s5">
+      <div class="eyebrow tak">05 — Taklif</div>
+      <h2>Ustozlar toifasi va nazorati</h2>
+      <p class="lede">Davlat attestatsiyasi o'z yo'lida. Bundan tashqari maktabning
+      <b>o'z ichki toifasi</b> bo'lishi mumkin — norasmiy, lekin aniq mezonli va
+      maoshga bog'langan. Bu ustozga o'sish yo'lini ko'rsatadi, maktabga esa kimni
+      ushlab qolish kerakligini raqam bilan aytadi.</p>
+
+      <div class="tw">
+        <table>
+          <thead>
+            <tr><th>Ichki toifa</th><th>Ball oralig'i</th><th>Nimani bildiradi</th><th>Koeffitsiyent</th></tr>
+          </thead>
+          <tbody>
+            <tr><td class="toifa">Yosh mutaxassis</td><td class="ball">0 – 49</td><td>Dars beradi, mentor kuzatuvida ishlaydi</td><td class="num">1,00</td></tr>
+            <tr><td class="toifa">Mutaxassis</td><td class="ball">50 – 69</td><td>Mustaqil ishlaydi, natijasi barqaror</td><td class="num">1,15</td></tr>
+            <tr><td class="toifa">Katta mutaxassis</td><td class="ball">70 – 84</td><td>Ochiq dars beradi, metodik material yaratadi</td><td class="num">1,30</td></tr>
+            <tr><td class="toifa">Mentor</td><td class="ball">85 – 100</td><td>Yosh ustozlarni tayyorlaydi, fan bo'limini boshqaradi</td><td class="num">1,50</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="grid-2">
+        <div class="card tak">
+          <div class="who">Ball qayerdan yig'iladi</div>
+          <h4>Namuna taqsimot</h4>
+          <ul>
+            <li><b>30 ball</b> — dars kuzatuvi (rubrika bo'yicha, chorakda 2 marta)</li>
+            <li><b>25 ball</b> — o'quvchilar natijasining o'sishi</li>
+            <li><b>15 ball</b> — ochiq dars va metodik ish</li>
+            <li><b>15 ball</b> — o'quvchi va ota-ona so'rovi</li>
+            <li><b>10 ball</b> — hujjat yuritish va muddatlarga rioya</li>
+            <li><b>5 ball</b> — malaka oshirish, musobaqaga tayyorlash</li>
+          </ul>
+        </div>
+        <div class="card tak">
+          <div class="who">Platformada qanday ishlaydi</div>
+          <h4>Zavuch telefondan to'ldiradi</h4>
+          <ul>
+            <li>Dars kuzatuv varaqasi — planshet yoki telefonda, darsning o'zida</li>
+            <li>Ball avtomatik yig'iladi, qo'lda hisoblash yo'q</li>
+            <li>Ustoz o'z kabinetida ballini va nima yetishmayotganini ko'radi</li>
+            <li>Chorak yakunida toifa jadvali va buyruq loyihasi tayyor chiqadi</li>
+            <li>Yildan yilga dinamika saqlanadi — kim o'syapti, kim to'xtab qolgan</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="note"><b>Yuqoridagi jadval — namuna.</b> Ball taqsimoti, toifa nomlari
+      va koeffitsiyentlar maktabning o'z siyosatiga qarab o'zgartiriladi; platforma
+      mezonlarni sozlanadigan qilib quriladi, kod o'zgartirilmaydi.</div>
+    </section>
+
+    <!-- ============ 06 ============ -->
+    <section id="s6">
+      <div class="eyebrow tak">06 — Taklif</div>
+      <h2>Ikkita Telegram bot</h2>
+      <p class="lede">Ota-onaning telefonida allaqachon Telegram bor. Yangi ilova
+      o'rnattirish, parol o'ylab topishga majburlashning hojati yo'q — bot o'zi kerakli
+      odamga, kerakli vaqtda yozadi.</p>
+
+      <div class="grid-2">
+        <div class="card tak">
+          <div class="who">1-bot</div>
+          <h3>Ota-ona murojaatlari</h3>
+          <p>Direktorning telefoni tinchiydi, murojaat esa yo'qolmaydi — hammasi
+          ro'yxatga tushadi va javob muddati kuzatiladi.</p>
+          <ul class="flow">
+            <li><b>Ota-ona</b> botga yozadi va bo'limni tanlaydi: o'quv, to'lov, sog'liq, taklif</li>
+            <li><b>Bot</b> murojaatga raqam beradi va mas'ul xodimga yuboradi</li>
+            <li><b>Xodim</b> javob yozadi — javob o'sha botda ota-onaga boradi</li>
+            <li><b>Tizim</b> javob berilmagan murojaatni belgilaydi va rahbarga eslatadi</li>
+            <li><b>Oy oxirida</b> statistika: nechta murojaat, qaysi mavzuda, o'rtacha javob vaqti</li>
+          </ul>
+        </div>
+
+        <div class="card tak">
+          <div class="who">2-bot</div>
+          <h3>Oylik avtomatik hisobot</h3>
+          <p>Har oyning belgilangan kunida hisobot o'zi tarqaladi. Hech kim jadval
+          yig'ib o'tirmaydi.</p>
+          <ul class="flow">
+            <li><b>Ota-onaga:</b> farzandining davomati, baholari, o'qituvchi izohi, to'lov holati</li>
+            <li><b>Ustozga:</b> o'z sinfining o'zlashtirishi, bajarilgan darslar, toifa balli</li>
+            <li><b>Zavuchga:</b> fanlar kesimida o'zlashtirish, dars o'tilishi, kuzatuvlar</li>
+            <li><b>Direktorga:</b> umumiy ko'rsatkichlar, to'lov yig'ilishi, murojaatlar</li>
+            <li><b>PDF:</b> istalgan hisobotni fayl qilib yuklab olish mumkin</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ 07 ============ -->
+    <section id="s7">
+      <div class="eyebrow tak">07 — Taklif</div>
+      <h2>Musobaqalar tashkil etish va o'tkazish</h2>
+      <p class="lede">Robototexnika dasturida musobaqa allaqachon bor: RoboRace,
+      RoboLift, RoboSense, CircuitSpeed va boshqalar — har birining aniq mezoni va vaqt
+      chegarasi yozilgan. Shu tayyor mezonlarni haqiqiy musobaqa tizimiga ulash mumkin —
+      maktab ichida ham, boshqa maktablarni chaqirib ham.</p>
+
+      <div class="grid-2">
+        <div class="card tak">
+          <div class="who">Tashkilotchi uchun</div>
+          <h4>Musobaqa yadrosi</h4>
+          <ul>
+            <li>Onlayn ro'yxatdan o'tish: jamoa, murabbiy, yosh toifasi</li>
+            <li>Jadval va maydonchalarni taqsimlash</li>
+            <li>Hakam paneli — ball planshetdan qo'yiladi</li>
+            <li>Jonli natijalar tablosi (ekranga chiqariladi)</li>
+            <li>Diplom va sertifikatlarni avtomatik generatsiya qilish</li>
+          </ul>
+        </div>
+        <div class="card tak">
+          <div class="who">Maktab uchun</div>
+          <h4>Nima beradi</h4>
+          <ul>
+            <li>Tayyor reglament — dasturdagi mezonlardan olinadi</li>
+            <li>Ochiq musobaqa = maktab uchun kuchli marketing</li>
+            <li>O'quvchi portfoliosiga natija avtomatik tushadi</li>
+            <li>Yillar bo'yicha reyting va arxiv saqlanadi</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ 08 ============ -->
+    <section id="s8">
+      <div class="eyebrow">08 — EcoDev</div>
+      <h2>Bizning boshqa xizmatlarimiz</h2>
+      <p class="lede">EcoDev — "har qanday murakkablikdagi raqamli ishni hal qilamiz".
+      Quyidagi to'qqiz yo'nalishdan maktabga to'g'ridan-to'g'ri kerak bo'ladiganlari
+      alohida belgilangan.</p>
+
+      <div class="grid-2">
+        <div class="card">
+          <div class="who">Maktabga kerak</div>
+          <h4>Veb-saytlar</h4>
+          <p>Maktabning rasmiy sayti, qabul sahifasi, yangiliklar va fotogalereya.
+          Dars rejalar bazasi ham shu yo'nalishda qilingan.</p>
+        </div>
+        <div class="card">
+          <div class="who">Maktabga kerak</div>
+          <h4>Telegram botlar</h4>
+          <p>Ota-ona murojaatlari, oylik hisobot, davomat xabarnomasi, to'lov eslatmasi,
+          qabul uchun ariza qabul qiluvchi bot.</p>
+        </div>
+        <div class="card">
+          <div class="who">Maktabga kerak</div>
+          <h4>CRM va avtomatlashtirish</h4>
+          <p>Qabul jarayoni, o'quvchi bazasi, to'lovlar, xodimlar hujjatlari.
+          Direktor paneli va toifa tizimi shu yerga tegishli.</p>
+        </div>
+        <div class="card">
+          <div class="who">Maktabga kerak</div>
+          <h4>Mobil ilovalar</h4>
+          <p>Ota-ona va o'quvchi uchun iOS/Android ilova — kabinetning telefondagi
+          ko'rinishi, push-xabarnomalar bilan.</p>
+        </div>
+        <div class="card">
+          <div class="who">Maktabga kerak</div>
+          <h4>Noyob dasturlar</h4>
+          <p>Tayyor yechim topilmaydigan holatlar uchun: ichki attestatsiya tizimi,
+          musobaqa hakamlik paneli, jadval tuzuvchi.</p>
+        </div>
+        <div class="card">
+          <div class="who">Maktabga kerak</div>
+          <h4>Texnik qo'llab-quvvatlash</h4>
+          <p>Server, zaxira nusxa, yangilanishlar, ustozlarni o'qitish va kundalik
+          savollarga javob.</p>
+        </div>
+        <div class="card">
+          <div class="who">Qo'shimcha</div>
+          <h4>UI/UX dizayn</h4>
+          <p>Interfeys dizayni va maktabning brend uslubi — logotip qo'llanmasi,
+          hujjat va e'lon shablonlari.</p>
+        </div>
+        <div class="card">
+          <div class="who">Qo'shimcha</div>
+          <h4>Sun'iy intellekt</h4>
+          <p>Insho va yozma ishni tekshirishga yordam, test savollarini generatsiya
+          qilish, hisobotlarni matn holida izohlash.</p>
+        </div>
+        <div class="card">
+          <div class="who">Qo'shimcha</div>
+          <h4>Kiberxavfsizlik</h4>
+          <p>O'quvchi va ota-ona ma'lumotlari himoyasi, kirish huquqlari, zaxiralash
+          tartibi va tekshiruv.</p>
+        </div>
+      </div>
+
+      <div class="note">Portfoliodan: <b>Robbit.uz</b>, <b>MedPort.uz</b>,
+      <b>Investing School</b>, <b>TATU Zarafshon</b>, <b>GDG Guliston</b>,
+      <b>ASNEFT</b>, <b>RusMarket.uz</b>, <b>DEVOSOFT</b>,
+      <b>Abdulbosit Qori.uz</b> — ta'lim, tibbiyot va biznes yo'nalishlarida.</div>
+    </section>
+
+    <!-- ============ 09 ============ -->
+    <section id="s9">
+      <div class="eyebrow tak">09 — Taklif</div>
+      <h2>Bosqichma-bosqich joriy etish</h2>
+      <p class="lede">Hammasini bir yo'la ishga tushirish — eng katta xato. Har bosqich
+      o'zi alohida foyda beradi va keyingisiga poydevor bo'ladi. Muddatlar taxminiy,
+      aniq reja kelishuvdan keyin tuziladi.</p>
+
+      <ol class="phases">
+        <li class="phase">
+          <div class="p-n">1-bosqich<span>2–3 hafta</span></div>
+          <div>
+            <h3>Tez seziladigan foyda</h3>
+            <p>Ota-ona bilan aloqani tartibga solamiz va ma'lumot to'plashni boshlaymiz.</p>
+            <ul>
+              <li>Ota-ona murojaatlari boti va mas'ullar taqsimoti</li>
+              <li>O'quvchi bazasi, sinflar, ustozlar ro'yxati</li>
+              <li>Davomat kiritish (ustoz telefonidan)</li>
+            </ul>
+          </div>
+        </li>
+        <li class="phase">
+          <div class="p-n">2-bosqich<span>3–5 hafta</span></div>
+          <div>
+            <h3>Kabinetlar</h3>
+            <p>Har bir rol o'z ekranini oladi, bitta login bilan.</p>
+            <ul>
+              <li>Ustoz, o'quvchi, ota-ona va direktor kabinetlari</li>
+              <li>Baho va uy vazifasi</li>
+              <li>Oylik hisobot boti ishga tushadi</li>
+            </ul>
+          </div>
+        </li>
+        <li class="phase">
+          <div class="p-n">3-bosqich<span>4–6 hafta</span></div>
+          <div>
+            <h3>Metodik yadro va nazorat</h3>
+            <p>Hozirgi dars rejalar bazasi butun maktabga yoyiladi.</p>
+            <ul>
+              <li>Qolgan fanlar uchun tuzilma va kontentni to'ldirish tartibi</li>
+              <li>Dars kuzatuvi va ichki toifa tizimi</li>
+              <li>Direktor paneli va tahlil</li>
+            </ul>
+          </div>
+        </li>
+        <li class="phase">
+          <div class="p-n">4-bosqich<span>kelishuv bo'yicha</span></div>
+          <div>
+            <h3>Kengaytirish</h3>
+            <p>Maktab tashqarisiga chiqadigan qism.</p>
+            <ul>
+              <li>Musobaqalar platformasi va ochiq turnirlar</li>
+              <li>Mobil ilova</li>
+              <li>Sun'iy intellekt yordamchilari</li>
+            </ul>
+          </div>
+        </li>
+      </ol>
+    </section>
+
+    <!-- ============ ALOQA ============ -->
+    <section id="aloqa" class="contact">
+      <h2>Keyingi qadam</h2>
+      <p class="lede">Bir soatlik uchrashuvda ro'yxatdan maktab uchun eng shoshilinch
+      3 ta narsani tanlaymiz va shularning aniq rejasi, muddati va narxini beramiz.
+      Robototexnika bazasi bugun ishlab turibdi — uni jonli ko'rsatib ham beramiz.</p>
+      <div class="contact-rows">
+        <div class="crow"><div class="k">Kompaniya</div><div class="v">EcoDev — <a href="https://ecodev.uz">ecodev.uz</a></div></div>
+        <div class="crow"><div class="k">Telefon</div><div class="v"><a href="tel:+998978808897">+998 97 880 88 97</a></div></div>
+        <div class="crow"><div class="k">Loyiha bo'yicha</div><div class="v"><a href="tel:+998993757532">+998 99 375 75 32</a></div></div>
+        <div class="crow"><div class="k">Ishlab turgan baza</div><div class="v"><a href="index.html">Tarbion dars rejalar sayti →</a></div></div>
+      </div>
+    </section>
+
+  </main>
+</div>
+
+<button class="print-fab" type="button" onclick="window.print()">⎙ PDF / Chop etish</button>
+
+</body>
+</html>
