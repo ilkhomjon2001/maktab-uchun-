@@ -31,6 +31,7 @@ function choraklarRoyxati(yil, sinf){
 let activeFan = null;        // null = bosh sahifa (fanlar ro'yxati)
 let activeYil = "1-yil";
 let activeKey = null;
+let activeSinf = null;       // "yil|sinf" — sinfning yillik rejasi ochilgan
 
 const FANLAR = window.FANLAR || [];
 function fanTopilsin(id){
@@ -49,6 +50,7 @@ function yumshoqRang(hex, alfa){
    MARSHRUT (havolada saqlanadi)
    ============================================================
    #/robototexnika                                  — fan ochilgan
+   #/robototexnika/1-yil/0-sinf                     — sinfning yillik rejasi
    #/robototexnika/1-yil/0-sinf/1-chorak/3          — aniq dars
    Shu sababli dars havolasini o'qituvchiga yuborish mumkin va sahifa
    yangilanganda ham o'sha dars ochiladi. */
@@ -59,6 +61,7 @@ function marshrutYoz(){
   if (activeFan){
     qism.push(encodeURIComponent(activeFan));
     if (activeKey) activeKey.split('|').forEach(p => qism.push(encodeURIComponent(p)));
+    else if (activeSinf) activeSinf.split('|').forEach(p => qism.push(encodeURIComponent(p)));
   }
   const h = qism.join('/');
   if (location.hash === h || (!location.hash && h === '#/')) return;
@@ -69,11 +72,15 @@ function marshrutYoz(){
 
 function marshrutOqi(){
   const raw = location.hash.replace(/^#\/?/, '');
-  if (!raw) return {fan:null, key:null};
+  if (!raw) return {fan:null, key:null, sinf:null};
   let p;
   try { p = raw.split('/').map(decodeURIComponent); }
-  catch(e){ return {fan:null, key:null}; }
-  return {fan: p[0] || null, key: p.length >= 5 ? p.slice(1,5).join('|') : null};
+  catch(e){ return {fan:null, key:null, sinf:null}; }
+  return {
+    fan:  p[0] || null,
+    key:  p.length >= 5 ? p.slice(1, 5).join('|') : null,
+    sinf: p.length === 3 ? p.slice(1, 3).join('|') : null
+  };
 }
 
 // Kalitdan dars yozuvini topadi (havoladan tiklanganda kerak)
@@ -120,10 +127,14 @@ function render(){
   korinish('darslar');
   const dars = activeKey ? darsTop(activeKey) : null;
   if (dars) activeYil = dars.yil;
+  else if (activeSinf) activeYil = activeSinf.split('|')[0];
   renderTree();
   if (dars){
     selectLesson(dars.l, activeKey, null);
     treeFokus(activeKey);
+  } else if (activeSinf){
+    const [sy, ss] = activeSinf.split('|');
+    renderSinfSahifa(main, fan, sy, ss);
   } else {
     renderFanBosh(main, fan);
   }
@@ -133,12 +144,14 @@ function render(){
 function fanOch(id){
   activeFan = id;
   activeKey = null;
+  activeSinf = null;
   render();
   window.scrollTo(0, 0);
 }
 function fanlarga(){
   activeFan = null;
   activeKey = null;
+  activeSinf = null;
   render();
 }
 
@@ -230,6 +243,85 @@ function renderFanReja(main, fan){
 }
 
 /* --- Fan ochildi, lekin dars hali tanlanmagan --- */
+/* --- Sinfning yillik rejasi: choraklar bo'yicha dars KARTOCHKALARI ---
+   Yon paneldagi sinf nomi bosilganda ochiladi. O'qituvchi butun yilni
+   bitta ekranda ko'radi: qurish darslarida tayyor modelning rasmi,
+   kirish/nazorat/loyihada esa turiga bo'yalgan blok — shunda chorakning
+   bosqichlari ko'zga tashlanadi.
+   5-8-sinfda "model" — amaliy ish tavsifi (rasm yo'q), shuning uchun
+   rasm faqat INSTRUCTION_INDEX da yozuvi bor modelga chiziladi. */
+function sinfSanoq(yil, sinf){
+  const chorakNomlar = choraklarRoyxati(yil, sinf);
+  let dars = 0, model = new Set(), instr = 0, spike = 0;
+  chorakNomlar.forEach(ch=>{
+    (TREE_DATA[yil][sinf][ch] || []).forEach(l=>{
+      dars++;
+      if (l.type === 'spike') spike++;
+      if (l.model){ model.add(l.model); if (INSTRUCTION_INDEX[l.model]) instr++; }
+    });
+  });
+  return {chorak: chorakNomlar.length, dars, model: model.size, instr, spike};
+}
+
+function renderSinfSahifa(main, fan, yil, sinf){
+  if (!(TREE_DATA[yil] && TREE_DATA[yil][sinf])){
+    renderFanBosh(main, fan);
+    return;
+  }
+  const c = sinfSanoq(yil, sinf);
+
+  const bloklar = choraklarRoyxati(yil, sinf).map(chorak=>{
+    const list = TREE_DATA[yil][sinf][chorak] || [];
+    const kartlar = list.map((l, i)=>{
+      const info = l.model ? INSTRUCTION_INDEX[l.model] : null;
+      const tayyor = !!LESSON_CONTENT[lessonKey(yil, sinf, chorak, i)];
+      const rasm = info
+        ? `<img loading="lazy" src="${instrSrc(info.slug, info.qadam)}" alt="${esc(l.model)}">`
+        : `<span class="dk-yoq ${esc(l.type)}">${esc(TYPE_LABELS[l.type] || l.type)}</span>`;
+      // Nazorat/loyiha sarlavhasida butun baholash mezoni yozilgan — qisqartiriladi
+      const mavzu = l.title.length > 96 ? l.title.slice(0, 94) + '…' : l.title;
+      const model = l.model && l.model.length > 46 ? l.model.slice(0, 44) + '…' : l.model;
+      return `
+        <button class="dars-kart${tayyor ? ' tayyor' : ''}" type="button"
+                data-chorak="${esc(chorak)}" data-idx="${i}">
+          <span class="dk-rasm">${rasm}</span>
+          <span class="dk-tan">
+            <span class="dk-yuqori"><span class="dk-nr">${i+1}</span>
+              <span class="dk-teg ${esc(l.type)}">${esc(TYPE_LABELS[l.type] || l.type)}</span></span>
+            <span class="dk-mavzu">${esc(mavzu)}</span>
+            ${model ? `<span class="dk-model">▸ ${esc(model)}</span>` : ''}
+            ${info ? `<span class="dk-qadam">▤ ${info.qadam} qadam</span>` : ''}
+          </span>
+        </button>`;
+    }).join('');
+    return `
+      <div class="chorak-blok">
+        <div class="chorak-sarlavha"><h3>${esc(chorak)}</h3>
+          <span class="mini">${list.length} dars</span></div>
+        <div class="dars-grid">${kartlar}</div>
+      </div>`;
+  }).join('');
+
+  main.innerHTML = `
+    <div class="sinf-hero">
+      <div class="sinf-hero-eyebrow">${esc(fan.qisqa || fan.nom)} · ${esc(yil)}</div>
+      <h1>${esc(sinf)} — yillik reja</h1>
+      <p>${c.chorak} chorak, ${c.dars} dars${c.model ? `, ${c.model} ta model` : ''}${
+        c.instr ? `, ${c.instr} darsda rasmli instruksiya` : ''}.
+        Darsni ochish uchun kartochkani bosing.</p>
+    </div>
+    ${bloklar}`;
+
+  main.querySelectorAll('.dars-kart').forEach(b=>{
+    b.onclick = ()=>{
+      const chorak = b.dataset.chorak, idx = Number(b.dataset.idx);
+      const l = TREE_DATA[yil][sinf][chorak][idx];
+      selectLesson(l, lessonKey(yil, sinf, chorak, idx), null);
+    };
+  });
+  main.scrollTop = 0;
+}
+
 function renderFanBosh(main, fan){
   main.innerHTML = `
     <div class="empty-state">
@@ -377,10 +469,21 @@ function renderTree(){
       chorakList.appendChild(darsList);
     });
 
+    // Sinf nomi bosilganda: yon panelda choraklar ochiladi VA asosiy maydonda
+    // sinfning yillik rejasi kartochkalar bilan chiziladi.
     head.onclick = ()=>{
       head.classList.toggle('open');
       chorakList.classList.toggle('open');
+      activeKey = null;
+      activeSinf = activeYil + '|' + sinf;
+      const fan = fanTopilsin(activeFan);
+      if (fan) renderSinfSahifa(document.getElementById('mainContent'), fan, activeYil, sinf);
+      nav.querySelectorAll('.sinf-head.tanlangan').forEach(h=>h.classList.remove('tanlangan'));
+      head.classList.add('tanlangan');
+      marshrutYoz();
+      if (isMobile()) setNav(false);
     };
+    if (activeSinf === activeYil + '|' + sinf) head.classList.add('tanlangan');
 
     block.appendChild(chorakList);
     nav.appendChild(block);
@@ -848,6 +951,7 @@ function crumbs(key){
 
 function selectLesson(l, key, itemEl){
   activeKey = key;
+  activeSinf = key.split('|').slice(0, 2).join('|');   // sinf sahifasiga qaytish uchun
   document.querySelectorAll('.dars-item.active').forEach(e=>e.classList.remove('active'));
   if (itemEl) itemEl.classList.add('active');
   if (isMobile()) setNav(false);   // telefonda dars tanlangach panel yopiladi
@@ -993,6 +1097,7 @@ window.addEventListener('hashchange', ()=>{
   const m = marshrutOqi();
   activeFan = m.fan;
   activeKey = m.key;
+  activeSinf = m.key ? m.key.split('|').slice(0, 2).join('|') : m.sinf;
   render();
 });
 
@@ -1000,6 +1105,9 @@ window.addEventListener('hashchange', ()=>{
 const boshlangich = marshrutOqi();
 activeFan = boshlangich.fan && fanTopilsin(boshlangich.fan) ? boshlangich.fan : null;
 activeKey = activeFan ? boshlangich.key : null;
+activeSinf = activeFan
+  ? (activeKey ? activeKey.split('|').slice(0, 2).join('|') : boshlangich.sinf)
+  : null;
 countAll();
 render();
 syncHeaderHeight();

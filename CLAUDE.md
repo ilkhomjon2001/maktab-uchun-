@@ -11,6 +11,35 @@ Ikkita asosiy natija tayyorlanmoqda:
 **Jonli sayt:** http://169.58.130.201:8081 (Docker `nginx:alpine`, `/opt/robbit-academy` bind-mount).
 Server o'sha papkada git ishchi nusxasi — **yangilash uchun `cd /opt/robbit-academy && git pull`** yetarli.
 
+## ⚠️ ROBOTOTEXNIKA 0-4: ma'lumot endi `tools/` orqali qayta quriladi (2026-09-01)
+
+`tree_data.js` va `sample_lessons.js` fayllarining **0-4-sinf robototexnika**
+qismi endi qo'lda ham, Python generatori bilan ham to'g'ridan-to'g'ri
+tahrirlanmaydi — u `node tools/qayta_qur.js` bilan qayta yaratiladi.
+5-8-sinf va boshqa 18 fan bu skript tomonidan **umuman o'zgartirilmaydi**
+(`tools/verify.js` buni bayt-mabayt tekshiradi).
+
+Sabab (foydalanuvchi, 2026-09-01):
+> "1-yil 2-sinf o'quvchidan o'tgan yilgi darslarni takrorlaymiz degan
+> manodagi darslar qo'yilgan" — maktabning BIRINCHI yilida 2-sinf bolasining
+> o'tgan yili yo'q. Ustiga bir xil model bir necha sinfda takrorlanardi
+> (0x1 = 40 ta umumiy model 72 dan), nazorat va loyiha esa beshala sinfda
+> aynan bir xil matn edi.
+
+O'quv rejasi endi: **0-2-sinf Makerzoid, 3-4-sinf SPIKE** (2-yilda;
+1-yilda 3-4 hamon Makerzoid, chunki maktab endi ochilgan).
+
+Ish oqimi:
+```bash
+node tools/qayta_qur.js      # 0-4 ni qayta quradi
+node tools/verify.js         # 5-8 tegilmaganini + kafolatni tekshiradi
+```
+Python generatori qayta ishlasa, avval `node tools/manba_saqla.js`.
+
+To'liq tafsilot: 0-4 platformasining `CLAUDE.md` fayli
+(`D:\Tarbion-0-4-platforma`) — u yerda taqsimot, siqilish va bola oqimi
+mantig'i batafsil yozilgan. Bu repodagi `tools/` o'sha fayllarning nusxasi.
+
 ## Papka tuzilishi
 ```
 site/                  — Dars rejalar sayti (statik HTML/JS). GIT REPO = AYNAN SHU PAPKA.
@@ -27,6 +56,19 @@ site/                  — Dars rejalar sayti (statik HTML/JS). GIT REPO = AYNAN
   maydon.js               — 4 ta musobaqa maydonchasi chizmasi (SVG)
   README.md               — serverga joylash yo'riqnomasi
   CLAUDE.md               — SHU FAYL (2026-08-08 da project_bundle dan bu yerga ko'chirildi)
+
+tools/                 — NODE QATLAMI: robototexnika 0-4 ni qayta quradi (2026-09-01)
+  manba/                  — tree_data.js + sample_lessons.js ning TOZA nusxasi
+                            (qatlamlar qo'yilmagan; qayta_qur.js aynan shundan o'qiydi)
+  reja.js                 — qaysi sinf qaysi dasturdan (Makerzoid / SPIKE)
+  taqsimot.js             — modellarni sinflar bo'yicha TAKRORSIZ bo'lish
+  nazorat.js              — 32 ta chorak nazorat ishi (har sinf-yil uchun alohida)
+  loyiha.js               — 32 ta chorak loyihasi (talab sinfdan sinfga o'sadi)
+  qoplama_python.js       — 2-yil 4-sinf SPIKE darslariga Python kontenti (27 dars)
+  qayta_qur.js            — manba/ dan o'qib, qatlamlarni qo'yib, ildizga yozadi
+  manba_saqla.js          — Python generatori ishlagach toza nusxani yangilaydi
+  verify.js               — 5-8 tegilmaganini + 0-4 kafolatini tekshiradi
+  e2e.html                — brauzerdagi sinov (sinf sahifasi, kartochkalar, marshrut)
 
 site/curriculum/       — Excel dasturini generatsiya qiluvchi Python skriptlar
   models_catalog.py      — 281 ta Makerzoid Robot Master (Premium) modeli, 11 bo'lim

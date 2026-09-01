@@ -1,0 +1,50 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"></head><body>
+<div id="out">ishlayapti…</div>
+<iframe id="f" src="/#/robototexnika/1-yil/2-sinf" style="width:1280px;height:900px"></iframe>
+<script>
+const log=[]; function t(n,s,i){log.push((s?'PASS':'FAIL')+' · '+n+(i?' · '+i:''));}
+const f=document.getElementById('f');
+f.onload=()=>setTimeout(run,1500);
+function run(){
+  const w=f.contentWindow, d=f.contentDocument;
+  t('sinf sahifasi ochildi', !!d.querySelector('.sinf-hero'));
+  t('4 chorak bloki', d.querySelectorAll('.chorak-blok').length===4,
+     d.querySelectorAll('.chorak-blok').length+' blok');
+  t('84 kartochka', d.querySelectorAll('.dars-kart').length===84,
+     d.querySelectorAll('.dars-kart').length+' kartochka');
+  t('72 model rasmi', d.querySelectorAll('.dk-rasm img').length===72,
+     d.querySelectorAll('.dk-rasm img').length+' rasm');
+  t('12 modelsiz blok', d.querySelectorAll('.dk-yoq').length===12,
+     d.querySelectorAll('.dk-yoq').length+' ta');
+  t('yon panelda sinf belgilandi', !!d.querySelector('.sinf-head.tanlangan'));
+  const h1=d.querySelector('.sinf-hero h1').textContent;
+  t('sarlavha to\'g\'ri', /2-sinf/.test(h1), h1);
+  // kartochkadan darsga o'tish
+  d.querySelectorAll('.dars-kart')[3].click();
+  setTimeout(()=>{
+    const d2=f.contentDocument;
+    t('kartochkadan dars ochildi', /1-chorak\/3$/.test(f.contentWindow.location.hash),
+      f.contentWindow.location.hash);
+    t('dars sarlavhasi bor', !!d2.querySelector('.lesson-header'));
+    // 5-8 sinf ham kartochka ko'rinishida ishlaydimi
+    w.location.hash='#/robototexnika/1-yil/7-sinf';
+    setTimeout(()=>{
+      const d3=f.contentDocument;
+      t('7-sinf sahifasi ochildi', !!d3.querySelector('.sinf-hero'));
+      t('7-sinf 84 kartochka', d3.querySelectorAll('.dars-kart').length===84,
+        d3.querySelectorAll('.dars-kart').length+'');
+      t('7-sinfda model rasmi yo\'q (matnli amaliy ish)',
+        d3.querySelectorAll('.dk-rasm img').length===0,
+        d3.querySelectorAll('.dk-rasm img').length+' rasm');
+      // fanlar ro'yxatiga qaytish ishlayaptimi
+      w.location.hash='#/';
+      setTimeout(()=>{
+        const d4=f.contentDocument;
+        t('bosh sahifa (19 fan) ishlaydi', d4.querySelectorAll('.fan-card').length>=19,
+          d4.querySelectorAll('.fan-card').length+' fan');
+        document.getElementById('out').textContent=log.join('\n');
+      },500);
+    },700);
+  },700);
+}
+</script></body></html>
