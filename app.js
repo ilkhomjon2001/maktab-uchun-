@@ -128,6 +128,13 @@ function render(){
   const dars = activeKey ? darsTop(activeKey) : null;
   if (dars) activeYil = dars.yil;
   else if (activeSinf) activeYil = activeSinf.split('|')[0];
+  // Na dars, na sinf tanlangan bo'lsa — birinchi sinfning yillik rejasi
+  // ochiladi. Shunda fan ochilishi bilanoq bo'sh ekran emas, dars
+  // kartochkalari ko'rinadi.
+  if (!dars && !activeSinf){
+    const birinchi = Object.keys(TREE_DATA[activeYil] || {})[0];
+    if (birinchi) activeSinf = activeYil + '|' + birinchi;
+  }
   renderTree();
   if (dars){
     selectLesson(dars.l, activeKey, null);
@@ -411,6 +418,18 @@ function renderTree(){
     t.textContent = yil.toUpperCase();
     t.onclick = ()=>{
       activeYil = yil;
+      // Yil almashganda ochiq sinf sahifasi ham shu yilga o'tadi — aks holda
+      // yon panel 2-yilni, asosiy maydon esa 1-yilni ko'rsatib qolardi.
+      if (activeSinf){
+        const s = activeSinf.split('|')[1];
+        if (TREE_DATA[yil] && TREE_DATA[yil][s]){
+          activeSinf = yil + '|' + s;
+          activeKey = null;
+          const fan = fanTopilsin(activeFan);
+          if (fan) renderSinfSahifa(document.getElementById('mainContent'), fan, yil, s);
+          marshrutYoz();
+        }
+      }
       renderTree();
       // Ochiq dars shu yilda bo'lsa, ro'yxatda yana belgilanib turadi
       if (activeKey && activeKey.split('|')[0] === yil) treeFokus(activeKey);
@@ -483,7 +502,10 @@ function renderTree(){
       marshrutYoz();
       if (isMobile()) setNav(false);
     };
-    if (activeSinf === activeYil + '|' + sinf) head.classList.add('tanlangan');
+    if (activeSinf === activeYil + '|' + sinf){
+      head.classList.add('tanlangan', 'open');
+      chorakList.classList.add('open');
+    }
 
     block.appendChild(chorakList);
     nav.appendChild(block);
