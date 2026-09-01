@@ -143,6 +143,54 @@ for (const sinf of SINFLAR) {
   }
 }
 
+/* --------------------- 2b. OYLIK NAZORAT TUZILMASI (2026-09-01 qoidasi)
+ * Har chorakda: 9-dars (idx 8) = NAZARIY TEST, 18-dars (idx 17) = AMALIY
+ * LOYIHA-IMTIHON, boshqa joyda nazorat/loyiha bo'lmasin. Test kontentida
+ * 10 savol va javoblar kaliti, loyihada 10 bandli check-list bo'lsin. */
+
+for (const yil of ['1-yil', '2-yil']) {
+  for (const sinf of SINFLAR) {
+    const sd = TREE[yil] && TREE[yil][sinf];
+    if (!sd) continue;
+    Object.keys(sd).forEach((chorak, ci) => {
+      if (/\(Dasturlash\)/.test(chorak)) return;
+      const l = sd[chorak];
+      const joy = `${yil} ${sinf} ${chorak}`;
+      tekshir(l.length === 21, `${joy}: ${l.length} dars (21 kerak)`);
+
+      const nazJoy = l.map((d, i) => d.type === 'nazorat' ? i : -1).filter(i => i >= 0);
+      const loyJoy = l.map((d, i) => d.type === 'loyiha' ? i : -1).filter(i => i >= 0);
+      tekshir(nazJoy.length === 1 && nazJoy[0] === 8,
+        `${joy}: nazorat 9-darsda emas (indekslar: ${nazJoy.join(',') || 'yoq'})`);
+      tekshir(loyJoy.length === 1 && loyJoy[0] === 17,
+        `${joy}: loyiha 18-darsda emas (indekslar: ${loyJoy.join(',') || 'yoq'})`);
+
+      const oyTest = ci * 2 + 1, oyLoy = ci * 2 + 2;
+      tekshir(new RegExp('^' + oyTest + "-oylik nazorat \\(NAZARIY TEST\\)").test(l[8].title),
+        `${joy}: 9-dars sarlavhasi "${String(l[8].title).slice(0, 45)}"`);
+      tekshir(new RegExp('^' + oyLoy + "-oylik nazorat \\(AMALIY LOYIHA-IMTIHON\\)").test(l[17].title),
+        `${joy}: 18-dars sarlavhasi "${String(l[17].title).slice(0, 45)}"`);
+
+      const testKt = LESSONS[[yil, sinf, chorak, 8].join('|')];
+      const savolSex = testKt && (testKt.amaliy || []).find(s => /Test savollari/.test(s.title));
+      tekshir(!!savolSex && savolSex.points.length === 10,
+        `${joy}: testda 10 savol yo'q (${savolSex ? savolSex.points.length : 'bo\'lim yo\'q'})`);
+      tekshir(!!testKt && (testKt.amaliy || []).some(s => /Javoblar kaliti/.test(s.title)),
+        `${joy}: testda javoblar kaliti yo'q`);
+      tekshir(!!testKt && (testKt.nazariya || []).some(s => /O'tkazish instruksiyasi/.test(s.title)),
+        `${joy}: testda o'tkazish instruksiyasi yo'q`);
+
+      const loyKt = LESSONS[[yil, sinf, chorak, 17].join('|')];
+      const chekSex = loyKt && (loyKt.nazariya || []).find(s => /check-list/i.test(s.title));
+      const bandlar = chekSex ? chekSex.points.filter(p => /^\d+-band \(1 ball\)/.test(p)).length : 0;
+      tekshir(bandlar === 10,
+        `${joy}: loyihada 10 bandli check-list yo'q (${bandlar} band)`);
+      tekshir(!!loyKt && (loyKt.nazariya || []).some(s => /e'tibor/i.test(s.title)),
+        `${joy}: loyihada "nimalarga e'tibor" bo'limi yo'q`);
+    });
+  }
+}
+
 /* ------------------------------------- 3. DARAXT <-> DARS REJALARI BUTUNLIGI */
 
 let dars = 0, modelli = 0;

@@ -169,7 +169,12 @@ D:\maktab uchun sayt\Robot master(PM) instruction-*.zip  — manba rasmlar (2 ta
 ## MUHIM QARORLAR (o'zgartirmaslik kerak, foydalanuvchi bilan kelishilgan)
 
 - **1-yil = 100% qurish, dasturlash YO'Q.** Har chorak 18 ta turli robot (har biri BITTA darsda: yig'ish+sinov, chunki jihozlar keyingi darsga saqlanmaydi).
-- **Har yil 84 dars** (4 chorak x 21 dars: 1 kirish + 18 model + 1 nazorat + 1 loyiha).
+- **Har yil 84 dars** (4 chorak x 21 dars: 1 kirish + 18 model + 1 test + 1 loyiha-imtihon).
+- **Baho HAR OYda chiqadi (2026-09-01, foydalanuvchi so'rovi)**: ustoz maoshi o'quvchi
+  baholaridan hisoblanadi, shuning uchun imtihonlar chorak oxirida EMAS — 9-dars =
+  NAZARIY TEST (10 savol, A/B/C, 20 daqiqa), 18-dars = AMALIY LOYIHA-IMTIHON
+  (10 bandli check-list, har band 1 ball). Baholash: 9-10=5, 7-8=4, 5-6=3, 3-4=2, 0-2=FAILED.
+  Eski chorak-oxiri musobaqalari bekor; o'lchovlari loyiha check-listiga kirgan.
 - **Dasturlash faqat 2-yil, 2-sinfdan boshlab**, 3-4-chorakda (haftaning YANGI 3-soatida, Scratch-uslub). 0-1-sinfda 2-yilda ham dasturlash yo'q — 1-yil bilan AYNAN bir xil.
 - **1-chorak nazorat = "RoboRace"** (2m masofa, vaqt bo'yicha 5/4/3/2/FAILED — foydalanuvchi bergan aniq mezon). 2-4-chorak — shu uslubda taklif etilgan (RoboLift/RoboSense/RoboChampionship), aniq vaqt me'yorlari sinov orqali moslashtirilishi mumkin.
 - **"Dars mavzusi" va "Amaliy ish" AJRATILGAN**: mavzu = ilmiy/STEAM tema (masalan "Ishqalanish kuchi"), amaliy ish = model nomi (masalan "Little Lantern 1"). Buni hech qachon birlashtirmaslik kerak.

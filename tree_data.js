@@ -49,6 +49,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "1-oylik nazorat (NAZARIY TEST) — \"Muvozanat va barqarorlik\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Og'irlik markazi nima",
      "model": "Tumbler",
      "type": "qurish"
@@ -89,6 +94,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "2-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Eng uzoq yuradigan model\": chorakdagi elastik yoki inersiyali modellardan birini tanlab, uni imkon qadar uzoq yuradigan qilib o'zgartirish. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Cho'zilgan rezinada energiya to'planadi",
      "model": "Inertia Pull-Back Car",
      "type": "qurish"
@@ -102,16 +112,6 @@ window.TREE_DATA = {
      "title": "Kuch yelkasi va yuk yelkasi",
      "model": "Jackknife",
      "type": "qurish"
-    },
-    {
-     "title": "1-chorak nazorat ishi — \"Rezina-Yurish\" musobaqasi: elastik yoki pull-back mexanizmli model start chizig'idan turtkisiz jo'natiladi va bosib o'tgan masofasi o'lchanadi. Baholash mezoni: 3 metrdan uzoq = 5 (a'lo); 2–3 metr = 4 (yaxshi); 1–2 metr = 3 (qoniqarli); 0,5–1 metr = 2 (qoniqarsiz); 0,5 metrdan kam yoki model yo'lda tarqalib ketsa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "1-chorak loyihasi: \"Eng uzoq yuradigan model\" — chorakdagi elastik yoki inersiyali modellardan birini tanlab, uni imkon qadar uzoq yuradigan qilib o'zgartirish",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "2-chorak": [
@@ -156,6 +156,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "3-oylik nazorat (NAZARIY TEST) — \"Richag qonuni\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "1-toifa richag (tayanch o'rtada)",
      "model": "Pilers",
      "type": "qurish"
@@ -196,6 +201,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "4-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"O'zimning richagli qurilmam\": richag qonunidan foydalanib, biror narsani ko'taradigan yoki qisadigan o'z qurilmangizni qurish. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Richag va tayanch nuqtasi",
      "model": "Ladder",
      "type": "qurish"
@@ -209,16 +219,6 @@ window.TREE_DATA = {
      "title": "Asos kengligi",
      "model": "Quadrilateral",
      "type": "qurish"
-    },
-    {
-     "title": "2-chorak nazorat ishi — \"Richag-Kuch\" musobaqasi: richagli model yordamida stol ustidagi yukni ko'taradi; tayanch nuqtasini surib, eng kam kuch bilan ko'tarish holati topiladi. Baholash mezoni: 3 va undan ko'p detal-yukni ko'tarsa va tayanch nuqtasini to'g'ri tushuntirsa = 5 (a'lo); 2 detal-yukni ko'tarsa = 4 (yaxshi); 1 detal-yukni ko'tarsa = 3 (qoniqarli); Richag ishlaydi, lekin yuk ko'tarilmasa = 2 (qoniqarsiz); Richag mexanizmi yig'ilmagan bo'lsa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "2-chorak loyihasi: \"O'zimning richagli qurilmam\" — richag qonunidan foydalanib, biror narsani ko'taradigan yoki qisadigan o'z qurilmangizni qurish",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "3-chorak": [
@@ -263,6 +263,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "5-oylik nazorat (NAZARIY TEST) — \"Geometrik shakllar va mustahkamlik\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Burchaklar va tomonlar bog'liqligi",
      "model": "Little Lantern 1",
      "type": "qurish"
@@ -303,6 +308,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "6-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Mustahkam minora\": iloji boricha baland, lekin turg'un konstruksiya qurish. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Tishli g'ildirak va tishlarning ulanishi - muhandislik sinovi",
      "model": "Eggbeater",
      "type": "qurish"
@@ -316,16 +326,6 @@ window.TREE_DATA = {
      "title": "Katta va kichik g'ildirak — tezlik farqi",
      "model": "Grinding Machine",
      "type": "qurish"
-    },
-    {
-     "title": "3-chorak nazorat ishi — \"Mustahkam Ko'prik\" musobaqasi: o'quvchi 20 sm oraliqni bosib o'tadigan konstruksiya quradi va uning ustiga bosqichma-bosqich yuk qo'yiladi. Baholash mezoni: 5 va undan ko'p detal-yukni ko'tarsa va uchburchak ishlatgan bo'lsa = 5 (a'lo); 3–4 detal-yukni ko'tarsa = 4 (yaxshi); 1–2 detal-yukni ko'tarsa = 3 (qoniqarli); Konstruksiya turadi, lekin yuk ko'tarmasa = 2 (qoniqarsiz); Konstruksiya 20 sm oraliqni bosib o'tmasa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "3-chorak loyihasi: \"Mustahkam minora\" — iloji boricha baland, lekin turg'un konstruksiya qurish",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "4-chorak": [
@@ -370,6 +370,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "7-oylik nazorat (NAZARIY TEST) — \"Tishli g'ildirak va shkiv\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Tishli g'ildirak va tishlarning ulanishi",
      "model": "Weirdo Clock",
      "type": "qurish"
@@ -410,6 +415,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "8-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Tezlashtirgich\": tishli g'ildirak yoki shkiv uzatmasi qurib, chiqish qismini kirishdan tezroq aylantirish. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Shkiv kuch yo'nalishini o'zgartiradi",
      "model": "Pulley Crane",
      "type": "qurish"
@@ -423,16 +433,6 @@ window.TREE_DATA = {
      "title": "Bir nechta shkiv — kuchni kamaytirish",
      "model": "Line Car",
      "type": "qurish"
-    },
-    {
-     "title": "4-chorak (yakuniy) nazorat ishi — \"Tezlik va Kuch\" musobaqasi: tishli g'ildirak yoki shkiv uzatmasi qurib, bir xil qo'l aylanishida chiqish g'ildiragi necha marta aylanishini ko'rsatadi va tushuntiradi. Baholash mezoni: Uzatmani quradi, nisbatni o'lchaydi va nega tezlik/kuch o'zgarganini tushuntiradi = 5 (a'lo); Uzatmani quradi va nisbatni o'lchaydi = 4 (yaxshi); Uzatmani quradi, u aylanadi = 3 (qoniqarli); Tishli g'ildiraklar ulangan, lekin aylanmasa = 2 (qoniqarsiz); Uzatma yig'ilmagan bo'lsa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "4-chorak loyihasi (yil yakuni): \"Tezlashtirgich\" — tishli g'ildirak yoki shkiv uzatmasi qurib, chiqish qismini kirishdan tezroq aylantirish",
-     "model": null,
-     "type": "loyiha"
     }
    ]
   },
@@ -479,6 +479,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "1-oylik nazorat (NAZARIY TEST) — \"Vint mexanizmi va avtomatik harakat\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Harakatni to'xtatish va boshlash",
      "model": "Inchworm",
      "type": "qurish"
@@ -519,6 +524,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "2-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Harakatlanuvchi o'yinchoq\": krivoship mexanizmiga o'z figurangizni qo'shib, harakatlanuvchi o'yinchoq yasash. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Harakatni sanash",
      "model": "Jumping YL Man 1",
      "type": "qurish"
@@ -532,16 +542,6 @@ window.TREE_DATA = {
      "title": "Chayqalish (tebranib turish) harakati",
      "model": "Scarecrow",
      "type": "qurish"
-    },
-    {
-     "title": "1-chorak nazorat ishi — \"Mexanizm-Detektiv\" musobaqasi: o'quvchi qo'l bilan aylantiriladigan mexanizm quradi va uning qaysi qismi aylanma, qaysi qismi tebranma harakat qilishini ko'rsatib beradi. Baholash mezoni: Mexanizm silliq ishlaydi va 3 ta qismni to'g'ri nomlaydi = 5 (a'lo); Mexanizm ishlaydi va 2 ta qismni nomlaydi = 4 (yaxshi); Mexanizm ishlaydi = 3 (qoniqarli); Mexanizm yig'ilgan, lekin tiqilib qoladi = 2 (qoniqarsiz); Mexanizm yig'ilmagan bo'lsa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "1-chorak loyihasi: \"Harakatlanuvchi o'yinchoq\" — krivoship mexanizmiga o'z figurangizni qo'shib, harakatlanuvchi o'yinchoq yasash",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "2-chorak": [
@@ -586,6 +586,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "3-oylik nazorat (NAZARIY TEST) — \"Mexanizmni takomillashtirish va harakat turlari\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Mexanizm qismlari: krivoship va shatun",
      "model": "Manual Rotating YL Man 2",
      "type": "qurish"
@@ -626,6 +631,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "4-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Ikki harakat bitta mexanizmda\": bitta krivoshipdan ikki xil harakat chiqaradigan mexanizm qurish. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Muvozanatlash — tebranish silliq bo'lishi uchun",
      "model": "Hammer Machine",
      "type": "qurish"
@@ -639,16 +649,6 @@ window.TREE_DATA = {
      "title": "Real dvigatel bilan solishtirish",
      "model": "Step Man",
      "type": "qurish"
-    },
-    {
-     "title": "2-chorak nazorat ishi — \"Krivoship-Usta\" musobaqasi: krivoship-shatun mexanizmi qurib, 30 soniya davomida uzluksiz aylantiradi; mexanizm necha marta to'liq tebranish berishi sanaladi. Baholash mezoni: 25 va undan ko'p tebranish, uzilishsiz = 5 (a'lo); 15–24 tebranish = 4 (yaxshi); 8–14 tebranish = 3 (qoniqarli); 1–7 tebranish yoki mexanizm ikki marta uzilsa = 2 (qoniqarsiz); Mexanizm umuman tebranmasa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "2-chorak loyihasi: \"Ikki harakat bitta mexanizmda\" — bitta krivoshipdan ikki xil harakat chiqaradigan mexanizm qurish",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "3-chorak": [
@@ -693,6 +693,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "5-oylik nazorat (NAZARIY TEST) — \"O'lik nuqta, motor va murakkab harakatlar\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "To'rt bo'g'inli mexanizm",
      "model": "Sweeper",
      "type": "qurish"
@@ -733,6 +738,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "6-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Sozlanadigan mexanizm\": tebranish kengligini foydalanuvchi o'zgartira oladigan mexanizm qurish. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Mexanizm shovqini",
      "model": "Jumping YL Man 4",
      "type": "qurish"
@@ -746,16 +756,6 @@ window.TREE_DATA = {
      "title": "Shatun uzunligining ta'siri",
      "model": "Manual Rotating YL Man 4",
      "type": "qurish"
-    },
-    {
-     "title": "3-chorak nazorat ishi — \"Amplituda-Aniqlik\" musobaqasi: o'quvchi krivoship radiusini o'zgartirib, mexanizmning tebranish kengligini belgilangan nishonga (10 sm) moslashtiradi. Baholash mezoni: Farq 1 sm dan kam = 5 (a'lo); Farq 1–2 sm = 4 (yaxshi); Farq 2–4 sm = 3 (qoniqarli); Farq 4–7 sm = 2 (qoniqarsiz); Farq 7 sm dan ko'p yoki sozlash umuman qilinmasa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "3-chorak loyihasi: \"Sozlanadigan mexanizm\" — tebranish kengligini foydalanuvchi o'zgartira oladigan mexanizm qurish",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "4-chorak": [
@@ -800,6 +800,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "7-oylik nazorat (NAZARIY TEST) — \"Krivoship-shatun mexanizmi\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Mexanizm qismlari: krivoship va shatun",
      "model": "Skiing Man",
      "type": "qurish"
@@ -840,6 +845,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "8-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Mexanizm teatri\": yil davomida o'rgangan mexanizmlardan 2-3 tasini birlashtirib, kichik sahna yasash. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Oldinga-orqaga tebranish (gorizontal)",
      "model": "Woodpecker",
      "type": "qurish"
@@ -853,16 +863,6 @@ window.TREE_DATA = {
      "title": "Nega og'ir kema cho'kmaydi",
      "model": "Dragon Boat",
      "type": "qurish"
-    },
-    {
-     "title": "4-chorak (yakuniy) nazorat ishi — \"Mexanizm-Chempionati\" musobaqasi: yil davomida o'rgangan mexanizmlardan birini tanlab qurib, uning harakatini sinfga tushuntiradi va bitta yaxshilanish kiritganini ko'rsatadi. Baholash mezoni: Mexanizm ishlaydi, tushuntiradi va yaxshilanishni asoslaydi = 5 (a'lo); Mexanizm ishlaydi va tushuntiradi = 4 (yaxshi); Mexanizm ishlaydi = 3 (qoniqarli); Mexanizm qisman ishlaydi = 2 (qoniqarsiz); Mexanizm yig'ilmagan bo'lsa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "4-chorak loyihasi (yil yakuni): \"Mexanizm teatri\" — yil davomida o'rgangan mexanizmlardan 2-3 tasini birlashtirib, kichik sahna yasash",
-     "model": null,
-     "type": "loyiha"
     }
    ]
   },
@@ -909,6 +909,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "1-oylik nazorat (NAZARIY TEST) — \"Sensor nima va qanday ishlaydi\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Bosim va teginish sensori",
      "model": "Score Maker (AI)",
      "type": "qurish"
@@ -949,6 +954,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "2-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Ogohlantiruvchi qurilma\": biror narsani sezib, ogohlantirish beradigan qurilma loyihalash. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Yorug'lik va rang sensori",
      "model": "Line Patrol Tank",
      "type": "qurish"
@@ -962,16 +972,6 @@ window.TREE_DATA = {
      "title": "Chegara qiymati (sensor qachon ishlaydi)",
      "model": "Mine Clearance",
      "type": "qurish"
-    },
-    {
-     "title": "1-chorak nazorat ishi — \"Sensor-Test\" musobaqasi: sensorli model qurib, sensorga 5 marta signal beriladi; model har safar to'g'ri javob berishi kerak. Baholash mezoni: 5/5 to'g'ri = 5 (a'lo); 4/5 to'g'ri = 4 (yaxshi); 3/5 to'g'ri = 3 (qoniqarli); 1–2/5 to'g'ri = 2 (qoniqarsiz); Sensor umuman javob bermasa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "1-chorak loyihasi: \"Ogohlantiruvchi qurilma\" — biror narsani sezib, ogohlantirish beradigan qurilma loyihalash",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "2-chorak": [
@@ -1016,6 +1016,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "3-oylik nazorat (NAZARIY TEST) — \"Masofa, yorug'lik va chegara qiymati\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Ikki sensor birga",
      "model": "Sorting Box",
      "type": "qurish"
@@ -1056,6 +1061,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "4-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Ikki sensorli model\": ikki xil signalga ikki xil javob beradigan model qurish. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Yorug'lik va rang sensori",
      "model": "Bus",
      "type": "qurish"
@@ -1069,16 +1079,6 @@ window.TREE_DATA = {
      "title": "Sensordan reaksiyagacha",
      "model": "Bus",
      "type": "qurish"
-    },
-    {
-     "title": "2-chorak nazorat ishi — \"Aqlli Model\" musobaqasi: model uch xil turli signalga uch xil javob berishi kerak (masalan: to'xtash, orqaga qaytish, ovoz/chiroq). Baholash mezoni: 3 xil javob ham to'g'ri = 5 (a'lo); 2 xil javob to'g'ri = 4 (yaxshi); 1 xil javob to'g'ri = 3 (qoniqarli); Javoblar chalkash ishlasa = 2 (qoniqarsiz); Model signalga umuman javob bermasa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "2-chorak loyihasi: \"Ikki sensorli model\" — ikki xil signalga ikki xil javob beradigan model qurish",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "3-chorak": [
@@ -1123,6 +1123,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "5-oylik nazorat (NAZARIY TEST) — \"Bosim sensori va avtomatik tizimlar\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Sensor va inson sezgi organlari",
      "model": "Obstacle Avoiding (2)",
      "type": "qurish"
@@ -1163,6 +1168,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "6-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Avtomatik ombor\": yukni sezib, ko'tarib, boshqa joyga qo'yadigan tizim loyihalash. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Bir necha mexanizm birga",
      "model": "Intersteller Radar Forklift",
      "type": "qurish"
@@ -1176,16 +1186,6 @@ window.TREE_DATA = {
      "title": "Strela uzunligi va ko'tarish kuchi",
      "model": "Combat Forklift",
      "type": "qurish"
-    },
-    {
-     "title": "3-chorak nazorat ishi — \"Sensor va Yuk\" musobaqasi: model to'siqni sensor bilan aniqlab to'xtaydi, so'ng yukni ko'tarib 50 sm masofaga tashiydi. Baholash mezoni: Ikkala bosqich ham to'g'ri, yuk tushmasa = 5 (a'lo); Ikkala bosqich bajarildi, yuk bir marta tushdi = 4 (yaxshi); Faqat bitta bosqich bajarildi = 3 (qoniqarli); Bosqichlar boshlandi, lekin tugamadi = 2 (qoniqarsiz); Model harakatlanmasa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "3-chorak loyihasi: \"Avtomatik ombor\" — yukni sezib, ko'tarib, boshqa joyga qo'yadigan tizim loyihalash",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "4-chorak": [
@@ -1230,6 +1230,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "7-oylik nazorat (NAZARIY TEST) — \"Ko'tarish mexanizmlari\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Nega og'ir yukni ko'tarish qiyin",
      "model": "Crane",
      "type": "qurish"
@@ -1270,6 +1275,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "8-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Maktabga robot\": maktabdagi biror ishni yengillashtiradigan yuk ko'targich robot loyihalash. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Shkiv bilan ko'tarish - muhandislik sinovi",
      "model": "Fork Lift Truck",
      "type": "qurish"
@@ -1283,16 +1293,6 @@ window.TREE_DATA = {
      "title": "Nega og'ir yukni ko'tarish qiyin - muhandislik sinovi",
      "model": "Tower Crane",
      "type": "qurish"
-    },
-    {
-     "title": "4-chorak (yakuniy) nazorat ishi — \"RoboLift\" musobaqasi: yuk ko'targich robot bir xil yukni belgilangan balandlikka ko'taradi va 1 metr masofaga tashiydi; vaqt o'lchanadi. Baholash mezoni: 30 soniyagacha = 5 (a'lo); 31–60 soniya = 4 (yaxshi); 61–90 soniya = 3 (qoniqarli); 91–120 soniya = 2 (qoniqarsiz); 2 daqiqadan ortiq yoki yuk tashilmasa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "4-chorak loyihasi (yil yakuni): \"Maktabga robot\" — maktabdagi biror ishni yengillashtiradigan yuk ko'targich robot loyihalash",
-     "model": null,
-     "type": "loyiha"
     }
    ]
   },
@@ -1339,6 +1339,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "1-oylik nazorat (NAZARIY TEST) — \"Elektr motor\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Motor issiqligi va chegarasi",
      "model": "Pivoting Fan",
      "type": "qurish"
@@ -1379,6 +1384,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "2-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Motorli yordamchi\": motor kuchidan foydalanadigan foydali qurilma loyihalash. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "G'ildirak ishqalanishni kamaytiradi",
      "model": "Speeding Car",
      "type": "qurish"
@@ -1392,16 +1402,6 @@ window.TREE_DATA = {
      "title": "Silliq va notekis sirt",
      "model": "Formula Car",
      "type": "qurish"
-    },
-    {
-     "title": "1-chorak nazorat ishi — \"Motor-Start\" musobaqasi: motorli model o'z kuchi bilan 2 metr masofani bosib o'tadi; vaqt o'lchanadi. Baholash mezoni: 10 soniyagacha = 5 (a'lo); 11–25 soniya = 4 (yaxshi); 26–45 soniya = 3 (qoniqarli); 46–60 soniya = 2 (qoniqarsiz); 60 soniyadan ortiq yoki finishga yetmasa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "1-chorak loyihasi: \"Motorli yordamchi\" — motor kuchidan foydalanadigan foydali qurilma loyihalash",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "2-chorak": [
@@ -1446,6 +1446,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "3-oylik nazorat (NAZARIY TEST) — \"Ishqalanish kuchi\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Ishqalanish nima",
      "model": "Harley",
      "type": "qurish"
@@ -1486,6 +1491,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "4-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Har yerda yuradigan mashina\": uch xil sirtda ham yura oladigan transport loyihalash. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Burilish qanday sodir bo'ladi",
      "model": "Wings Car",
      "type": "qurish"
@@ -1499,16 +1509,6 @@ window.TREE_DATA = {
      "title": "G'ildiraklar soni va joylashuvi",
      "model": "Santa's Sleigh",
      "type": "qurish"
-    },
-    {
-     "title": "2-chorak nazorat ishi — \"Ishqalanish-Sinovi\" musobaqasi: bitta model uch xil sirtda (silliq stol, gilam, qog'oz) sinaladi va har birida bosib o'tgan masofasi yoziladi. Baholash mezoni: Uch sinov ham o'tkazilib, jadval to'ldiriladi va farq tushuntiriladi = 5 (a'lo); Uch sinov o'tkazilib, jadval to'ldiriladi = 4 (yaxshi); Ikki sinov o'tkaziladi = 3 (qoniqarli); Bitta sinov o'tkaziladi = 2 (qoniqarsiz); Model harakatlanmasa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "2-chorak loyihasi: \"Har yerda yuradigan mashina\" — uch xil sirtda ham yura oladigan transport loyihalash",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "3-chorak": [
@@ -1553,6 +1553,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "5-oylik nazorat (NAZARIY TEST) — \"Transport: shassi, g'ildirak, tormoz\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Tormozlash",
      "model": "Infantry Fighting Vehicle",
      "type": "qurish"
@@ -1593,6 +1598,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "6-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Maxsus transport\": aniq bir vazifa uchun mo'ljallangan transport loyihalash (tez yordam, yuk tashish, qutqaruv). Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Og'irlik taqsimoti",
      "model": "Armoured Vehicle",
      "type": "qurish"
@@ -1606,16 +1616,6 @@ window.TREE_DATA = {
      "title": "Motordan g'ildirakkacha kuch uzatish",
      "model": "Cheetch",
      "type": "qurish"
-    },
-    {
-     "title": "3-chorak nazorat ishi — \"RoboRace\" musobaqasi: model 2,5 metrlik trassani bosib o'tadi; trassada kamida bitta burilish va bitta to'siq bor. Baholash mezoni: 20 soniyagacha, to'siqqa tegmasdan = 5 (a'lo); 21–40 soniya = 4 (yaxshi); 41–70 soniya = 3 (qoniqarli); 71–100 soniya yoki to'siqqa 2 marta tegsa = 2 (qoniqarsiz); Finishga yetib bormasa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "3-chorak loyihasi: \"Maxsus transport\" — aniq bir vazifa uchun mo'ljallangan transport loyihalash (tez yordam, yuk tashish, qutqaruv)",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "4-chorak": [
@@ -1660,6 +1660,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "7-oylik nazorat (NAZARIY TEST) — \"Osma tizim va og'irlik taqsimoti\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Havo qarshiligi",
      "model": "Star War Aircraft",
      "type": "qurish"
@@ -1700,6 +1705,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "8-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Havo mashinasi\": havo oqimi yoki reaktiv kuch bilan harakatlanadigan model loyihalash. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Reaktiv harakat tamoyili",
      "model": "Twin Propeller Aircraft",
      "type": "qurish"
@@ -1713,16 +1723,6 @@ window.TREE_DATA = {
      "title": "Parrak qanotining burchagi",
      "model": "Osprey Aircraft",
      "type": "qurish"
-    },
-    {
-     "title": "4-chorak (yakuniy) nazorat ishi — \"Havo-Chempionati\" musobaqasi: havo oqimi yoki reaktiv kuch bilan harakatlanadigan model quriladi va uning uchish/siljish masofasi o'lchanadi. Baholash mezoni: 4 metrdan uzoq va to'g'ri yo'nalishda = 5 (a'lo); 2,5–4 metr = 4 (yaxshi); 1,5–2,5 metr = 3 (qoniqarli); 0,5–1,5 metr = 2 (qoniqarsiz); 0,5 metrdan kam yoki model boshqarib bo'lmaydigan holda aylansa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "4-chorak loyihasi (yil yakuni): \"Havo mashinasi\" — havo oqimi yoki reaktiv kuch bilan harakatlanadigan model loyihalash",
-     "model": null,
-     "type": "loyiha"
     }
    ]
   },
@@ -1769,6 +1769,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "1-oylik nazorat (NAZARIY TEST) — \"Biomimikriya: hayvonlardan o'rganamiz\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Hayvon oyog'i qanday harakat qiladi",
      "model": "Electric Mouse",
      "type": "qurish"
@@ -1809,6 +1814,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "2-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Mening bionik ixtirom\": tabiatdagi biror moslashuvni texnikaga ko'chirib, o'z ixtirongizni qurish. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Ko'p oyoqli harakat tartibi",
      "model": "Rabbit (AI)",
      "type": "qurish"
@@ -1822,16 +1832,6 @@ window.TREE_DATA = {
      "title": "Suzuvchi hayvonlar harakati",
      "model": "Rabbit (AI)",
      "type": "qurish"
-    },
-    {
-     "title": "1-chorak nazorat ishi — \"Bionika-Taqdimot\" musobaqasi: tabiatdagi biror jonzotdan ilhomlangan model qurib, qaysi hayvondan nimani olganini va nega shunday qilganini sinfga tushuntiradi. Baholash mezoni: Model harakatlanadi va 2 ta aniq o'xshatish asoslanadi = 5 (a'lo); Model harakatlanadi va 1 ta o'xshatish asoslanadi = 4 (yaxshi); Model harakatlanadi = 3 (qoniqarli); Model yig'ilgan, lekin harakatlanmasa = 2 (qoniqarsiz); Model yig'ilmagan bo'lsa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "1-chorak loyihasi: \"Mening bionik ixtirom\" — tabiatdagi biror moslashuvni texnikaga ko'chirib, o'z ixtirongizni qurish",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "2-chorak": [
@@ -1876,6 +1876,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "3-oylik nazorat (NAZARIY TEST) — \"Hayvon harakatini mexanizmda takrorlash\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Biomimikriya nima",
      "model": "Little Bear",
      "type": "qurish"
@@ -1916,6 +1921,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "4-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Yuradigan mexanizm\": g'ildiraksiz, oyoq bilan yuradigan model loyihalash. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Biomimikriya nima",
      "model": "Crab Premium",
      "type": "qurish"
@@ -1929,16 +1939,6 @@ window.TREE_DATA = {
      "title": "Sudralib yuruvchilar harakati",
      "model": "Buffalo (electric)",
      "type": "qurish"
-    },
-    {
-     "title": "2-chorak nazorat ishi — \"Yurish-Musobaqasi\" musobaqasi: g'ildiraksiz, oyoqli model 1,5 metr masofani bosib o'tadi; yiqilsa qaytadan qo'yiladi va urinish sanaladi. Baholash mezoni: Yiqilmasdan bosib o'tsa = 5 (a'lo); 1 marta yiqilsa = 4 (yaxshi); 2–3 marta yiqilsa = 3 (qoniqarli); 4–6 marta yiqilsa = 2 (qoniqarsiz); Model yura olmasa yoki g'ildirak ishlatilsa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "2-chorak loyihasi: \"Yuradigan mexanizm\" — g'ildiraksiz, oyoq bilan yuradigan model loyihalash",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "3-chorak": [
@@ -1983,6 +1983,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "5-oylik nazorat (NAZARIY TEST) — \"Kuch, o'lcham va harakat strategiyasi\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Ko'p oyoqli harakat tartibi - muhandislik sinovi",
      "model": "Stegosaurus (Adv)",
      "type": "qurish"
@@ -2023,6 +2028,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "6-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Tadqiqot roboti\": notekis yuzada harakatlanib, ma'lumot yoki namuna yig'adigan robot loyihalash. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Notekis yuzada harakat",
      "model": "Moon Rover",
      "type": "qurish"
@@ -2036,16 +2046,6 @@ window.TREE_DATA = {
      "title": "Boshqa sayyoralarni o'rganish",
      "model": "Interstellar Train",
      "type": "qurish"
-    },
-    {
-     "title": "3-chorak nazorat ishi — \"Notekis Yo'l\" musobaqasi: model notekis yuzadan (to'siqlar, qiyalik, g'adir-budir sirt) 1,5 metr masofani bosib o'tadi. Baholash mezoni: Barcha to'siqlardan o'tib, finishga yetsa = 5 (a'lo); 1 ta to'siqda qoqilib, keyin o'tsa = 4 (yaxshi); Masofaning yarmidan ko'pini bosib o'tsa = 3 (qoniqarli); Masofaning yarmidan kamini bosib o'tsa = 2 (qoniqarsiz); Birinchi to'siqdan o'ta olmasa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "3-chorak loyihasi: \"Tadqiqot roboti\" — notekis yuzada harakatlanib, ma'lumot yoki namuna yig'adigan robot loyihalash",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "4-chorak": [
@@ -2090,6 +2090,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "7-oylik nazorat (NAZARIY TEST) — \"Kosmik texnika\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Kosmik texnika og'irligi va o'lchami",
      "model": "Moon Collection Rover",
      "type": "qurish"
@@ -2130,6 +2135,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "8-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Bitiruv loyihasi\": o'zingiz tanlagan muammoni to'liq muhandislik tsikli bo'yicha hal qilish. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Kosmik texnikada avtomatik xavfsizlik",
      "model": "Armoured Vehicle (Space)",
      "type": "qurish"
@@ -2143,16 +2153,6 @@ window.TREE_DATA = {
      "title": "Rover qanday boshqariladi",
      "model": "Reconnaissance Walker",
      "type": "qurish"
-    },
-    {
-     "title": "4-chorak (yakuniy) nazorat ishi — \"Mars-Missiya\" musobaqasi: rover notekis maydondan o'tib, belgilangan nuqtadagi namunani (detal) olib, start nuqtasiga qaytadi. Baholash mezoni: Namunani olib qaytsa, 2 daqiqadan kam vaqtda = 5 (a'lo); Namunani olib qaytsa, 2–4 daqiqada = 4 (yaxshi); Namunani olsa, lekin qaytmasa = 3 (qoniqarli); Nuqtaga yetsa, lekin namunani ololmasa = 2 (qoniqarsiz); Nuqtaga yetib bormasa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "4-chorak loyihasi (yil yakuni): \"Bitiruv loyihasi\" — o'zingiz tanlagan muammoni to'liq muhandislik tsikli bo'yicha hal qilish",
-     "model": null,
-     "type": "loyiha"
     }
    ]
   },
@@ -3921,6 +3921,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "1-oylik nazorat (NAZARIY TEST) — \"Muvozanat va elastik energiya\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Pull-back mexanizmi",
      "model": "Top Launcher (with wheels)",
      "type": "qurish"
@@ -3961,6 +3966,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "2-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Aniq otuvchi mexanizm\": elastik energiya bilan ishlaydigan, nishonga aniq tushadigan mexanizm loyihalash. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Mexanik yutuq — richag necha marta yordam beradi",
      "model": "Wheel Barrow",
      "type": "qurish"
@@ -3974,16 +3984,6 @@ window.TREE_DATA = {
      "title": "Kuch yelkasi va yuk yelkasi",
      "model": "Jack",
      "type": "qurish"
-    },
-    {
-     "title": "1-chorak nazorat ishi — \"Aniq-Masofa\" musobaqasi: elastik yoki pull-back model start chizig'idan jo'natiladi va 2 metrda belgilangan 30 sm kenglikdagi nishon zonasida to'xtashi kerak. Baholash mezoni: Chetlanish 10 sm dan kam = 5 (a'lo); 10–20 sm = 4 (yaxshi); 20–40 sm = 3 (qoniqarli); 40–70 sm = 2 (qoniqarsiz); 70 sm dan ko'p yoki model qo'zg'almasa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "1-chorak loyihasi: \"Aniq otuvchi mexanizm\" — elastik energiya bilan ishlaydigan, nishonga aniq tushadigan mexanizm loyihalash",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "2-chorak": [
@@ -4028,6 +4028,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "3-oylik nazorat (NAZARIY TEST) — \"Richag va mustahkam konstruksiya\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Diagonal qo'shish",
      "model": "Little Lantern 2",
      "type": "qurish"
@@ -4068,6 +4073,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "4-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Ikki bosqichli uzatma\": kirish aylanishini kamida 4 barobar tezlashtiradigan yoki sekinlashtiradigan uzatma qurish. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Uzatma nisbati — tishlarni sanash",
      "model": "Manual Drill Car",
      "type": "qurish"
@@ -4081,16 +4091,6 @@ window.TREE_DATA = {
      "title": "Uzatma zanjiri (bir necha g'ildirak ketma-ket)",
      "model": "Electric Gatling Gun",
      "type": "qurish"
-    },
-    {
-     "title": "2-chorak nazorat ishi — \"Uzatma-Nisbati\" musobaqasi: ikki bosqichli tishli uzatma qurib, kirish va chiqish aylanishlari nisbatini o'lchaydi va konstruksiya yuk ostida buzilmasligini ko'rsatadi. Baholash mezoni: Nisbat to'g'ri hisoblanadi va konstruksiya 3 detal-yukni ko'taradi = 5 (a'lo); Nisbat to'g'ri hisoblanadi va 1–2 yuk ko'tariladi = 4 (yaxshi); Uzatma ishlaydi, nisbat taxminan aytiladi = 3 (qoniqarli); Uzatma ishlaydi, lekin nisbat aytilmaydi = 2 (qoniqarsiz); Ikki bosqichli uzatma yig'ilmasa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "2-chorak loyihasi: \"Ikki bosqichli uzatma\" — kirish aylanishini kamida 4 barobar tezlashtiradigan yoki sekinlashtiradigan uzatma qurish",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "3-chorak": [
@@ -4135,6 +4135,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "5-oylik nazorat (NAZARIY TEST) — \"Uzatmalar zanjiri: g'ildirak, shkiv, vint\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Harakatni to'xtatish va boshlash",
      "model": "Inchworm",
      "type": "qurish"
@@ -4175,6 +4180,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "6-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Blokli yuk ko'targich\": shkiv bloklari yordamida yukni yengil ko'taradigan qurilma loyihalash. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Harakatni kuchaytirish (richag bilan birga)",
      "model": "Electric Sewing Machine",
      "type": "qurish"
@@ -4188,16 +4198,6 @@ window.TREE_DATA = {
      "title": "Mexanizmni mustahkamlash",
      "model": "Jumping YL Man 2",
      "type": "qurish"
-    },
-    {
-     "title": "3-chorak nazorat ishi — \"Shkiv-Kuchi\" musobaqasi: shkiv tizimi qurib yukni ko'taradi va shkivlar sonini oshirganda tortish qanchalik yengillashishini ko'rsatadi. Baholash mezoni: 2 va undan ko'p shkivli tizim ishlaydi, farq tushuntiriladi = 5 (a'lo); 2 shkivli tizim ishlaydi = 4 (yaxshi); 1 shkivli tizim ishlaydi = 3 (qoniqarli); Shkiv o'rnatilgan, lekin yuk ko'tarilmaydi = 2 (qoniqarsiz); Shkiv tizimi yig'ilmasa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "3-chorak loyihasi: \"Blokli yuk ko'targich\" — shkiv bloklari yordamida yukni yengil ko'taradigan qurilma loyihalash",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "4-chorak": [
@@ -4242,6 +4242,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "7-oylik nazorat (NAZARIY TEST) — \"Krivoship, trayektoriya va ikki tomonlama harakat\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Harakat kuchi va qarshilik",
      "model": "Rocking YL Man 2",
      "type": "qurish"
@@ -4282,6 +4287,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "8-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Ritmli mexanizm\": belgilangan ritmda (masalan 1 soniyada 1 marta) tebranadigan mexanizm loyihalash. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Sakrash harakati qanday hosil bo'ladi",
      "model": "Manual Rocking YL Man 2",
      "type": "qurish"
@@ -4295,16 +4305,6 @@ window.TREE_DATA = {
      "title": "Bir motordan bir necha harakat",
      "model": "Rocking YL Man 1",
      "type": "qurish"
-    },
-    {
-     "title": "4-chorak (yakuniy) nazorat ishi — \"Tebranish-Nishoni\" musobaqasi: krivoship mexanizmini sozlab, 30 soniyada AYNAN 20 marta tebranishga erishish kerak (ko'p ham, kam ham emas). Baholash mezoni: Chetlanish 0–1 tebranish = 5 (a'lo); 2–3 tebranish = 4 (yaxshi); 4–6 tebranish = 3 (qoniqarli); 7–10 tebranish = 2 (qoniqarsiz); 10 dan ko'p yoki mexanizm uzilib qolsa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "4-chorak loyihasi (yil yakuni): \"Ritmli mexanizm\" — belgilangan ritmda (masalan 1 soniyada 1 marta) tebranadigan mexanizm loyihalash",
-     "model": null,
-     "type": "loyiha"
     }
    ]
   },
@@ -4351,6 +4351,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "1-oylik nazorat (NAZARIY TEST) — \"Krivoship va motor tebranishi\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Krivoship radiusi va tebranish kengligi",
      "model": "Car Puller",
      "type": "qurish"
@@ -4391,6 +4396,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "2-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Ritm mashinasi\": ikki xil ritmda ishlaydigan, foydalanuvchi ritmni almashtira oladigan mexanizm loyihalash. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Yuqoriga-pastga tebranish (vertikal)",
      "model": "Manual Rotating YL Man 5",
      "type": "qurish"
@@ -4404,16 +4414,6 @@ window.TREE_DATA = {
      "title": "Yuqoriga-pastga tebranish (vertikal)",
      "model": "Manual Rotating YL Man 7",
      "type": "qurish"
-    },
-    {
-     "title": "1-chorak nazorat ishi — \"Ritm-Sozlash\" musobaqasi: mexanizmning tebranish kengligini uchta turli nishonga (5 sm, 10 sm, 15 sm) ketma-ket sozlash kerak. Baholash mezoni: 3/3 nishon = 5 (a'lo); 2/3 nishon = 4 (yaxshi); 1/3 nishon = 3 (qoniqarli); Sozlash qilinadi, lekin nishonga tushmaydi = 2 (qoniqarsiz); Mexanizm sozlanmasa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "1-chorak loyihasi: \"Ritm mashinasi\" — ikki xil ritmda ishlaydigan, foydalanuvchi ritmni almashtira oladigan mexanizm loyihalash",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "2-chorak": [
@@ -4458,6 +4458,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "3-oylik nazorat (NAZARIY TEST) — \"Kulachok, suzish va masofa sensori\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Chegara qiymati (sensor qachon ishlaydi)",
      "model": "Programmable Car (AI)",
      "type": "qurish"
@@ -4498,6 +4503,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "4-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Sensorli yordamchi\": aniq bir vazifani sensor yordamida avtomatik bajaradigan qurilma loyihalash. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Yorug'lik va rang sensori",
      "model": "Bus",
      "type": "qurish"
@@ -4511,16 +4521,6 @@ window.TREE_DATA = {
      "title": "Sensorlar avtomatik tizimlarda",
      "model": "Scooter (Prog)",
      "type": "qurish"
-    },
-    {
-     "title": "2-chorak nazorat ishi — \"Sensor-Aniqligi\" musobaqasi: sensorli model 10 marta sinaladi; sensor har safar bir xil masofada (±5 sm) ishga tushishi kerak. Baholash mezoni: 9–10/10 = 5 (a'lo); 7–8/10 = 4 (yaxshi); 5–6/10 = 3 (qoniqarli); 3–4/10 = 2 (qoniqarsiz); 3 dan kam yoki sensor ishlamasa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "2-chorak loyihasi: \"Sensorli yordamchi\" — aniq bir vazifani sensor yordamida avtomatik bajaradigan qurilma loyihalash",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "3-chorak": [
@@ -4565,6 +4565,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "5-oylik nazorat (NAZARIY TEST) — \"Sensor aniqligi va ko'tarish mexanizmlari\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Bir necha mexanizm birga",
      "model": "Intersteller Radar Forklift",
      "type": "qurish"
@@ -4605,6 +4610,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "6-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Kran loyihasi\": yukni ko'tarib, aylantirib, boshqa joyga qo'yadigan kran loyihalash. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Shkiv bilan ko'tarish",
      "model": "Fork Lift Truck",
      "type": "qurish"
@@ -4618,16 +4628,6 @@ window.TREE_DATA = {
      "title": "Motordan mexanizmga kuch uzatish",
      "model": "Gear Shifting Fan",
      "type": "qurish"
-    },
-    {
-     "title": "3-chorak nazorat ishi — \"Kran-Operatori\" musobaqasi: kran yoki strela mexanizmi yukni 20 sm balandlikka ko'tarib, 40 sm yon tomondagi belgilangan joyga qo'yishi kerak. Baholash mezoni: Yuk to'g'ri joyga qo'yiladi, tushmaydi, 60 soniyagacha = 5 (a'lo); Yuk to'g'ri joyga qo'yiladi, 61–120 soniya = 4 (yaxshi); Yuk ko'tariladi, lekin joyiga aniq qo'yilmaydi = 3 (qoniqarli); Yuk ko'tariladi, lekin tushib ketadi = 2 (qoniqarsiz); Yuk ko'tarilmasa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "3-chorak loyihasi: \"Kran loyihasi\" — yukni ko'tarib, aylantirib, boshqa joyga qo'yadigan kran loyihalash",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "4-chorak": [
@@ -4672,6 +4672,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "7-oylik nazorat (NAZARIY TEST) — \"Motor chegaralari va ishqalanish\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Statik va harakatdagi ishqalanish",
      "model": "Turnable F1",
      "type": "qurish"
@@ -4712,6 +4717,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "8-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Maxsus yurar transport\": aniq bir sharoit uchun mo'ljallangan motorli transport loyihalash (qiyalik, notekis sirt, og'ir yuk). Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Og'irlik taqsimoti",
      "model": "Armoured Vehicle",
      "type": "qurish"
@@ -4725,16 +4735,6 @@ window.TREE_DATA = {
      "title": "Yuk tashish uchun maxsus qismlar",
      "model": "Battle Robot",
      "type": "qurish"
-    },
-    {
-     "title": "4-chorak (yakuniy) nazorat ishi — \"Transport-Sinovi\" musobaqasi: motorli transport uch xil sirtda 1 metr masofani bosib o'tadi va yo'lda bitta burilish bajaradi. Baholash mezoni: 3/3 sirtda finish, jami 60 soniyagacha = 5 (a'lo); 3/3 sirtda finish, jami 61–120 soniya = 4 (yaxshi); 2/3 sirtda finish = 3 (qoniqarli); 1/3 sirtda finish = 2 (qoniqarsiz); Hech bir sirtda finishga yetmasa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "4-chorak loyihasi (yil yakuni): \"Maxsus yurar transport\" — aniq bir sharoit uchun mo'ljallangan motorli transport loyihalash (qiyalik, notekis sirt, og'ir yuk)",
-     "model": null,
-     "type": "loyiha"
     }
    ]
   },
@@ -4781,6 +4781,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "1-oylik nazorat (NAZARIY TEST) — \"Transport mexanikasi\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Motordan g'ildirakkacha kuch uzatish",
      "model": "War Robot",
      "type": "qurish"
@@ -4821,6 +4826,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "2-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Vazifaga mo'ljallangan transport\": tanlangan vazifa uchun to'liq transport tizimi loyihalash (qutqaruv, yuk tashish, patrul). Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Tormozlash",
      "model": "Upside Down",
      "type": "qurish"
@@ -4834,16 +4844,6 @@ window.TREE_DATA = {
      "title": "Samolyot qanoti vertolyot parragidan farqi",
      "model": "Alien Reconnaissance Aircraft",
      "type": "qurish"
-    },
-    {
-     "title": "1-chorak nazorat ishi — \"Yo'l-Chempionati\" musobaqasi: transport 3 metrlik trassani bosib o'tadi; trassada ikki burilish, bitta to'siq va bitta qiyalik bor. Baholash mezoni: 30 soniyagacha, tegmasdan = 5 (a'lo); 31–60 soniya = 4 (yaxshi); 61–100 soniya yoki 1 marta tegsa = 3 (qoniqarli); 100 soniyadan ko'p yoki 2 marta tegsa = 2 (qoniqarsiz); Qiyalikdan o'ta olmasa yoki finishga yetmasa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "1-chorak loyihasi: \"Vazifaga mo'ljallangan transport\" — tanlangan vazifa uchun to'liq transport tizimi loyihalash (qutqaruv, yuk tashish, patrul)",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "2-chorak": [
@@ -4888,6 +4888,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "3-oylik nazorat (NAZARIY TEST) — \"Aerodinamika\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Parrak havoni itaradi",
      "model": "Propeller-driven Vehicle",
      "type": "qurish"
@@ -4928,6 +4933,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "4-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Uchar model\": havo kuchi bilan harakatlanadigan model loyihalash va uning tortish kuchini oshirish. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Ko'p oyoqli harakat tartibi",
      "model": "Rabbit (AI)",
      "type": "qurish"
@@ -4941,16 +4951,6 @@ window.TREE_DATA = {
      "title": "Hayvon harakatini mexanizm bilan takrorlash",
      "model": "Crocodile (AI)",
      "type": "qurish"
-    },
-    {
-     "title": "2-chorak nazorat ishi — \"Havo-Kuchi\" musobaqasi: parrakli yoki reaktiv model yasab, uning tortish kuchini o'lchash: model ip bilan bog'lanadi va necha detal-yukni tortib siljita olishi sanaladi. Baholash mezoni: 4 va undan ko'p detal-yuk = 5 (a'lo); 3 detal-yuk = 4 (yaxshi); 2 detal-yuk = 3 (qoniqarli); 1 detal-yuk = 2 (qoniqarsiz); Model yukni umuman siljitolmasa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "2-chorak loyihasi: \"Uchar model\" — havo kuchi bilan harakatlanadigan model loyihalash va uning tortish kuchini oshirish",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "3-chorak": [
@@ -4995,6 +4995,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "5-oylik nazorat (NAZARIY TEST) — \"Biomimikriya va tabiiy dizayn\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Rang va naqsh nima uchun kerak",
      "model": "Shark",
      "type": "qurish"
@@ -5035,6 +5040,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "6-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Bionik robot\": tabiatdagi harakat usulini takrorlaydigan robot loyihalash. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Katta hayvonlar qanday harakat qiladi",
      "model": "Euoplocephalus (electric)",
      "type": "qurish"
@@ -5048,16 +5058,6 @@ window.TREE_DATA = {
      "title": "To'siqdan oshib o'tish",
      "model": "Exploration Robot",
      "type": "qurish"
-    },
-    {
-     "title": "3-chorak nazorat ishi — \"Bionik-Yurish\" musobaqasi: hayvondan ilhomlangan, g'ildiraksiz oyoqli model 2 metr masofani bosib o'tadi va yo'lda 3 sm balandlikdagi to'siqdan oshib o'tadi. Baholash mezoni: To'siqdan oshib, 2 metrni yiqilmasdan bosib o'tsa = 5 (a'lo); To'siqdan oshadi, 1 marta yiqiladi = 4 (yaxshi); 2 metrni bosadi, lekin to'siqdan o'tolmaydi = 3 (qoniqarli); 1 metrdan ko'proq yuradi = 2 (qoniqarsiz); Yura olmasa yoki g'ildirak ishlatilsa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "3-chorak loyihasi: \"Bionik robot\" — tabiatdagi harakat usulini takrorlaydigan robot loyihalash",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "4-chorak": [
@@ -5102,6 +5102,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "7-oylik nazorat (NAZARIY TEST) — \"Notekis yuza va kosmik texnika\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Kelajakdagi kosmik missiyalar",
      "model": "Lunar Transporter",
      "type": "qurish"
@@ -5142,6 +5147,11 @@ window.TREE_DATA = {
      "type": "qurish"
     },
     {
+     "title": "8-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Kosmik missiya (bitiruv)\": o'zingiz tuzgan kosmik missiyani to'liq muhandislik tsikli bo'yicha hal qilish. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Kosmik texnikada avtomatik xavfsizlik",
      "model": "Armoured Vehicle (Space)",
      "type": "qurish"
@@ -5155,16 +5165,6 @@ window.TREE_DATA = {
      "title": "Rover qanday boshqariladi",
      "model": "Reconnaissance Walker",
      "type": "qurish"
-    },
-    {
-     "title": "4-chorak (yakuniy) nazorat ishi — \"Rover-Missiyasi\" musobaqasi: rover notekis maydondan o'tib, ikkita namunani (turli joydan) yig'ib, start nuqtasiga qaytadi. Baholash mezoni: 2 namuna olib qaytsa, 3 daqiqadan kam = 5 (a'lo); 2 namuna olib qaytsa, 3–5 daqiqa = 4 (yaxshi); 1 namuna olib qaytsa = 3 (qoniqarli); Namuna olinadi, lekin qaytmaydi = 2 (qoniqarsiz); Notekis maydondan o'ta olmasa = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "4-chorak loyihasi (yil yakuni): \"Kosmik missiya (bitiruv)\" — o'zingiz tuzgan kosmik missiyani to'liq muhandislik tsikli bo'yicha hal qilish",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "3-chorak (Dasturlash)": [
@@ -5310,6 +5310,11 @@ window.TREE_DATA = {
      "type": "spike"
     },
     {
+     "title": "1-oylik nazorat (NAZARIY TEST) — \"SPIKE Prime: qismlar va yig'ish\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Color sensor mount — yig'ish (1 darslik)",
      "model": null,
      "type": "spike"
@@ -5350,6 +5355,11 @@ window.TREE_DATA = {
      "type": "spike"
     },
     {
+     "title": "2-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Mening Driving Base kombinatsiyam\": o'z Driving Base + 2 ta tanlangan attachment kombinatsiyasini yig'ib, har birining ishlashini ko'rsatish. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Ball Shooter attachment — yig'ish (1 darslik)",
      "model": null,
      "type": "spike"
@@ -5363,16 +5373,6 @@ window.TREE_DATA = {
      "title": "Sensor arm attachment — yig'ish (1 darslik)",
      "model": null,
      "type": "spike"
-    },
-    {
-     "title": "1-chorak nazorat ishi: Driving Base va 2 attachmentni tanlab, ishlash tamoyilini tushuntirish",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "1-chorak loyihasi: o'z Driving Base + tanlagan attachmentlar kombinatsiyasi (erkin)",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "2-chorak": [
@@ -5417,6 +5417,11 @@ window.TREE_DATA = {
      "type": "spike"
     },
     {
+     "title": "3-oylik nazorat (NAZARIY TEST) — \"SPIKE sensorlari va dasturlash\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Kuch (bosim) sensori bilan ishlash",
      "model": null,
      "type": "spike"
@@ -5457,6 +5462,11 @@ window.TREE_DATA = {
      "type": "spike"
     },
     {
+     "title": "4-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Aqlli parking robot\": sensorlar yordamida bo'sh joyni topib, o'zi to'xtaydigan parking robotini qurish va dasturlash. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Chorak yakuni: sensorlar bo'yicha takrorlash",
      "model": null,
      "type": "spike"
@@ -5470,16 +5480,6 @@ window.TREE_DATA = {
      "title": "Kombinatsiyalangan attachment sinovi",
      "model": null,
      "type": "spike"
-    },
-    {
-     "title": "2-chorak nazorat ishi: SPIKE sensorlari va reaktiv dastur",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "2-chorak loyihasi: aqlli parking robot",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "3-chorak": [
@@ -5524,6 +5524,11 @@ window.TREE_DATA = {
      "type": "spike"
     },
     {
+     "title": "5-oylik nazorat (NAZARIY TEST) — \"FLL missiyalari: strategiya va ball\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Missiya 2 — Chiziq bo'ylab yetkazish: vazifa tahlili va reja",
      "model": null,
      "type": "spike"
@@ -5564,6 +5569,11 @@ window.TREE_DATA = {
      "type": "spike"
     },
     {
+     "title": "6-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Missiya-yechim: 1-2-missiya uchun mukammal robot\": yuk tashish va chiziq bo'ylab yetkazish missiyalari uchun robot+attachment yechimini takomillashtirib, ball sinovidan o'tkazish. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Jamoa bilan mashq-turnir — 1-tur",
      "model": null,
      "type": "spike"
@@ -5577,16 +5587,6 @@ window.TREE_DATA = {
      "title": "Chorak yakuni: 1-2 missiya bo'yicha umumiy ko'rik",
      "model": null,
      "type": "spike"
-    },
-    {
-     "title": "3-chorak nazorat ishi — Missiya musobaqasi: 1 va 2-missiya ketma-ket bajariladi, har biri muvaffaqiyatli bajarilsa 25 balldan (jami 50 ball). Baholash: 45-50 ball = 5 (a'lo); 35-44 ball = 4 (yaxshi); 25-34 ball = 3 (qoniqarli); 15-24 ball = 2 (qoniqarsiz); 15 balldan kam = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "3-chorak loyihasi: 1-2-missiya uchun mukammal robot+attachment yechimi",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "4-chorak": [
@@ -5631,6 +5631,11 @@ window.TREE_DATA = {
      "type": "spike"
     },
     {
+     "title": "7-oylik nazorat (NAZARIY TEST) — \"To'liq missiya turi va jamoaviy ish\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Missiya 4 — Aqlli saralash va ko'tarish: attachment yig'ish",
      "model": null,
      "type": "spike"
@@ -5671,6 +5676,11 @@ window.TREE_DATA = {
      "type": "spike"
     },
     {
+     "title": "8-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Bitiruv missiya turi\": to'liq 4-missiyali turni jamoa bo'lib o'tkazish: strategiya, dastur, taqdimot. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Yakuniy repetitsiya",
      "model": null,
      "type": "spike"
@@ -5684,16 +5694,6 @@ window.TREE_DATA = {
      "title": "Ota-onalar uchun ochiq ko'rgazma va natijalar e'loni",
      "model": null,
      "type": "spike"
-    },
-    {
-     "title": "4-chorak (yakuniy) nazorat ishi — To'liq missiya turi (FLL formatida): barcha 4 missiya 2.5 daqiqada bajariladi, har biri 25 balldan (jami 100 ball). Baholash: 85-100 ball = 5 (a'lo); 65-84 ball = 4 (yaxshi); 45-64 ball = 3 (qoniqarli); 25-44 ball = 2 (qoniqarsiz); 25 balldan kam = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "4-chorak yakuniy loyihasi: to'liq 4-missiyali bitiruv musobaqasi (ochiq turnir)",
-     "model": null,
-     "type": "loyiha"
     }
    ]
   },
@@ -5740,6 +5740,11 @@ window.TREE_DATA = {
      "type": "spike"
     },
     {
+     "title": "1-oylik nazorat (NAZARIY TEST) — \"SPIKE Prime: qismlar va yig'ish\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Color sensor mount — yig'ish (1 darslik)",
      "model": null,
      "type": "spike"
@@ -5780,6 +5785,11 @@ window.TREE_DATA = {
      "type": "spike"
     },
     {
+     "title": "2-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Mening Driving Base kombinatsiyam\": o'z Driving Base + 2 ta tanlangan attachment kombinatsiyasini yig'ib, har birining ishlashini ko'rsatish. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Ball Shooter attachment — yig'ish (1 darslik)",
      "model": null,
      "type": "spike"
@@ -5793,16 +5803,6 @@ window.TREE_DATA = {
      "title": "Sensor arm attachment — yig'ish (1 darslik)",
      "model": null,
      "type": "spike"
-    },
-    {
-     "title": "1-chorak nazorat ishi: Driving Base va 2 attachmentni tanlab, ishlash tamoyilini tushuntirish",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "1-chorak loyihasi: o'z Driving Base + tanlagan attachmentlar kombinatsiyasi (erkin)",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "2-chorak": [
@@ -5847,6 +5847,11 @@ window.TREE_DATA = {
      "type": "spike"
     },
     {
+     "title": "3-oylik nazorat (NAZARIY TEST) — \"SPIKE sensorlari va dasturlash\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Kuch (bosim) sensori bilan ishlash",
      "model": null,
      "type": "spike"
@@ -5887,6 +5892,11 @@ window.TREE_DATA = {
      "type": "spike"
     },
     {
+     "title": "4-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Aqlli parking robot\": sensorlar yordamida bo'sh joyni topib, o'zi to'xtaydigan parking robotini qurish va dasturlash. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Chorak yakuni: sensorlar bo'yicha takrorlash",
      "model": null,
      "type": "spike"
@@ -5900,16 +5910,6 @@ window.TREE_DATA = {
      "title": "Kombinatsiyalangan attachment sinovi",
      "model": null,
      "type": "spike"
-    },
-    {
-     "title": "2-chorak nazorat ishi: SPIKE sensorlari va reaktiv dastur",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "2-chorak loyihasi: aqlli parking robot",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "3-chorak": [
@@ -5954,6 +5954,11 @@ window.TREE_DATA = {
      "type": "spike"
     },
     {
+     "title": "5-oylik nazorat (NAZARIY TEST) — \"FLL missiyalari: strategiya va ball\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Missiya 2 — Chiziq bo'ylab yetkazish: vazifa tahlili va reja",
      "model": null,
      "type": "spike"
@@ -5994,6 +5999,11 @@ window.TREE_DATA = {
      "type": "spike"
     },
     {
+     "title": "6-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Missiya-yechim: 1-2-missiya uchun mukammal robot\": yuk tashish va chiziq bo'ylab yetkazish missiyalari uchun robot+attachment yechimini takomillashtirib, ball sinovidan o'tkazish. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Jamoa bilan mashq-turnir — 1-tur",
      "model": null,
      "type": "spike"
@@ -6007,16 +6017,6 @@ window.TREE_DATA = {
      "title": "Chorak yakuni: 1-2 missiya bo'yicha umumiy ko'rik",
      "model": null,
      "type": "spike"
-    },
-    {
-     "title": "3-chorak nazorat ishi — Missiya musobaqasi: 1 va 2-missiya ketma-ket bajariladi, har biri muvaffaqiyatli bajarilsa 25 balldan (jami 50 ball). Baholash: 45-50 ball = 5 (a'lo); 35-44 ball = 4 (yaxshi); 25-34 ball = 3 (qoniqarli); 15-24 ball = 2 (qoniqarsiz); 15 balldan kam = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "3-chorak loyihasi: 1-2-missiya uchun mukammal robot+attachment yechimi",
-     "model": null,
-     "type": "loyiha"
     }
    ],
    "4-chorak": [
@@ -6061,6 +6061,11 @@ window.TREE_DATA = {
      "type": "spike"
     },
     {
+     "title": "7-oylik nazorat (NAZARIY TEST) — \"To'liq missiya turi va jamoaviy ish\": 10 ta savol, 3 variantli, 20 daqiqa. Baholash: 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "nazorat"
+    },
+    {
      "title": "Missiya 4 — Aqlli saralash va ko'tarish: attachment yig'ish",
      "model": null,
      "type": "spike"
@@ -6101,6 +6106,11 @@ window.TREE_DATA = {
      "type": "spike"
     },
     {
+     "title": "8-oylik nazorat (AMALIY LOYIHA-IMTIHON) — \"Bitiruv missiya turi\": to'liq 4-missiyali turni jamoa bo'lib o'tkazish: strategiya, dastur, taqdimot. Baholash: 10 bandli check-list, har band 1 ball; 9-10 = 5; 7-8 = 4; 5-6 = 3; 3-4 = 2; 0-2 = FAILED.",
+     "model": null,
+     "type": "loyiha"
+    },
+    {
      "title": "Yakuniy repetitsiya",
      "model": null,
      "type": "spike"
@@ -6114,16 +6124,6 @@ window.TREE_DATA = {
      "title": "Ota-onalar uchun ochiq ko'rgazma va natijalar e'loni",
      "model": null,
      "type": "spike"
-    },
-    {
-     "title": "4-chorak (yakuniy) nazorat ishi — To'liq missiya turi (FLL formatida): barcha 4 missiya 2.5 daqiqada bajariladi, har biri 25 balldan (jami 100 ball). Baholash: 85-100 ball = 5 (a'lo); 65-84 ball = 4 (yaxshi); 45-64 ball = 3 (qoniqarli); 25-44 ball = 2 (qoniqarsiz); 25 balldan kam = FAILED.",
-     "model": null,
-     "type": "nazorat"
-    },
-    {
-     "title": "4-chorak yakuniy loyihasi: to'liq 4-missiyali bitiruv musobaqasi (ochiq turnir)",
-     "model": null,
-     "type": "loyiha"
     }
    ]
   },

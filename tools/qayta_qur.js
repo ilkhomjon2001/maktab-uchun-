@@ -152,9 +152,8 @@ function makerzoidQur(yil, sinf, sinfData) {
     const nazorat = tuzilma.find(t => t.dars.type === 'nazorat');
     const loyiha  = tuzilma.find(t => t.dars.type === 'loyiha');
 
-    const bolak = [];
     const tuzilmaQoy = (t, almash) => {
-      if (!t) return;
+      if (!t) return null;
       const d = nusxa(t.dars);
       let kt = LESSONS_MANBA[[yil, sinf, chorak, t.idx].join('|')] || null;
       if (almash) {
@@ -162,13 +161,14 @@ function makerzoidQur(yil, sinf, sinfData) {
         kt = kt ? nusxa(kt) : {};
         for (const m of Object.keys(almash.kontent)) kt[m] = almash.kontent[m];
       }
-      bolak.push({ dars: d, kontent: kt });
+      return { dars: d, kontent: kt };
     };
 
     const kirAlmash = TAQ.kirishDarsi(yil, sinf, chorakNo);
-    tuzilmaQoy(kirish, kirAlmash);
+    const kirishB = tuzilmaQoy(kirish, kirAlmash);
     if (kirAlmash) stat.kirish++;
 
+    const qurishlar = [];
     for (let k = 0; k < TAQ.MODELLI; k++) {
       const x = tanlangan[oqim++];
       const kalit = x.model + '|' + x.qism;
@@ -182,16 +182,16 @@ function makerzoidQur(yil, sinf, sinfData) {
       }
       const kt = nusxa(x.kontent);
       if (almash) for (const m of Object.keys(almash.kontent)) kt[m] = almash.kontent[m];
-      bolak.push({ dars: d, kontent: kt });
+      qurishlar.push({ dars: d, kontent: kt });
     }
 
     const nazAlmash = NAZ.nazoratDarsi(yil, sinf, chorakNo);
     if (nazorat && !nazAlmash) {
       console.error('XATO: ' + yil + ' ' + sinf + ' ' + chorakNo +
-                    '-chorak uchun nazorat ishi tools/nazorat.js da yo\'q.');
+                    '-chorak uchun nazorat testi tools/nazorat.js da yo\'q.');
       process.exit(1);
     }
-    tuzilmaQoy(nazorat, nazAlmash);
+    const nazB = tuzilmaQoy(nazorat, nazAlmash);
     if (nazAlmash) stat.nazorat++;
 
     const loyAlmash = LOY.loyihaDarsi(yil, sinf, chorakNo);
@@ -200,8 +200,17 @@ function makerzoidQur(yil, sinf, sinfData) {
                     '-chorak uchun loyiha tools/loyiha.js da yo\'q.');
       process.exit(1);
     }
-    tuzilmaQoy(loyiha, loyAlmash);
+    const loyB = tuzilmaQoy(loyiha, loyAlmash);
     if (loyAlmash) stat.loyiha++;
+
+    // Chorak tartibi (2026-09-01 dan): baho chorak oxirida emas, HAR OYda —
+    //   1-dars kirish, 9-dars NAZARIY TEST (1-oy bahosi),
+    //   18-dars AMALIY LOYIHA-IMTIHON (2-oy bahosi), qolgani qurish.
+    const bolak = [kirishB]
+      .concat(qurishlar.slice(0, 7), [nazB],
+              qurishlar.slice(7, 15), [loyB],
+              qurishlar.slice(15))
+      .filter(Boolean);
 
     const royxat = [];
     bolak.forEach((b, idx) => {
@@ -270,19 +279,86 @@ for (const yil of Object.keys(TREE_MANBA)) {
         }
       }
       const yangi = {};
-      for (const chorak of Object.keys(sinfData)) {
-        yangi[chorak] = nusxa(sinfData[chorak]);
-        sinfData[chorak].forEach((l, idx) => {
-          const ct = LESSONS_MANBA[[mYil, mSinf, chorak, idx].join('|')];
-          if (!ct) return;
-          const kt = nusxa(ct);
-          if (kt.meta) { kt.meta.sinf = sinf; kt.meta.yil = yil; }
-          const ustama = QOP && QOP.darslar && QOP.darslar[chorak + '|' + idx];
-          if (ustama) for (const m of Object.keys(ustama)) kt[m] = ustama[m];
-          lessons[[yil, sinf, chorak, idx].join('|')] = kt;
-          stat.almashgan++;
+      Object.keys(sinfData).forEach((chorak, ci) => {
+        // Yashirin "(Dasturlash)" choraklari o'zgarishsiz o'tadi
+        if (/\(Dasturlash\)/.test(chorak)) {
+          yangi[chorak] = nusxa(sinfData[chorak]);
+          sinfData[chorak].forEach((l, idx) => {
+            const ct = LESSONS_MANBA[[mYil, mSinf, chorak, idx].join('|')];
+            if (!ct) return;
+            const kt = nusxa(ct);
+            if (kt.meta) { kt.meta.sinf = sinf; kt.meta.yil = yil; }
+            lessons[[yil, sinf, chorak, idx].join('|')] = kt;
+            stat.almashgan++;
+          });
+          return;
+        }
+
+        const chorakNo = ci + 1;
+
+        // Manbadan nusxa: dars + kontent + qoplama (eski indeks bo'yicha)
+        const royxat = sinfData[chorak].map((l, idx) => {
+          let kt = LESSONS_MANBA[[mYil, mSinf, chorak, idx].join('|')] || null;
+          if (kt) {
+            kt = nusxa(kt);
+            const ustama = QOP && QOP.darslar && QOP.darslar[chorak + '|' + idx];
+            if (ustama) for (const m of Object.keys(ustama)) kt[m] = ustama[m];
+          }
+          return { dars: nusxa(l), kontent: kt };
         });
-      }
+
+        // Nazorat -> 9-dars (test), loyiha -> 18-dars (check-listli imtihon).
+        // Yangi kontent nazorat.js / loyiha.js dan olinadi (SPIKE to'plamlari).
+        const naz = royxat.find(b => b.dars.type === 'nazorat');
+        const loy = royxat.find(b => b.dars.type === 'loyiha');
+        const qolgan = royxat.filter(b => b !== naz && b !== loy);
+
+        const almashQoy = (b, almash) => {
+          if (!b || !almash) return;
+          b.dars.title = almash.nom;
+          b.kontent = b.kontent ? b.kontent : {};
+          for (const m of Object.keys(almash.kontent)) b.kontent[m] = almash.kontent[m];
+        };
+        const nazAlmash = NAZ.nazoratDarsi(yil, sinf, chorakNo);
+        if (naz && !nazAlmash) {
+          console.error('XATO: ' + yil + ' ' + sinf + ' ' + chorakNo +
+                        '-chorak (SPIKE) uchun test tools/nazorat.js da yo\'q.');
+          process.exit(1);
+        }
+        almashQoy(naz, nazAlmash);
+        if (naz && nazAlmash) stat.nazorat++;
+
+        const loyAlmash = LOY.loyihaDarsi(yil, sinf, chorakNo);
+        if (loy && !loyAlmash) {
+          console.error('XATO: ' + yil + ' ' + sinf + ' ' + chorakNo +
+                        '-chorak (SPIKE) uchun loyiha tools/loyiha.js da yo\'q.');
+          process.exit(1);
+        }
+        almashQoy(loy, loyAlmash);
+        if (loy && loyAlmash) stat.loyiha++;
+
+        const tartib = [].concat(
+          qolgan.slice(0, 8), naz ? [naz] : [],
+          qolgan.slice(8, 16), loy ? [loy] : [],
+          qolgan.slice(16));
+
+        const chorakRoyxat = [];
+        tartib.forEach((b, idx) => {
+          chorakRoyxat.push(b.dars);
+          if (b.kontent) {
+            const kt = b.kontent;
+            if (kt.meta) {
+              kt.meta.sinf = sinf;
+              kt.meta.yil = yil;
+              kt.meta.chorak = TAQ.haftaMatni(chorakNo, idx);
+              kt.meta.darsRaqami = TAQ.darsRaqami(chorakNo, idx);
+            }
+            lessons[[yil, sinf, chorak, idx].join('|')] = kt;
+            stat.almashgan++;
+          }
+        });
+        yangi[chorak] = chorakRoyxat;
+      });
       // eski chorak kalitlari qolmasin
       tree[yil][sinf] = yangi;
       continue;

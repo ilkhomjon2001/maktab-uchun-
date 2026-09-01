@@ -653,6 +653,95 @@ window.LESSON_CONTENT = {
  },
  "1-yil|0-sinf|1-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Muvozanat va barqarorlik\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 1-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Halollik — testni mustaqil yechish, ko'chirmaslik. Natija qanday bo'lsa ham, u O'ZINGIZNIKI bo'lsin.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Savollar o'qituvchi tomonidan baland ovozda, har biri 2 martadan o'qib beriladi; o'quvchilar javob varag'ida mos katakchani (A/B/C) belgilaydilar.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 1-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Qaysi model qiyinroq ag'anaydi?  A) Tayanchi keng model.  B) Tayanchi tor model.  C) Eng chiroyli model.",
+     "2-savol. Minora juda baland qurilsa nima bo'ladi?  A) Mustahkamroq bo'ladi.  B) Tezroq ag'anadigan bo'ladi.  C) Hech narsa o'zgarmaydi.",
+     "3-savol. Og'irlik markazi nima?  A) Modelning eng chiroyli joyi.  B) Modelning nomi.  C) Modelning og'irligi to'plangan nuqtasi.",
+     "4-savol. Tarozi qachon tebranmay tinch turadi?  A) Ikki tomoni teng og'irlikda bo'lsa.  B) Bir tomoni og'ir bo'lsa.  C) Tarozi hech qachon tinch turmaydi.",
+     "5-savol. Model stol chetidan nega tushib ketadi?  A) Rangi och bo'lgani uchun.  B) Og'irligi tayanchdan tashqariga chiqib ketgani uchun.  C) Stol sovuq bo'lgani uchun.",
+     "6-savol. Barqaror turishi uchun og'ir detallarni qayerga qo'yish kerak?  A) Eng tepaga.  B) O'rtaga osiltirib.  C) Pastga, tayanchga yaqin.",
+     "7-savol. Tebranuvchi o'yinchoq (pastki qismi og'ir yumaloq o'yinchoq) nega yiqilmaydi?  A) Og'irligi eng pastida bo'lgani uchun.  B) Juda yengil bo'lgani uchun.  C) Yumaloq boshli bo'lgani uchun.",
+     "8-savol. Ikki oyoqda turgan robot va to'rt oyoqda turgan robotdan qaysi biri barqarorroq?  A) Ikki oyoqlisi.  B) To'rt oyoqlisi.  C) Ikkalasi bir xil.",
+     "9-savol. Shamol essa qaysi minora yiqilmaydi?  A) Baland va tor minora.  B) Bir oyoqli minora.  C) Past va keng minora.",
+     "10-savol. Muvozanatni tekshirish uchun modelni nima qilamiz?  A) Sekin turtib ko'ramiz.  B) Otib yuboramiz.  C) Suvga solamiz."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "0-sinf",
+   "yil": "1-yil",
+   "chorak": "1-chorak, 5-hafta",
+   "darsRaqami": "9 / 84",
+   "modul": "N1. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|0-sinf|1-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Og'irlik markazi nima\" mavzusini \"Tumbler\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Tumbler\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -725,13 +814,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "1-yil",
    "chorak": "1-chorak, 5-hafta",
-   "darsRaqami": "9 / 84",
+   "darsRaqami": "10 / 84",
    "modul": "M1. Muvozanat va elastik energiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|1-chorak|9": {
+ "1-yil|0-sinf|1-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Energiya qayerga yo'qoladi\" mavzusini \"Flytrap\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Flytrap\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -803,14 +892,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 5-hafta",
-   "darsRaqami": "10 / 84",
+   "chorak": "1-chorak, 6-hafta",
+   "darsRaqami": "11 / 84",
    "modul": "M1. Muvozanat va elastik energiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|1-chorak|10": {
+ "1-yil|0-sinf|1-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Energiya harakatga aylanadi\" mavzusini \"Elasti-Car\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Elasti-Car\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -883,13 +972,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "1-yil",
    "chorak": "1-chorak, 6-hafta",
-   "darsRaqami": "11 / 84",
+   "darsRaqami": "12 / 84",
    "modul": "M1. Muvozanat va elastik energiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|1-chorak|11": {
+ "1-yil|0-sinf|1-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Elastik jism nima\" mavzusini \"Elastic Band Gun\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Elastic Band Gun\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -961,14 +1050,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 6-hafta",
-   "darsRaqami": "12 / 84",
+   "chorak": "1-chorak, 7-hafta",
+   "darsRaqami": "13 / 84",
    "modul": "M1. Muvozanat va elastik energiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|1-chorak|12": {
+ "1-yil|0-sinf|1-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Pull-back mexanizmi\" mavzusini \"Top Launcher (with wheels)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Top Launcher (with wheels)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -1041,13 +1130,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "1-yil",
    "chorak": "1-chorak, 7-hafta",
-   "darsRaqami": "13 / 84",
+   "darsRaqami": "14 / 84",
    "modul": "M1. Muvozanat va elastik energiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|1-chorak|13": {
+ "1-yil|0-sinf|1-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Inersiya — harakat davom etadi\" mavzusini \"Inertia Car 2\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Inertia Car 2\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -1119,14 +1208,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 7-hafta",
-   "darsRaqami": "14 / 84",
+   "chorak": "1-chorak, 8-hafta",
+   "darsRaqami": "15 / 84",
    "modul": "M1. Muvozanat va elastik energiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|1-chorak|14": {
+ "1-yil|0-sinf|1-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Cho'zish kuchi va bosib o'tilgan masofa\" mavzusini \"Inertia Car 1\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Inertia Car 1\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -1199,13 +1288,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "1-yil",
    "chorak": "1-chorak, 8-hafta",
-   "darsRaqami": "15 / 84",
+   "darsRaqami": "16 / 84",
    "modul": "M1. Muvozanat va elastik energiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|1-chorak|15": {
+ "1-yil|0-sinf|1-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Sirt turi natijaga qanday ta'sir qiladi\" mavzusini \"Elasti-Pumper\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Elasti-Pumper\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -1277,14 +1366,120 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 8-hafta",
-   "darsRaqami": "16 / 84",
+   "chorak": "1-chorak, 9-hafta",
+   "darsRaqami": "17 / 84",
    "modul": "M1. Muvozanat va elastik energiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|1-chorak|16": {
+ "1-yil|0-sinf|1-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Eng uzoq yuradigan model\" loyihasi doirasida chorakdagi elastik yoki inersiyali modellardan birini tanlab, uni imkon qadar uzoq yuradigan qilib o'zgartirish.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 2-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Mustaqillik va tashabbus — o'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: chorakdagi elastik yoki inersiyali modellardan birini tanlab, uni imkon qadar uzoq yuradigan qilib o'zgartirish.",
+     "Talab: Modelga kamida 1 ta o'zgartirish kiritilsin.",
+     "Talab: O'zgartirishdan oldingi va keyingi masofa o'lchab yozilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Masofani nima to'xtatadi — ishqalanishmi, energiya tugashimi, shuni o'ylab o'zgartirish tanlang",
+     "G'ildiraklar erkin aylanishini har o'zgartirishdan keyin tekshiring",
+     "O'lchovni har safar bir xil joydan (start chizig'idan) boshlang"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Model o'zi yuradi — itarilmaydi, elastik/inersiya kuchi bilan harakatlanadi.",
+     "2-band (1 ball): Modelga kamida 1 ta aniq o'zgartirish kiritilgan va bola uni ko'rsata oladi.",
+     "3-band (1 ball): O'zgartirishdan OLDINGI masofa o'lchab, daftarga yozilgan.",
+     "4-band (1 ball): O'zgartirishdan KEYINGI masofa o'lchab, daftarga yozilgan.",
+     "5-band (1 ball): Sinov: model start chizig'idan kamida 1 metr yuradi.",
+     "6-band (1 ball): Masofa avvalgidan oshgan yoki bola nega oshmaganini tushuntira olgan.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 2-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Nima o'zgartirdingiz va masofa qanchaga o'zgardi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "0-sinf",
+   "yil": "1-yil",
+   "chorak": "1-chorak, 9-hafta",
+   "darsRaqami": "18 / 84",
+   "modul": "L1. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|0-sinf|1-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Cho'zilgan rezinada energiya to'planadi\" mavzusini \"Inertia Pull-Back Car\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Inertia Pull-Back Car\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -1356,14 +1551,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 9-hafta",
-   "darsRaqami": "17 / 84",
+   "chorak": "1-chorak, 10-hafta",
+   "darsRaqami": "19 / 84",
    "modul": "M1. Muvozanat va elastik energiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|1-chorak|17": {
+ "1-yil|0-sinf|1-chorak|19": {
   "maqsad": [
    "O'quvchilar \"2-toifa richag (yuk o'rtada)\" mavzusini \"Jackknife\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Jackknife\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -1437,14 +1632,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 9-hafta",
-   "darsRaqami": "18 / 84",
+   "chorak": "1-chorak, 10-hafta",
+   "darsRaqami": "20 / 84",
    "modul": "M1. Muvozanat va elastik energiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|1-chorak|18": {
+ "1-yil|0-sinf|1-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Kuch yelkasi va yuk yelkasi\" mavzusini \"Jackknife\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Jackknife\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -1518,162 +1713,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 10-hafta",
-   "darsRaqami": "19 / 84",
-   "modul": "M1. Muvozanat va elastik energiya",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|0-sinf|1-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Rezina-Yurish\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (bosib o'tilgan masofa) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Elastik energiya (Elastic energy) – cho'zilgan yoki siqilgan jismda to'planadigan energiya",
-   "Inersiya (Inertia) – harakatdagi jismning harakatini davom ettirishga intilishi",
-   "Start (Start line) – harakat boshlanadigan chiziq",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Sportchan munosabat — g'alaba va mag'lubiyatga sog'lom qarash, boshqalarning natijasini olqishlash. Yutqazish ham o'rganishning bir qismi.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "3 metrlik o'lchov lentasi bilan belgilangan tekis yo'lak",
-   "Start chizig'i uchun rangli lenta"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: elastik yoki pull-back mexanizmli model start chizig'idan turtkisiz jo'natiladi va bosib o'tgan masofasi o'lchanadi.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "3 metrdan uzoq = 5 (a'lo)",
-     "2–3 metr = 4 (yaxshi)",
-     "1–2 metr = 3 (qoniqarli)",
-     "0,5–1 metr = 2 (qoniqarsiz)",
-     "0,5 metrdan kam yoki model yo'lda tarqalib ketsa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (bosib o'tilgan masofa) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Modelingiz nega aynan shu masofani bosib o'tdi — nima ko'proq ta'sir qildi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "0-sinf",
-   "yil": "1-yil",
-   "chorak": "1-chorak, 10-hafta",
-   "darsRaqami": "20 / 84",
-   "modul": "N1. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|0-sinf|1-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Eng uzoq yuradigan model\" loyihasi doirasida chorakdagi elastik yoki inersiyali modellardan birini tanlab, uni imkon qadar uzoq yuradigan qilib o'zgartirish.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: chorakdagi elastik yoki inersiyali modellardan birini tanlab, uni imkon qadar uzoq yuradigan qilib o'zgartirish.",
-     "Talab: Modelga kamida 1 ta o'zgartirish kiritilsin.",
-     "Talab: O'zgartirishdan oldingi va keyingi masofa o'lchab yozilsin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Nima o'zgartirdingiz va masofa qanchaga o'zgardi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "0-sinf",
-   "yil": "1-yil",
    "chorak": "1-chorak, 11-hafta",
    "darsRaqami": "21 / 84",
-   "modul": "L1. Loyiha",
+   "modul": "M1. Muvozanat va elastik energiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
@@ -2322,6 +2364,95 @@ window.LESSON_CONTENT = {
  },
  "1-yil|0-sinf|2-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Richag qonuni\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 3-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Diqqatni jamlash — 20 daqiqa davomida chalg'imasdan ishlash, savolni oxirigacha o'qish.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Savollar o'qituvchi tomonidan baland ovozda, har biri 2 martadan o'qib beriladi; o'quvchilar javob varag'ida mos katakchani (A/B/C) belgilaydilar.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 3-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Richag nima?  A) Yumaloq g'ildirak.  B) Tayanch nuqtasi atrofida aylanadigan uzun qattiq bo'lak.  C) Kichkina kubik.",
+     "2-savol. Richag qaysi nuqta atrofida aylanadi?  A) O'zining uchida.  B) Havoda.  C) Tayanch nuqtasi atrofida.",
+     "3-savol. Tarozi richagning qaysi turiga o'xshaydi?  A) Tayanch o'rtada bo'lgan richagga.  B) Tayanch chetda bo'lgan richagga.  C) Tarozida richag yo'q.",
+     "4-savol. Og'ir yukni yengil ko'tarish uchun kuchni qayerga qo'yamiz?  A) Tayanchga juda yaqin joyga.  B) Tayanchdan uzoqroq joyga.  C) Yukning ustiga.",
+     "5-savol. Zambilg'altak (tachka)da yuk qayerda joylashadi?  A) Kuch bilan tayanch orasida.  B) G'ildirakning ostida.  C) Dastaning uchida.",
+     "6-savol. Qaysiqchi (qisqich) ikki richagning birga ishlashiga misolmi?  A) Yo'q, u richag emas.  B) Ha — ikkala dastasi ham richag.  C) U faqat bitta richag.",
+     "7-savol. Kuch yelkasi uzaysa, ko'tarish qanday bo'ladi?  A) Qiyinlashadi.  B) O'zgarmaydi.  C) Osonlashadi.",
+     "8-savol. Eshik tutqichi nega eshikning chetiga o'rnatiladi?  A) Chiroyli ko'rinishi uchun.  B) Chetdan itarish osonroq bo'lgani uchun.  C) Boshqa joy qolmagani uchun.",
+     "9-savol. 1-toifa richagda nima o'rtada turadi?  A) Tayanch nuqtasi.  B) Yuk.  C) Kuch.",
+     "10-savol. Richag bilan toshni ko'tarayotganda tayanchni toshga yaqinlashtirsak nima bo'ladi?  A) Ko'tarish qiyinlashadi.  B) Hech narsa o'zgarmaydi.  C) Ko'tarish osonlashadi."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-B,  2-C,  3-A,  4-B,  5-A,  6-B,  7-C,  8-B,  9-A,  10-C",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "0-sinf",
+   "yil": "1-yil",
+   "chorak": "2-chorak, 5-hafta",
+   "darsRaqami": "30 / 84",
+   "modul": "N2. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|0-sinf|2-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"1-toifa richag (tayanch o'rtada)\" mavzusini \"Pilers\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Pilers\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -2395,13 +2526,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "1-yil",
    "chorak": "2-chorak, 5-hafta",
-   "darsRaqami": "30 / 84",
+   "darsRaqami": "31 / 84",
    "modul": "M2. Richag qonuni",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|2-chorak|9": {
+ "1-yil|0-sinf|2-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Richag va tayanch nuqtasi\" mavzusini \"Pilers\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Pilers\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -2475,14 +2606,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 5-hafta",
-   "darsRaqami": "31 / 84",
+   "chorak": "2-chorak, 6-hafta",
+   "darsRaqami": "32 / 84",
    "modul": "M2. Richag qonuni",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|2-chorak|10": {
+ "1-yil|0-sinf|2-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Mexanik yutuq — richag necha marta yordam beradi\" mavzusini \"Wheel Barrow\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Wheel Barrow\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -2557,13 +2688,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "1-yil",
    "chorak": "2-chorak, 6-hafta",
-   "darsRaqami": "32 / 84",
+   "darsRaqami": "33 / 84",
    "modul": "M2. Richag qonuni",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|2-chorak|11": {
+ "1-yil|0-sinf|2-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Tayanch nuqtasini siljitish\" mavzusini \"Counter Scale\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Counter Scale\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -2637,14 +2768,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 6-hafta",
-   "darsRaqami": "33 / 84",
+   "chorak": "2-chorak, 7-hafta",
+   "darsRaqami": "34 / 84",
    "modul": "M2. Richag qonuni",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|2-chorak|12": {
+ "1-yil|0-sinf|2-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Counter Scale\" modelini instruksiyaga kamroq qarab qayta yig'adilar va yig'ish vaqtini o'lchaydilar.",
    "O'quvchilar \"Tayanch nuqtasini siljitish\" mavzusi bo'yicha modelning ishlashini aniq mezon (vaqt, masofa yoki takrorlar soni) bilan o'lchab, natijani jadvalga yozadilar.",
@@ -2723,13 +2854,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "1-yil",
    "chorak": "2-chorak, 7-hafta",
-   "darsRaqami": "34 / 84",
+   "darsRaqami": "35 / 84",
    "modul": "M2. Richag qonuni",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|2-chorak|13": {
+ "1-yil|0-sinf|2-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Kuch yelkasi va yuk yelkasi\" mavzusini \"Jack\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Jack\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -2803,14 +2934,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 7-hafta",
-   "darsRaqami": "35 / 84",
+   "chorak": "2-chorak, 8-hafta",
+   "darsRaqami": "36 / 84",
    "modul": "M2. Richag qonuni",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|2-chorak|14": {
+ "1-yil|0-sinf|2-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Kuch yelkasi va yuk yelkasi\" mavzusini \"Insert With Clips\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Insert With Clips\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -2885,13 +3016,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "1-yil",
    "chorak": "2-chorak, 8-hafta",
-   "darsRaqami": "36 / 84",
+   "darsRaqami": "37 / 84",
    "modul": "M2. Richag qonuni",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|2-chorak|15": {
+ "1-yil|0-sinf|2-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Insert With Clips\" modelini instruksiyaga kamroq qarab qayta yig'adilar va yig'ish vaqtini o'lchaydilar.",
    "O'quvchilar \"Kuch yelkasi va yuk yelkasi\" mavzusi bo'yicha modelning ishlashini aniq mezon (vaqt, masofa yoki takrorlar soni) bilan o'lchab, natijani jadvalga yozadilar.",
@@ -2969,14 +3100,120 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 8-hafta",
-   "darsRaqami": "37 / 84",
+   "chorak": "2-chorak, 9-hafta",
+   "darsRaqami": "38 / 84",
    "modul": "M2. Richag qonuni",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|2-chorak|16": {
+ "1-yil|0-sinf|2-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"O'zimning richagli qurilmam\" loyihasi doirasida richag qonunidan foydalanib, biror narsani ko'taradigan yoki qisadigan o'z qurilmangizni qurish.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 4-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Rejali ishlash — vaqtni bosqichlarga bo'lib, eskiz va sinovga ham vaqt qoldirish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: richag qonunidan foydalanib, biror narsani ko'taradigan yoki qisadigan o'z qurilmangizni qurish.",
+     "Talab: Qurilmada tayanch nuqtasi aniq ko'rinsin.",
+     "Talab: Qurilma kamida 1 ta detalni ko'tara olsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Tayanch nuqtasining joyi kuchni belgilaydi — uni surib eng qulay joyni toping",
+     "Richag egilmasligi uchun mustahkam uzun detal tanlang",
+     "Yuk qo'yiladigan joyni oldindan belgilab oling"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Qurilmada richag va tayanch nuqtasi bor, bola ularni ko'rsatib bera oladi.",
+     "2-band (1 ball): Tayanch nuqtasi mahkam — ishlaganda joyidan siljimaydi.",
+     "3-band (1 ball): Sinov: qurilma kamida 1 ta detal-yukni ko'taradi yoki qisadi.",
+     "4-band (1 ball): Sinov: yuk 2 barobar oshirilganda qurilma sinmaydi (ko'tara olmasa ham).",
+     "5-band (1 ball): Bola tayanch nuqtasini surganda nima o'zgarishini ko'rsatib berdi.",
+     "6-band (1 ball): Kuch yelkasi yuk yelkasidan uzun qilib tanlangan (yengil ko'tarish uchun).",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 4-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Tayanch nuqtasini qayerga qo'ydingiz va nega aynan u yerga?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "0-sinf",
+   "yil": "1-yil",
+   "chorak": "2-chorak, 9-hafta",
+   "darsRaqami": "39 / 84",
+   "modul": "L2. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|0-sinf|2-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Richag va tayanch nuqtasi\" mavzusini \"Ladder\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Ladder\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -3050,14 +3287,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 9-hafta",
-   "darsRaqami": "38 / 84",
+   "chorak": "2-chorak, 10-hafta",
+   "darsRaqami": "40 / 84",
    "modul": "M2. Richag qonuni",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|2-chorak|17": {
+ "1-yil|0-sinf|2-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Ladder\" modelini instruksiyaga kamroq qarab qayta yig'adilar va yig'ish vaqtini o'lchaydilar.",
    "O'quvchilar \"Richag va tayanch nuqtasi\" mavzusi bo'yicha modelning ishlashini aniq mezon (vaqt, masofa yoki takrorlar soni) bilan o'lchab, natijani jadvalga yozadilar.",
@@ -3135,14 +3372,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 9-hafta",
-   "darsRaqami": "39 / 84",
+   "chorak": "2-chorak, 10-hafta",
+   "darsRaqami": "41 / 84",
    "modul": "M2. Richag qonuni",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|2-chorak|18": {
+ "1-yil|0-sinf|2-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Asos kengligi\" mavzusini \"Quadrilateral\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Quadrilateral\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -3214,162 +3451,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 10-hafta",
-   "darsRaqami": "40 / 84",
-   "modul": "M2. Richag qonuni",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|0-sinf|2-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Richag-Kuch\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (ko'tarilgan yuk og'irligi va tayanch nuqtasi to'g'ri tanlanganligi) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Richag (Lever) – tayanch nuqtasi atrofida aylanadigan qattiq sterjen",
-   "Tayanch nuqtasi (Fulcrum) – richag aylanadigan nuqta",
-   "Kuch yelkasi (Effort arm) – kuch qo'yiladigan nuqtadan tayanchgacha masofa",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Vaqtni boshqarish — Musobaqagacha tayyorgarlikni ulgurish, oxirgi daqiqaga qoldirmaslik.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "Yuk sifatida bir xil og'irlikdagi detallar to'plami",
-   "Tayanch nuqtasini surish uchun qo'shimcha bloklar"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: richagli model yordamida stol ustidagi yukni ko'taradi; tayanch nuqtasini surib, eng kam kuch bilan ko'tarish holati topiladi.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "3 va undan ko'p detal-yukni ko'tarsa va tayanch nuqtasini to'g'ri tushuntirsa = 5 (a'lo)",
-     "2 detal-yukni ko'tarsa = 4 (yaxshi)",
-     "1 detal-yukni ko'tarsa = 3 (qoniqarli)",
-     "Richag ishlaydi, lekin yuk ko'tarilmasa = 2 (qoniqarsiz)",
-     "Richag mexanizmi yig'ilmagan bo'lsa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (ko'tarilgan yuk og'irligi va tayanch nuqtasi to'g'ri tanlanganligi) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Tayanch nuqtasini surganingizda ko'tarish osonlashdimi yoki qiyinlashdimi — nega?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "0-sinf",
-   "yil": "1-yil",
-   "chorak": "2-chorak, 10-hafta",
-   "darsRaqami": "41 / 84",
-   "modul": "N2. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|0-sinf|2-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"O'zimning richagli qurilmam\" loyihasi doirasida richag qonunidan foydalanib, biror narsani ko'taradigan yoki qisadigan o'z qurilmangizni qurish.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: richag qonunidan foydalanib, biror narsani ko'taradigan yoki qisadigan o'z qurilmangizni qurish.",
-     "Talab: Qurilmada tayanch nuqtasi aniq ko'rinsin.",
-     "Talab: Qurilma kamida 1 ta detalni ko'tara olsin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Tayanch nuqtasini qayerga qo'ydingiz va nega aynan u yerga?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "0-sinf",
-   "yil": "1-yil",
    "chorak": "2-chorak, 11-hafta",
    "darsRaqami": "42 / 84",
-   "modul": "L2. Loyiha",
+   "modul": "M2. Richag qonuni",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
@@ -4004,6 +4088,95 @@ window.LESSON_CONTENT = {
  },
  "1-yil|0-sinf|3-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Geometrik shakllar va mustahkamlik\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 5-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Xatodan o'rganish — noto'g'ri javob \"yomon\" degani emas; qaysi mavzuni takrorlash kerakligini ko'rsatadigan belgi.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Savollar o'qituvchi tomonidan baland ovozda, har biri 2 martadan o'qib beriladi; o'quvchilar javob varag'ida mos katakchani (A/B/C) belgilaydilar.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 5-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Qaysi shakl yuk ostida ham shaklini o'zgartirmaydi?  A) To'rtburchak.  B) Uchburchak.  C) Doira.",
+     "2-savol. To'rtburchak ramkani mustahkam qilish uchun nima qo'shamiz?  A) Diagonal bo'lak.  B) Yana bitta to'rtburchak.  C) Rangli detal.",
+     "3-savol. Diagonal qo'shilgan to'rtburchak nimaga aylanadi?  A) Doiraga.  B) Kattaroq to'rtburchakka.  C) Ikkita uchburchakka.",
+     "4-savol. Ko'priklarda nega uchburchaklar ko'p ishlatiladi?  A) Uchburchak mustahkam bo'lgani uchun.  B) Chizish oson bo'lgani uchun.  C) Uchburchak yengil bo'lgani uchun.",
+     "5-savol. Yopiq konstruksiya qanday bo'ladi?  A) Bir tomoni ochiq qolgan.  B) Barcha tomonlari tutashgan.  C) Faqat bitta bo'lakdan iborat.",
+     "6-savol. Ko'p uchburchakdan yasalgan konstruksiya nima deb ataladi?  A) G'ildirak.  B) Zanjir.  C) Ferma.",
+     "7-savol. Konstruksiya ustiga yuk qo'ysak, kuch qayerga tushadi?  A) Faqat yuqoriga.  B) Tayanchlar orqali pastga tarqaladi.  C) Hech qayerga.",
+     "8-savol. Baland konstruksiyani mustahkam qilish uchun pastini qanday quramiz?  A) Kengroq qilib.  B) Torroq qilib.  C) Bo'sh qoldirib.",
+     "9-savol. Ramka yon tomonga qiyshayib ketsa, bu nima?  A) Mustahkamlik.  B) Deformatsiya (shakl o'zgarishi).  C) Muvozanat.",
+     "10-savol. Ikki tayanch orasidagi ko'prik qayeridan sinishi ehtimoli katta?  A) Tayanchning tagidan.  B) Chetidan.  C) O'rtasidan."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-B,  2-A,  3-C,  4-A,  5-B,  6-C,  7-B,  8-A,  9-B,  10-C",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "0-sinf",
+   "yil": "1-yil",
+   "chorak": "3-chorak, 5-hafta",
+   "darsRaqami": "51 / 84",
+   "modul": "N3. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|0-sinf|3-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Burchaklar va tomonlar bog'liqligi\" mavzusini \"Little Lantern 1\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Little Lantern 1\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -4075,13 +4248,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "1-yil",
    "chorak": "3-chorak, 5-hafta",
-   "darsRaqami": "51 / 84",
+   "darsRaqami": "52 / 84",
    "modul": "M3. Mustahkam konstruksiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|3-chorak|9": {
+ "1-yil|0-sinf|3-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Ko'p uchburchakdan konstruksiya (ferma)\" mavzusini \"Little Lantern 4\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Little Lantern 4\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -4153,14 +4326,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 5-hafta",
-   "darsRaqami": "52 / 84",
+   "chorak": "3-chorak, 6-hafta",
+   "darsRaqami": "53 / 84",
    "modul": "M3. Mustahkam konstruksiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|3-chorak|10": {
+ "1-yil|0-sinf|3-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Diagonal qo'shish\" mavzusini \"Little Lantern 2\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Little Lantern 2\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -4233,13 +4406,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "1-yil",
    "chorak": "3-chorak, 6-hafta",
-   "darsRaqami": "53 / 84",
+   "darsRaqami": "54 / 84",
    "modul": "M3. Mustahkam konstruksiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|3-chorak|11": {
+ "1-yil|0-sinf|3-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Ko'p uchburchakdan konstruksiya (ferma)\" mavzusini \"Little Lantern 2\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Little Lantern 2\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -4311,14 +4484,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 6-hafta",
-   "darsRaqami": "54 / 84",
+   "chorak": "3-chorak, 7-hafta",
+   "darsRaqami": "55 / 84",
    "modul": "M3. Mustahkam konstruksiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|3-chorak|12": {
+ "1-yil|0-sinf|3-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Kam detal bilan ko'p mustahkamlik\" mavzusini \"Christmas Tree\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Christmas Tree\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -4391,13 +4564,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "1-yil",
    "chorak": "3-chorak, 7-hafta",
-   "darsRaqami": "55 / 84",
+   "darsRaqami": "56 / 84",
    "modul": "M3. Mustahkam konstruksiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|3-chorak|13": {
+ "1-yil|0-sinf|3-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Balandlik va mustahkamlik\" mavzusini \"Christmas Tree\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Christmas Tree\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -4469,14 +4642,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 7-hafta",
-   "darsRaqami": "56 / 84",
+   "chorak": "3-chorak, 8-hafta",
+   "darsRaqami": "57 / 84",
    "modul": "M3. Mustahkam konstruksiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|3-chorak|14": {
+ "1-yil|0-sinf|3-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Simmetriya\" mavzusini \"Cellphone Mount\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Cellphone Mount\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -4549,13 +4722,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "1-yil",
    "chorak": "3-chorak, 8-hafta",
-   "darsRaqami": "57 / 84",
+   "darsRaqami": "58 / 84",
    "modul": "M3. Mustahkam konstruksiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|3-chorak|15": {
+ "1-yil|0-sinf|3-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Tishli g'ildirak va tishlarning ulanishi\" mavzusini \"Eggbeater\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Eggbeater\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -4628,14 +4801,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 8-hafta",
-   "darsRaqami": "58 / 84",
+   "chorak": "3-chorak, 9-hafta",
+   "darsRaqami": "59 / 84",
    "modul": "M3. Mustahkam konstruksiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|3-chorak|16": {
+ "1-yil|0-sinf|3-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Mustahkam minora\" loyihasi doirasida iloji boricha baland, lekin turg'un konstruksiya qurish.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 6-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Natijaga halol munosabat — o'lchovni bo'rttirmasdan, qanday chiqqan bo'lsa shunday yozish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: iloji boricha baland, lekin turg'un konstruksiya qurish.",
+     "Talab: Minora o'z-o'zidan tik tursin (ushlab turilmasin).",
+     "Talab: Konstruksiyada uchburchak ishlatilsin.",
+     "Talab: Balandligi o'lchab yozilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Pastki qavat keng va og'ir, yuqori qavat yengil bo'lsin",
+     "Har qavatni qo'shishdan oldin oldingi qavat qimirlamasligini tekshiring",
+     "Uchburchaklar burchaklarga qo'yilsa ko'proq foyda beradi"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Minora o'z-o'zidan tik turadi, hech kim ushlab turmaydi.",
+     "2-band (1 ball): Konstruksiyada kamida 2 ta uchburchak ishlatilgan va bola ularni ko'rsatadi.",
+     "3-band (1 ball): Balandlik o'lchab, daftarga yozilgan.",
+     "4-band (1 ball): Sinov: minora kamida 40 sm baland.",
+     "5-band (1 ball): Sinov: stol sekin turtilganda (tebranish sinovi) minora yiqilmaydi.",
+     "6-band (1 ball): Pastki qismi yuqorisidan keng — og'irlik markazi pastda.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 6-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Minorangiz qayeri eng kuchsiz edi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "0-sinf",
+   "yil": "1-yil",
+   "chorak": "3-chorak, 9-hafta",
+   "darsRaqami": "60 / 84",
+   "modul": "L3. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|0-sinf|3-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Eggbeater\" modelini instruksiyaga kamroq qarab qayta yig'adilar va yig'ish vaqtini o'lchaydilar.",
    "O'quvchilar \"Tishli g'ildirak va tishlarning ulanishi\" mavzusi bo'yicha modelning ishlashini aniq mezon (vaqt, masofa yoki takrorlar soni) bilan o'lchab, natijani jadvalga yozadilar.",
@@ -4713,14 +4993,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 9-hafta",
-   "darsRaqami": "59 / 84",
+   "chorak": "3-chorak, 10-hafta",
+   "darsRaqami": "61 / 84",
    "modul": "M3. Mustahkam konstruksiya",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|3-chorak|17": {
+ "1-yil|0-sinf|3-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Aylanish yo'nalishi\" mavzusini \"Grinding Machine\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Grinding Machine\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -4792,14 +5072,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 9-hafta",
-   "darsRaqami": "60 / 84",
+   "chorak": "3-chorak, 10-hafta",
+   "darsRaqami": "62 / 84",
    "modul": "M3. Mustahkam konstruksiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|3-chorak|18": {
+ "1-yil|0-sinf|3-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Katta va kichik g'ildirak — tezlik farqi\" mavzusini \"Grinding Machine\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Grinding Machine\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -4871,163 +5151,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 10-hafta",
-   "darsRaqami": "61 / 84",
-   "modul": "M3. Mustahkam konstruksiya",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|0-sinf|3-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Mustahkam Ko'prik\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (konstruksiya buzilgunga qadar ko'targan yuk miqdori) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Mustahkamlik (Rigidity) – konstruksiyaning shaklini saqlash qobiliyati",
-   "Uchburchak (Triangle) – shaklini o'zgartirmaydigan yagona ko'pburchak",
-   "Deformatsiya (Deformation) – yuk ostida shaklning o'zgarishi",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Bosim ostida ishlash — Hamma qarab turganda ham xotirjam ishlash, xato bo'lsa vahima qilmaslik.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "20 sm oraliq hosil qilish uchun ikkita bir xil balandlikdagi tayanch",
-   "Bir xil og'irlikdagi yuk detallari"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: o'quvchi 20 sm oraliqni bosib o'tadigan konstruksiya quradi va uning ustiga bosqichma-bosqich yuk qo'yiladi.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "5 va undan ko'p detal-yukni ko'tarsa va uchburchak ishlatgan bo'lsa = 5 (a'lo)",
-     "3–4 detal-yukni ko'tarsa = 4 (yaxshi)",
-     "1–2 detal-yukni ko'tarsa = 3 (qoniqarli)",
-     "Konstruksiya turadi, lekin yuk ko'tarmasa = 2 (qoniqarsiz)",
-     "Konstruksiya 20 sm oraliqni bosib o'tmasa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (konstruksiya buzilgunga qadar ko'targan yuk miqdori) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Ko'prigingiz qayeridan buzildi — o'sha joyni qanday mustahkamlash mumkin edi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "0-sinf",
-   "yil": "1-yil",
-   "chorak": "3-chorak, 10-hafta",
-   "darsRaqami": "62 / 84",
-   "modul": "N3. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|0-sinf|3-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Mustahkam minora\" loyihasi doirasida iloji boricha baland, lekin turg'un konstruksiya qurish.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: iloji boricha baland, lekin turg'un konstruksiya qurish.",
-     "Talab: Minora o'z-o'zidan tik tursin (ushlab turilmasin).",
-     "Talab: Konstruksiyada uchburchak ishlatilsin.",
-     "Talab: Balandligi o'lchab yozilsin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Minorangiz qayeri eng kuchsiz edi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "0-sinf",
-   "yil": "1-yil",
    "chorak": "3-chorak, 11-hafta",
    "darsRaqami": "63 / 84",
-   "modul": "L3. Loyiha",
+   "modul": "M3. Mustahkam konstruksiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
@@ -5665,6 +5791,95 @@ window.LESSON_CONTENT = {
  },
  "1-yil|0-sinf|4-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Tishli g'ildirak va shkiv\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 7-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "O'zini baholash — testdan oldin qaysi savollarga ishonchingiz komil ekanini his qilish va yakunda solishtirish.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Savollar o'qituvchi tomonidan baland ovozda, har biri 2 martadan o'qib beriladi; o'quvchilar javob varag'ida mos katakchani (A/B/C) belgilaydilar.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 7-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Tishli g'ildiraklar bir-biriga qanday ulanadi?  A) Tishlari bilan tishlashib.  B) Ip bilan bog'lanib.  C) Yelim bilan yopishib.",
+     "2-savol. Katta tishli g'ildirak kichigini aylantirsa, kichigi qanday aylanadi?  A) Sekinroq.  B) Tezroq.  C) Bir xil tezlikda.",
+     "3-savol. Ikkita tishlashgan g'ildirak qaysi tomonga aylanadi?  A) Ikkalasi bir tomonga.  B) Ikkalasi ham to'xtab qoladi.  C) Bir-biriga qarama-qarshi tomonga.",
+     "4-savol. Uzatma nisbatini bilish uchun nimani sanaymiz?  A) G'ildiraklarning tishlarini.  B) G'ildiraklarning rangini.  C) Detallar narxini.",
+     "5-savol. Shkiv tishli g'ildirakdan nimasi bilan farq qiladi?  A) Shkiv kattaroq bo'ladi.  B) Shkivda tish yo'q — tasma yoki ip bilan ishlaydi.  C) Farqi yo'q.",
+     "6-savol. Shkiv orqali yuk ko'targanda ipni qaysi tomonga tortamiz?  A) Yon tomonga.  B) Yuk tomonga.  C) Pastga — yuk esa yuqoriga ko'tariladi.",
+     "7-savol. 8 tishli g'ildirak 24 tishli g'ildirakni aylantirsa, katta g'ildirak qanday aylanadi?  A) 3 barobar sekin.  B) 3 barobar tez.  C) Bir xil.",
+     "8-savol. Velosipedning pedali va orqa g'ildiragi nima orqali ulangan?  A) Yelim bilan.  B) Zanjir bilan.  C) Magnit bilan.",
+     "9-savol. Aylanish yo'nalishini o'zgartirmay uzatish uchun ikki g'ildirak orasiga nima qo'yamiz?  A) Hech narsa.  B) Suv.  C) Uchinchi (oraliq) g'ildirak.",
+     "10-savol. Tez aylanish kerak bo'lsa, motorni qaysi g'ildirakka ulaymiz?  A) Katta g'ildirakka — u kichigini tez aylantiradi.  B) Kichik g'ildirakka.  C) Ikkalasiga birdan."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "0-sinf",
+   "yil": "1-yil",
+   "chorak": "4-chorak, 5-hafta",
+   "darsRaqami": "72 / 84",
+   "modul": "N4. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|0-sinf|4-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Tishli g'ildirak va tishlarning ulanishi\" mavzusini \"Weirdo Clock\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Weirdo Clock\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -5736,13 +5951,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "1-yil",
    "chorak": "4-chorak, 5-hafta",
-   "darsRaqami": "72 / 84",
+   "darsRaqami": "73 / 84",
    "modul": "M4. Tishli g'ildirak va shkiv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|4-chorak|9": {
+ "1-yil|0-sinf|4-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Aylanish yo'nalishi\" mavzusini \"Weirdo Clock\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Weirdo Clock\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -5815,14 +6030,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 5-hafta",
-   "darsRaqami": "73 / 84",
+   "chorak": "4-chorak, 6-hafta",
+   "darsRaqami": "74 / 84",
    "modul": "M4. Tishli g'ildirak va shkiv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|4-chorak|10": {
+ "1-yil|0-sinf|4-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Uzatma zanjiri (bir necha g'ildirak ketma-ket)\" mavzusini \"Electric Gatling Gun\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Electric Gatling Gun\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -5896,13 +6111,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "1-yil",
    "chorak": "4-chorak, 6-hafta",
-   "darsRaqami": "74 / 84",
+   "darsRaqami": "75 / 84",
    "modul": "M4. Tishli g'ildirak va shkiv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|4-chorak|11": {
+ "1-yil|0-sinf|4-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Uzatma zanjiri (bir necha g'ildirak ketma-ket)\" mavzusini \"Manual Gatling Gun\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Gatling Gun\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -5974,14 +6189,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 6-hafta",
-   "darsRaqami": "75 / 84",
+   "chorak": "4-chorak, 7-hafta",
+   "darsRaqami": "76 / 84",
    "modul": "M4. Tishli g'ildirak va shkiv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|4-chorak|12": {
+ "1-yil|0-sinf|4-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Katta va kichik g'ildirak — tezlik farqi\" mavzusini \"Manual Gatling Gun\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Gatling Gun\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -6055,13 +6270,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "1-yil",
    "chorak": "4-chorak, 7-hafta",
-   "darsRaqami": "76 / 84",
+   "darsRaqami": "77 / 84",
    "modul": "M4. Tishli g'ildirak va shkiv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|4-chorak|13": {
+ "1-yil|0-sinf|4-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Bir nechta shkiv — kuchni kamaytirish\" mavzusini \"Conveyor\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Conveyor\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -6133,14 +6348,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 7-hafta",
-   "darsRaqami": "77 / 84",
+   "chorak": "4-chorak, 8-hafta",
+   "darsRaqami": "78 / 84",
    "modul": "M4. Tishli g'ildirak va shkiv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|4-chorak|14": {
+ "1-yil|0-sinf|4-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Conveyor\" modelini instruksiyaga kamroq qarab qayta yig'adilar va yig'ish vaqtini o'lchaydilar.",
    "O'quvchilar \"Bir nechta shkiv — kuchni kamaytirish\" mavzusi bo'yicha modelning ishlashini aniq mezon (vaqt, masofa yoki takrorlar soni) bilan o'lchab, natijani jadvalga yozadilar.",
@@ -6219,13 +6434,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "1-yil",
    "chorak": "4-chorak, 8-hafta",
-   "darsRaqami": "78 / 84",
+   "darsRaqami": "79 / 84",
    "modul": "M4. Tishli g'ildirak va shkiv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|4-chorak|15": {
+ "1-yil|0-sinf|4-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Shkiv kuch yo'nalishini o'zgartiradi\" mavzusini \"Conveyor\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Conveyor\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -6298,14 +6513,120 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 8-hafta",
-   "darsRaqami": "79 / 84",
+   "chorak": "4-chorak, 9-hafta",
+   "darsRaqami": "80 / 84",
    "modul": "M4. Tishli g'ildirak va shkiv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|4-chorak|16": {
+ "1-yil|0-sinf|4-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Tezlashtirgich\" loyihasi doirasida tishli g'ildirak yoki shkiv uzatmasi qurib, chiqish qismini kirishdan tezroq aylantirish.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 8-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "O'z ishini himoya qilish — qarorlarini dalil va o'lchov bilan asoslab berish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: tishli g'ildirak yoki shkiv uzatmasi qurib, chiqish qismini kirishdan tezroq aylantirish.",
+     "Talab: Kamida 2 ta tishli g'ildirak yoki shkiv ishlatilsin.",
+     "Talab: Kirish va chiqish aylanishlari sanab, nisbati yozilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Tezlik uchun KATTA g'ildirak kichigini aylantirishi kerak",
+     "G'ildiraklar tishlari to'liq tishlashsin — oraliq qolsa sirpanadi",
+     "O'qlar egilmasligi uchun ikki tomondan tayanch bering"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Uzatmada kamida 2 ta tishli g'ildirak yoki shkiv bor.",
+     "2-band (1 ball): Kirish aylantirilganda chiqish ham aylanadi — uzatma sirpanmaydi.",
+     "3-band (1 ball): Chiqish kirishdan TEZROQ aylanadi (kuzatishda aniq ko'rinadi).",
+     "4-band (1 ball): Kirish 1 marta aylanganda chiqish necha marta aylangani sanab yozilgan.",
+     "5-band (1 ball): Uzatma nisbati to'g'ri aytilgan (masalan: 3 ga 1).",
+     "6-band (1 ball): Sinov: uzatma 10 marta ketma-ket aylantirilganda buzilmaydi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 8-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Tezlik oshganda kuch nima bo'ldi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "0-sinf",
+   "yil": "1-yil",
+   "chorak": "4-chorak, 9-hafta",
+   "darsRaqami": "81 / 84",
+   "modul": "L4. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|0-sinf|4-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Shkiv kuch yo'nalishini o'zgartiradi\" mavzusini \"Pulley Crane\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Pulley Crane\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -6377,14 +6698,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 9-hafta",
-   "darsRaqami": "80 / 84",
+   "chorak": "4-chorak, 10-hafta",
+   "darsRaqami": "82 / 84",
    "modul": "M4. Tishli g'ildirak va shkiv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|4-chorak|17": {
+ "1-yil|0-sinf|4-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Pulley Crane\" modelini instruksiyaga kamroq qarab qayta yig'adilar va yig'ish vaqtini o'lchaydilar.",
    "O'quvchilar \"Shkiv kuch yo'nalishini o'zgartiradi\" mavzusi bo'yicha modelning ishlashini aniq mezon (vaqt, masofa yoki takrorlar soni) bilan o'lchab, natijani jadvalga yozadilar.",
@@ -6462,14 +6783,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 9-hafta",
-   "darsRaqami": "81 / 84",
+   "chorak": "4-chorak, 10-hafta",
+   "darsRaqami": "83 / 84",
    "modul": "M4. Tishli g'ildirak va shkiv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|0-sinf|4-chorak|18": {
+ "1-yil|0-sinf|4-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Bir nechta shkiv — kuchni kamaytirish\" mavzusini \"Line Car\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Line Car\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -6542,162 +6863,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 10-hafta",
-   "darsRaqami": "82 / 84",
-   "modul": "M4. Tishli g'ildirak va shkiv",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|0-sinf|4-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Tezlik va Kuch\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (uzatma nisbati to'g'ri qurilgani va tushuntirilgani) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Uzatma nisbati (Gear ratio) – kirish va chiqish aylanishlari soni nisbati",
-   "Shkiv (Pulley) – tasma orqali kuch uzatuvchi g'ildirak",
-   "Moment (Torque) – aylantiruvchi kuch",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Mas'uliyat va o'zini baholash — Yil yakunida o'z natijasini haqqoniy baholay olish, kuchli va kuchsiz tomonini aytish.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "Turli o'lchamdagi tishli g'ildiraklar va shkivlar",
-   "Aylanishlarni sanash uchun rangli belgi (stiker)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: tishli g'ildirak yoki shkiv uzatmasi qurib, bir xil qo'l aylanishida chiqish g'ildiragi necha marta aylanishini ko'rsatadi va tushuntiradi.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "Uzatmani quradi, nisbatni o'lchaydi va nega tezlik/kuch o'zgarganini tushuntiradi = 5 (a'lo)",
-     "Uzatmani quradi va nisbatni o'lchaydi = 4 (yaxshi)",
-     "Uzatmani quradi, u aylanadi = 3 (qoniqarli)",
-     "Tishli g'ildiraklar ulangan, lekin aylanmasa = 2 (qoniqarsiz)",
-     "Uzatma yig'ilmagan bo'lsa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (uzatma nisbati to'g'ri qurilgani va tushuntirilgani) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Katta g'ildirak kichigini aylantirganda tezlik oshdimi yoki kuch oshdimi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "0-sinf",
-   "yil": "1-yil",
-   "chorak": "4-chorak, 10-hafta",
-   "darsRaqami": "83 / 84",
-   "modul": "N4. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|0-sinf|4-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Tezlashtirgich\" loyihasi doirasida tishli g'ildirak yoki shkiv uzatmasi qurib, chiqish qismini kirishdan tezroq aylantirish.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: tishli g'ildirak yoki shkiv uzatmasi qurib, chiqish qismini kirishdan tezroq aylantirish.",
-     "Talab: Kamida 2 ta tishli g'ildirak yoki shkiv ishlatilsin.",
-     "Talab: Kirish va chiqish aylanishlari sanab, nisbati yozilsin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Tezlik oshganda kuch nima bo'ldi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "0-sinf",
-   "yil": "1-yil",
    "chorak": "4-chorak, 11-hafta",
    "darsRaqami": "84 / 84",
-   "modul": "L4. Loyiha",
+   "modul": "M4. Tishli g'ildirak va shkiv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
@@ -7344,6 +7512,95 @@ window.LESSON_CONTENT = {
  },
  "1-yil|1-sinf|1-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Vint mexanizmi va avtomatik harakat\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 1-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Halollik — testni mustaqil yechish, ko'chirmaslik. Natija qanday bo'lsa ham, u O'ZINGIZNIKI bo'lsin.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Savollar o'qituvchi tomonidan baland ovozda, har biri 2 martadan o'qib beriladi; o'quvchilar javob varag'ida mos katakchani (A/B/C) belgilaydilar.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 1-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Vint mexanizmi aylanma harakatni qanday harakatga aylantiradi?  A) To'g'ri chiziqli (oldinga-orqaga) harakatga.  B) Sakrash harakatiga.  C) Hech qanday harakatga.",
+     "2-savol. Vintni burasak, gayka nima qiladi?  A) Joyida turadi.  B) Vint bo'ylab siljiydi.  C) Uchib ketadi.",
+     "3-savol. Avtomatik darvoza qo'lda ochiladimi?  A) Ha, faqat qo'lda.  B) U hech qachon ochilmaydi.  C) Yo'q — mexanizm o'zi ochadi.",
+     "4-savol. Aylanma harakat qanday harakat?  A) Bir nuqta atrofida aylanish.  B) Faqat oldinga yurish.  C) Joyida turish.",
+     "5-savol. Tebranma harakat qanday harakat?  A) Doim bir tomonga aylanish.  B) U yoqdan-bu yoqqa qaytib turadigan harakat.  C) Juda tez uchish.",
+     "6-savol. Mexanizm bo'g'inlari orasida katta bo'shliq qolsa nima bo'ladi?  A) Mexanizm tezlashadi.  B) Hech narsa bo'lmaydi.  C) Harakat noaniq, taqillab ishlaydi.",
+     "7-savol. Vintli ko'targich (domkrat) nima uchun ishlatiladi?  A) Og'ir narsani sekin va kuchli ko'tarish uchun.  B) Musiqa chalish uchun.  C) Tez yugurish uchun.",
+     "8-savol. Mexanizmni harakatga nima keltiradi?  A) Bo'yoq.  B) Kuch (qo'l yoki motor).  C) Sovuq havo.",
+     "9-savol. Vint mexanizmida harakat qaysi yo'nalishda uzatiladi?  A) Faqat yon tomonga.  B) Hech qayerga.  C) Aylanishdan — vint o'qi bo'ylab.",
+     "10-savol. Avtomatik mexanizmning qo'lda ishlaydigan mexanizmdan afzalligi nima?  A) Odam kuchini tejaydi va o'zi ishlaydi.  B) Chiroyliroq.  C) Har doim kichkina bo'ladi."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "1-sinf",
+   "yil": "1-yil",
+   "chorak": "1-chorak, 5-hafta",
+   "darsRaqami": "9 / 84",
+   "modul": "N1. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|1-sinf|1-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Harakatni to'xtatish va boshlash\" mavzusini \"Inchworm\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Inchworm\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -7416,13 +7673,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "1-yil",
    "chorak": "1-chorak, 5-hafta",
-   "darsRaqami": "9 / 84",
+   "darsRaqami": "10 / 84",
    "modul": "M1. Mexanizm bilan tanishuv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|1-chorak|9": {
+ "1-yil|1-sinf|1-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Mexanizmlarni birlashtirish\" mavzusini \"Joint Motion 1\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Joint Motion 1\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -7495,14 +7752,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 5-hafta",
-   "darsRaqami": "10 / 84",
+   "chorak": "1-chorak, 6-hafta",
+   "darsRaqami": "11 / 84",
    "modul": "M1. Mexanizm bilan tanishuv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|1-chorak|10": {
+ "1-yil|1-sinf|1-chorak|11": {
   "maqsad": [
    "O'quvchilar \"To'rt bo'g'inli mexanizm\" mavzusini \"Manual Jumping YL Man 2\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Jumping YL Man 2\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -7575,13 +7832,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "1-yil",
    "chorak": "1-chorak, 6-hafta",
-   "darsRaqami": "11 / 84",
+   "darsRaqami": "12 / 84",
    "modul": "M1. Mexanizm bilan tanishuv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|1-chorak|11": {
+ "1-yil|1-sinf|1-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Harakat va vaqt bog'liqligi\" mavzusini \"Joint Motion 2\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Joint Motion 2\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -7654,14 +7911,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 6-hafta",
-   "darsRaqami": "12 / 84",
+   "chorak": "1-chorak, 7-hafta",
+   "darsRaqami": "13 / 84",
    "modul": "M1. Mexanizm bilan tanishuv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|1-chorak|12": {
+ "1-yil|1-sinf|1-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Mexanizm harakatini oldindan aytish\" mavzusini \"Joint Motion 3\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Joint Motion 3\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -7735,13 +7992,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "1-yil",
    "chorak": "1-chorak, 7-hafta",
-   "darsRaqami": "13 / 84",
+   "darsRaqami": "14 / 84",
    "modul": "M1. Mexanizm bilan tanishuv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|1-chorak|13": {
+ "1-yil|1-sinf|1-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Sakrash harakati qanday hosil bo'ladi\" mavzusini \"Joint Motion 3\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Joint Motion 3\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -7814,14 +8071,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 7-hafta",
-   "darsRaqami": "14 / 84",
+   "chorak": "1-chorak, 8-hafta",
+   "darsRaqami": "15 / 84",
    "modul": "M1. Mexanizm bilan tanishuv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|1-chorak|14": {
+ "1-yil|1-sinf|1-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Kulachok (cam) — muqobil mexanizm\" mavzusini \"Manual Jumping YL Man 1\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Jumping YL Man 1\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -7894,13 +8151,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "1-yil",
    "chorak": "1-chorak, 8-hafta",
-   "darsRaqami": "15 / 84",
+   "darsRaqami": "16 / 84",
    "modul": "M1. Mexanizm bilan tanishuv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|1-chorak|15": {
+ "1-yil|1-sinf|1-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Tebranishning tekisligi\" mavzusini \"Rocking YL Man 4\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Rocking YL Man 4\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -7973,14 +8230,120 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 8-hafta",
-   "darsRaqami": "16 / 84",
+   "chorak": "1-chorak, 9-hafta",
+   "darsRaqami": "17 / 84",
    "modul": "M1. Mexanizm bilan tanishuv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|1-chorak|16": {
+ "1-yil|1-sinf|1-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Harakatlanuvchi o'yinchoq\" loyihasi doirasida krivoship mexanizmiga o'z figurangizni qo'shib, harakatlanuvchi o'yinchoq yasash.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 2-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Mustaqillik va tashabbus — o'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: krivoship mexanizmiga o'z figurangizni qo'shib, harakatlanuvchi o'yinchoq yasash.",
+     "Talab: Qo'l aylantirilganda figura harakatlansin.",
+     "Talab: Mexanizm tiqilib qolmasin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Avval mexanizmni ishlating, figurani KEYIN qo'shing",
+     "Figura yengil bo'lsin — og'ir figura mexanizmni to'xtatadi",
+     "Krivoship radiusi figuraning harakat kengligini belgilashini eslang"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Krivoship mexanizmi to'g'ri yig'ilgan va aylanadi.",
+     "2-band (1 ball): O'z figurasi qo'shilgan (instruksiyadagi modeldan farq qiladi).",
+     "3-band (1 ball): Qo'l aylantirilganda figura aniq ko'rinadigan harakat qiladi.",
+     "4-band (1 ball): Sinov: mexanizm 20 marta aylantirilganda birer marta ham tiqilmaydi.",
+     "5-band (1 ball): Figura mexanizmdan chiqib ketmaydi, mahkam o'rnatilgan.",
+     "6-band (1 ball): Bola figuraning harakat turini (tebranma/aylanma) to'g'ri aytadi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 2-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Figurangiz qanday harakat qiladi — tebranmami, aylanmami?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "1-sinf",
+   "yil": "1-yil",
+   "chorak": "1-chorak, 9-hafta",
+   "darsRaqami": "18 / 84",
+   "modul": "L1. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|1-sinf|1-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Harakatni sanash\" mavzusini \"Jumping YL Man 1\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Jumping YL Man 1\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -8053,14 +8416,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 9-hafta",
-   "darsRaqami": "17 / 84",
+   "chorak": "1-chorak, 10-hafta",
+   "darsRaqami": "19 / 84",
    "modul": "M1. Mexanizm bilan tanishuv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|1-chorak|17": {
+ "1-yil|1-sinf|1-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Mexanizmni loyihalash tartibi\" mavzusini \"Roating YL Man 2\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Roating YL Man 2\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -8133,14 +8496,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 9-hafta",
-   "darsRaqami": "18 / 84",
+   "chorak": "1-chorak, 10-hafta",
+   "darsRaqami": "20 / 84",
    "modul": "M1. Mexanizm bilan tanishuv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|1-chorak|18": {
+ "1-yil|1-sinf|1-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Chayqalish (tebranib turish) harakati\" mavzusini \"Scarecrow\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Scarecrow\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -8212,162 +8575,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 10-hafta",
-   "darsRaqami": "19 / 84",
-   "modul": "M1. Mexanizm bilan tanishuv",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|1-sinf|1-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Mexanizm-Detektiv\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (mexanizm ishlashi va qismlarning to'g'ri nomlanishi) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Aylanma harakat (Rotary motion) – o'q atrofida aylanish",
-   "Tebranma harakat (Oscillating motion) – oldinga-orqaga takrorlanuvchi harakat",
-   "Mexanizm (Mechanism) – harakatni uzatuvchi va o'zgartiruvchi qismlar tizimi",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Sportchan munosabat — g'alaba va mag'lubiyatga sog'lom qarash, boshqalarning natijasini olqishlash. Yutqazish ham o'rganishning bir qismi.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "Mexanizm qismlari nomi yozilgan kartochkalar",
-   "Namoyish uchun stol maydoni"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: o'quvchi qo'l bilan aylantiriladigan mexanizm quradi va uning qaysi qismi aylanma, qaysi qismi tebranma harakat qilishini ko'rsatib beradi.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "Mexanizm silliq ishlaydi va 3 ta qismni to'g'ri nomlaydi = 5 (a'lo)",
-     "Mexanizm ishlaydi va 2 ta qismni nomlaydi = 4 (yaxshi)",
-     "Mexanizm ishlaydi = 3 (qoniqarli)",
-     "Mexanizm yig'ilgan, lekin tiqilib qoladi = 2 (qoniqarsiz)",
-     "Mexanizm yig'ilmagan bo'lsa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (mexanizm ishlashi va qismlarning to'g'ri nomlanishi) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Aylanma harakat qaysi qismda tebranma harakatga aylandi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "1-sinf",
-   "yil": "1-yil",
-   "chorak": "1-chorak, 10-hafta",
-   "darsRaqami": "20 / 84",
-   "modul": "N1. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|1-sinf|1-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Harakatlanuvchi o'yinchoq\" loyihasi doirasida krivoship mexanizmiga o'z figurangizni qo'shib, harakatlanuvchi o'yinchoq yasash.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: krivoship mexanizmiga o'z figurangizni qo'shib, harakatlanuvchi o'yinchoq yasash.",
-     "Talab: Qo'l aylantirilganda figura harakatlansin.",
-     "Talab: Mexanizm tiqilib qolmasin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Figurangiz qanday harakat qiladi — tebranmami, aylanmami?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "1-sinf",
-   "yil": "1-yil",
    "chorak": "1-chorak, 11-hafta",
    "darsRaqami": "21 / 84",
-   "modul": "L1. Loyiha",
+   "modul": "M1. Mexanizm bilan tanishuv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
@@ -9008,6 +9218,95 @@ window.LESSON_CONTENT = {
  },
  "1-yil|1-sinf|2-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Mexanizmni takomillashtirish va harakat turlari\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 3-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Diqqatni jamlash — 20 daqiqa davomida chalg'imasdan ishlash, savolni oxirigacha o'qish.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Savollar o'qituvchi tomonidan baland ovozda, har biri 2 martadan o'qib beriladi; o'quvchilar javob varag'ida mos katakchani (A/B/C) belgilaydilar.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 3-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Mexanizmni takomillashtirish nima degani?  A) Uni ishlashini yaxshilash.  B) Uni buzib tashlash.  C) Uni bo'yash.",
+     "2-savol. Chayqalish harakati qanday harakat?  A) Doim bir tomonga aylanish.  B) Beshik kabi u yoqqa-bu yoqqa tebranish.  C) To'g'ri chiziq bo'ylab uchish.",
+     "3-savol. Harakatni kuchaytirish uchun mexanizmga nima qo'shamiz?  A) Ko'proq bo'yoq.  B) Og'ir tosh.  C) Richag.",
+     "4-savol. Aylanma va tebranma harakatning farqi nimada?  A) Aylanma to'liq doira bo'ylab, tebranma qaytib turadi.  B) Farqi yo'q.  C) Tebranma tezroq.",
+     "5-savol. Mexanizm o'lchamini kattalashtirsak, harakati qanday o'zgaradi?  A) Hech qanday.  B) Harakat kengroq (kattaroq) bo'ladi.  C) Mexanizm yo'qolib qoladi.",
+     "6-savol. Mexanizm qiyshayib ishlasa, avvalo nimani tekshiramiz?  A) Rangini.  B) Narxini.  C) Bo'g'inlar mahkam ulanganini.",
+     "7-savol. Ikki tomonlama harakat nima?  A) Mexanizm ham oldinga, ham orqaga ishlay olishi.  B) Ikki xil rangda bo'lishi.  C) Ikkita odam boshqarishi.",
+     "8-savol. Beshik qaysi harakat turiga misol?  A) Aylanma.  B) Chayqalish (tebranma).  C) Sakrash.",
+     "9-savol. Mexanizmni mustahkamlash uchun nima qilamiz?  A) Detallarni olib tashlaymiz.  B) Uni silkitamiz.  C) Bo'sh bo'g'inlarni mahkamlaymiz, tayanch qo'shamiz.",
+     "10-savol. Takomillashtirilgan mexanizm qanday ishlashi kerak?  A) Avvalgidan yaxshiroq va tekisroq.  B) Avvalgidan yomonroq.  C) Umuman ishlamasligi kerak."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "1-sinf",
+   "yil": "1-yil",
+   "chorak": "2-chorak, 5-hafta",
+   "darsRaqami": "30 / 84",
+   "modul": "N2. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|1-sinf|2-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Mexanizm qismlari: krivoship va shatun\" mavzusini \"Manual Rotating YL Man 2\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Rotating YL Man 2\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -9080,13 +9379,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "1-yil",
    "chorak": "2-chorak, 5-hafta",
-   "darsRaqami": "30 / 84",
+   "darsRaqami": "31 / 84",
    "modul": "M2. Krivoship va shatun",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|2-chorak|9": {
+ "1-yil|1-sinf|2-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Harakat trayektoriyasi — nuqta qanday yo'l chizadi\" mavzusini \"Manual Joint Motion 3\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Joint Motion 3\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -9158,14 +9457,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 5-hafta",
-   "darsRaqami": "31 / 84",
+   "chorak": "2-chorak, 6-hafta",
+   "darsRaqami": "32 / 84",
    "modul": "M2. Krivoship va shatun",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|2-chorak|10": {
+ "1-yil|1-sinf|2-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Harakatni ko'zdan kechirish (sekin rejim)\" mavzusini \"Roating YL Man 1\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Roating YL Man 1\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -9239,13 +9538,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "1-yil",
    "chorak": "2-chorak, 6-hafta",
-   "darsRaqami": "32 / 84",
+   "darsRaqami": "33 / 84",
    "modul": "M2. Krivoship va shatun",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|2-chorak|11": {
+ "1-yil|1-sinf|2-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Harakat kuchi va qarshilik\" mavzusini \"Rocking YL Man 2\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Rocking YL Man 2\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -9318,14 +9617,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 6-hafta",
-   "darsRaqami": "33 / 84",
+   "chorak": "2-chorak, 7-hafta",
+   "darsRaqami": "34 / 84",
    "modul": "M2. Krivoship va shatun",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|2-chorak|12": {
+ "1-yil|1-sinf|2-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Muvozanatlash — tebranish silliq bo'lishi uchun\" mavzusini \"Manual Jumping YL Man 3\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Jumping YL Man 3\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -9398,13 +9697,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "1-yil",
    "chorak": "2-chorak, 7-hafta",
-   "darsRaqami": "34 / 84",
+   "darsRaqami": "35 / 84",
    "modul": "M2. Krivoship va shatun",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|2-chorak|13": {
+ "1-yil|1-sinf|2-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Harakat sikli — bir to'liq aylanish\" mavzusini \"Manual Jumping YL Man 3\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Jumping YL Man 3\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -9477,14 +9776,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 7-hafta",
-   "darsRaqami": "35 / 84",
+   "chorak": "2-chorak, 8-hafta",
+   "darsRaqami": "36 / 84",
    "modul": "M2. Krivoship va shatun",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|2-chorak|14": {
+ "1-yil|1-sinf|2-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Harakatni kuchaytirish (richag bilan birga)\" mavzusini \"Electric Sewing Machine\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Electric Sewing Machine\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -9558,13 +9857,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "1-yil",
    "chorak": "2-chorak, 8-hafta",
-   "darsRaqami": "36 / 84",
+   "darsRaqami": "37 / 84",
    "modul": "M2. Krivoship va shatun",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|2-chorak|15": {
+ "1-yil|1-sinf|2-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Oldinga-orqaga tebranish (gorizontal)\" mavzusini \"Hammer Machine\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Hammer Machine\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -9636,14 +9935,120 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 8-hafta",
-   "darsRaqami": "37 / 84",
+   "chorak": "2-chorak, 9-hafta",
+   "darsRaqami": "38 / 84",
    "modul": "M2. Krivoship va shatun",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|2-chorak|16": {
+ "1-yil|1-sinf|2-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Ikki harakat bitta mexanizmda\" loyihasi doirasida bitta krivoshipdan ikki xil harakat chiqaradigan mexanizm qurish.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 4-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Rejali ishlash — vaqtni bosqichlarga bo'lib, eskiz va sinovga ham vaqt qoldirish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: bitta krivoshipdan ikki xil harakat chiqaradigan mexanizm qurish.",
+     "Talab: Ikkala harakat ham bir vaqtda ishlasin.",
+     "Talab: Harakatlar bir-biridan farq qilsin (masalan: biri yuqoriga-pastga, ikkinchisi oldinga-orqaga)."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Ikkinchi harakatni krivoshipning boshqa nuqtasidan yoki uzatma orqali oling",
+     "Ikkala mexanizm bir-biriga urilmasligini oldindan tekshiring",
+     "Bitta harakat ishlagach ikkinchisini qo'shing — birdan ikkalasini emas"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Mexanizmda bitta krivoship va undan chiqadigan IKKITA harakat bor.",
+     "2-band (1 ball): Ikkala harakat bir vaqtda ishlaydi.",
+     "3-band (1 ball): Harakatlar turi bir-biridan aniq farq qiladi.",
+     "4-band (1 ball): Sinov: 15 marta aylantirilganda ikkala harakat ham uzluksiz ishlaydi.",
+     "5-band (1 ball): Bola qaysi qism qaysi harakatni berayotganini ko'rsatib beradi.",
+     "6-band (1 ball): Bo'g'inlarda ortiqcha bo'shliq yo'q — harakat taqillamaydi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 4-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Bitta aylanishdan ikki xil harakat qanday chiqdi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "1-sinf",
+   "yil": "1-yil",
+   "chorak": "2-chorak, 9-hafta",
+   "darsRaqami": "39 / 84",
+   "modul": "L2. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|1-sinf|2-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Muvozanatlash — tebranish silliq bo'lishi uchun\" mavzusini \"Hammer Machine\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Hammer Machine\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -9716,14 +10121,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 9-hafta",
-   "darsRaqami": "38 / 84",
+   "chorak": "2-chorak, 10-hafta",
+   "darsRaqami": "40 / 84",
    "modul": "M2. Krivoship va shatun",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|2-chorak|17": {
+ "1-yil|1-sinf|2-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Harakat sikli — bir to'liq aylanish\" mavzusini \"Step Man\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Step Man\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -9795,14 +10200,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 9-hafta",
-   "darsRaqami": "39 / 84",
+   "chorak": "2-chorak, 10-hafta",
+   "darsRaqami": "41 / 84",
    "modul": "M2. Krivoship va shatun",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|2-chorak|18": {
+ "1-yil|1-sinf|2-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Real dvigatel bilan solishtirish\" mavzusini \"Step Man\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Step Man\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -9875,162 +10280,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 10-hafta",
-   "darsRaqami": "40 / 84",
-   "modul": "M2. Krivoship va shatun",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|1-sinf|2-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Krivoship-Usta\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (30 soniyadagi to'liq tebranishlar soni va mexanizmning uzilmasligi) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Krivoship (Crank) – aylanma harakatni beruvchi bukilgan o'q",
-   "Shatun (Connecting rod) – krivoshipni ishchi qismga ulovchi sterjen",
-   "Tebranish (Oscillation) – bir marta oldinga va orqaga qaytish",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Vaqtni boshqarish — Musobaqagacha tayyorgarlikni ulgurish, oxirgi daqiqaga qoldirmaslik.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "Sekundomer",
-   "Tebranishlarni sanash uchun juftlik (bir bola aylantiradi, ikkinchisi sanaydi)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: krivoship-shatun mexanizmi qurib, 30 soniya davomida uzluksiz aylantiradi; mexanizm necha marta to'liq tebranish berishi sanaladi.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "25 va undan ko'p tebranish, uzilishsiz = 5 (a'lo)",
-     "15–24 tebranish = 4 (yaxshi)",
-     "8–14 tebranish = 3 (qoniqarli)",
-     "1–7 tebranish yoki mexanizm ikki marta uzilsa = 2 (qoniqarsiz)",
-     "Mexanizm umuman tebranmasa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (30 soniyadagi to'liq tebranishlar soni va mexanizmning uzilmasligi) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Mexanizmingiz qayerda tiqilib qoldi — sabab shatunning uzunligimi yoki biriktirishmi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "1-sinf",
-   "yil": "1-yil",
-   "chorak": "2-chorak, 10-hafta",
-   "darsRaqami": "41 / 84",
-   "modul": "N2. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|1-sinf|2-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Ikki harakat bitta mexanizmda\" loyihasi doirasida bitta krivoshipdan ikki xil harakat chiqaradigan mexanizm qurish.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: bitta krivoshipdan ikki xil harakat chiqaradigan mexanizm qurish.",
-     "Talab: Ikkala harakat ham bir vaqtda ishlasin.",
-     "Talab: Harakatlar bir-biridan farq qilsin (masalan: biri yuqoriga-pastga, ikkinchisi oldinga-orqaga)."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Bitta aylanishdan ikki xil harakat qanday chiqdi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "1-sinf",
-   "yil": "1-yil",
    "chorak": "2-chorak, 11-hafta",
    "darsRaqami": "42 / 84",
-   "modul": "L2. Loyiha",
+   "modul": "M2. Krivoship va shatun",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
@@ -10668,6 +10920,95 @@ window.LESSON_CONTENT = {
  },
  "1-yil|1-sinf|3-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"O'lik nuqta, motor va murakkab harakatlar\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 5-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Xatodan o'rganish — noto'g'ri javob \"yomon\" degani emas; qaysi mavzuni takrorlash kerakligini ko'rsatadigan belgi.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Savollar o'qituvchi tomonidan baland ovozda, har biri 2 martadan o'qib beriladi; o'quvchilar javob varag'ida mos katakchani (A/B/C) belgilaydilar.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 5-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Mexanizmning \"o'lik nuqtasi\" nima?  A) Mexanizm tiqilib qoladigan holat.  B) Mexanizmning eng chiroyli joyi.  C) Motorning tugmasi.",
+     "2-savol. O'lik nuqtadan chiqish uchun mexanizmga nima yordam beradi?  A) Suv quyish.  B) Aylanib turgan og'irlik (maxovik) yoki turtki.  C) Sovutish.",
+     "3-savol. Sakrash harakati qanday hosil bo'ladi?  A) Model doim yerda sudraladi.  B) Model faqat aylanadi.  C) Mexanizm modelni yuqoriga itarib yuboradi.",
+     "4-savol. Motor tezroq aylansa, tebranish qanday o'zgaradi?  A) Tebranish ham tezlashadi.  B) Tebranish sekinlashadi.  C) Tebranish to'xtaydi.",
+     "5-savol. Bitta motordan nechta harakat olish mumkin?  A) Faqat bitta.  B) Uzatmalar orqali bir nechta.  C) Hech qancha.",
+     "6-savol. Ikki mexanizm navbatma-navbat ishlashi uchun nima kerak?  A) Ikkita alohida stol.  B) Ikki xil rang.  C) Harakatni navbat bilan uzatadigan uzatma.",
+     "7-savol. Motor nima qiladi?  A) Elektr energiyasini aylanma harakatga aylantiradi.  B) Faqat chiroq yoqadi.  C) Detallarni yopishtiradi.",
+     "8-savol. Mexanizm bir joyda tiqilib qolsa, birinchi nima qilamiz?  A) Kuchliroq bosamiz.  B) To'xtatib, tiqilgan joyini topamiz.  C) Modelni otib yuboramiz.",
+     "9-savol. Sakrovchi model qattiq yerga tushganda nimasi muhim?  A) Rangi o'chmasligi.  B) Ovoz chiqarishi.  C) Konstruksiyasi tarqalib ketmasligi.",
+     "10-savol. Motorli mexanizmda harakat zanjiri qanday boshlanadi?  A) Motor - uzatma - mexanizm - harakat.  B) Harakat - motor.  C) Mexanizm - motor - uzatma."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "1-sinf",
+   "yil": "1-yil",
+   "chorak": "3-chorak, 5-hafta",
+   "darsRaqami": "51 / 84",
+   "modul": "N3. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|1-sinf|3-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"To'rt bo'g'inli mexanizm\" mavzusini \"Sweeper\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Sweeper\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -10740,13 +11081,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "1-yil",
    "chorak": "3-chorak, 5-hafta",
-   "darsRaqami": "51 / 84",
+   "darsRaqami": "52 / 84",
    "modul": "M3. Tebranish kengligi va yo'nalishi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|3-chorak|9": {
+ "1-yil|1-sinf|3-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Real dvigatel bilan solishtirish\" mavzusini \"Manual Rocking YL Man 1\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Rocking YL Man 1\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -10818,14 +11159,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 5-hafta",
-   "darsRaqami": "52 / 84",
+   "chorak": "3-chorak, 6-hafta",
+   "darsRaqami": "53 / 84",
    "modul": "M3. Tebranish kengligi va yo'nalishi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|3-chorak|10": {
+ "1-yil|1-sinf|3-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Oldinga-orqaga tebranish (gorizontal)\" mavzusini \"Manual Rocking YL Man 1\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Rocking YL Man 1\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -10899,13 +11240,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "1-yil",
    "chorak": "3-chorak, 6-hafta",
-   "darsRaqami": "53 / 84",
+   "darsRaqami": "54 / 84",
    "modul": "M3. Tebranish kengligi va yo'nalishi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|3-chorak|11": {
+ "1-yil|1-sinf|3-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Mexanizm qismlari: krivoship va shatun\" mavzusini \"Manual Rocking YL Man 7\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Rocking YL Man 7\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -10978,14 +11319,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 6-hafta",
-   "darsRaqami": "54 / 84",
+   "chorak": "3-chorak, 7-hafta",
+   "darsRaqami": "55 / 84",
    "modul": "M3. Tebranish kengligi va yo'nalishi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|3-chorak|12": {
+ "1-yil|1-sinf|3-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Krivoship radiusi va tebranish kengligi\" mavzusini \"Pastry Chef\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Pastry Chef\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -11059,13 +11400,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "1-yil",
    "chorak": "3-chorak, 7-hafta",
-   "darsRaqami": "55 / 84",
+   "darsRaqami": "56 / 84",
    "modul": "M3. Tebranish kengligi va yo'nalishi",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|3-chorak|13": {
+ "1-yil|1-sinf|3-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Ikki mexanizm birga — navbatma-navbat harakat\" mavzusini \"Manual Jumping YL Man 5\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Jumping YL Man 5\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -11138,14 +11479,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 7-hafta",
-   "darsRaqami": "56 / 84",
+   "chorak": "3-chorak, 8-hafta",
+   "darsRaqami": "57 / 84",
    "modul": "M3. Tebranish kengligi va yo'nalishi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|3-chorak|14": {
+ "1-yil|1-sinf|3-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Aylanma va tebranma harakat farqi\" mavzusini \"Manual Rocking YL Man 6\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Rocking YL Man 6\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -11219,13 +11560,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "1-yil",
    "chorak": "3-chorak, 8-hafta",
-   "darsRaqami": "57 / 84",
+   "darsRaqami": "58 / 84",
    "modul": "M3. Tebranish kengligi va yo'nalishi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|3-chorak|15": {
+ "1-yil|1-sinf|3-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Krivoship radiusi va tebranish kengligi\" mavzusini \"Manual Rocking YL Man 8\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Rocking YL Man 8\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -11298,14 +11639,120 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 8-hafta",
-   "darsRaqami": "58 / 84",
+   "chorak": "3-chorak, 9-hafta",
+   "darsRaqami": "59 / 84",
    "modul": "M3. Tebranish kengligi va yo'nalishi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|3-chorak|16": {
+ "1-yil|1-sinf|3-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Sozlanadigan mexanizm\" loyihasi doirasida tebranish kengligini foydalanuvchi o'zgartira oladigan mexanizm qurish.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 6-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Natijaga halol munosabat — o'lchovni bo'rttirmasdan, qanday chiqqan bo'lsa shunday yozish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: tebranish kengligini foydalanuvchi o'zgartira oladigan mexanizm qurish.",
+     "Talab: Kamida 2 ta sozlash holati bo'lsin.",
+     "Talab: Har holatda tebranish kengligi o'lchab yozilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Kenglikni krivoship radiusini o'zgartirish orqali sozlash eng ishonchli yo'l",
+     "Sozlash oson bo'lsin — butun mexanizmni qayta yig'ish talab qilinmasin",
+     "O'lchashda tebranishning ikki chekka nuqtasini belgilang"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Mexanizm kamida 2 ta sozlash holatiga ega.",
+     "2-band (1 ball): Holatni almashtirish 1 daqiqadan kam vaqt oladi.",
+     "3-band (1 ball): 1-holatda tebranish kengligi o'lchab yozilgan.",
+     "4-band (1 ball): 2-holatda tebranish kengligi o'lchab yozilgan.",
+     "5-band (1 ball): Ikki holat orasidagi farq aniq ko'rinadi (kamida 2 sm).",
+     "6-band (1 ball): Bola kenglik nimaga bog'liqligini to'g'ri tushuntiradi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 6-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Sozlashni qanday qildingiz — nimani surdingiz yoki almashtirdingiz?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "1-sinf",
+   "yil": "1-yil",
+   "chorak": "3-chorak, 9-hafta",
+   "darsRaqami": "60 / 84",
+   "modul": "L3. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|1-sinf|3-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Mexanizm shovqini\" mavzusini \"Jumping YL Man 4\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Jumping YL Man 4\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -11378,14 +11825,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 9-hafta",
-   "darsRaqami": "59 / 84",
+   "chorak": "3-chorak, 10-hafta",
+   "darsRaqami": "61 / 84",
    "modul": "M3. Tebranish kengligi va yo'nalishi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|3-chorak|17": {
+ "1-yil|1-sinf|3-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Motor tezligi va tebranish tezligi\" mavzusini \"Manual Jumping YL Man 4\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Jumping YL Man 4\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -11458,14 +11905,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 9-hafta",
-   "darsRaqami": "60 / 84",
+   "chorak": "3-chorak, 10-hafta",
+   "darsRaqami": "62 / 84",
    "modul": "M3. Tebranish kengligi va yo'nalishi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|3-chorak|18": {
+ "1-yil|1-sinf|3-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Shatun uzunligining ta'siri\" mavzusini \"Manual Rotating YL Man 4\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Rotating YL Man 4\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -11538,162 +11985,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 10-hafta",
-   "darsRaqami": "61 / 84",
-   "modul": "M3. Tebranish kengligi va yo'nalishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|1-sinf|3-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Amplituda-Aniqlik\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (tebranish kengligining nishondan farqi) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Amplituda (Amplitude) – tebranishning eng katta kengligi",
-   "Radius (Radius) – markazdan chetgacha masofa",
-   "Sozlash (Adjustment) – natijani nishonga yaqinlashtirish uchun o'zgartirish kiritish",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Bosim ostida ishlash — Hamma qarab turganda ham xotirjam ishlash, xato bo'lsa vahima qilmaslik.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "O'lchov lentasi yoki chizg'ich",
-   "10 sm nishon belgisi qo'yilgan taxta yoki qog'oz"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: o'quvchi krivoship radiusini o'zgartirib, mexanizmning tebranish kengligini belgilangan nishonga (10 sm) moslashtiradi.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "Farq 1 sm dan kam = 5 (a'lo)",
-     "Farq 1–2 sm = 4 (yaxshi)",
-     "Farq 2–4 sm = 3 (qoniqarli)",
-     "Farq 4–7 sm = 2 (qoniqarsiz)",
-     "Farq 7 sm dan ko'p yoki sozlash umuman qilinmasa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (tebranish kengligining nishondan farqi) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Radiusni kattalashtirsangiz amplituda qanday o'zgardi — qaysi tomonga?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "1-sinf",
-   "yil": "1-yil",
-   "chorak": "3-chorak, 10-hafta",
-   "darsRaqami": "62 / 84",
-   "modul": "N3. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|1-sinf|3-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Sozlanadigan mexanizm\" loyihasi doirasida tebranish kengligini foydalanuvchi o'zgartira oladigan mexanizm qurish.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: tebranish kengligini foydalanuvchi o'zgartira oladigan mexanizm qurish.",
-     "Talab: Kamida 2 ta sozlash holati bo'lsin.",
-     "Talab: Har holatda tebranish kengligi o'lchab yozilsin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Sozlashni qanday qildingiz — nimani surdingiz yoki almashtirdingiz?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "1-sinf",
-   "yil": "1-yil",
    "chorak": "3-chorak, 11-hafta",
    "darsRaqami": "63 / 84",
-   "modul": "L3. Loyiha",
+   "modul": "M3. Tebranish kengligi va yo'nalishi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
@@ -12331,6 +12625,95 @@ window.LESSON_CONTENT = {
  },
  "1-yil|1-sinf|4-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Krivoship-shatun mexanizmi\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 7-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "O'zini baholash — testdan oldin qaysi savollarga ishonchingiz komil ekanini his qilish va yakunda solishtirish.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Savollar o'qituvchi tomonidan baland ovozda, har biri 2 martadan o'qib beriladi; o'quvchilar javob varag'ida mos katakchani (A/B/C) belgilaydilar.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 7-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Krivoship-shatun mexanizmi nimani nimaga aylantiradi?  A) Aylanma harakatni tebranma (borib-kelib) harakatga.  B) Suvni muzga.  C) Tovushni yorug'likka.",
+     "2-savol. Krivoship qaysi qism?  A) Tebranib turadigan uzun tayoq.  B) Aylanadigon o'qqa o'rnatilgan bandli (tirsakli) qism.  C) Yerda yotgan plastina.",
+     "3-savol. Shatun nima vazifani bajaradi?  A) Motorni sovutadi.  B) Modelga rang beradi.  C) Krivoship bilan tebranuvchi qismni bog'laydi.",
+     "4-savol. Krivoship radiusi kattalashsa, tebranish qanday o'zgaradi?  A) Tebranish kengayadi (amplituda oshadi).  B) Tebranish torayadi.  C) O'zgarmaydi.",
+     "5-savol. Harakat trayektoriyasi nima?  A) Modelning og'irligi.  B) Harakatlanayotgan nuqta chizadigan yo'l.  C) Motorning ovozi.",
+     "6-savol. Yuqoriga-pastga (vertikal) tebranish uchun mexanizmni qanday joylashtiramiz?  A) Istalgancha — farqi yo'q.  B) Faqat yonboshlatib.  C) Shatun yuqoriga-pastga yuradigan qilib.",
+     "7-savol. Paravoz g'ildiragidagi harakatlanuvchi tayoq nimaga misol?  A) Krivoship-shatun mexanizmiga.  B) Shkivga.  C) Tishli g'ildirakka.",
+     "8-savol. Krivoship bir marta to'liq aylansa, shatun necha marta borib-keladi?  A) Ikki marta.  B) Bir marta.  C) O'n marta.",
+     "9-savol. Amplituda so'zi nimani bildiradi?  A) Motor turini.  B) Detal rangini.  C) Tebranish kengligini.",
+     "10-savol. Krivoship radiusini KICHRAYTIRSAK nima bo'ladi?  A) Tebranish torayadi.  B) Tebranish kengayadi.  C) Model uchib ketadi."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "1-sinf",
+   "yil": "1-yil",
+   "chorak": "4-chorak, 5-hafta",
+   "darsRaqami": "72 / 84",
+   "modul": "N4. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|1-sinf|4-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Mexanizm qismlari: krivoship va shatun\" mavzusini \"Skiing Man\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Skiing Man\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -12402,13 +12785,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "1-yil",
    "chorak": "4-chorak, 5-hafta",
-   "darsRaqami": "72 / 84",
+   "darsRaqami": "73 / 84",
    "modul": "M4. Murakkab tebranma mexanizmlar",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|4-chorak|9": {
+ "1-yil|1-sinf|4-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Shatun uzunligining ta'siri\" mavzusini \"Manual Rotating YL Man 6\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Rotating YL Man 6\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -12481,14 +12864,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 5-hafta",
-   "darsRaqami": "73 / 84",
+   "chorak": "4-chorak, 6-hafta",
+   "darsRaqami": "74 / 84",
    "modul": "M4. Murakkab tebranma mexanizmlar",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|4-chorak|10": {
+ "1-yil|1-sinf|4-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Yuqoriga-pastga tebranish (vertikal)\" mavzusini \"Manual Rotating YL Man 7\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Rotating YL Man 7\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -12562,13 +12945,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "1-yil",
    "chorak": "4-chorak, 6-hafta",
-   "darsRaqami": "74 / 84",
+   "darsRaqami": "75 / 84",
    "modul": "M4. Murakkab tebranma mexanizmlar",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|4-chorak|11": {
+ "1-yil|1-sinf|4-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Chayqalish (tebranib turish) harakati\" mavzusini \"Manual Rocking YL Man 3\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Rocking YL Man 3\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -12641,14 +13024,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 6-hafta",
-   "darsRaqami": "75 / 84",
+   "chorak": "4-chorak, 7-hafta",
+   "darsRaqami": "76 / 84",
    "modul": "M4. Murakkab tebranma mexanizmlar",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|4-chorak|12": {
+ "1-yil|1-sinf|4-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Harakat sikli — bir to'liq aylanish\" mavzusini \"Rocking Trojan\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Rocking Trojan\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -12722,13 +13105,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "1-yil",
    "chorak": "4-chorak, 7-hafta",
-   "darsRaqami": "76 / 84",
+   "darsRaqami": "77 / 84",
    "modul": "M4. Murakkab tebranma mexanizmlar",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|4-chorak|13": {
+ "1-yil|1-sinf|4-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Mexanizm qismlari: krivoship va shatun\" mavzusini \"Rocking Trojan\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Rocking Trojan\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -12801,14 +13184,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 7-hafta",
-   "darsRaqami": "77 / 84",
+   "chorak": "4-chorak, 8-hafta",
+   "darsRaqami": "78 / 84",
    "modul": "M4. Murakkab tebranma mexanizmlar",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|4-chorak|14": {
+ "1-yil|1-sinf|4-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Kulachok (cam) — muqobil mexanizm\" mavzusini \"Drawing Machine\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Drawing Machine\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -12882,13 +13265,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "1-yil",
    "chorak": "4-chorak, 8-hafta",
-   "darsRaqami": "78 / 84",
+   "darsRaqami": "79 / 84",
    "modul": "M4. Murakkab tebranma mexanizmlar",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|4-chorak|15": {
+ "1-yil|1-sinf|4-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Shatun uzunligining ta'siri\" mavzusini \"Hoeing Man\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Hoeing Man\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -12960,14 +13343,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 8-hafta",
-   "darsRaqami": "79 / 84",
+   "chorak": "4-chorak, 9-hafta",
+   "darsRaqami": "80 / 84",
    "modul": "M4. Murakkab tebranma mexanizmlar",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|4-chorak|16": {
+ "1-yil|1-sinf|4-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Mexanizm teatri\" loyihasi doirasida yil davomida o'rgangan mexanizmlardan 2-3 tasini birlashtirib, kichik sahna yasash.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 8-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "O'z ishini himoya qilish — qarorlarini dalil va o'lchov bilan asoslab berish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: yil davomida o'rgangan mexanizmlardan 2-3 tasini birlashtirib, kichik sahna yasash.",
+     "Talab: Kamida 2 ta turli mexanizm ishlatilsin.",
+     "Talab: Sahnada bir kichik voqea ko'rsatilsin.",
+     "Talab: Mexanizmlar bir vaqtda ishlasin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Avval har mexanizmni alohida ishlating, keyin birlashtiring",
+     "Voqeani oldindan o'ylab oling — mexanizm voqeaga xizmat qilsin",
+     "Umumiy yuritma (bitta dasta yoki motor) rejalashtiring"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Sahnada kamida 2 ta TURLI mexanizm ishlatilgan (bola turlarini aytadi).",
+     "2-band (1 ball): Mexanizmlar bir vaqtda, bir yuritmadan ishlaydi.",
+     "3-band (1 ball): Sahna aniq bir voqeani ko'rsatadi va bola uni aytib beradi.",
+     "4-band (1 ball): Sinov: sahna 30 soniya uzluksiz ishlaydi.",
+     "5-band (1 ball): Mexanizmlar bir-biriga xalaqit bermaydi.",
+     "6-band (1 ball): Konstruksiya sahna asosiga mahkam o'rnatilgan.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 8-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Qaysi mexanizmni birlashtirish eng qiyin bo'ldi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "1-sinf",
+   "yil": "1-yil",
+   "chorak": "4-chorak, 9-hafta",
+   "darsRaqami": "81 / 84",
+   "modul": "L4. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|1-sinf|4-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Oldinga-orqaga tebranish (gorizontal)\" mavzusini \"Woodpecker\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Woodpecker\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -13040,14 +13530,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 9-hafta",
-   "darsRaqami": "80 / 84",
+   "chorak": "4-chorak, 10-hafta",
+   "darsRaqami": "82 / 84",
    "modul": "M4. Murakkab tebranma mexanizmlar",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|4-chorak|17": {
+ "1-yil|1-sinf|4-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Aylanma va tebranma harakat farqi\" mavzusini \"Woodpecker\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Woodpecker\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -13120,14 +13610,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 9-hafta",
-   "darsRaqami": "81 / 84",
+   "chorak": "4-chorak, 10-hafta",
+   "darsRaqami": "83 / 84",
    "modul": "M4. Murakkab tebranma mexanizmlar",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|1-sinf|4-chorak|18": {
+ "1-yil|1-sinf|4-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Nega og'ir kema cho'kmaydi\" mavzusini \"Dragon Boat\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Dragon Boat\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -13200,164 +13690,10 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 10-hafta",
-   "darsRaqami": "82 / 84",
-   "modul": "M4. Murakkab tebranma mexanizmlar",
-   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|1-sinf|4-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Mexanizm-Chempionati\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (mexanizmning ishlashi, tushuntirish sifati va kiritilgan yaxshilanish) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Takomillashtirish (Improvement) – mavjud yechimni yaxshilash",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Mas'uliyat va o'zini baholash — Yil yakunida o'z natijasini haqqoniy baholay olish, kuchli va kuchsiz tomonini aytish.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "Taqdimot uchun stol",
-   "Yil davomidagi barcha instruksiyalar (tanlash uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: yil davomida o'rgangan mexanizmlardan birini tanlab qurib, uning harakatini sinfga tushuntiradi va bitta yaxshilanish kiritganini ko'rsatadi.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "Mexanizm ishlaydi, tushuntiradi va yaxshilanishni asoslaydi = 5 (a'lo)",
-     "Mexanizm ishlaydi va tushuntiradi = 4 (yaxshi)",
-     "Mexanizm ishlaydi = 3 (qoniqarli)",
-     "Mexanizm qisman ishlaydi = 2 (qoniqarsiz)",
-     "Mexanizm yig'ilmagan bo'lsa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (mexanizmning ishlashi, tushuntirish sifati va kiritilgan yaxshilanish) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Kiritgan yaxshilanishingiz natijani o'zgartirdimi — buni qanday tekshirdingiz?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "1-sinf",
-   "yil": "1-yil",
-   "chorak": "4-chorak, 10-hafta",
-   "darsRaqami": "83 / 84",
-   "modul": "N4. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|1-sinf|4-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Mexanizm teatri\" loyihasi doirasida yil davomida o'rgangan mexanizmlardan 2-3 tasini birlashtirib, kichik sahna yasash.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: yil davomida o'rgangan mexanizmlardan 2-3 tasini birlashtirib, kichik sahna yasash.",
-     "Talab: Kamida 2 ta turli mexanizm ishlatilsin.",
-     "Talab: Sahnada bir kichik voqea ko'rsatilsin.",
-     "Talab: Mexanizmlar bir vaqtda ishlasin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Qaysi mexanizmni birlashtirish eng qiyin bo'ldi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "1-sinf",
-   "yil": "1-yil",
    "chorak": "4-chorak, 11-hafta",
    "darsRaqami": "84 / 84",
-   "modul": "L4. Loyiha",
-   "jihoz": "Makerzoid Robot Master Standard",
+   "modul": "M4. Murakkab tebranma mexanizmlar",
+   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
@@ -14005,6 +14341,95 @@ window.LESSON_CONTENT = {
  },
  "1-yil|2-sinf|1-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Sensor nima va qanday ishlaydi\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 1-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Halollik — testni mustaqil yechish, ko'chirmaslik. Natija qanday bo'lsa ham, u O'ZINGIZNIKI bo'lsin.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 1-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Sensor nima qiladi?  A) Atrofdagi o'zgarishni sezadi va signal beradi.  B) Faqat chiroq yoqadi.  C) Modelni harakatga keltiradi.",
+     "2-savol. Sensor inson tanasidagi nimaga o'xshaydi?  A) Sochga.  B) Sezgi organlariga (ko'z, quloq, teri).  C) Tirnoqqa.",
+     "3-savol. Insonning ko'zi robotdagi qaysi narsaga to'g'ri keladi?  A) Motorga.  B) G'ildirakka.  C) Yorug'lik/rang sensoriga.",
+     "4-savol. Chiziq kuzatuvchi robot nimani sezadi?  A) Yerdagi qora chiziqni.  B) Havoning haroratini.  C) Odamning ovozini.",
+     "5-savol. Sensor signalni qayerga yuboradi?  A) Osmonga.  B) Boshqaruv qismiga (miyaga).  C) Boshqa robotga.",
+     "6-savol. Sensorsiz robot qanday bo'ladi?  A) Aqlliroq.  B) Tezroq.  C) Atrofni sezmaydigan — \"ko'r\".",
+     "7-savol. \"Sezish - o'ylash - harakat\" zanjirida sensor qaysi bosqichda?  A) Sezish.  B) O'ylash.  C) Harakat.",
+     "8-savol. Sensor xato ko'rsatishi mumkinmi?  A) Hech qachon.  B) Ha — masalan iflos yoki xira muhitda.  C) Faqat kechasi.",
+     "9-savol. Insondagi \"sezish - o'ylash - harakat\" zanjiriga misol qaysi?  A) Uxlash - tush ko'rish - uyg'onish.  B) Yeyish - yurish - yugurish.  C) Issiqni sezish - qo'lni tortib olishga qaror qilish - tortib olish.",
+     "10-savol. Robot to'siqni sezib to'xtadi. Birinchi nima ishladi?  A) Sensor.  B) G'ildirak.  C) Batareya."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "2-sinf",
+   "yil": "1-yil",
+   "chorak": "1-chorak, 5-hafta",
+   "darsRaqami": "9 / 84",
+   "modul": "N1. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|2-sinf|1-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Bosim va teginish sensori\" mavzusini \"Score Maker (AI)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Score Maker (AI)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -14077,13 +14502,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "1-yil",
    "chorak": "1-chorak, 5-hafta",
-   "darsRaqami": "9 / 84",
+   "darsRaqami": "10 / 84",
    "modul": "M1. Sensor bilan tanishuv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|1-chorak|9": {
+ "1-yil|2-sinf|1-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Masofa sensori\" mavzusini \"Obstacle Avoiding (3)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Obstacle Avoiding (3)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -14156,14 +14581,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 5-hafta",
-   "darsRaqami": "10 / 84",
+   "chorak": "1-chorak, 6-hafta",
+   "darsRaqami": "11 / 84",
    "modul": "M1. Sensor bilan tanishuv",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|1-chorak|10": {
+ "1-yil|2-sinf|1-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Chegara qiymati (sensor qachon ishlaydi)\" mavzusini \"Programmable Car (AI)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Programmable Car (AI)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -14236,13 +14661,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "1-yil",
    "chorak": "1-chorak, 6-hafta",
-   "darsRaqami": "11 / 84",
+   "darsRaqami": "12 / 84",
    "modul": "M1. Sensor bilan tanishuv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|1-chorak|11": {
+ "1-yil|2-sinf|1-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Masofa sensori\" mavzusini \"Line Patrol Dog\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Line Patrol Dog\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -14315,14 +14740,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 6-hafta",
-   "darsRaqami": "12 / 84",
+   "chorak": "1-chorak, 7-hafta",
+   "darsRaqami": "13 / 84",
    "modul": "M1. Sensor bilan tanishuv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|1-chorak|12": {
+ "1-yil|2-sinf|1-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Yorug'lik va rang sensori\" mavzusini \"Line Patrol Dog\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Line Patrol Dog\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -14396,13 +14821,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "1-yil",
    "chorak": "1-chorak, 7-hafta",
-   "darsRaqami": "13 / 84",
+   "darsRaqami": "14 / 84",
    "modul": "M1. Sensor bilan tanishuv",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|1-chorak|13": {
+ "1-yil|2-sinf|1-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Bosim va teginish sensori\" mavzusini \"Line Patrol Dog\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Line Patrol Dog\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -14475,14 +14900,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 7-hafta",
-   "darsRaqami": "14 / 84",
+   "chorak": "1-chorak, 8-hafta",
+   "darsRaqami": "15 / 84",
    "modul": "M1. Sensor bilan tanishuv",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|1-chorak|14": {
+ "1-yil|2-sinf|1-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Sensor va inson sezgi organlari\" mavzusini \"Line Patrol Tank\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Line Patrol Tank\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -14556,13 +14981,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "1-yil",
    "chorak": "1-chorak, 8-hafta",
-   "darsRaqami": "15 / 84",
+   "darsRaqami": "16 / 84",
    "modul": "M1. Sensor bilan tanishuv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|1-chorak|15": {
+ "1-yil|2-sinf|1-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Sensor nima va nima qiladi\" mavzusini \"Line Patrol Tank\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Line Patrol Tank\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -14635,14 +15060,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 8-hafta",
-   "darsRaqami": "16 / 84",
+   "chorak": "1-chorak, 9-hafta",
+   "darsRaqami": "17 / 84",
    "modul": "M1. Sensor bilan tanishuv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|1-chorak|16": {
+ "1-yil|2-sinf|1-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Ogohlantiruvchi qurilma\" loyihasi doirasida biror narsani sezib, ogohlantirish beradigan qurilma loyihalash.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 2-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Mustaqillik va tashabbus — o'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: biror narsani sezib, ogohlantirish beradigan qurilma loyihalash.",
+     "Talab: Qurilma sensor bilan ishlasin.",
+     "Talab: Ogohlantirish aniq ko'rinsin yoki eshitilsin.",
+     "Talab: 5 sinovdan kamida 4 tasida to'g'ri ishlasin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Avval NIMANI sezish kerakligini aniq yozib oling",
+     "Sensorni seziladigan narsa albatta o'tadigan joyga o'rnating",
+     "Chegara qiymatini sinab-sinab toping — birinchi qiymat kamdan-kam to'g'ri chiqadi"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Qurilma nimani sezishi bir gapda yozilgan.",
+     "2-band (1 ball): Sensor to'g'ri joyga o'rnatilgan va mahkam turibdi.",
+     "3-band (1 ball): Ogohlantirish aniq ko'rinadi yoki eshitiladi.",
+     "4-band (1 ball): Sinov: 5 sinovdan kamida 4 tasida qurilma to'g'ri ishladi (natija yozilgan).",
+     "5-band (1 ball): Yolg'on ishga tushish tekshirilgan: sezilmasligi kerak narsada jim turadi.",
+     "6-band (1 ball): Bola sezish-qaror-harakat zanjirini o'z qurilmasida ko'rsatib beradi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 2-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Qurilmangiz qayerda kerak bo'lardi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "2-sinf",
+   "yil": "1-yil",
+   "chorak": "1-chorak, 9-hafta",
+   "darsRaqami": "18 / 84",
+   "modul": "L1. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|2-sinf|1-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Yorug'lik va rang sensori\" mavzusini \"Line Patrol Tank\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Line Patrol Tank\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -14715,14 +15247,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 9-hafta",
-   "darsRaqami": "17 / 84",
+   "chorak": "1-chorak, 10-hafta",
+   "darsRaqami": "19 / 84",
    "modul": "M1. Sensor bilan tanishuv",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|1-chorak|17": {
+ "1-yil|2-sinf|1-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Sensorni sozlash (kalibrlash)\" mavzusini \"Mine Clearance\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Mine Clearance\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -14795,14 +15327,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 9-hafta",
-   "darsRaqami": "18 / 84",
+   "chorak": "1-chorak, 10-hafta",
+   "darsRaqami": "20 / 84",
    "modul": "M1. Sensor bilan tanishuv",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|1-chorak|18": {
+ "1-yil|2-sinf|1-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Chegara qiymati (sensor qachon ishlaydi)\" mavzusini \"Mine Clearance\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Mine Clearance\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -14875,164 +15407,10 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 10-hafta",
-   "darsRaqami": "19 / 84",
-   "modul": "M1. Sensor bilan tanishuv",
-   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|2-sinf|1-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Sensor-Test\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (5 sinovdan nechtasida model to'g'ri ishlagani) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Sensor (Sensor) – atrof-muhitdagi o'zgarishni sezuvchi qism",
-   "Signal (Signal) – sensorga tushadigan ta'sir",
-   "Javob (Response) – model signalga qanday harakat bilan javob berishi",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Sportchan munosabat — g'alaba va mag'lubiyatga sog'lom qarash, boshqalarning natijasini olqishlash. Yutqazish ham o'rganishning bir qismi.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "Sensorni ishga tushirish uchun signal manbai (qo'l, karta, chiroq)",
-   "Natija jadvali"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: sensorli model qurib, sensorga 5 marta signal beriladi; model har safar to'g'ri javob berishi kerak.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "5/5 to'g'ri = 5 (a'lo)",
-     "4/5 to'g'ri = 4 (yaxshi)",
-     "3/5 to'g'ri = 3 (qoniqarli)",
-     "1–2/5 to'g'ri = 2 (qoniqarsiz)",
-     "Sensor umuman javob bermasa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (5 sinovdan nechtasida model to'g'ri ishlagani) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Sensor qaysi holatda xato qildi — sabab masofami, yorug'likmi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "2-sinf",
-   "yil": "1-yil",
-   "chorak": "1-chorak, 10-hafta",
-   "darsRaqami": "20 / 84",
-   "modul": "N1. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|2-sinf|1-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Ogohlantiruvchi qurilma\" loyihasi doirasida biror narsani sezib, ogohlantirish beradigan qurilma loyihalash.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: biror narsani sezib, ogohlantirish beradigan qurilma loyihalash.",
-     "Talab: Qurilma sensor bilan ishlasin.",
-     "Talab: Ogohlantirish aniq ko'rinsin yoki eshitilsin.",
-     "Talab: 5 sinovdan kamida 4 tasida to'g'ri ishlasin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Qurilmangiz qayerda kerak bo'lardi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "2-sinf",
-   "yil": "1-yil",
    "chorak": "1-chorak, 11-hafta",
    "darsRaqami": "21 / 84",
-   "modul": "L1. Loyiha",
-   "jihoz": "Makerzoid Robot Master Standard",
+   "modul": "M1. Sensor bilan tanishuv",
+   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
@@ -15671,6 +16049,95 @@ window.LESSON_CONTENT = {
  },
  "1-yil|2-sinf|2-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Masofa, yorug'lik va chegara qiymati\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 3-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Diqqatni jamlash — 20 daqiqa davomida chalg'imasdan ishlash, savolni oxirigacha o'qish.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 3-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Masofa sensori nimani o'lchaydi?  A) To'siqqacha bo'lgan masofani.  B) Havoning rangini.  C) Vaqtni.",
+     "2-savol. Masofa sensori ko'pincha qanday ishlaydi?  A) Suv purkab.  B) To'lqin yuborib, qaytishini kutib.  C) Qo'l cho'zib.",
+     "3-savol. To'siqdan qochuvchi robot to'siqni ko'rsa nima qiladi?  A) To'siqqa uriladi.  B) To'xtab qoladi va yig'laydi.  C) To'xtaydi yoki aylanib o'tadi.",
+     "4-savol. Chegara qiymati nima?  A) Sensor ishga tushadigan belgilangan qiymat.  B) Robotning eng katta tezligi.  C) Maydonning chegarasi.",
+     "5-savol. Chegara qiymati 10 sm bo'lsa, robot qachon to'xtaydi?  A) 100 sm qolganda.  B) To'siqqa 10 sm qolganda.  C) Hech qachon.",
+     "6-savol. Yorug'lik sensori nimani farqlaydi?  A) Ovozni.  B) Hidni.  C) Yorug' va qorong'ini.",
+     "7-savol. Oq qog'oz va qora qog'ozdan qaysi biri yorug'likni ko'proq qaytaradi?  A) Oq qog'oz.  B) Qora qog'oz.  C) Ikkalasi bir xil.",
+     "8-savol. Sensor iflos bo'lib qolsa nima bo'ladi?  A) Yaxshiroq ishlaydi.  B) Xato o'lchashi mumkin.  C) Tezroq ishlaydi.",
+     "9-savol. Ko'chadagi chiroqlar qorong'ida o'zi yonsa, bunda nima ishlagan?  A) Taymer.  B) Odam tugma bosgan.  C) Yorug'lik sensori.",
+     "10-savol. Chegara qiymatini juda kichik qilib qo'ysak (masalan 1 sm), robot qanday to'xtaydi?  A) To'siqqa juda yaqin kelib, urilib ketishi mumkin.  B) Juda erta to'xtaydi.  C) Umuman yurmaydi."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "2-sinf",
+   "yil": "1-yil",
+   "chorak": "2-chorak, 5-hafta",
+   "darsRaqami": "30 / 84",
+   "modul": "N2. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|2-sinf|2-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Ikki sensor birga\" mavzusini \"Sorting Box\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Sorting Box\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -15743,13 +16210,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "1-yil",
    "chorak": "2-chorak, 5-hafta",
-   "darsRaqami": "30 / 84",
+   "darsRaqami": "31 / 84",
    "modul": "M2. Sensorli aqlli modellar",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|2-chorak|9": {
+ "1-yil|2-sinf|2-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Sensorni sozlash (kalibrlash)\" mavzusini \"Animal Trap\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Animal Trap\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -15822,14 +16289,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 5-hafta",
-   "darsRaqami": "31 / 84",
+   "chorak": "2-chorak, 6-hafta",
+   "darsRaqami": "32 / 84",
    "modul": "M2. Sensorli aqlli modellar",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|2-chorak|10": {
+ "1-yil|2-sinf|2-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Bosim va teginish sensori\" mavzusini \"Color Sorting\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Color Sorting\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -15902,13 +16369,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "1-yil",
    "chorak": "2-chorak, 6-hafta",
-   "darsRaqami": "32 / 84",
+   "darsRaqami": "33 / 84",
    "modul": "M2. Sensorli aqlli modellar",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|2-chorak|11": {
+ "1-yil|2-sinf|2-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Color Sorting\" modelini instruksiyaga kamroq qarab qayta yig'adilar va yig'ish vaqtini o'lchaydilar.",
    "O'quvchilar \"Bosim va teginish sensori\" mavzusi bo'yicha modelning ishlashini aniq mezon (vaqt, masofa yoki takrorlar soni) bilan o'lchab, natijani jadvalga yozadilar.",
@@ -15986,14 +16453,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 6-hafta",
-   "darsRaqami": "33 / 84",
+   "chorak": "2-chorak, 7-hafta",
+   "darsRaqami": "34 / 84",
    "modul": "M2. Sensorli aqlli modellar",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|2-chorak|12": {
+ "1-yil|2-sinf|2-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Chegara qiymati (sensor qachon ishlaydi)\" mavzusini \"Color Sorting\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Color Sorting\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -16067,13 +16534,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "1-yil",
    "chorak": "2-chorak, 7-hafta",
-   "darsRaqami": "34 / 84",
+   "darsRaqami": "35 / 84",
    "modul": "M2. Sensorli aqlli modellar",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|2-chorak|13": {
+ "1-yil|2-sinf|2-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Yorug'lik va rang sensori\" mavzusini \"Line Patrol Dragon\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Line Patrol Dragon\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -16146,14 +16613,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 7-hafta",
-   "darsRaqami": "35 / 84",
+   "chorak": "2-chorak, 8-hafta",
+   "darsRaqami": "36 / 84",
    "modul": "M2. Sensorli aqlli modellar",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|2-chorak|14": {
+ "1-yil|2-sinf|2-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Sensordan reaksiyagacha\" mavzusini \"Line Patrol Dragon\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Line Patrol Dragon\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -16227,13 +16694,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "1-yil",
    "chorak": "2-chorak, 8-hafta",
-   "darsRaqami": "36 / 84",
+   "darsRaqami": "37 / 84",
    "modul": "M2. Sensorli aqlli modellar",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|2-chorak|15": {
+ "1-yil|2-sinf|2-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Line Patrol Dragon\" modelini instruksiyaga kamroq qarab qayta yig'adilar va yig'ish vaqtini o'lchaydilar.",
    "O'quvchilar \"Sensordan reaksiyagacha\" mavzusi bo'yicha modelning ishlashini aniq mezon (vaqt, masofa yoki takrorlar soni) bilan o'lchab, natijani jadvalga yozadilar.",
@@ -16311,14 +16778,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 8-hafta",
-   "darsRaqami": "37 / 84",
+   "chorak": "2-chorak, 9-hafta",
+   "darsRaqami": "38 / 84",
    "modul": "M2. Sensorli aqlli modellar",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|2-chorak|16": {
+ "1-yil|2-sinf|2-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Ikki sensorli model\" loyihasi doirasida ikki xil signalga ikki xil javob beradigan model qurish.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 4-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Rejali ishlash — vaqtni bosqichlarga bo'lib, eskiz va sinovga ham vaqt qoldirish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: ikki xil signalga ikki xil javob beradigan model qurish.",
+     "Talab: Ikki sensor mustaqil ishlasin.",
+     "Talab: Javoblar bir-biridan farq qilsin.",
+     "Talab: Har javob sinab ko'rsatilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Har sensorga alohida vazifa bering — bitta narsani ikki sensor kuzatmasin",
+     "Avval bitta sensorni to'liq ishlating, keyin ikkinchisini qo'shing",
+     "Ikkala signal birdan kelganda nima bo'lishini oldindan o'ylang"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Modelda 2 ta sensor bor va har birining vazifasi aytilgan.",
+     "2-band (1 ball): 1-sensor signaliga model to'g'ri javob beradi (sinab ko'rsatildi).",
+     "3-band (1 ball): 2-sensor signaliga model BOSHQA javob beradi (sinab ko'rsatildi).",
+     "4-band (1 ball): Sensorlar bir-biriga xalaqit bermaydi.",
+     "5-band (1 ball): Sinov: har sensor 3 martadan tekshirilib, natija jadvalga yozilgan.",
+     "6-band (1 ball): Bola ikkala signal birdan kelganda nima bo'lishini tushuntiradi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 4-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Ikkala sensor bir vaqtda ishga tushsa nima bo'ladi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "2-sinf",
+   "yil": "1-yil",
+   "chorak": "2-chorak, 9-hafta",
+   "darsRaqami": "39 / 84",
+   "modul": "L2. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|2-sinf|2-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Yorug'lik va rang sensori\" mavzusini \"Bus\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Bus\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -16390,14 +16964,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 9-hafta",
-   "darsRaqami": "38 / 84",
+   "chorak": "2-chorak, 10-hafta",
+   "darsRaqami": "40 / 84",
    "modul": "M2. Sensorli aqlli modellar",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|2-chorak|17": {
+ "1-yil|2-sinf|2-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Masofa sensori\" mavzusini \"Bus\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Bus\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -16469,14 +17043,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 9-hafta",
-   "darsRaqami": "39 / 84",
+   "chorak": "2-chorak, 10-hafta",
+   "darsRaqami": "41 / 84",
    "modul": "M2. Sensorli aqlli modellar",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|2-chorak|18": {
+ "1-yil|2-sinf|2-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Sensordan reaksiyagacha\" mavzusini \"Bus\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Bus\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -16549,163 +17123,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 10-hafta",
-   "darsRaqami": "40 / 84",
-   "modul": "M2. Sensorli aqlli modellar",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|2-sinf|2-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Aqlli Model\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (to'g'ri ishlagan javoblar soni) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Shart (Condition) – qaysi holatda qaysi javob berilishi",
-   "Ketma-ketlik (Sequence) – harakatlarning tartibi",
-   "Sozlash (Calibration) – sensorni to'g'ri ishlashi uchun moslash",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Vaqtni boshqarish — Musobaqagacha tayyorgarlikni ulgurish, oxirgi daqiqaga qoldirmaslik.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "Uch xil signal berish uchun jihoz (to'siq, rangli karta, chiroq)",
-   "Sinov maydoni"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: model uch xil turli signalga uch xil javob berishi kerak (masalan: to'xtash, orqaga qaytish, ovoz/chiroq).",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "3 xil javob ham to'g'ri = 5 (a'lo)",
-     "2 xil javob to'g'ri = 4 (yaxshi)",
-     "1 xil javob to'g'ri = 3 (qoniqarli)",
-     "Javoblar chalkash ishlasa = 2 (qoniqarsiz)",
-     "Model signalga umuman javob bermasa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (to'g'ri ishlagan javoblar soni) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Ikki signal bir vaqtda kelsa, model nima qiladi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "2-sinf",
-   "yil": "1-yil",
-   "chorak": "2-chorak, 10-hafta",
-   "darsRaqami": "41 / 84",
-   "modul": "N2. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|2-sinf|2-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Ikki sensorli model\" loyihasi doirasida ikki xil signalga ikki xil javob beradigan model qurish.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: ikki xil signalga ikki xil javob beradigan model qurish.",
-     "Talab: Ikki sensor mustaqil ishlasin.",
-     "Talab: Javoblar bir-biridan farq qilsin.",
-     "Talab: Har javob sinab ko'rsatilsin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Ikkala sensor bir vaqtda ishga tushsa nima bo'ladi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "2-sinf",
-   "yil": "1-yil",
    "chorak": "2-chorak, 11-hafta",
    "darsRaqami": "42 / 84",
-   "modul": "L2. Loyiha",
+   "modul": "M2. Sensorli aqlli modellar",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
@@ -17352,6 +17772,95 @@ window.LESSON_CONTENT = {
  },
  "1-yil|2-sinf|3-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Bosim sensori va avtomatik tizimlar\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 5-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Xatodan o'rganish — noto'g'ri javob \"yomon\" degani emas; qaysi mavzuni takrorlash kerakligini ko'rsatadigan belgi.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 5-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Bosim (teginish) sensori qachon signal beradi?  A) Unga tegilganda yoki bosilganda.  B) Yorug'lik tushganda.  C) Ovoz eshitilganda.",
+     "2-savol. Lift eshigi odamni qisib qolmasligi uchun qaysi sensor kerak?  A) Rang sensori.  B) Teginish/to'siq sensori.  C) Harorat sensori.",
+     "3-savol. Avtomatik tizim nima?  A) Odam doim boshqarib turadigan tizim.  B) Faqat o'yinchoq.  C) Sensor signali bilan o'zi ishlaydigan tizim.",
+     "4-savol. Ikki sensor birga ishlashiga misol qaysi?  A) Robot ham chiziqni, ham to'siqni birdan kuzatadi.  B) Robot faqat turadi.  C) Ikkita robot yonma-yon.",
+     "5-savol. Muzlatgich eshigi ochilganda chiroq yonadi. Buni nima sezadi?  A) Motor.  B) Eshikdagi tugma-sensor.  C) Muz.",
+     "6-savol. Sensor \"yolg'on signal\" bersa, robot nima qiladi?  A) To'g'ri ishlashda davom etadi.  B) Doim to'xtab qoladi.  C) Kerak bo'lmagan joyda harakat qiladi.",
+     "7-savol. Avtomatik darvoza mashina kelganda ochiladi. Zanjir qanday?  A) Sensor sezadi - tizim qaror qiladi - motor ochadi.  B) Motor ochadi - sensor sezadi.  C) Darvoza o'zi biladi.",
+     "8-savol. Bosim sensorini qayerga o'rnatgan ma'qul?  A) Robotning ichiga, berkitib.  B) To'siq tegishi mumkin bo'lgan old qismga.  C) G'ildirakning ostiga.",
+     "9-savol. Sensorli tizimning odam boshqaruvidan afzalligi nima?  A) Har doim qimmatroq.  B) Chiroyliroq.  C) Charchamaydi va tez javob beradi.",
+     "10-savol. Robot qo'li narsani sezib ushlashi uchun qayerida sensor bo'lishi kerak?  A) Ushlagich (panja) qismida.  B) Orqa g'ildiragida.  C) Simida."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "2-sinf",
+   "yil": "1-yil",
+   "chorak": "3-chorak, 5-hafta",
+   "darsRaqami": "51 / 84",
+   "modul": "N3. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|2-sinf|3-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Sensor va inson sezgi organlari\" mavzusini \"Obstacle Avoiding (2)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Obstacle Avoiding (2)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -17424,13 +17933,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "1-yil",
    "chorak": "3-chorak, 5-hafta",
-   "darsRaqami": "51 / 84",
+   "darsRaqami": "52 / 84",
    "modul": "M3. Sensordan ko'tarish mexanizmiga",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|3-chorak|9": {
+ "1-yil|2-sinf|3-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Nega og'ir yukni ko'tarish qiyin\" mavzusini \"Excavator (Gear-driven)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Excavator (Gear-driven)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -17503,14 +18012,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 5-hafta",
-   "darsRaqami": "52 / 84",
+   "chorak": "3-chorak, 6-hafta",
+   "darsRaqami": "53 / 84",
    "modul": "M3. Sensordan ko'tarish mexanizmiga",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|3-chorak|10": {
+ "1-yil|2-sinf|3-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Yuk sig'imi chegarasi\" mavzusini \"Excavator (Gear-driven)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Excavator (Gear-driven)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -17584,13 +18093,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "1-yil",
    "chorak": "3-chorak, 6-hafta",
-   "darsRaqami": "53 / 84",
+   "darsRaqami": "54 / 84",
    "modul": "M3. Sensordan ko'tarish mexanizmiga",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|3-chorak|11": {
+ "1-yil|2-sinf|3-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Vint bilan ko'tarish\" mavzusini \"Excavator (Belt-driven)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Excavator (Belt-driven)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -17663,14 +18172,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 6-hafta",
-   "darsRaqami": "54 / 84",
+   "chorak": "3-chorak, 7-hafta",
+   "darsRaqami": "55 / 84",
    "modul": "M3. Sensordan ko'tarish mexanizmiga",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|3-chorak|12": {
+ "1-yil|2-sinf|3-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Ko'tarish tezligi va kuch murosasi\" mavzusini \"Excavator (Belt-driven)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Excavator (Belt-driven)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -17744,13 +18253,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "1-yil",
    "chorak": "3-chorak, 7-hafta",
-   "darsRaqami": "55 / 84",
+   "darsRaqami": "56 / 84",
    "modul": "M3. Sensordan ko'tarish mexanizmiga",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|3-chorak|13": {
+ "1-yil|2-sinf|3-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Kontr-vazn (qarshi og'irlik)\" mavzusini \"Ferris Wheel\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Ferris Wheel\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -17823,14 +18332,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 7-hafta",
-   "darsRaqami": "56 / 84",
+   "chorak": "3-chorak, 8-hafta",
+   "darsRaqami": "57 / 84",
    "modul": "M3. Sensordan ko'tarish mexanizmiga",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|3-chorak|14": {
+ "1-yil|2-sinf|3-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Yukni ushlab turish\" mavzusini \"Ferris Wheel\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Ferris Wheel\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -17904,13 +18413,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "1-yil",
    "chorak": "3-chorak, 8-hafta",
-   "darsRaqami": "57 / 84",
+   "darsRaqami": "58 / 84",
    "modul": "M3. Sensordan ko'tarish mexanizmiga",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|3-chorak|15": {
+ "1-yil|2-sinf|3-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Strela uzunligi va ko'tarish kuchi\" mavzusini \"Lifting Platform\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Lifting Platform\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -17983,14 +18492,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 8-hafta",
-   "darsRaqami": "58 / 84",
+   "chorak": "3-chorak, 9-hafta",
+   "darsRaqami": "59 / 84",
    "modul": "M3. Sensordan ko'tarish mexanizmiga",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|3-chorak|16": {
+ "1-yil|2-sinf|3-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Avtomatik ombor\" loyihasi doirasida yukni sezib, ko'tarib, boshqa joyga qo'yadigan tizim loyihalash.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 6-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Natijaga halol munosabat — o'lchovni bo'rttirmasdan, qanday chiqqan bo'lsa shunday yozish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: yukni sezib, ko'tarib, boshqa joyga qo'yadigan tizim loyihalash.",
+     "Talab: Sezish va ko'tarish bosqichlari birga ishlasin.",
+     "Talab: Yuk tushib ketmasin.",
+     "Talab: Tizim 3 marta ketma-ket ishlasin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Tizimni bosqichlarga bo'ling: sezish - ushlash - ko'tarish - qo'yish",
+     "Yukni ushlaydigan qism yuk shakliga mos bo'lsin",
+     "Har bosqichni alohida sinang, keyin ulang"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Tizim yukni sensor bilan sezadi.",
+     "2-band (1 ball): Yuk ishonchli ushlanadi va ko'tarilganda tushib ketmaydi.",
+     "3-band (1 ball): Yuk belgilangan boshqa joyga qo'yiladi.",
+     "4-band (1 ball): Sinov: tizim 3 marta KETMA-KET to'liq tsiklni bajaradi.",
+     "5-band (1 ball): Bosqichlar orasida qo'l aralashuvi minimal (faqat yukni berish mumkin).",
+     "6-band (1 ball): Bola qaysi bosqich eng ko'p xato berganini va sababini aytadi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 6-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Tizimingiz qaysi bosqichda eng ko'p xato qildi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "2-sinf",
+   "yil": "1-yil",
+   "chorak": "3-chorak, 9-hafta",
+   "darsRaqami": "60 / 84",
+   "modul": "L3. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|2-sinf|3-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Bir necha mexanizm birga\" mavzusini \"Intersteller Radar Forklift\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Intersteller Radar Forklift\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -18063,14 +18679,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 9-hafta",
-   "darsRaqami": "59 / 84",
+   "chorak": "3-chorak, 10-hafta",
+   "darsRaqami": "61 / 84",
    "modul": "M3. Sensordan ko'tarish mexanizmiga",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|3-chorak|17": {
+ "1-yil|2-sinf|3-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Yukni ushlab turish\" mavzusini \"Combat Forklift\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Combat Forklift\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -18143,14 +18759,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 9-hafta",
-   "darsRaqami": "60 / 84",
+   "chorak": "3-chorak, 10-hafta",
+   "darsRaqami": "62 / 84",
    "modul": "M3. Sensordan ko'tarish mexanizmiga",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|3-chorak|18": {
+ "1-yil|2-sinf|3-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Strela uzunligi va ko'tarish kuchi\" mavzusini \"Combat Forklift\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Combat Forklift\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -18223,165 +18839,10 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 10-hafta",
-   "darsRaqami": "61 / 84",
-   "modul": "M3. Sensordan ko'tarish mexanizmiga",
-   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|2-sinf|3-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Sensor va Yuk\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (to'siqni aniqlash va yukni tashish bosqichlari bajarilgani) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "To'siq (Obstacle) – yo'ldagi to'sqinlik",
-   "Yuk (Load) – ko'tarilishi kerak bo'lgan og'irlik",
-   "Bosqich (Stage) – topshiriqning bir qismi",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Bosim ostida ishlash — Hamma qarab turganda ham xotirjam ishlash, xato bo'lsa vahima qilmaslik.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "To'siq (quti yoki devor)",
-   "Ko'tarish uchun yuk",
-   "50 sm belgilangan yo'lak"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: model to'siqni sensor bilan aniqlab to'xtaydi, so'ng yukni ko'tarib 50 sm masofaga tashiydi.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "Ikkala bosqich ham to'g'ri, yuk tushmasa = 5 (a'lo)",
-     "Ikkala bosqich bajarildi, yuk bir marta tushdi = 4 (yaxshi)",
-     "Faqat bitta bosqich bajarildi = 3 (qoniqarli)",
-     "Bosqichlar boshlandi, lekin tugamadi = 2 (qoniqarsiz)",
-     "Model harakatlanmasa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (to'siqni aniqlash va yukni tashish bosqichlari bajarilgani) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Model to'siqni juda kech aniqladimi — sensorni qayerga ko'chirish kerak edi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "2-sinf",
-   "yil": "1-yil",
-   "chorak": "3-chorak, 10-hafta",
-   "darsRaqami": "62 / 84",
-   "modul": "N3. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|2-sinf|3-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Avtomatik ombor\" loyihasi doirasida yukni sezib, ko'tarib, boshqa joyga qo'yadigan tizim loyihalash.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: yukni sezib, ko'tarib, boshqa joyga qo'yadigan tizim loyihalash.",
-     "Talab: Sezish va ko'tarish bosqichlari birga ishlasin.",
-     "Talab: Yuk tushib ketmasin.",
-     "Talab: Tizim 3 marta ketma-ket ishlasin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Tizimingiz qaysi bosqichda eng ko'p xato qildi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "2-sinf",
-   "yil": "1-yil",
    "chorak": "3-chorak, 11-hafta",
    "darsRaqami": "63 / 84",
-   "modul": "L3. Loyiha",
-   "jihoz": "Makerzoid Robot Master Standard",
+   "modul": "M3. Sensordan ko'tarish mexanizmiga",
+   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
@@ -19020,6 +19481,95 @@ window.LESSON_CONTENT = {
  },
  "1-yil|2-sinf|4-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Ko'tarish mexanizmlari\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 7-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "O'zini baholash — testdan oldin qaysi savollarga ishonchingiz komil ekanini his qilish va yakunda solishtirish.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 7-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Yuk baland ko'tarilganda model nega ag'anashi mumkin?  A) Og'irlik markazi ko'tarilib, barqarorlik kamayadi.  B) Yuk chiroyli emas.  C) Motor charchaydi.",
+     "2-savol. Kran ag'anab ketmasligi uchun orqa tomoniga nima qo'yiladi?  A) Bayroq.  B) Kontr-vazn (qarshi og'irlik).  C) Yana bitta kran.",
+     "3-savol. Richag bilan ko'tarishda kuchni tejash uchun nima qilamiz?  A) Yukni tayanchdan uzoqlashtiramiz.  B) Richagni qisqartiramiz.  C) Kuch yelkasini uzaytiramiz.",
+     "4-savol. Shkiv bilan ko'tarishning qulayligi nimada?  A) Pastga tortib, yukni yuqoriga ko'tarish mumkin.  B) Shkiv yukni yengillashtiradi.  C) Ip kerak emas.",
+     "5-savol. Vint bilan ko'tarish qanday bo'ladi?  A) Juda tez va kuchsiz.  B) Sekin, lekin kuchli va ishonchli.  C) Umuman ishlamaydi.",
+     "6-savol. Nega og'ir yukni birdan (tez) ko'tarish xavfli?  A) Yuk rangi o'chadi.  B) Vaqt tejaladi.  C) Model muvozanatini yo'qotishi yoki sinishi mumkin.",
+     "7-savol. Kontr-vazn qayerga qo'yiladi?  A) Yukka qarama-qarshi tomonga.  B) Yukning ustiga.  C) Yerga, modeldan uzoqqa.",
+     "8-savol. Ko'tarish balandligi oshgani sari nimaga ko'proq e'tibor beramiz?  A) Rangga.  B) Barqarorlikka.  C) Tezlikka.",
+     "9-savol. Qaysi mexanizm yukni ko'tarib TURIB QOLA oladi (qo'yib yubormaydi)?  A) Silliq shkiv.  B) Erkin richag.  C) Vintli mexanizm.",
+     "10-savol. Haqiqiy ko'tarish kranida quyidagilardan qaysi biri ishlatiladi?  A) Shkiv, tros va kontr-vazn birga.  B) Faqat richag.  C) Faqat rezina."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "2-sinf",
+   "yil": "1-yil",
+   "chorak": "4-chorak, 5-hafta",
+   "darsRaqami": "72 / 84",
+   "modul": "N4. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|2-sinf|4-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Nega og'ir yukni ko'tarish qiyin\" mavzusini \"Crane\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Crane\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -19091,13 +19641,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "1-yil",
    "chorak": "4-chorak, 5-hafta",
-   "darsRaqami": "72 / 84",
+   "darsRaqami": "73 / 84",
    "modul": "M4. Yuk ko'tarish mexanizmlari",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|4-chorak|9": {
+ "1-yil|2-sinf|4-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Crane\" modelini instruksiyaga kamroq qarab qayta yig'adilar va yig'ish vaqtini o'lchaydilar.",
    "O'quvchilar \"Nega og'ir yukni ko'tarish qiyin\" mavzusi bo'yicha modelning ishlashini aniq mezon (vaqt, masofa yoki takrorlar soni) bilan o'lchab, natijani jadvalga yozadilar.",
@@ -19175,14 +19725,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 5-hafta",
-   "darsRaqami": "73 / 84",
+   "chorak": "4-chorak, 6-hafta",
+   "darsRaqami": "74 / 84",
    "modul": "M4. Yuk ko'tarish mexanizmlari",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|4-chorak|10": {
+ "1-yil|2-sinf|4-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Richag bilan ko'tarish\" mavzusini \"Crane\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Crane\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -19256,13 +19806,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "1-yil",
    "chorak": "4-chorak, 6-hafta",
-   "darsRaqami": "74 / 84",
+   "darsRaqami": "75 / 84",
    "modul": "M4. Yuk ko'tarish mexanizmlari",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|4-chorak|11": {
+ "1-yil|2-sinf|4-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Strela uzunligi va ko'tarish kuchi\" mavzusini \"Elevator\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Elevator\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -19335,14 +19885,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 6-hafta",
-   "darsRaqami": "75 / 84",
+   "chorak": "4-chorak, 7-hafta",
+   "darsRaqami": "76 / 84",
    "modul": "M4. Yuk ko'tarish mexanizmlari",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|4-chorak|12": {
+ "1-yil|2-sinf|4-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Ko'tarish balandligi va barqarorlik\" mavzusini \"Elevator\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Elevator\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -19416,13 +19966,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "1-yil",
    "chorak": "4-chorak, 7-hafta",
-   "darsRaqami": "76 / 84",
+   "darsRaqami": "77 / 84",
    "modul": "M4. Yuk ko'tarish mexanizmlari",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|4-chorak|13": {
+ "1-yil|2-sinf|4-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Richag bilan ko'tarish\" mavzusini \"Bridge Crane\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Bridge Crane\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -19495,14 +20045,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 7-hafta",
-   "darsRaqami": "77 / 84",
+   "chorak": "4-chorak, 8-hafta",
+   "darsRaqami": "78 / 84",
    "modul": "M4. Yuk ko'tarish mexanizmlari",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|4-chorak|14": {
+ "1-yil|2-sinf|4-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Bridge Crane\" modelini instruksiyaga kamroq qarab qayta yig'adilar va yig'ish vaqtini o'lchaydilar.",
    "O'quvchilar \"Richag bilan ko'tarish\" mavzusi bo'yicha modelning ishlashini aniq mezon (vaqt, masofa yoki takrorlar soni) bilan o'lchab, natijani jadvalga yozadilar.",
@@ -19581,13 +20131,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "1-yil",
    "chorak": "4-chorak, 8-hafta",
-   "darsRaqami": "78 / 84",
+   "darsRaqami": "79 / 84",
    "modul": "M4. Yuk ko'tarish mexanizmlari",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|4-chorak|15": {
+ "1-yil|2-sinf|4-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Shkiv bilan ko'tarish\" mavzusini \"Fork Lift Truck\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Fork Lift Truck\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -19660,14 +20210,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 8-hafta",
-   "darsRaqami": "79 / 84",
+   "chorak": "4-chorak, 9-hafta",
+   "darsRaqami": "80 / 84",
    "modul": "M4. Yuk ko'tarish mexanizmlari",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|4-chorak|16": {
+ "1-yil|2-sinf|4-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Maktabga robot\" loyihasi doirasida maktabdagi biror ishni yengillashtiradigan yuk ko'targich robot loyihalash.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 8-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "O'z ishini himoya qilish — qarorlarini dalil va o'lchov bilan asoslab berish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: maktabdagi biror ishni yengillashtiradigan yuk ko'targich robot loyihalash.",
+     "Talab: Muammo bir gapda yozilsin.",
+     "Talab: Robot o'sha muammoni hal qilsin.",
+     "Talab: Ish vaqti o'lchab yozilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Haqiqiy muammo tanlang: kitob tashish, bo'r yetkazish, doska artish...",
+     "Robot ko'taradigan yukning og'irligi va o'lchamini oldindan aniqlang",
+     "Barqarorlikni tekshiring — yuk ko'tarilganda ag'anamasin"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Muammo bir gapda aniq yozilgan.",
+     "2-band (1 ball): Robot aynan shu muammoga mos qurilgan (bola bog'liqlikni tushuntiradi).",
+     "3-band (1 ball): Sinov: robot belgilangan yukni ko'tarib, joyiga yetkazadi.",
+     "4-band (1 ball): Sinov: yuk ko'tarilganda robot ag'anamaydi.",
+     "5-band (1 ball): Ish vaqti sekundomer bilan o'lchab yozilgan.",
+     "6-band (1 ball): Ko'tarish mexanizmi turi (richag/shkiv/vint) to'g'ri aytilgan.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 8-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Robotingiz odamga qancha vaqt tejaydi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "2-sinf",
+   "yil": "1-yil",
+   "chorak": "4-chorak, 9-hafta",
+   "darsRaqami": "81 / 84",
+   "modul": "L4. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|2-sinf|4-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Fork Lift Truck\" modelini instruksiyaga kamroq qarab qayta yig'adilar va yig'ish vaqtini o'lchaydilar.",
    "O'quvchilar \"Shkiv bilan ko'tarish\" mavzusi bo'yicha modelning ishlashini aniq mezon (vaqt, masofa yoki takrorlar soni) bilan o'lchab, natijani jadvalga yozadilar.",
@@ -19745,14 +20402,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 9-hafta",
-   "darsRaqami": "80 / 84",
+   "chorak": "4-chorak, 10-hafta",
+   "darsRaqami": "82 / 84",
    "modul": "M4. Yuk ko'tarish mexanizmlari",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|4-chorak|17": {
+ "1-yil|2-sinf|4-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Nega og'ir yukni ko'tarish qiyin\" mavzusini \"Tower Crane\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Tower Crane\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -19825,14 +20482,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 9-hafta",
-   "darsRaqami": "81 / 84",
+   "chorak": "4-chorak, 10-hafta",
+   "darsRaqami": "83 / 84",
    "modul": "M4. Yuk ko'tarish mexanizmlari",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|2-sinf|4-chorak|18": {
+ "1-yil|2-sinf|4-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Tower Crane\" modelini instruksiyaga kamroq qarab qayta yig'adilar va yig'ish vaqtini o'lchaydilar.",
    "O'quvchilar \"Nega og'ir yukni ko'tarish qiyin\" mavzusi bo'yicha modelning ishlashini aniq mezon (vaqt, masofa yoki takrorlar soni) bilan o'lchab, natijani jadvalga yozadilar.",
@@ -19910,165 +20567,10 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 10-hafta",
-   "darsRaqami": "82 / 84",
-   "modul": "M4. Yuk ko'tarish mexanizmlari",
-   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|2-sinf|4-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"RoboLift\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (topshiriqni bajarish vaqti) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Manipulyator (Manipulator) – yukni ushlaydigan va ko'taradigan qism",
-   "Barqarorlik (Stability) – yuk bilan yiqilmay harakatlanish",
-   "Samaradorlik (Efficiency) – natijani kam vaqt va kuch bilan olish",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Mas'uliyat va o'zini baholash — Yil yakunida o'z natijasini haqqoniy baholay olish, kuchli va kuchsiz tomonini aytish.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "Sekundomer",
-   "Standart yuk (kubik yoki detal to'plami)",
-   "1 metrlik belgilangan trassa"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: yuk ko'targich robot bir xil yukni belgilangan balandlikka ko'taradi va 1 metr masofaga tashiydi; vaqt o'lchanadi.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "30 soniyagacha = 5 (a'lo)",
-     "31–60 soniya = 4 (yaxshi)",
-     "61–90 soniya = 3 (qoniqarli)",
-     "91–120 soniya = 2 (qoniqarsiz)",
-     "2 daqiqadan ortiq yoki yuk tashilmasa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (topshiriqni bajarish vaqti) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Yuk og'irlashsa, robotingiz qayeridan nosozlik beradi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "2-sinf",
-   "yil": "1-yil",
-   "chorak": "4-chorak, 10-hafta",
-   "darsRaqami": "83 / 84",
-   "modul": "N4. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|2-sinf|4-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Maktabga robot\" loyihasi doirasida maktabdagi biror ishni yengillashtiradigan yuk ko'targich robot loyihalash.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: maktabdagi biror ishni yengillashtiradigan yuk ko'targich robot loyihalash.",
-     "Talab: Muammo bir gapda yozilsin.",
-     "Talab: Robot o'sha muammoni hal qilsin.",
-     "Talab: Ish vaqti o'lchab yozilsin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Robotingiz odamga qancha vaqt tejaydi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "2-sinf",
-   "yil": "1-yil",
    "chorak": "4-chorak, 11-hafta",
    "darsRaqami": "84 / 84",
-   "modul": "L4. Loyiha",
-   "jihoz": "Makerzoid Robot Master Standard",
+   "modul": "M4. Yuk ko'tarish mexanizmlari",
+   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
@@ -20708,6 +21210,95 @@ window.LESSON_CONTENT = {
  },
  "1-yil|3-sinf|1-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Elektr motor\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 1-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Halollik — testni mustaqil yechish, ko'chirmaslik. Natija qanday bo'lsa ham, u O'ZINGIZNIKI bo'lsin.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 1-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Motorli modelning motorsiz modeldan asosiy farqi nima?  A) O'zi harakatlanadi, itarish shart emas.  B) Og'irroq turadi.  C) Chiroyliroq.",
+     "2-savol. Motor qaysi energiyani harakatga aylantiradi?  A) Quyosh issig'ini to'g'ridan-to'g'ri.  B) Elektr energiyasini.  C) Shamolni.",
+     "3-savol. Motorning aylanish yo'nalishini qanday o'zgartiramiz?  A) Motorni qizdirib.  B) Kuchliroq bosib.  C) Tok qutblarini (simlarni) almashtirib.",
+     "4-savol. Motor kuchi (moment) nima?  A) Motorning aylantirish kuchi.  B) Motorning rangi.  C) Motorning narxi.",
+     "5-savol. Motor kuchini qayerda sezamiz?  A) Motor hidida.  B) Og'ir yukni aylantira olishida.  C) Motor ovozining balandligida.",
+     "6-savol. Motordan g'ildirakka kuch qanday yetib boradi?  A) Havo orqali.  B) O'z-o'zidan.  C) Uzatma (tishli g'ildirak, val) orqali.",
+     "7-savol. Motorga juda og'ir yuk ulansa nima bo'ladi?  A) Sekinlashadi yoki to'xtab qoladi.  B) Tezlashadi.  C) Yengillashadi.",
+     "8-savol. Batareya motorga nima beradi?  A) Suv.  B) Elektr toki.  C) Havo.",
+     "9-savol. Motorni to'xtatish uchun nima qilamiz?  A) Qo'l bilan g'ildiragini ushlaymiz.  B) Kutamiz.  C) Tok zanjirini uzamiz (o'chirgich).",
+     "10-savol. Bitta motor ikkita g'ildirakni aylantira oladimi?  A) Ha — uzatma orqali ikkalasiga ham kuch beriladi.  B) Yo'q, har g'ildirakka alohida motor shart.  C) Motor g'ildirak aylantirmaydi."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "3-sinf",
+   "yil": "1-yil",
+   "chorak": "1-chorak, 5-hafta",
+   "darsRaqami": "9 / 84",
+   "modul": "N1. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|3-sinf|1-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Motor issiqligi va chegarasi\" mavzusini \"Pivoting Fan\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Pivoting Fan\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -20779,13 +21370,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "1-yil",
    "chorak": "1-chorak, 5-hafta",
-   "darsRaqami": "9 / 84",
+   "darsRaqami": "10 / 84",
    "modul": "M1. Elektr motor va harakat",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|1-chorak|9": {
+ "1-yil|3-sinf|1-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Aylanish yo'nalishini o'zgartirish\" mavzusini \"Pivoting Fan\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Pivoting Fan\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -20857,14 +21448,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 5-hafta",
-   "darsRaqami": "10 / 84",
+   "chorak": "1-chorak, 6-hafta",
+   "darsRaqami": "11 / 84",
    "modul": "M1. Elektr motor va harakat",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|1-chorak|10": {
+ "1-yil|3-sinf|1-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Motor tezligini boshqarish\" mavzusini \"Big Hand Fan\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Big Hand Fan\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -20937,13 +21528,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "1-yil",
    "chorak": "1-chorak, 6-hafta",
-   "darsRaqami": "11 / 84",
+   "darsRaqami": "12 / 84",
    "modul": "M1. Elektr motor va harakat",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|1-chorak|11": {
+ "1-yil|3-sinf|1-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Motor tezligini boshqarish\" mavzusini \"Electric Helicopter\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Electric Helicopter\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -21015,14 +21606,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 6-hafta",
-   "darsRaqami": "12 / 84",
+   "chorak": "1-chorak, 7-hafta",
+   "darsRaqami": "13 / 84",
    "modul": "M1. Elektr motor va harakat",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|1-chorak|12": {
+ "1-yil|3-sinf|1-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Motor va energiya manbai\" mavzusini \"Rotating Plane\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Rotating Plane\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -21095,13 +21686,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "1-yil",
    "chorak": "1-chorak, 7-hafta",
-   "darsRaqami": "13 / 84",
+   "darsRaqami": "14 / 84",
    "modul": "M1. Elektr motor va harakat",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|1-chorak|13": {
+ "1-yil|3-sinf|1-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Motor nima va nima qiladi\" mavzusini \"Rotating Plane\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Rotating Plane\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -21173,14 +21764,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 7-hafta",
-   "darsRaqami": "14 / 84",
+   "chorak": "1-chorak, 8-hafta",
+   "darsRaqami": "15 / 84",
    "modul": "M1. Elektr motor va harakat",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|1-chorak|14": {
+ "1-yil|3-sinf|1-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Ishqalanish nima\" mavzusini \"RWD Car\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"RWD Car\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -21254,13 +21845,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "1-yil",
    "chorak": "1-chorak, 8-hafta",
-   "darsRaqami": "15 / 84",
+   "darsRaqami": "16 / 84",
    "modul": "M1. Elektr motor va harakat",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|1-chorak|15": {
+ "1-yil|3-sinf|1-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Ishqalanish nima\" mavzusini \"Wheel Car\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Wheel Car\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -21332,14 +21923,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 8-hafta",
-   "darsRaqami": "16 / 84",
+   "chorak": "1-chorak, 9-hafta",
+   "darsRaqami": "17 / 84",
    "modul": "M1. Elektr motor va harakat",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|1-chorak|16": {
+ "1-yil|3-sinf|1-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Motorli yordamchi\" loyihasi doirasida motor kuchidan foydalanadigan foydali qurilma loyihalash.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 2-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Mustaqillik va tashabbus — o'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: motor kuchidan foydalanadigan foydali qurilma loyihalash.",
+     "Talab: Qurilma motor bilan ishlasin.",
+     "Talab: Bajaradigan ishi aniq bo'lsin.",
+     "Talab: Uzatma tanlovi tushuntirilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Qurilmaning ishi kuch talab qilsa uzatmani kuchga, tezlik talab qilsa tezlikka sozlang",
+     "Motor o'qiga to'g'ridan-to'g'ri og'ir yuk ulamang — uzatma orqali ulang",
+     "O'chirib-yoqish qulay joyda bo'lsin"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Qurilma motor bilan ishlaydi va aniq bir ishni bajaradi.",
+     "2-band (1 ball): Bajariladigan ish bir gapda yozilgan.",
+     "3-band (1 ball): Motor va ish qismi orasida uzatma bor.",
+     "4-band (1 ball): Uzatma tanlovi (kuchga yoki tezlikka) to'g'ri asoslangan.",
+     "5-band (1 ball): Sinov: qurilma o'z ishini 3 marta ketma-ket muvaffaqiyatli bajaradi.",
+     "6-band (1 ball): Motor zo'riqmaydi: ishlaganda to'xtab-to'xtab qolmaydi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 2-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Motorni to'g'ridan-to'g'ri ulaganingizda va uzatma orqali ulaganingizda farq bormi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "3-sinf",
+   "yil": "1-yil",
+   "chorak": "1-chorak, 9-hafta",
+   "darsRaqami": "18 / 84",
+   "modul": "L1. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|3-sinf|1-chorak|18": {
   "maqsad": [
    "O'quvchilar \"G'ildirak ishqalanishni kamaytiradi\" mavzusini \"Speeding Car\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Speeding Car\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -21412,14 +22110,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 9-hafta",
-   "darsRaqami": "17 / 84",
+   "chorak": "1-chorak, 10-hafta",
+   "darsRaqami": "19 / 84",
    "modul": "M1. Elektr motor va harakat",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|1-chorak|17": {
+ "1-yil|3-sinf|1-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Ishqalanish nima\" mavzusini \"Formula Car\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Formula Car\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -21492,14 +22190,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 9-hafta",
-   "darsRaqami": "18 / 84",
+   "chorak": "1-chorak, 10-hafta",
+   "darsRaqami": "20 / 84",
    "modul": "M1. Elektr motor va harakat",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|1-chorak|18": {
+ "1-yil|3-sinf|1-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Silliq va notekis sirt\" mavzusini \"Formula Car\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Formula Car\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -21572,165 +22270,10 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 10-hafta",
-   "darsRaqami": "19 / 84",
-   "modul": "M1. Elektr motor va harakat",
-   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|3-sinf|1-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Motor-Start\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (2 metrni bosib o'tish vaqti) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Motor (Motor) – elektr energiyasini aylanma harakatga aylantiruvchi qism",
-   "Moment (Torque) – motorning aylantiruvchi kuchi",
-   "Uzatma (Transmission) – motor harakatini g'ildirakka yetkazuvchi tizim",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Sportchan munosabat — g'alaba va mag'lubiyatga sog'lom qarash, boshqalarning natijasini olqishlash. Yutqazish ham o'rganishning bir qismi.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "2 metrlik to'g'ri trassa",
-   "Sekundomer",
-   "Zaxira batareyalar"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: motorli model o'z kuchi bilan 2 metr masofani bosib o'tadi; vaqt o'lchanadi.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "10 soniyagacha = 5 (a'lo)",
-     "11–25 soniya = 4 (yaxshi)",
-     "26–45 soniya = 3 (qoniqarli)",
-     "46–60 soniya = 2 (qoniqarsiz)",
-     "60 soniyadan ortiq yoki finishga yetmasa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (2 metrni bosib o'tish vaqti) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Modelingiz sekin yurdimi yoki tez — buni motor uzatmasi bilan qanday bog'laysiz?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "3-sinf",
-   "yil": "1-yil",
-   "chorak": "1-chorak, 10-hafta",
-   "darsRaqami": "20 / 84",
-   "modul": "N1. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|3-sinf|1-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Motorli yordamchi\" loyihasi doirasida motor kuchidan foydalanadigan foydali qurilma loyihalash.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: motor kuchidan foydalanadigan foydali qurilma loyihalash.",
-     "Talab: Qurilma motor bilan ishlasin.",
-     "Talab: Bajaradigan ishi aniq bo'lsin.",
-     "Talab: Uzatma tanlovi tushuntirilsin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Motorni to'g'ridan-to'g'ri ulaganingizda va uzatma orqali ulaganingizda farq bormi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "3-sinf",
-   "yil": "1-yil",
    "chorak": "1-chorak, 11-hafta",
    "darsRaqami": "21 / 84",
-   "modul": "L1. Loyiha",
-   "jihoz": "Makerzoid Robot Master Standard",
+   "modul": "M1. Elektr motor va harakat",
+   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
@@ -22371,6 +22914,95 @@ window.LESSON_CONTENT = {
  },
  "1-yil|3-sinf|2-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Ishqalanish kuchi\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 3-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Diqqatni jamlash — 20 daqiqa davomida chalg'imasdan ishlash, savolni oxirigacha o'qish.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 3-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Ishqalanish kuchi qachon paydo bo'ladi?  A) Ikki sirt bir-biriga tegib harakatlanganda.  B) Model havoda uchganda.  C) Model turganda faqat.",
+     "2-savol. Statik ishqalanish nima?  A) Harakatdagi ishqalanish.  B) Turgan jismni qo'zg'atishga qarshilik.  C) Suvdagi ishqalanish.",
+     "3-savol. Qaysi sirtda model uzoqroq siljiydi?  A) Gilamda.  B) Qumda.  C) Silliq polda.",
+     "4-savol. G'ildirak ishqalanishni qanday kamaytiradi?  A) Sirpanish o'rniga dumalaydi.  B) Sirtni ho'llaydi.  C) Umuman kamaytirmaydi.",
+     "5-savol. Model og'irlashsa, ishqalanish qanday o'zgaradi?  A) Kamayadi.  B) Ortadi.  C) O'zgarmaydi.",
+     "6-savol. Ishqalanishni kamaytirish uchun mashinalarga nima quyiladi?  A) Suv.  B) Qum.  C) Moy.",
+     "7-savol. Ishqalanish har doim zararlimi?  A) Yo'q — yurish, tormozlash uchun kerak.  B) Ha, doim zararli.  C) Ishqalanish umuman yo'q narsa.",
+     "8-savol. Qishda yo'lga nega qum sepiladi?  A) Chiroyli bo'lishi uchun.  B) Ishqalanishni oshirib, sirpanishni kamaytirish uchun.  C) Yo'lni isitish uchun.",
+     "9-savol. Harakatdagi ishqalanish statik ishqalanishdan odatda qanday?  A) Ancha katta.  B) Teng.  C) Kichikroq.",
+     "10-savol. Tezlik oshsa, sirt bilan ishqalanishdan tashqari yana nima qarshilik qiladi?  A) Havo qarshiligi.  B) Tovush.  C) Yorug'lik."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "3-sinf",
+   "yil": "1-yil",
+   "chorak": "2-chorak, 5-hafta",
+   "darsRaqami": "30 / 84",
+   "modul": "N2. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|3-sinf|2-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Ishqalanish nima\" mavzusini \"Harley\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Harley\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -22443,13 +23075,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "1-yil",
    "chorak": "2-chorak, 5-hafta",
-   "darsRaqami": "30 / 84",
+   "darsRaqami": "31 / 84",
    "modul": "M2. Ishqalanish va transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|2-chorak|9": {
+ "1-yil|3-sinf|2-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Ishqalanish foydali bo'lgan holatlar\" mavzusini \"Hooded Motorcycle\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Hooded Motorcycle\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -22522,14 +23154,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 5-hafta",
-   "darsRaqami": "31 / 84",
+   "chorak": "2-chorak, 6-hafta",
+   "darsRaqami": "32 / 84",
    "modul": "M2. Ishqalanish va transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|2-chorak|10": {
+ "1-yil|3-sinf|2-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Shassi — transportning asosi\" mavzusini \"Patrol Car\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Patrol Car\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -22603,13 +23235,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "1-yil",
    "chorak": "2-chorak, 6-hafta",
-   "darsRaqami": "32 / 84",
+   "darsRaqami": "33 / 84",
    "modul": "M2. Ishqalanish va transport",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|2-chorak|11": {
+ "1-yil|3-sinf|2-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Patrol Car\" modelini instruksiyaga kamroq qarab qayta yig'adilar va yig'ish vaqtini o'lchaydilar.",
    "O'quvchilar \"Shassi — transportning asosi\" mavzusi bo'yicha modelning ishlashini aniq mezon (vaqt, masofa yoki takrorlar soni) bilan o'lchab, natijani jadvalga yozadilar.",
@@ -22687,14 +23319,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 6-hafta",
-   "darsRaqami": "33 / 84",
+   "chorak": "2-chorak, 7-hafta",
+   "darsRaqami": "34 / 84",
    "modul": "M2. Ishqalanish va transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|2-chorak|12": {
+ "1-yil|3-sinf|2-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Og'irlik taqsimoti\" mavzusini \"Car with YL Man 2\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Car with YL Man 2\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -22767,13 +23399,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "1-yil",
    "chorak": "2-chorak, 7-hafta",
-   "darsRaqami": "34 / 84",
+   "darsRaqami": "35 / 84",
    "modul": "M2. Ishqalanish va transport",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|2-chorak|13": {
+ "1-yil|3-sinf|2-chorak|14": {
   "maqsad": [
    "O'quvchilar \"G'ildiraklar soni va joylashuvi\" mavzusini \"Car with YL Man 1\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Car with YL Man 1\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -22845,14 +23477,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 7-hafta",
-   "darsRaqami": "35 / 84",
+   "chorak": "2-chorak, 8-hafta",
+   "darsRaqami": "36 / 84",
    "modul": "M2. Ishqalanish va transport",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|2-chorak|14": {
+ "1-yil|3-sinf|2-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Yuk tashish uchun maxsus qismlar\" mavzusini \"Battle Robot\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Battle Robot\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -22926,13 +23558,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "1-yil",
    "chorak": "2-chorak, 8-hafta",
-   "darsRaqami": "36 / 84",
+   "darsRaqami": "37 / 84",
    "modul": "M2. Ishqalanish va transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|2-chorak|15": {
+ "1-yil|3-sinf|2-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Og'irlik taqsimoti\" mavzusini \"Battle Robot\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Battle Robot\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -23005,14 +23637,120 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 8-hafta",
-   "darsRaqami": "37 / 84",
+   "chorak": "2-chorak, 9-hafta",
+   "darsRaqami": "38 / 84",
    "modul": "M2. Ishqalanish va transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|2-chorak|16": {
+ "1-yil|3-sinf|2-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Har yerda yuradigan mashina\" loyihasi doirasida uch xil sirtda ham yura oladigan transport loyihalash.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 4-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Rejali ishlash — vaqtni bosqichlarga bo'lib, eskiz va sinovga ham vaqt qoldirish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: uch xil sirtda ham yura oladigan transport loyihalash.",
+     "Talab: Uch sirtda sinalsin va natija jadvalga yozilsin.",
+     "Talab: Eng yomon natija bergan sirt uchun yaxshilanish kiritilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Sirtlar har xil bo'lsin: silliq pol, gilam, qiyalik yoki qum",
+     "Katta va protektorli g'ildirak notekis sirtda yaxshi ishlaydi",
+     "Har sinovda bir xil masofa va bir xil start ishlatilsin"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Transport 3 xil sirtda sinalgan.",
+     "2-band (1 ball): Har sirtdagi natija (masofa yoki vaqt) jadvalga yozilgan.",
+     "3-band (1 ball): Eng yomon natija bergan sirt aniqlangan.",
+     "4-band (1 ball): O'sha sirt uchun kamida 1 ta yaxshilanish kiritilgan.",
+     "5-band (1 ball): Sinov: yaxshilanishdan keyin natija qayta o'lchab, taqqoslangan.",
+     "6-band (1 ball): Bola qaysi sirtda nima xalaqit berganini (ishqalanish/tishlashish) tushuntiradi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 4-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Qaysi sirt eng qiyin bo'ldi va uni qanday yengdingiz?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "3-sinf",
+   "yil": "1-yil",
+   "chorak": "2-chorak, 9-hafta",
+   "darsRaqami": "39 / 84",
+   "modul": "L2. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|3-sinf|2-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Burilish qanday sodir bo'ladi\" mavzusini \"Wings Car\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Wings Car\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -23084,14 +23822,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 9-hafta",
-   "darsRaqami": "38 / 84",
+   "chorak": "2-chorak, 10-hafta",
+   "darsRaqami": "40 / 84",
    "modul": "M2. Ishqalanish va transport",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|2-chorak|17": {
+ "1-yil|3-sinf|2-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Motordan g'ildirakkacha kuch uzatish\" mavzusini \"Car with YL Man 3\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Car with YL Man 3\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -23163,14 +23901,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 9-hafta",
-   "darsRaqami": "39 / 84",
+   "chorak": "2-chorak, 10-hafta",
+   "darsRaqami": "41 / 84",
    "modul": "M2. Ishqalanish va transport",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|2-chorak|18": {
+ "1-yil|3-sinf|2-chorak|20": {
   "maqsad": [
    "O'quvchilar \"G'ildiraklar soni va joylashuvi\" mavzusini \"Santa's Sleigh\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Santa's Sleigh\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -23242,163 +23980,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 10-hafta",
-   "darsRaqami": "40 / 84",
-   "modul": "M2. Ishqalanish va transport",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|3-sinf|2-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Ishqalanish-Sinovi\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (uch sinov o'tkazilgani va farq to'g'ri tushuntirilgani) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Ishqalanish (Friction) – sirtlar orasidagi harakatga qarshilik",
-   "Sirt (Surface) – model harakatlanadigan yuza",
-   "Taqqoslash (Comparison) – natijalarni yonma-yon qo'yib xulosa chiqarish",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Vaqtni boshqarish — Musobaqagacha tayyorgarlikni ulgurish, oxirgi daqiqaga qoldirmaslik.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "Uch xil sirt (stol, gilam parchasi, qog'oz varaq)",
-   "O'lchov lentasi",
-   "Natija jadvali"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: bitta model uch xil sirtda (silliq stol, gilam, qog'oz) sinaladi va har birida bosib o'tgan masofasi yoziladi.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "Uch sinov ham o'tkazilib, jadval to'ldiriladi va farq tushuntiriladi = 5 (a'lo)",
-     "Uch sinov o'tkazilib, jadval to'ldiriladi = 4 (yaxshi)",
-     "Ikki sinov o'tkaziladi = 3 (qoniqarli)",
-     "Bitta sinov o'tkaziladi = 2 (qoniqarsiz)",
-     "Model harakatlanmasa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (uch sinov o'tkazilgani va farq to'g'ri tushuntirilgani) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Qaysi sirtda model eng uzoq yurdi va nega aynan o'sha sirtda?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "3-sinf",
-   "yil": "1-yil",
-   "chorak": "2-chorak, 10-hafta",
-   "darsRaqami": "41 / 84",
-   "modul": "N2. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|3-sinf|2-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Har yerda yuradigan mashina\" loyihasi doirasida uch xil sirtda ham yura oladigan transport loyihalash.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: uch xil sirtda ham yura oladigan transport loyihalash.",
-     "Talab: Uch sirtda sinalsin va natija jadvalga yozilsin.",
-     "Talab: Eng yomon natija bergan sirt uchun yaxshilanish kiritilsin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Qaysi sirt eng qiyin bo'ldi va uni qanday yengdingiz?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "3-sinf",
-   "yil": "1-yil",
    "chorak": "2-chorak, 11-hafta",
    "darsRaqami": "42 / 84",
-   "modul": "L2. Loyiha",
+   "modul": "M2. Ishqalanish va transport",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
@@ -24036,6 +24620,95 @@ window.LESSON_CONTENT = {
  },
  "1-yil|3-sinf|3-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Transport: shassi, g'ildirak, tormoz\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 5-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Xatodan o'rganish — noto'g'ri javob \"yomon\" degani emas; qaysi mavzuni takrorlash kerakligini ko'rsatadigan belgi.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 5-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Shassi nima?  A) Transportning asosiy ko'taruvchi asosi (skeleti).  B) Mashinaning bo'yog'i.  C) Faraning nomi.",
+     "2-savol. G'ildirak nimaga o'rnatiladi?  A) To'g'ridan-to'g'ri motorning ichiga.  B) O'qqa (valga).  C) Oynaga.",
+     "3-savol. Tezlik va kuch o'rtasidagi muros nima degani?  A) Ikkalasi doim birga oshadi.  B) Ikkalasi ham muhim emas.  C) Biri oshsa, ikkinchisi kamayadi.",
+     "4-savol. Og'ir yuk tashiydigan transportga qanday uzatma kerak?  A) Kuchni oshiradigan (sekin, lekin kuchli).  B) Tezlikni oshiradigan.  C) Uzatmasiz.",
+     "5-savol. G'ildiraklar soni ko'paysa nima yaxshilanadi?  A) Tezlik keskin oshadi.  B) Og'irlik ko'proq nuqtaga taqsimlanadi.  C) Hech narsa.",
+     "6-savol. Tormoz qanday ishlaydi?  A) Motorga tok qo'shadi.  B) G'ildirakni tezlashtiradi.  C) Ishqalanish bilan g'ildirakni sekinlatadi.",
+     "7-savol. Poyga mashinasida qaysi xususiyat muhimroq?  A) Tezlik.  B) Yuk ko'tarish.  C) Balandlik.",
+     "8-savol. Traktor katta kuchga ega, lekin sekin. Nega?  A) Motori yomon.  B) Uzatmasi kuchga sozlangan.  C) G'ildiragi rangli.",
+     "9-savol. Shassi bo'sh (mo'rt) bo'lsa nima bo'ladi?  A) Model tezlashadi.  B) Hech narsa.  C) Yuk ostida egilib, model buziladi.",
+     "10-savol. Transport turi nimaga qarab tanlanadi?  A) Bajaradigan vazifasiga qarab.  B) Faqat rangiga qarab.  C) Nomiga qarab."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "3-sinf",
+   "yil": "1-yil",
+   "chorak": "3-chorak, 5-hafta",
+   "darsRaqami": "51 / 84",
+   "modul": "N3. Nazorat ishi",
+   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|3-sinf|3-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Tormozlash\" mavzusini \"Infantry Fighting Vehicle\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Infantry Fighting Vehicle\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -24108,13 +24781,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "1-yil",
    "chorak": "3-chorak, 5-hafta",
-   "darsRaqami": "51 / 84",
+   "darsRaqami": "52 / 84",
    "modul": "M3. Murakkab transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|3-chorak|9": {
+ "1-yil|3-sinf|3-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Transport turi vazifaga bog'liq\" mavzusini \"Big Truck\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Big Truck\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -24187,14 +24860,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 5-hafta",
-   "darsRaqami": "52 / 84",
+   "chorak": "3-chorak, 6-hafta",
+   "darsRaqami": "53 / 84",
    "modul": "M3. Murakkab transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|3-chorak|10": {
+ "1-yil|3-sinf|3-chorak|11": {
   "maqsad": [
    "O'quvchilar \"G'ildirak va o'q\" mavzusini \"Big Truck\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Big Truck\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -24268,13 +24941,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "1-yil",
    "chorak": "3-chorak, 6-hafta",
-   "darsRaqami": "53 / 84",
+   "darsRaqami": "54 / 84",
    "modul": "M3. Murakkab transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|3-chorak|11": {
+ "1-yil|3-sinf|3-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Motordan g'ildirakkacha kuch uzatish\" mavzusini \"War Robot\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"War Robot\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -24347,14 +25020,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 6-hafta",
-   "darsRaqami": "54 / 84",
+   "chorak": "3-chorak, 7-hafta",
+   "darsRaqami": "55 / 84",
    "modul": "M3. Murakkab transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|3-chorak|12": {
+ "1-yil|3-sinf|3-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Burilish qanday sodir bo'ladi\" mavzusini \"Kowtow Machine\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Kowtow Machine\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -24428,13 +25101,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "1-yil",
    "chorak": "3-chorak, 7-hafta",
-   "darsRaqami": "55 / 84",
+   "darsRaqami": "56 / 84",
    "modul": "M3. Murakkab transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|3-chorak|13": {
+ "1-yil|3-sinf|3-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Burilish qanday sodir bo'ladi\" mavzusini \"Combat Robot\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Combat Robot\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -24507,14 +25180,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 7-hafta",
-   "darsRaqami": "56 / 84",
+   "chorak": "3-chorak, 8-hafta",
+   "darsRaqami": "57 / 84",
    "modul": "M3. Murakkab transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|3-chorak|14": {
+ "1-yil|3-sinf|3-chorak|15": {
   "maqsad": [
    "O'quvchilar \"G'ildirak va o'q\" mavzusini \"Inspection Robot\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Inspection Robot\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -24588,13 +25261,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "1-yil",
    "chorak": "3-chorak, 8-hafta",
-   "darsRaqami": "57 / 84",
+   "darsRaqami": "58 / 84",
    "modul": "M3. Murakkab transport",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|3-chorak|15": {
+ "1-yil|3-sinf|3-chorak|16": {
   "maqsad": [
    "O'quvchilar \"G'ildiraklar soni va joylashuvi\" mavzusini \"Inspection Robot\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Inspection Robot\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -24667,14 +25340,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 8-hafta",
-   "darsRaqami": "58 / 84",
+   "chorak": "3-chorak, 9-hafta",
+   "darsRaqami": "59 / 84",
    "modul": "M3. Murakkab transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|3-chorak|16": {
+ "1-yil|3-sinf|3-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Maxsus transport\" loyihasi doirasida aniq bir vazifa uchun mo'ljallangan transport loyihalash (tez yordam, yuk tashish, qutqaruv).",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 6-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Natijaga halol munosabat — o'lchovni bo'rttirmasdan, qanday chiqqan bo'lsa shunday yozish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: aniq bir vazifa uchun mo'ljallangan transport loyihalash (tez yordam, yuk tashish, qutqaruv).",
+     "Talab: Vazifa aniq yozilsin.",
+     "Talab: Transportda o'sha vazifaga xos kamida 1 ta qism bo'lsin.",
+     "Talab: 2 metrlik trassada sinalsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Vazifadan kelib chiqib tanlang: tezlik kerakmi, kuchmi, barqarorlikmi",
+     "Maxsus qism shunchaki bezak emas, ishlaydigan bo'lsin",
+     "Og'irlik taqsimotini tekshiring — maxsus qism muvozanatni buzmasin"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Transport vazifasi bir gapda yozilgan.",
+     "2-band (1 ball): Vazifaga xos kamida 1 ta ISHLAYDIGAN maxsus qism bor.",
+     "3-band (1 ball): Sinov: transport 2 metrlik trassani to'xtamasdan bosib o'tadi.",
+     "4-band (1 ball): Sinov: maxsus qism ish holatida ko'rsatildi.",
+     "5-band (1 ball): Trassa vaqti o'lchab yozilgan.",
+     "6-band (1 ball): Bola transportining oddiy mashinadan farqini asoslab beradi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 6-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Transportingizni oddiy mashinadan nima ajratib turadi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "3-sinf",
+   "yil": "1-yil",
+   "chorak": "3-chorak, 9-hafta",
+   "darsRaqami": "60 / 84",
+   "modul": "L3. Loyiha",
+   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|3-sinf|3-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Og'irlik taqsimoti\" mavzusini \"Armoured Vehicle\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Armoured Vehicle\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -24746,14 +25526,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 9-hafta",
-   "darsRaqami": "59 / 84",
+   "chorak": "3-chorak, 10-hafta",
+   "darsRaqami": "61 / 84",
    "modul": "M3. Murakkab transport",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|3-chorak|17": {
+ "1-yil|3-sinf|3-chorak|19": {
   "maqsad": [
    "O'quvchilar \"G'ildirak va o'q\" mavzusini \"Armoured Vehicle\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Armoured Vehicle\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -24826,14 +25606,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 9-hafta",
-   "darsRaqami": "60 / 84",
+   "chorak": "3-chorak, 10-hafta",
+   "darsRaqami": "62 / 84",
    "modul": "M3. Murakkab transport",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|3-chorak|18": {
+ "1-yil|3-sinf|3-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Motordan g'ildirakkacha kuch uzatish\" mavzusini \"Cheetch\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Cheetch\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -24906,164 +25686,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 10-hafta",
-   "darsRaqami": "61 / 84",
-   "modul": "M3. Murakkab transport",
-   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|3-sinf|3-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"RoboRace\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (trassani bosib o'tish vaqti va to'siqqa tegmaganligi) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Trassa (Track) – belgilangan harakat yo'li",
-   "Burilish radiusi (Turning radius) – robot burila oladigan eng kichik aylana",
-   "Boshqaruv (Control) – robot yo'nalishini boshqarish",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Bosim ostida ishlash — Hamma qarab turganda ham xotirjam ishlash, xato bo'lsa vahima qilmaslik.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "2,5 metrlik burilishli trassa",
-   "To'siq",
-   "Sekundomer"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: model 2,5 metrlik trassani bosib o'tadi; trassada kamida bitta burilish va bitta to'siq bor.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "20 soniyagacha, to'siqqa tegmasdan = 5 (a'lo)",
-     "21–40 soniya = 4 (yaxshi)",
-     "41–70 soniya = 3 (qoniqarli)",
-     "71–100 soniya yoki to'siqqa 2 marta tegsa = 2 (qoniqarsiz)",
-     "Finishga yetib bormasa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (trassani bosib o'tish vaqti va to'siqqa tegmaganligi) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Burilishda modelingiz nega sekinlashdi — g'ildiraklar joylashuvi qanday ta'sir qildi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "3-sinf",
-   "yil": "1-yil",
-   "chorak": "3-chorak, 10-hafta",
-   "darsRaqami": "62 / 84",
-   "modul": "N3. Nazorat ishi",
-   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|3-sinf|3-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Maxsus transport\" loyihasi doirasida aniq bir vazifa uchun mo'ljallangan transport loyihalash (tez yordam, yuk tashish, qutqaruv).",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: aniq bir vazifa uchun mo'ljallangan transport loyihalash (tez yordam, yuk tashish, qutqaruv).",
-     "Talab: Vazifa aniq yozilsin.",
-     "Talab: Transportda o'sha vazifaga xos kamida 1 ta qism bo'lsin.",
-     "Talab: 2 metrlik trassada sinalsin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Transportingizni oddiy mashinadan nima ajratib turadi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "3-sinf",
-   "yil": "1-yil",
    "chorak": "3-chorak, 11-hafta",
    "darsRaqami": "63 / 84",
-   "modul": "L3. Loyiha",
+   "modul": "M3. Murakkab transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
@@ -25709,6 +26334,95 @@ window.LESSON_CONTENT = {
  },
  "1-yil|3-sinf|4-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Osma tizim va og'irlik taqsimoti\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 7-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "O'zini baholash — testdan oldin qaysi savollarga ishonchingiz komil ekanini his qilish va yakunda solishtirish.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 7-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Osma tizim (amortizator) nima uchun kerak?  A) Zarbani yumshatish uchun.  B) Tezlikni oshirish uchun.  C) Chiroy uchun.",
+     "2-savol. Notekis yo'ldan o'tayotganda osma tizimsiz model qanday yuradi?  A) Yumshoq va tekis.  B) Qattiq silkinib, detallar bo'shashadi.  C) Tezroq.",
+     "3-savol. Osma tizimda nima ishlatiladi?  A) Shisha bo'lak.  B) Qattiq tosh.  C) Prujina yoki elastik element.",
+     "4-savol. Og'irlik taqsimoti nima degani?  A) Og'irlikning model bo'ylab qanday joylashgani.  B) Modelning umumiy narxi.  C) Motorning kuchi.",
+     "5-savol. Og'irlik faqat orqa g'ildiraklarda bo'lsa nima bo'ladi?  A) Model tekis yuradi.  B) Old g'ildiraklar yerdan ko'tarilib ketishi mumkin.  C) Model tezlashadi.",
+     "6-savol. Zarba kuchini kamaytirishning yo'li qaysi?  A) Qattiqroq urilish.  B) Tezroq yurish.  C) Zarbani yumshoq element orqali qabul qilish.",
+     "7-savol. Mashina g'ildiragidagi rezina shina nima vazifani ham bajaradi?  A) Mayda zarbalarni yumshatadi.  B) Mashinani og'irlashtiradi.  C) Faqat rang beradi.",
+     "8-savol. Yuk mashinasiga yukni qanday joylash to'g'ri?  A) Hammasi bir chetga.  B) Teng taqsimlab.  C) Faqat tepaga.",
+     "9-savol. Osma tizim juda qattiq bo'lsa nima bo'ladi?  A) Zarba juda yaxshi yumshaydi.  B) Model yumshoq yuradi.  C) Zarba deyarli yumshamaydi.",
+     "10-savol. Tez yuradigan model uchun og'irlik markazi qanday bo'lgani ma'qul?  A) Past va o'rtada.  B) Baland va chetda.  C) Ahamiyati yo'q."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "3-sinf",
+   "yil": "1-yil",
+   "chorak": "4-chorak, 5-hafta",
+   "darsRaqami": "72 / 84",
+   "modul": "N4. Nazorat ishi",
+   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|3-sinf|4-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Havo qarshiligi\" mavzusini \"Star War Aircraft\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Star War Aircraft\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -25781,13 +26495,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "1-yil",
    "chorak": "4-chorak, 5-hafta",
-   "darsRaqami": "72 / 84",
+   "darsRaqami": "73 / 84",
    "modul": "M4. Aerodinamika va reaktiv kuch",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|4-chorak|9": {
+ "1-yil|3-sinf|4-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Samolyot qanoti vertolyot parragidan farqi\" mavzusini \"Alien Reconnaissance Aircraft\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Alien Reconnaissance Aircraft\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -25860,14 +26574,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 5-hafta",
-   "darsRaqami": "73 / 84",
+   "chorak": "4-chorak, 6-hafta",
+   "darsRaqami": "74 / 84",
    "modul": "M4. Aerodinamika va reaktiv kuch",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|4-chorak|10": {
+ "1-yil|3-sinf|4-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Oqimli shakl (aerodinamik shakl)\" mavzusini \"Interplanetary Jet\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Interplanetary Jet\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -25941,13 +26655,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "1-yil",
    "chorak": "4-chorak, 6-hafta",
-   "darsRaqami": "74 / 84",
+   "darsRaqami": "75 / 84",
    "modul": "M4. Aerodinamika va reaktiv kuch",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|4-chorak|11": {
+ "1-yil|3-sinf|4-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Parrak qanotining burchagi\" mavzusini \"X Fighter\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"X Fighter\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -26020,14 +26734,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 6-hafta",
-   "darsRaqami": "75 / 84",
+   "chorak": "4-chorak, 7-hafta",
+   "darsRaqami": "76 / 84",
    "modul": "M4. Aerodinamika va reaktiv kuch",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|4-chorak|12": {
+ "1-yil|3-sinf|4-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Parvozdagi kuchlar muvozanati\" mavzusini \"Space Transport Aircraft\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Space Transport Aircraft\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -26101,13 +26815,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "1-yil",
    "chorak": "4-chorak, 7-hafta",
-   "darsRaqami": "76 / 84",
+   "darsRaqami": "77 / 84",
    "modul": "M4. Aerodinamika va reaktiv kuch",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|4-chorak|13": {
+ "1-yil|3-sinf|4-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Tortish kuchi va tezlik\" mavzusini \"Transport Helicopter\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Transport Helicopter\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -26180,14 +26894,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 7-hafta",
-   "darsRaqami": "77 / 84",
+   "chorak": "4-chorak, 8-hafta",
+   "darsRaqami": "78 / 84",
    "modul": "M4. Aerodinamika va reaktiv kuch",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|4-chorak|14": {
+ "1-yil|3-sinf|4-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Parrak havoni itaradi\" mavzusini \"Star Fighting\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Star Fighting\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -26261,13 +26975,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "1-yil",
    "chorak": "4-chorak, 8-hafta",
-   "darsRaqami": "78 / 84",
+   "darsRaqami": "79 / 84",
    "modul": "M4. Aerodinamika va reaktiv kuch",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|4-chorak|15": {
+ "1-yil|3-sinf|4-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Parrak havoni itaradi\" mavzusini \"Propeller-driven Vehicle\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Propeller-driven Vehicle\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -26340,14 +27054,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 8-hafta",
-   "darsRaqami": "79 / 84",
+   "chorak": "4-chorak, 9-hafta",
+   "darsRaqami": "80 / 84",
    "modul": "M4. Aerodinamika va reaktiv kuch",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|4-chorak|16": {
+ "1-yil|3-sinf|4-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Havo mashinasi\" loyihasi doirasida havo oqimi yoki reaktiv kuch bilan harakatlanadigan model loyihalash.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 8-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "O'z ishini himoya qilish — qarorlarini dalil va o'lchov bilan asoslab berish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: havo oqimi yoki reaktiv kuch bilan harakatlanadigan model loyihalash.",
+     "Talab: Model havo kuchi bilan siljisin.",
+     "Talab: Masofa o'lchab yozilsin.",
+     "Talab: Havo qarshiligini kamaytirish uchun kamida 1 ta o'zgartirish kiritilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Model yengil bo'lsin — havo kuchi katta emas",
+     "Parrak yo'nalishini tekshiring: havo ORQAGA itarilishi kerak",
+     "G'ildiraklar erkin aylansin, ishqalanish yutib qo'ymasin"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Model faqat havo kuchi bilan siljiydi (itarilmaydi).",
+     "2-band (1 ball): Boshlang'ich masofa o'lchab yozilgan.",
+     "3-band (1 ball): Havo qarshiligini kamaytiruvchi kamida 1 ta o'zgartirish kiritilgan.",
+     "4-band (1 ball): O'zgartirishdan keyingi masofa o'lchab, taqqoslangan.",
+     "5-band (1 ball): Sinov: model kamida 1 metr masofani bosib o'tadi.",
+     "6-band (1 ball): Bola qaysi kuch modelni siljitayotganini to'g'ri tushuntiradi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 8-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Shaklni o'zgartirganingiz masofaga qanday ta'sir qildi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "3-sinf",
+   "yil": "1-yil",
+   "chorak": "4-chorak, 9-hafta",
+   "darsRaqami": "81 / 84",
+   "modul": "L4. Loyiha",
+   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|3-sinf|4-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Reaktiv harakat tamoyili\" mavzusini \"Twin Propeller Aircraft\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Twin Propeller Aircraft\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -26420,14 +27241,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 9-hafta",
-   "darsRaqami": "80 / 84",
+   "chorak": "4-chorak, 10-hafta",
+   "darsRaqami": "82 / 84",
    "modul": "M4. Aerodinamika va reaktiv kuch",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|4-chorak|17": {
+ "1-yil|3-sinf|4-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Tortish kuchi va tezlik\" mavzusini \"Space Shuttle\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Space Shuttle\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -26500,14 +27321,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 9-hafta",
-   "darsRaqami": "81 / 84",
+   "chorak": "4-chorak, 10-hafta",
+   "darsRaqami": "83 / 84",
    "modul": "M4. Aerodinamika va reaktiv kuch",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|3-sinf|4-chorak|18": {
+ "1-yil|3-sinf|4-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Parrak qanotining burchagi\" mavzusini \"Osprey Aircraft\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Osprey Aircraft\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -26580,164 +27401,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 10-hafta",
-   "darsRaqami": "82 / 84",
-   "modul": "M4. Aerodinamika va reaktiv kuch",
-   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|3-sinf|4-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Havo-Chempionati\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (bosib o'tilgan masofa va modelning barqarorligi) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Aerodinamika (Aerodynamics) – havo oqimining jismga ta'siri",
-   "Reaktiv kuch (Thrust) – havo yoki gaz otilishidan hosil bo'ladigan itaruvchi kuch",
-   "Qarshilik (Drag) – havoning harakatga qarshiligi",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Mas'uliyat va o'zini baholash — Yil yakunida o'z natijasini haqqoniy baholay olish, kuchli va kuchsiz tomonini aytish.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "5 metrlik ochiq maydon",
-   "O'lchov lentasi",
-   "Havo oqimi manbai (propeller yoki puflagich)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: havo oqimi yoki reaktiv kuch bilan harakatlanadigan model quriladi va uning uchish/siljish masofasi o'lchanadi.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "4 metrdan uzoq va to'g'ri yo'nalishda = 5 (a'lo)",
-     "2,5–4 metr = 4 (yaxshi)",
-     "1,5–2,5 metr = 3 (qoniqarli)",
-     "0,5–1,5 metr = 2 (qoniqarsiz)",
-     "0,5 metrdan kam yoki model boshqarib bo'lmaydigan holda aylansa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (bosib o'tilgan masofa va modelning barqarorligi) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Modelingizning qaysi qismi havo qarshiligini eng ko'p oshirdi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "3-sinf",
-   "yil": "1-yil",
-   "chorak": "4-chorak, 10-hafta",
-   "darsRaqami": "83 / 84",
-   "modul": "N4. Nazorat ishi",
-   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|3-sinf|4-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Havo mashinasi\" loyihasi doirasida havo oqimi yoki reaktiv kuch bilan harakatlanadigan model loyihalash.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: havo oqimi yoki reaktiv kuch bilan harakatlanadigan model loyihalash.",
-     "Talab: Model havo kuchi bilan siljisin.",
-     "Talab: Masofa o'lchab yozilsin.",
-     "Talab: Havo qarshiligini kamaytirish uchun kamida 1 ta o'zgartirish kiritilsin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Shaklni o'zgartirganingiz masofaga qanday ta'sir qildi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "3-sinf",
-   "yil": "1-yil",
    "chorak": "4-chorak, 11-hafta",
    "darsRaqami": "84 / 84",
-   "modul": "L4. Loyiha",
+   "modul": "M4. Aerodinamika va reaktiv kuch",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
@@ -27386,6 +28052,95 @@ window.LESSON_CONTENT = {
  },
  "1-yil|4-sinf|1-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Biomimikriya: hayvonlardan o'rganamiz\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 1-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Halollik — testni mustaqil yechish, ko'chirmaslik. Natija qanday bo'lsa ham, u O'ZINGIZNIKI bo'lsin.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 1-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Biomimikriya nima?  A) Tabiatdagi yechimlarni texnikaga ko'chirish.  B) Hayvonlarni o'rgatish.  C) Rasm chizish usuli.",
+     "2-savol. Hayvon oyog'i qanday harakat qiladi?  A) Faqat aylanadi.  B) Bo'g'inlar orqali bukiladi va yoziladi.  C) Umuman harakatlanmaydi.",
+     "3-savol. Hayvon skeleti modeldagi nimaga o'xshaydi?  A) Bo'yoqqa.  B) Motorga.  C) Konstruksiya karkasiga.",
+     "4-savol. Qushlar qanotidan qaysi texnika uchun g'oya olingan?  A) Samolyot qanoti.  B) Avtomobil g'ildiragi.  C) Televizor.",
+     "5-savol. Tikanli o'simlik urug'idan qaysi ixtiro kelib chiqqan?  A) Sement.  B) Yopishqoq lenta-taqish (liposhka).  C) Kompyuter.",
+     "6-savol. Uchuvchi hayvonlar qanday umumiy xususiyatga ega?  A) Og'ir suyaklar.  B) Kichkina qanotlar.  C) Yengil tana va katta qanot yuzasi.",
+     "7-savol. Gepard tez yugurishi uchun tanasi qanday tuzilgan?  A) Egiluvchan umurtqa va uzun oyoqlar.  B) Og'ir va katta.  C) Kalta oyoqlar.",
+     "8-savol. Robot-oyoq qurayotganda hayvondan nimani ko'chiramiz?  A) Yungi va rangini.  B) Bo'g'inlar joylashuvi va harakat tartibini.  C) Ovozini.",
+     "9-savol. Ov qiluvchi hayvonga tezlik nima uchun kerak?  A) Chiroyli ko'rinish uchun.  B) Isinish uchun.  C) O'ljaga yetib olish uchun.",
+     "10-savol. Baliqning suzgichlari qaysi texnikada takrorlangan?  A) Suv osti kemasi rullarida.  B) Velosiped pedalida.  C) Eshik tutqichida."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "4-sinf",
+   "yil": "1-yil",
+   "chorak": "1-chorak, 5-hafta",
+   "darsRaqami": "9 / 84",
+   "modul": "N1. Nazorat ishi",
+   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|4-sinf|1-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Hayvon oyog'i qanday harakat qiladi\" mavzusini \"Electric Mouse\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Electric Mouse\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -27458,13 +28213,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "1-yil",
    "chorak": "1-chorak, 5-hafta",
-   "darsRaqami": "9 / 84",
+   "darsRaqami": "10 / 84",
    "modul": "M1. Tabiatdan ilhomlanish",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|1-chorak|9": {
+ "1-yil|4-sinf|1-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Muhitga moslashish\" mavzusini \"Electric Mouse\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Electric Mouse\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -27537,14 +28292,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 5-hafta",
-   "darsRaqami": "10 / 84",
+   "chorak": "1-chorak, 6-hafta",
+   "darsRaqami": "11 / 84",
    "modul": "M1. Tabiatdan ilhomlanish",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|1-chorak|10": {
+ "1-yil|4-sinf|1-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Suzuvchi hayvonlar harakati\" mavzusini \"Mouse (AI)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Mouse (AI)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -27617,13 +28372,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "1-yil",
    "chorak": "1-chorak, 6-hafta",
-   "darsRaqami": "11 / 84",
+   "darsRaqami": "12 / 84",
    "modul": "M1. Tabiatdan ilhomlanish",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|1-chorak|11": {
+ "1-yil|4-sinf|1-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Dum va muvozanat\" mavzusini \"Mouse (AI)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Mouse (AI)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -27695,14 +28450,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 6-hafta",
-   "darsRaqami": "12 / 84",
+   "chorak": "1-chorak, 7-hafta",
+   "darsRaqami": "13 / 84",
    "modul": "M1. Tabiatdan ilhomlanish",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|1-chorak|12": {
+ "1-yil|4-sinf|1-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Uchuvchi hayvonlar\" mavzusini \"Mouse (AI)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Mouse (AI)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -27776,13 +28531,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "1-yil",
    "chorak": "1-chorak, 7-hafta",
-   "darsRaqami": "13 / 84",
+   "darsRaqami": "14 / 84",
    "modul": "M1. Tabiatdan ilhomlanish",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|1-chorak|13": {
+ "1-yil|4-sinf|1-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Hayvonlarning himoya usullari\" mavzusini \"Crab (electric)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Crab (electric)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -27854,14 +28609,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 7-hafta",
-   "darsRaqami": "14 / 84",
+   "chorak": "1-chorak, 8-hafta",
+   "darsRaqami": "15 / 84",
    "modul": "M1. Tabiatdan ilhomlanish",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|1-chorak|14": {
+ "1-yil|4-sinf|1-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Hayvonlarning sezgi organlari\" mavzusini \"Crab (electric)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Crab (electric)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -27935,13 +28690,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "1-yil",
    "chorak": "1-chorak, 8-hafta",
-   "darsRaqami": "15 / 84",
+   "darsRaqami": "16 / 84",
    "modul": "M1. Tabiatdan ilhomlanish",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|1-chorak|15": {
+ "1-yil|4-sinf|1-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Hayvonlarning himoya usullari\" mavzusini \"Crab (AI)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Crab (AI)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -28013,14 +28768,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 8-hafta",
-   "darsRaqami": "16 / 84",
+   "chorak": "1-chorak, 9-hafta",
+   "darsRaqami": "17 / 84",
    "modul": "M1. Tabiatdan ilhomlanish",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|1-chorak|16": {
+ "1-yil|4-sinf|1-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Mening bionik ixtirom\" loyihasi doirasida tabiatdagi biror moslashuvni texnikaga ko'chirib, o'z ixtirongizni qurish.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 2-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Mustaqillik va tashabbus — o'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: tabiatdagi biror moslashuvni texnikaga ko'chirib, o'z ixtirongizni qurish.",
+     "Talab: Qaysi jonzotdan nima olingani yozilsin.",
+     "Talab: Model harakatlansin.",
+     "Talab: Tabiiy yechim nega samarali ekani tushuntirilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Jonzotning BITTA aniq moslashuvini tanlang — hammasini emas",
+     "Avval moslashuv qanday ishlashini tushunib oling, keyin qurishni boshlang",
+     "Model tashqi ko'rinishni emas, ISHLASH PRINSIPINI takrorlasin"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Qaysi jonzot va qaysi moslashuv — daftarga yozilgan.",
+     "2-band (1 ball): Model o'sha moslashuv PRINSIPINI takrorlaydi (shunchaki o'xshamaydi).",
+     "3-band (1 ball): Model harakatlanadi yoki ishlaydi.",
+     "4-band (1 ball): Sinov: asosiy funksiya 3 marta ketma-ket ko'rsatildi.",
+     "5-band (1 ball): Tabiiy yechimning samarasi (nega tabiat shunday qilgan) tushuntirilgan.",
+     "6-band (1 ball): Bola tabiiy va texnik yechim farqini aytib beradi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 2-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Tabiatdagi yechim texnikada ham shunday yaxshi ishladimi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "4-sinf",
+   "yil": "1-yil",
+   "chorak": "1-chorak, 9-hafta",
+   "darsRaqami": "18 / 84",
+   "modul": "L1. Loyiha",
+   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|4-sinf|1-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Ko'p oyoqli harakat tartibi\" mavzusini \"Rabbit (AI)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Rabbit (AI)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -28092,14 +28954,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 9-hafta",
-   "darsRaqami": "17 / 84",
+   "chorak": "1-chorak, 10-hafta",
+   "darsRaqami": "19 / 84",
    "modul": "M1. Tabiatdan ilhomlanish",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|1-chorak|17": {
+ "1-yil|4-sinf|1-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Rabbit (AI)\" modelini instruksiyaga kamroq qarab qayta yig'adilar va yig'ish vaqtini o'lchaydilar.",
    "O'quvchilar \"Ko'p oyoqli harakat tartibi\" mavzusi bo'yicha modelning ishlashini aniq mezon (vaqt, masofa yoki takrorlar soni) bilan o'lchab, natijani jadvalga yozadilar.",
@@ -28177,14 +29039,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 9-hafta",
-   "darsRaqami": "18 / 84",
+   "chorak": "1-chorak, 10-hafta",
+   "darsRaqami": "20 / 84",
    "modul": "M1. Tabiatdan ilhomlanish",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|1-chorak|18": {
+ "1-yil|4-sinf|1-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Suzuvchi hayvonlar harakati\" mavzusini \"Rabbit (AI)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Rabbit (AI)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -28257,164 +29119,10 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "1-chorak, 10-hafta",
-   "darsRaqami": "19 / 84",
-   "modul": "M1. Tabiatdan ilhomlanish",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|4-sinf|1-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Bionika-Taqdimot\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (modelning ishlashi va biologik o'xshatishning asoslanishi) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Biomimikriya (Biomimicry) – tabiatdagi yechimlarni texnikaga ko'chirish",
-   "Moslashuv (Adaptation) – jonzotning muhitga moslashgan xususiyati",
-   "Analogiya (Analogy) – ikki narsa orasidagi o'xshashlik",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Sportchan munosabat — g'alaba va mag'lubiyatga sog'lom qarash, boshqalarning natijasini olqishlash. Yutqazish ham o'rganishning bir qismi.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "Taqdimot uchun stol",
-   "Hayvonlar rasmlari yoki qisqa video (taqqoslash uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: tabiatdagi biror jonzotdan ilhomlangan model qurib, qaysi hayvondan nimani olganini va nega shunday qilganini sinfga tushuntiradi.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "Model harakatlanadi va 2 ta aniq o'xshatish asoslanadi = 5 (a'lo)",
-     "Model harakatlanadi va 1 ta o'xshatish asoslanadi = 4 (yaxshi)",
-     "Model harakatlanadi = 3 (qoniqarli)",
-     "Model yig'ilgan, lekin harakatlanmasa = 2 (qoniqarsiz)",
-     "Model yig'ilmagan bo'lsa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (modelning ishlashi va biologik o'xshatishning asoslanishi) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Tabiatdagi yechim nega aynan shunday — u qanday muammoni hal qiladi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "4-sinf",
-   "yil": "1-yil",
-   "chorak": "1-chorak, 10-hafta",
-   "darsRaqami": "20 / 84",
-   "modul": "N1. Nazorat ishi",
-   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|4-sinf|1-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Mening bionik ixtirom\" loyihasi doirasida tabiatdagi biror moslashuvni texnikaga ko'chirib, o'z ixtirongizni qurish.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: tabiatdagi biror moslashuvni texnikaga ko'chirib, o'z ixtirongizni qurish.",
-     "Talab: Qaysi jonzotdan nima olingani yozilsin.",
-     "Talab: Model harakatlansin.",
-     "Talab: Tabiiy yechim nega samarali ekani tushuntirilsin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Tabiatdagi yechim texnikada ham shunday yaxshi ishladimi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "4-sinf",
-   "yil": "1-yil",
    "chorak": "1-chorak, 11-hafta",
    "darsRaqami": "21 / 84",
-   "modul": "L1. Loyiha",
-   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
+   "modul": "M1. Tabiatdan ilhomlanish",
+   "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
@@ -29056,6 +29764,95 @@ window.LESSON_CONTENT = {
  },
  "1-yil|4-sinf|2-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Hayvon harakatini mexanizmda takrorlash\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 3-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Diqqatni jamlash — 20 daqiqa davomida chalg'imasdan ishlash, savolni oxirigacha o'qish.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 3-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Hayvon yurishini modelda takrorlash uchun qaysi mexanizm ko'p ishlatiladi?  A) Krivoship-richag (oyoq mexanizmi).  B) Faqat g'ildirak.  C) Shkiv.",
+     "2-savol. Ilon qanday harakatlanadi?  A) Sakrab.  B) Tanasini to'lqinsimon egib.  C) G'ildirakda.",
+     "3-savol. Hayvon dumi nima vazifani bajaradi?  A) Faqat chiroy.  B) Ovqat topish.  C) Muvozanatni saqlash va yo'nalish.",
+     "4-savol. Suzuvchi hayvonlar suvni qanday itaradi?  A) Suzgich va dum harakati bilan.  B) Tishlari bilan.  C) Ko'zlari bilan.",
+     "5-savol. To'rt oyoqli hayvon yurganda oyoqlari qanday tartibda harakatlanadi?  A) To'rttasi bir vaqtda.  B) Navbat bilan, muvozanat saqlangan holda.  C) Faqat old oyoqlari.",
+     "6-savol. Sudralib yuruvchining modelida asosiy harakat qanday?  A) Yuqoriga sakrash.  B) Tez aylanish.  C) Tanani egib-to'g'rilab siljish.",
+     "7-savol. Qushning qanot qoqishini modelda nima bilan takrorlaymiz?  A) Tebranma mexanizm bilan.  B) G'ildirak bilan.  C) Tormoz bilan.",
+     "8-savol. Model-hayvon yurganda ag'anab ketmasligi uchun nima muhim?  A) Tez yurishi.  B) Har qadamda muvozanat saqlanishi.  C) Ko'p ovoz chiqarishi.",
+     "9-savol. Kenguru harakatidan qanday mexanizm g'oyasi olingan?  A) Suzish mexanizmi.  B) Aylanish mexanizmi.  C) Prujinali sakrash mexanizmi.",
+     "10-savol. Hayvon harakatini takrorlashda avval nimani kuzatamiz?  A) Harakatning qaysi bo'g'inlardan chiqishini.  B) Hayvonning rangini.  C) Hayvonning ovqatini."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "4-sinf",
+   "yil": "1-yil",
+   "chorak": "2-chorak, 5-hafta",
+   "darsRaqami": "30 / 84",
+   "modul": "N2. Nazorat ishi",
+   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|4-sinf|2-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Biomimikriya nima\" mavzusini \"Little Bear\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Little Bear\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -29127,13 +29924,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "1-yil",
    "chorak": "2-chorak, 5-hafta",
-   "darsRaqami": "30 / 84",
+   "darsRaqami": "31 / 84",
    "modul": "M2. Hayvon harakati mexanikasi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|2-chorak|9": {
+ "1-yil|4-sinf|2-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Little Bear\" modelini instruksiyaga kamroq qarab qayta yig'adilar va yig'ish vaqtini o'lchaydilar.",
    "O'quvchilar \"Biomimikriya nima\" mavzusi bo'yicha modelning ishlashini aniq mezon (vaqt, masofa yoki takrorlar soni) bilan o'lchab, natijani jadvalga yozadilar.",
@@ -29211,14 +30008,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 5-hafta",
-   "darsRaqami": "31 / 84",
+   "chorak": "2-chorak, 6-hafta",
+   "darsRaqami": "32 / 84",
    "modul": "M2. Hayvon harakati mexanikasi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|2-chorak|10": {
+ "1-yil|4-sinf|2-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Ko'p oyoqli harakat tartibi\" mavzusini \"Little Bear\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Little Bear\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -29292,13 +30089,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "1-yil",
    "chorak": "2-chorak, 6-hafta",
-   "darsRaqami": "32 / 84",
+   "darsRaqami": "33 / 84",
    "modul": "M2. Hayvon harakati mexanikasi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|2-chorak|11": {
+ "1-yil|4-sinf|2-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Rang va naqsh nima uchun kerak\" mavzusini \"Shark\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Shark\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -29371,14 +30168,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 6-hafta",
-   "darsRaqami": "33 / 84",
+   "chorak": "2-chorak, 7-hafta",
+   "darsRaqami": "34 / 84",
    "modul": "M2. Hayvon harakati mexanikasi",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|2-chorak|12": {
+ "1-yil|4-sinf|2-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Hayvon skeleti va konstruksiya\" mavzusini \"Electric Tortoise\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Electric Tortoise\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -29451,13 +30248,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "1-yil",
    "chorak": "2-chorak, 7-hafta",
-   "darsRaqami": "34 / 84",
+   "darsRaqami": "35 / 84",
    "modul": "M2. Hayvon harakati mexanikasi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|2-chorak|13": {
+ "1-yil|4-sinf|2-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Guruh bo'lib harakatlanish\" mavzusini \"Electric Tortoise\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Electric Tortoise\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -29530,14 +30327,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 7-hafta",
-   "darsRaqami": "35 / 84",
+   "chorak": "2-chorak, 8-hafta",
+   "darsRaqami": "36 / 84",
    "modul": "M2. Hayvon harakati mexanikasi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|2-chorak|14": {
+ "1-yil|4-sinf|2-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Hayvon oyog'i qanday harakat qiladi\" mavzusini \"Tyannosaurus Rex (Adv)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Tyannosaurus Rex (Adv)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -29611,13 +30408,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "1-yil",
    "chorak": "2-chorak, 8-hafta",
-   "darsRaqami": "36 / 84",
+   "darsRaqami": "37 / 84",
    "modul": "M2. Hayvon harakati mexanikasi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|2-chorak|15": {
+ "1-yil|4-sinf|2-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Tyannosaurus Rex (Adv)\" modelini instruksiyaga kamroq qarab qayta yig'adilar va yig'ish vaqtini o'lchaydilar.",
    "O'quvchilar \"Hayvon oyog'i qanday harakat qiladi\" mavzusi bo'yicha modelning ishlashini aniq mezon (vaqt, masofa yoki takrorlar soni) bilan o'lchab, natijani jadvalga yozadilar.",
@@ -29695,14 +30492,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 8-hafta",
-   "darsRaqami": "37 / 84",
+   "chorak": "2-chorak, 9-hafta",
+   "darsRaqami": "38 / 84",
    "modul": "M2. Hayvon harakati mexanikasi",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|2-chorak|16": {
+ "1-yil|4-sinf|2-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Yuradigan mexanizm\" loyihasi doirasida g'ildiraksiz, oyoq bilan yuradigan model loyihalash.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 4-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Rejali ishlash — vaqtni bosqichlarga bo'lib, eskiz va sinovga ham vaqt qoldirish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: g'ildiraksiz, oyoq bilan yuradigan model loyihalash.",
+     "Talab: G'ildirak ishlatilmasin.",
+     "Talab: Model kamida 1 metr yursin.",
+     "Talab: Qadam tsikli tushuntirilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Har qadamda kamida uchta tayanch nuqta yerda qolsin — model yiqilmaydi",
+     "Oyoqlar juft bo'lib, navbat bilan harakatlansin",
+     "Og'irlik markazini past tuting"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Modelda yurish uchun g'ildirak ishlatilmagan.",
+     "2-band (1 ball): Model oyoqlar harakati bilan oldinga siljiydi.",
+     "3-band (1 ball): Sinov: model to'xtamasdan kamida 1 metr yuradi.",
+     "4-band (1 ball): Sinov: yurish davomida model yiqilmaydi.",
+     "5-band (1 ball): Qadam tsikli (oyoqlar qaysi tartibda harakatlanishi) tushuntirilgan.",
+     "6-band (1 ball): Yurish tezligi o'lchab yozilgan (1 metrga necha soniya).",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 4-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Oyoq bilan yurish g'ildirakdan nimasi bilan yaxshi, nimasi bilan yomon?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "4-sinf",
+   "yil": "1-yil",
+   "chorak": "2-chorak, 9-hafta",
+   "darsRaqami": "39 / 84",
+   "modul": "L2. Loyiha",
+   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|4-sinf|2-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Biomimikriya nima\" mavzusini \"Crab Premium\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Crab Premium\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -29775,14 +30679,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 9-hafta",
-   "darsRaqami": "38 / 84",
+   "chorak": "2-chorak, 10-hafta",
+   "darsRaqami": "40 / 84",
    "modul": "M2. Hayvon harakati mexanikasi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|2-chorak|17": {
+ "1-yil|4-sinf|2-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Crab Premium\" modelini instruksiyaga kamroq qarab qayta yig'adilar va yig'ish vaqtini o'lchaydilar.",
    "O'quvchilar \"Biomimikriya nima\" mavzusi bo'yicha modelning ishlashini aniq mezon (vaqt, masofa yoki takrorlar soni) bilan o'lchab, natijani jadvalga yozadilar.",
@@ -29860,14 +30764,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 9-hafta",
-   "darsRaqami": "39 / 84",
+   "chorak": "2-chorak, 10-hafta",
+   "darsRaqami": "41 / 84",
    "modul": "M2. Hayvon harakati mexanikasi",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|2-chorak|18": {
+ "1-yil|4-sinf|2-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Sudralib yuruvchilar harakati\" mavzusini \"Buffalo (electric)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Buffalo (electric)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -29939,165 +30843,10 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "2-chorak, 10-hafta",
-   "darsRaqami": "40 / 84",
-   "modul": "M2. Hayvon harakati mexanikasi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|4-sinf|2-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Yurish-Musobaqasi\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (masofani bosib o'tish vaqti va yiqilishlar soni) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Qadam tsikli (Gait cycle) – oyoqlarning takrorlanuvchi harakat tartibi",
-   "Tayanch nuqtalari (Points of contact) – yerga tegib turgan oyoqlar",
-   "Statik barqarorlik (Static stability) – to'xtaganda ham yiqilmaslik",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Vaqtni boshqarish — Musobaqagacha tayyorgarlikni ulgurish, oxirgi daqiqaga qoldirmaslik.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "1,5 metrlik tekis yo'lak",
-   "Sekundomer",
-   "Yiqilishlarni sanash varaqasi"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: g'ildiraksiz, oyoqli model 1,5 metr masofani bosib o'tadi; yiqilsa qaytadan qo'yiladi va urinish sanaladi.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "Yiqilmasdan bosib o'tsa = 5 (a'lo)",
-     "1 marta yiqilsa = 4 (yaxshi)",
-     "2–3 marta yiqilsa = 3 (qoniqarli)",
-     "4–6 marta yiqilsa = 2 (qoniqarsiz)",
-     "Model yura olmasa yoki g'ildirak ishlatilsa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (masofani bosib o'tish vaqti va yiqilishlar soni) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Modelingiz nechta oyoq bilan yerga tayanib turdi — bu barqarorlikka qanday ta'sir qildi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "4-sinf",
-   "yil": "1-yil",
-   "chorak": "2-chorak, 10-hafta",
-   "darsRaqami": "41 / 84",
-   "modul": "N2. Nazorat ishi",
-   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|4-sinf|2-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Yuradigan mexanizm\" loyihasi doirasida g'ildiraksiz, oyoq bilan yuradigan model loyihalash.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: g'ildiraksiz, oyoq bilan yuradigan model loyihalash.",
-     "Talab: G'ildirak ishlatilmasin.",
-     "Talab: Model kamida 1 metr yursin.",
-     "Talab: Qadam tsikli tushuntirilsin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Oyoq bilan yurish g'ildirakdan nimasi bilan yaxshi, nimasi bilan yomon?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "4-sinf",
-   "yil": "1-yil",
    "chorak": "2-chorak, 11-hafta",
    "darsRaqami": "42 / 84",
-   "modul": "L2. Loyiha",
-   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
+   "modul": "M2. Hayvon harakati mexanikasi",
+   "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
@@ -30736,6 +31485,95 @@ window.LESSON_CONTENT = {
  },
  "1-yil|4-sinf|3-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Kuch, o'lcham va harakat strategiyasi\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 5-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Xatodan o'rganish — noto'g'ri javob \"yomon\" degani emas; qaysi mavzuni takrorlash kerakligini ko'rsatadigan belgi.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 5-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Katta hayvonlar nega sekin harakatlanadi?  A) Og'ir tanani ko'tarish ko'p kuch talab qiladi.  B) Dangasa bo'lgani uchun.  C) Ko'zlari yomon ko'rgani uchun.",
+     "2-savol. Chumoli o'zidan og'ir yukni ko'tara oladi. Bu nimani ko'rsatadi?  A) Chumoli sehrli.  B) Kichik o'lchamda kuch-og'irlik nisbati katta.  C) Yuk aslida yengil.",
+     "3-savol. Ko'p oyoqli (masalan, olti oyoqli) robotning afzalligi nima?  A) Tezroq uchadi.  B) Kamroq detal ketadi.  C) Bir nechta oyoq yerda qolib, barqaror yuradi.",
+     "4-savol. Fil va sichqon: qaysi birining yuragi tezroq uradi?  A) Sichqonning.  B) Filning.  C) Bir xil.",
+     "5-savol. Ov paytida gepard uzoq yugura olmaydi. Nega?  A) Yo'lni bilmaydi.  B) Katta tezlik ko'p energiya sarflaydi.  C) Oyog'i qisqa.",
+     "6-savol. Modelning oyoqlarini uzunlashtirsak nima o'zgaradi?  A) Hech narsa.  B) Model kichrayadi.  C) Qadam kengayadi, lekin muvozanat qiyinlashadi.",
+     "7-savol. Og'ir model uchun oyoq mexanizmini qanday quramiz?  A) Kuchli va keng tayanchli.  B) Ingichka va uzun.  C) Bitta oyoqli.",
+     "8-savol. Harakat strategiyasi nima degani?  A) Modelning nomi.  B) Qachon tez, qachon kuchli harakat qilishni tanlash.  C) Bo'yoq turi.",
+     "9-savol. Toshbaqa sekin, lekin qanday afzalligi bor?  A) Uzun oyoqlari.  B) Katta tezligi.  C) Mustahkam himoyasi va kam energiya sarfi.",
+     "10-savol. Model uchun oyoq soni qanday tanlanadi?  A) Vazifa va barqarorlik talabiga qarab.  B) Qancha ko'p bo'lsa shuncha yaxshi.  C) Doim ikkita."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "4-sinf",
+   "yil": "1-yil",
+   "chorak": "3-chorak, 5-hafta",
+   "darsRaqami": "51 / 84",
+   "modul": "N3. Nazorat ishi",
+   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|4-sinf|3-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Stegosaurus (Adv)\" modelini instruksiyaga kamroq qarab qayta yig'adilar va yig'ish vaqtini o'lchaydilar.",
    "O'quvchilar \"Ko'p oyoqli harakat tartibi\" mavzusi bo'yicha modelning ishlashini aniq mezon (vaqt, masofa yoki takrorlar soni) bilan o'lchab, natijani jadvalga yozadilar.",
    "O'quvchilar uch marta o'lchov o'tkazib, natijalar nega bir xil chiqmasligini tushuntiradilar."
@@ -30813,13 +31651,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "1-yil",
    "chorak": "3-chorak, 5-hafta",
-   "darsRaqami": "51 / 84",
+   "darsRaqami": "52 / 84",
    "modul": "M3. Biomimikriyadan kosmik texnikaga",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|3-chorak|9": {
+ "1-yil|4-sinf|3-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Ov qilish va harakat tezligi\" mavzusini \"Hadrosaur (electric)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Hadrosaur (electric)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -30892,14 +31730,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 5-hafta",
-   "darsRaqami": "52 / 84",
+   "chorak": "3-chorak, 6-hafta",
+   "darsRaqami": "53 / 84",
    "modul": "M3. Biomimikriyadan kosmik texnikaga",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|3-chorak|10": {
+ "1-yil|4-sinf|3-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Hayvonlarning himoya usullari\" mavzusini \"Brachiosaurus (electric)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Brachiosaurus (electric)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -30973,13 +31811,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "1-yil",
    "chorak": "3-chorak, 6-hafta",
-   "darsRaqami": "53 / 84",
+   "darsRaqami": "54 / 84",
    "modul": "M3. Biomimikriyadan kosmik texnikaga",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|3-chorak|11": {
+ "1-yil|4-sinf|3-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Sudralib yuruvchilar harakati\" mavzusini \"Triceratops (electric)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Triceratops (electric)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -31052,14 +31890,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 6-hafta",
-   "darsRaqami": "54 / 84",
+   "chorak": "3-chorak, 7-hafta",
+   "darsRaqami": "55 / 84",
    "modul": "M3. Biomimikriyadan kosmik texnikaga",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|3-chorak|12": {
+ "1-yil|4-sinf|3-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Katta hayvonlar qanday harakat qiladi\" mavzusini \"Euoplocephalus (electric)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Euoplocephalus (electric)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -31133,13 +31971,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "1-yil",
    "chorak": "3-chorak, 7-hafta",
-   "darsRaqami": "55 / 84",
+   "darsRaqami": "56 / 84",
    "modul": "M3. Biomimikriyadan kosmik texnikaga",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|3-chorak|13": {
+ "1-yil|4-sinf|3-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Hayvon skeleti va konstruksiya\" mavzusini \"Stegosaurus (AI)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Stegosaurus (AI)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -31211,14 +32049,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 7-hafta",
-   "darsRaqami": "56 / 84",
+   "chorak": "3-chorak, 8-hafta",
+   "darsRaqami": "57 / 84",
    "modul": "M3. Biomimikriyadan kosmik texnikaga",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|3-chorak|14": {
+ "1-yil|4-sinf|3-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Suzuvchi hayvonlar harakati\" mavzusini \"Electric Stegosaurus\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Electric Stegosaurus\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -31292,13 +32130,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "1-yil",
    "chorak": "3-chorak, 8-hafta",
-   "darsRaqami": "57 / 84",
+   "darsRaqami": "58 / 84",
    "modul": "M3. Biomimikriyadan kosmik texnikaga",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|3-chorak|15": {
+ "1-yil|4-sinf|3-chorak|16": {
   "maqsad": [
    "O'quvchilar \"To'siqdan oshib o'tish\" mavzusini \"Exploration Robot\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Exploration Robot\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -31371,14 +32209,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 8-hafta",
-   "darsRaqami": "58 / 84",
+   "chorak": "3-chorak, 9-hafta",
+   "darsRaqami": "59 / 84",
    "modul": "M3. Biomimikriyadan kosmik texnikaga",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|3-chorak|16": {
+ "1-yil|4-sinf|3-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Tadqiqot roboti\" loyihasi doirasida notekis yuzada harakatlanib, ma'lumot yoki namuna yig'adigan robot loyihalash.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 6-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Natijaga halol munosabat — o'lchovni bo'rttirmasdan, qanday chiqqan bo'lsa shunday yozish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: notekis yuzada harakatlanib, ma'lumot yoki namuna yig'adigan robot loyihalash.",
+     "Talab: Robot to'siqlardan o'tsin.",
+     "Talab: Namunani ola bilsin.",
+     "Talab: Missiya bosqichlari oldindan yozilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Missiyani bosqichlarga bo'ling va har bosqichni alohida sinang",
+     "Notekis yuzada katta g'ildirak va yaxshi tishlashish kerak",
+     "Namuna olish qismi harakat qismiga xalaqit bermasin"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Missiya bosqichlari OLDINDAN daftarga yozilgan.",
+     "2-band (1 ball): Sinov: robot notekis yuzadan (to'siqli trassadan) o'ta oladi.",
+     "3-band (1 ball): Sinov: robot namunani (belgilangan buyumni) oladi.",
+     "4-band (1 ball): Namuna qaytishda tushib qolmaydi.",
+     "5-band (1 ball): Butun missiya boshdan-oxir 1 marta to'liq bajarildi.",
+     "6-band (1 ball): Bola eng zaif bosqichni va uni qanday kuchaytirganini aytadi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 6-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Missiyangizda eng zaif bosqich qaysi edi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "4-sinf",
+   "yil": "1-yil",
+   "chorak": "3-chorak, 9-hafta",
+   "darsRaqami": "60 / 84",
+   "modul": "L3. Loyiha",
+   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|4-sinf|3-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Notekis yuzada harakat\" mavzusini \"Moon Rover\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Moon Rover\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -31451,14 +32396,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 9-hafta",
-   "darsRaqami": "59 / 84",
+   "chorak": "3-chorak, 10-hafta",
+   "darsRaqami": "61 / 84",
    "modul": "M3. Biomimikriyadan kosmik texnikaga",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|3-chorak|17": {
+ "1-yil|4-sinf|3-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Notekis yuzada harakat\" mavzusini \"Interstellar Train\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Interstellar Train\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -31531,14 +32476,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 9-hafta",
-   "darsRaqami": "60 / 84",
+   "chorak": "3-chorak, 10-hafta",
+   "darsRaqami": "62 / 84",
    "modul": "M3. Biomimikriyadan kosmik texnikaga",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|3-chorak|18": {
+ "1-yil|4-sinf|3-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Boshqa sayyoralarni o'rganish\" mavzusini \"Interstellar Train\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Interstellar Train\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -31611,163 +32556,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "3-chorak, 10-hafta",
-   "darsRaqami": "61 / 84",
-   "modul": "M3. Biomimikriyadan kosmik texnikaga",
-   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|4-sinf|3-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Notekis Yo'l\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (bosib o'tilgan masofa va to'siqlardan o'ta olgani) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Klirens (Ground clearance) – model tagi bilan yer orasidagi masofa",
-   "Ilashish (Traction) – g'ildirak yoki oyoqning yuzaga yopishishi",
-   "Osma tizim (Suspension) – zarbani yumshatuvchi qism",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Bosim ostida ishlash — Hamma qarab turganda ham xotirjam ishlash, xato bo'lsa vahima qilmaslik.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "Notekis maydon: kitoblar, qiyalik taxta, g'adir-budir mato",
-   "O'lchov lentasi"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: model notekis yuzadan (to'siqlar, qiyalik, g'adir-budir sirt) 1,5 metr masofani bosib o'tadi.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "Barcha to'siqlardan o'tib, finishga yetsa = 5 (a'lo)",
-     "1 ta to'siqda qoqilib, keyin o'tsa = 4 (yaxshi)",
-     "Masofaning yarmidan ko'pini bosib o'tsa = 3 (qoniqarli)",
-     "Masofaning yarmidan kamini bosib o'tsa = 2 (qoniqarsiz)",
-     "Birinchi to'siqdan o'ta olmasa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (bosib o'tilgan masofa va to'siqlardan o'ta olgani) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Model qayerda qoqildi — klirens yetmadimi yoki ilashish kam edimi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "4-sinf",
-   "yil": "1-yil",
-   "chorak": "3-chorak, 10-hafta",
-   "darsRaqami": "62 / 84",
-   "modul": "N3. Nazorat ishi",
-   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|4-sinf|3-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Tadqiqot roboti\" loyihasi doirasida notekis yuzada harakatlanib, ma'lumot yoki namuna yig'adigan robot loyihalash.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: notekis yuzada harakatlanib, ma'lumot yoki namuna yig'adigan robot loyihalash.",
-     "Talab: Robot to'siqlardan o'tsin.",
-     "Talab: Namunani ola bilsin.",
-     "Talab: Missiya bosqichlari oldindan yozilsin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Missiyangizda eng zaif bosqich qaysi edi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "4-sinf",
-   "yil": "1-yil",
    "chorak": "3-chorak, 11-hafta",
    "darsRaqami": "63 / 84",
-   "modul": "L3. Loyiha",
+   "modul": "M3. Biomimikriyadan kosmik texnikaga",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
@@ -32409,6 +33200,95 @@ window.LESSON_CONTENT = {
  },
  "1-yil|4-sinf|4-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Kosmik texnika\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 7-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "O'zini baholash — testdan oldin qaysi savollarga ishonchingiz komil ekanini his qilish va yakunda solishtirish.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 7-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Kosmosda Yer bilan qanday bog'lanadi?  A) Radio to'lqinlar (aloqa antennalari) orqali.  B) Sim tortib.  C) Baqirib.",
+     "2-savol. Oyda gravitatsiya Yerdagidan qanday?  A) Kuchliroq.  B) Ancha kuchsiz.  C) Bir xil.",
+     "3-savol. Past gravitatsiyada yurgan rover qanday harakat qiladi?  A) Og'irlashadi.  B) Yura olmaydi.  C) Yengil — sakrab ketmasligi uchun sekin yurishi kerak.",
+     "4-savol. Kosmik texnika nega juda ishonchli bo'lishi kerak?  A) Kosmosda ta'mirlash deyarli imkonsiz.  B) Qimmat ko'rinishi uchun.  C) Tez uchishi uchun.",
+     "5-savol. Marsoxodlarda nega 6 ta g'ildirak bo'ladi?  A) Chiroyli bo'lishi uchun.  B) Notekis yuzada barqarorlik va o'tuvchanlik uchun.  C) Tezroq yurish uchun.",
+     "6-savol. Namuna olish mexanizmi nima qiladi?  A) Suratga oladi.  B) Signal yuboradi.  C) Tuproq yoki tosh bo'lagini olib saqlaydi.",
+     "7-savol. Kosmosda harorat qanday o'zgaradi?  A) Juda katta farq: quyoshda issiq, soyada qattiq sovuq.  B) Doim iliq.  C) Doim +20.",
+     "8-savol. Kosmik apparatga himoya qatlami nima uchun kerak?  A) Og'irroq bo'lishi uchun.  B) Harorat va zarralardan saqlash uchun.  C) Rang berish uchun.",
+     "9-savol. Quyosh panellari kosmik apparatga nima beradi?  A) Suv.  B) Havo.  C) Elektr energiyasi.",
+     "10-savol. Kelajak kosmik missiyalarida robotlar nima uchun muhim?  A) Odam bora olmaydigan joylarda ishlay oladi.  B) Odamdan chiroyliroq.  C) Ovqat yemaydi, shuning uchun arzon."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "4-sinf",
+   "yil": "1-yil",
+   "chorak": "4-chorak, 5-hafta",
+   "darsRaqami": "72 / 84",
+   "modul": "N4. Nazorat ishi",
+   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|4-sinf|4-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Kosmik texnika og'irligi va o'lchami\" mavzusini \"Moon Collection Rover\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Moon Collection Rover\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -32481,13 +33361,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "1-yil",
    "chorak": "4-chorak, 5-hafta",
-   "darsRaqami": "72 / 84",
+   "darsRaqami": "73 / 84",
    "modul": "M4. Notekis yuzada harakat",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|4-chorak|9": {
+ "1-yil|4-sinf|4-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Kosmik yuk tashish\" mavzusini \"Interplanetary Repair Station\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Interplanetary Repair Station\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -32560,14 +33440,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 5-hafta",
-   "darsRaqami": "73 / 84",
+   "chorak": "4-chorak, 6-hafta",
+   "darsRaqami": "74 / 84",
    "modul": "M4. Notekis yuzada harakat",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|4-chorak|10": {
+ "1-yil|4-sinf|4-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Kosmik texnika nima uchun maxsus\" mavzusini \"Dual Motor Lunar Rover\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Dual Motor Lunar Rover\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -32641,13 +33521,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "1-yil",
    "chorak": "4-chorak, 6-hafta",
-   "darsRaqami": "74 / 84",
+   "darsRaqami": "75 / 84",
    "modul": "M4. Notekis yuzada harakat",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|4-chorak|11": {
+ "1-yil|4-sinf|4-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Dual Motor Lunar Rover\" modelini instruksiyaga kamroq qarab qayta yig'adilar va yig'ish vaqtini o'lchaydilar.",
    "O'quvchilar \"Kosmik texnika nima uchun maxsus\" mavzusi bo'yicha modelning ishlashini aniq mezon (vaqt, masofa yoki takrorlar soni) bilan o'lchab, natijani jadvalga yozadilar.",
@@ -32725,14 +33605,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 6-hafta",
-   "darsRaqami": "75 / 84",
+   "chorak": "4-chorak, 7-hafta",
+   "darsRaqami": "76 / 84",
    "modul": "M4. Notekis yuzada harakat",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|4-chorak|12": {
+ "1-yil|4-sinf|4-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Rover energiyani qayerdan oladi\" mavzusini \"Transport Walker\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Transport Walker\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -32806,13 +33686,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "1-yil",
    "chorak": "4-chorak, 7-hafta",
-   "darsRaqami": "76 / 84",
+   "darsRaqami": "77 / 84",
    "modul": "M4. Notekis yuzada harakat",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|4-chorak|13": {
+ "1-yil|4-sinf|4-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Yurish (oyoqli) kosmik texnika\" mavzusini \"Interstellar Cannon\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Interstellar Cannon\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -32885,14 +33765,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 7-hafta",
-   "darsRaqami": "77 / 84",
+   "chorak": "4-chorak, 8-hafta",
+   "darsRaqami": "78 / 84",
    "modul": "M4. Notekis yuzada harakat",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|4-chorak|14": {
+ "1-yil|4-sinf|4-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Chang va kir muammosi\" mavzusini \"Intersteller Pathfinder Robot\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Intersteller Pathfinder Robot\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -32966,13 +33846,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "1-yil",
    "chorak": "4-chorak, 8-hafta",
-   "darsRaqami": "78 / 84",
+   "darsRaqami": "79 / 84",
    "modul": "M4. Notekis yuzada harakat",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|4-chorak|15": {
+ "1-yil|4-sinf|4-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Kosmik texnikani sinash\" mavzusini \"Collection Robot\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Collection Robot\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -33045,14 +33925,123 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 8-hafta",
-   "darsRaqami": "79 / 84",
+   "chorak": "4-chorak, 9-hafta",
+   "darsRaqami": "80 / 84",
    "modul": "M4. Notekis yuzada harakat",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|4-chorak|16": {
+ "1-yil|4-sinf|4-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Bitiruv loyihasi\" loyihasi doirasida o'zingiz tanlagan muammoni to'liq muhandislik tsikli bo'yicha hal qilish.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 8-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "O'z ishini himoya qilish — qarorlarini dalil va o'lchov bilan asoslab berish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: o'zingiz tanlagan muammoni to'liq muhandislik tsikli bo'yicha hal qilish.",
+     "Talab: Talab yozilsin (robot nima qilishi kerak).",
+     "Talab: Eskiz chizilsin.",
+     "Talab: Model qurilsin va sinalsin.",
+     "Talab: Sinov natijasiga ko'ra kamida 1 ta takomil kiritilsin.",
+     "Talab: Natija sinfga taqdim etilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Muammoni kichik va aniq tanlang — katta muammoning bir qismi ham loyiha",
+     "Sinov natijalarini raqam bilan yozing, \"yaxshi ishladi\" yetarli emas",
+     "Takomil = sinovda topilgan kamchilikka javob"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Talab (robot nima qilishi kerakligi) oldindan yozilgan.",
+     "2-band (1 ball): Model talabga mos qurilgan.",
+     "3-band (1 ball): Sinov o'tkazilib, natijasi raqam bilan yozilgan.",
+     "4-band (1 ball): Sinov asosida kamida 1 ta takomil kiritilgan.",
+     "5-band (1 ball): Takomildan keyin natija qayta o'lchangan va farq ko'rsatilgan.",
+     "6-band (1 ball): To'liq tsikl (talab-eskiz-qurish-sinov-takomil) bosqichlari aytib berildi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 8-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Birinchi variantingiz bilan oxirgi variantingiz orasida nima farq bor?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "4-sinf",
+   "yil": "1-yil",
+   "chorak": "4-chorak, 9-hafta",
+   "darsRaqami": "81 / 84",
+   "modul": "L4. Loyiha",
+   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "1-yil|4-sinf|4-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Kosmik texnikada avtomatik xavfsizlik\" mavzusini \"Armoured Vehicle (Space)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Armoured Vehicle (Space)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -33125,14 +34114,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 9-hafta",
-   "darsRaqami": "80 / 84",
+   "chorak": "4-chorak, 10-hafta",
+   "darsRaqami": "82 / 84",
    "modul": "M4. Notekis yuzada harakat",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|4-chorak|17": {
+ "1-yil|4-sinf|4-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Rover nima ish bajaradi\" mavzusini \"Moon Exploration Vehicle\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Moon Exploration Vehicle\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -33205,14 +34194,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 9-hafta",
-   "darsRaqami": "81 / 84",
+   "chorak": "4-chorak, 10-hafta",
+   "darsRaqami": "83 / 84",
    "modul": "M4. Notekis yuzada harakat",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "1-yil|4-sinf|4-chorak|18": {
+ "1-yil|4-sinf|4-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Rover qanday boshqariladi\" mavzusini \"Reconnaissance Walker\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Reconnaissance Walker\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -33285,166 +34274,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "1-yil",
-   "chorak": "4-chorak, 10-hafta",
-   "darsRaqami": "82 / 84",
-   "modul": "M4. Notekis yuzada harakat",
-   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|4-sinf|4-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Mars-Missiya\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (missiya bosqichlarining bajarilishi va umumiy vaqt) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Missiya (Mission) – aniq maqsadli topshiriqlar ketma-ketligi",
-   "Rover (Rover) – sayyora yuzasida harakatlanuvchi tadqiqot roboti",
-   "Manipulyator (Manipulator) – namunani olish uchun ishlatiladigan qism",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Mas'uliyat va o'zini baholash — Yil yakunida o'z natijasini haqqoniy baholay olish, kuchli va kuchsiz tomonini aytish.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "Notekis \"Mars\" maydoni",
-   "Namuna sifatida rangli detal",
-   "Sekundomer"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: rover notekis maydondan o'tib, belgilangan nuqtadagi namunani (detal) olib, start nuqtasiga qaytadi.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "Namunani olib qaytsa, 2 daqiqadan kam vaqtda = 5 (a'lo)",
-     "Namunani olib qaytsa, 2–4 daqiqada = 4 (yaxshi)",
-     "Namunani olsa, lekin qaytmasa = 3 (qoniqarli)",
-     "Nuqtaga yetsa, lekin namunani ololmasa = 2 (qoniqarsiz)",
-     "Nuqtaga yetib bormasa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (missiya bosqichlarining bajarilishi va umumiy vaqt) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Missiyaning qaysi bosqichi eng ko'p vaqt oldi — uni qanday tezlashtirish mumkin?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "4-sinf",
-   "yil": "1-yil",
-   "chorak": "4-chorak, 10-hafta",
-   "darsRaqami": "83 / 84",
-   "modul": "N4. Nazorat ishi",
-   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "1-yil|4-sinf|4-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Bitiruv loyihasi\" loyihasi doirasida o'zingiz tanlagan muammoni to'liq muhandislik tsikli bo'yicha hal qilish.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: o'zingiz tanlagan muammoni to'liq muhandislik tsikli bo'yicha hal qilish.",
-     "Talab: Talab yozilsin (robot nima qilishi kerak).",
-     "Talab: Eskiz chizilsin.",
-     "Talab: Model qurilsin va sinalsin.",
-     "Talab: Sinov natijasiga ko'ra kamida 1 ta takomil kiritilsin.",
-     "Talab: Natija sinfga taqdim etilsin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Birinchi variantingiz bilan oxirgi variantingiz orasida nima farq bor?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "4-sinf",
-   "yil": "1-yil",
    "chorak": "4-chorak, 11-hafta",
    "darsRaqami": "84 / 84",
-   "modul": "L4. Loyiha",
+   "modul": "M4. Notekis yuzada harakat",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
@@ -34079,6 +34911,95 @@ window.LESSON_CONTENT = {
  },
  "2-yil|0-sinf|1-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Muvozanat va elastik energiya\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 1-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Halollik — testni mustaqil yechish, ko'chirmaslik. Natija qanday bo'lsa ham, u O'ZINGIZNIKI bo'lsin.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Savollar o'qituvchi tomonidan baland ovozda, har biri 2 martadan o'qib beriladi; o'quvchilar javob varag'ida mos katakchani (A/B/C) belgilaydilar.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 1-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Og'irlik markazi pastroq bo'lgan model qanday bo'ladi?  A) Barqarorroq.  B) Tezroq ag'anaydi.  C) Yengilroq.",
+     "2-savol. Elastik jism nima?  A) Singandan keyin tiklanmaydigan jism.  B) Cho'zilgach yoki siqilgach o'z shakliga qaytadigan jism.  C) Faqat metall jism.",
+     "3-savol. Cho'zilgan rezinada qanday energiya to'planadi?  A) Issiqlik energiyasi.  B) Yorug'lik energiyasi.  C) Elastik energiya.",
+     "4-savol. Rezina qo'yib yuborilganda energiya nimaga aylanadi?  A) Harakatga.  B) Suvga.  C) Rangga.",
+     "5-savol. Model to'xtaguncha energiya qayerga \"yo'qoladi\"?  A) Hech qayerga — model buzilgan.  B) Ishqalanish orqali issiqlikka aylanadi.  C) Batareyaga qaytadi.",
+     "6-savol. Tebranuvchi muvozanatdagi model turtilsa nima qiladi?  A) Darhol yiqiladi.  B) Joyidan qimirlamaydi.  C) Tebranib, yana muvozanatga qaytadi.",
+     "7-savol. Rezinani ikki barobar ko'proq cho'zsak, model qanday yuradi?  A) Sezilarli uzoqroq.  B) Xuddi shunday.  C) Umuman yurmaydi.",
+     "8-savol. Tayanch maydoni deganda nima tushuniladi?  A) Modelning balandligi.  B) Model yerga tayanadigan nuqtalar orasidagi maydon.  C) Modelning og'irligi.",
+     "9-savol. Qaysi holatda model ag'anaydi?  A) Og'irlik markazi tayanch ustida bo'lsa.  B) Model past bo'lsa.  C) Og'irlik markazi tayanch maydonidan chiqib ketsa.",
+     "10-savol. Pull-back (orqaga tortib qo'yib yuboriladigan) mashina qanday ishlaydi?  A) Orqaga tortilganda prujina energiya yig'adi, qo'yib yuborilganda harakatga aylantiradi.  B) Batareya bilan yuradi.  C) Shamol bilan yuradi."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "0-sinf",
+   "yil": "2-yil",
+   "chorak": "1-chorak, 5-hafta",
+   "darsRaqami": "9 / 84",
+   "modul": "N1. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|0-sinf|1-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Pull-back mexanizmi\" mavzusini \"Top Launcher (with wheels)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Top Launcher (with wheels)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -34150,13 +35071,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "2-yil",
    "chorak": "1-chorak, 5-hafta",
-   "darsRaqami": "9 / 84",
+   "darsRaqami": "10 / 84",
    "modul": "M1. Muvozanat, elastik energiya va richag",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|1-chorak|9": {
+ "2-yil|0-sinf|1-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Inersiya — harakat davom etadi\" mavzusini \"Inertia Car 2\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Inertia Car 2\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -34228,14 +35149,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 5-hafta",
-   "darsRaqami": "10 / 84",
+   "chorak": "1-chorak, 6-hafta",
+   "darsRaqami": "11 / 84",
    "modul": "M1. Muvozanat, elastik energiya va richag",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|1-chorak|10": {
+ "2-yil|0-sinf|1-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Cho'zish kuchi va bosib o'tilgan masofa\" mavzusini \"Inertia Car 1\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Inertia Car 1\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -34308,13 +35229,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "2-yil",
    "chorak": "1-chorak, 6-hafta",
-   "darsRaqami": "11 / 84",
+   "darsRaqami": "12 / 84",
    "modul": "M1. Muvozanat, elastik energiya va richag",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|1-chorak|11": {
+ "2-yil|0-sinf|1-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Sirt turi natijaga qanday ta'sir qiladi\" mavzusini \"Elasti-Pumper\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Elasti-Pumper\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -34386,14 +35307,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 6-hafta",
-   "darsRaqami": "12 / 84",
+   "chorak": "1-chorak, 7-hafta",
+   "darsRaqami": "13 / 84",
    "modul": "M1. Muvozanat, elastik energiya va richag",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|1-chorak|12": {
+ "2-yil|0-sinf|1-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Cho'zilgan rezinada energiya to'planadi\" mavzusini \"Inertia Pull-Back Car\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Inertia Pull-Back Car\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -34466,13 +35387,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "2-yil",
    "chorak": "1-chorak, 7-hafta",
-   "darsRaqami": "13 / 84",
+   "darsRaqami": "14 / 84",
    "modul": "M1. Muvozanat, elastik energiya va richag",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|1-chorak|13": {
+ "2-yil|0-sinf|1-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Richag va muvozanat (tarozi tamoyili)\" mavzusini \"Expansion Clamp\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Expansion Clamp\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -34546,14 +35467,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 7-hafta",
-   "darsRaqami": "14 / 84",
+   "chorak": "1-chorak, 8-hafta",
+   "darsRaqami": "15 / 84",
    "modul": "M1. Muvozanat, elastik energiya va richag",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|1-chorak|14": {
+ "2-yil|0-sinf|1-chorak|15": {
   "maqsad": [
    "O'quvchilar \"3-toifa richag (kuch o'rtada)\" mavzusini \"Rake\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Rake\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -34628,13 +35549,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "2-yil",
    "chorak": "1-chorak, 8-hafta",
-   "darsRaqami": "15 / 84",
+   "darsRaqami": "16 / 84",
    "modul": "M1. Muvozanat, elastik energiya va richag",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|1-chorak|15": {
+ "2-yil|0-sinf|1-chorak|16": {
   "maqsad": [
    "O'quvchilar \"1-toifa richag (tayanch o'rtada)\" mavzusini \"Pilers\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Pilers\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -34708,14 +35629,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 8-hafta",
-   "darsRaqami": "16 / 84",
+   "chorak": "1-chorak, 9-hafta",
+   "darsRaqami": "17 / 84",
    "modul": "M1. Muvozanat, elastik energiya va richag",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|1-chorak|16": {
+ "2-yil|0-sinf|1-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Aniq otuvchi mexanizm\" loyihasi doirasida elastik energiya bilan ishlaydigan, nishonga aniq tushadigan mexanizm loyihalash.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 2-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Mustaqillik va tashabbus — o'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: elastik energiya bilan ishlaydigan, nishonga aniq tushadigan mexanizm loyihalash.",
+     "Talab: Mexanizm bir xil kuch bilan otsin (qo'l kuchi emas).",
+     "Talab: 3 marta otilib, uchala natija yozilsin.",
+     "Talab: Natijalar tarqoqligi 20 sm dan kam bo'lsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Aniqlik uchun har otishda rezina BIR XIL masofaga tortilsin — chegara (upor) qo'ying",
+     "Mexanizm har otishdan keyin joyidan siljimasin",
+     "Snaryad yengil va bir xil bo'lsin"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Otish kuchini mexanizm beradi, qo'l emas (tortish chegarasi bor).",
+     "2-band (1 ball): Mexanizm otishdan keyin joyidan siljimaydi.",
+     "3-band (1 ball): Sinov: 3 marta otilib, har natija (tushgan joy) belgilangan.",
+     "4-band (1 ball): Uchala natija orasidagi eng katta farq o'lchab yozilgan.",
+     "5-band (1 ball): Tarqoqlik 20 sm dan kam chiqqan (yoki bola sababini tahlil qilgan).",
+     "6-band (1 ball): Bola aniqlikka nima ta'sir qilishini (tortish, og'irlik, turtki) aytadi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 2-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Natijalar nega har safar bir xil chiqmadi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "0-sinf",
+   "yil": "2-yil",
+   "chorak": "1-chorak, 9-hafta",
+   "darsRaqami": "18 / 84",
+   "modul": "L1. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|0-sinf|1-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Mexanik yutuq — richag necha marta yordam beradi\" mavzusini \"Wheel Barrow\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Wheel Barrow\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -34789,14 +35817,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 9-hafta",
-   "darsRaqami": "17 / 84",
+   "chorak": "1-chorak, 10-hafta",
+   "darsRaqami": "19 / 84",
    "modul": "M1. Muvozanat, elastik energiya va richag",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|1-chorak|17": {
+ "2-yil|0-sinf|1-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Tayanch nuqtasini siljitish\" mavzusini \"Counter Scale\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Counter Scale\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -34870,14 +35898,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 9-hafta",
-   "darsRaqami": "18 / 84",
+   "chorak": "1-chorak, 10-hafta",
+   "darsRaqami": "20 / 84",
    "modul": "M1. Muvozanat, elastik energiya va richag",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|1-chorak|18": {
+ "2-yil|0-sinf|1-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Kuch yelkasi va yuk yelkasi\" mavzusini \"Jack\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Jack\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -34951,163 +35979,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 10-hafta",
-   "darsRaqami": "19 / 84",
-   "modul": "M1. Muvozanat, elastik energiya va richag",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|0-sinf|1-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Aniq-Masofa\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (nishon zonasi markazidan chetlanish) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Aniqlik (Accuracy) – natijaning nishonga qanchalik yaqinligi",
-   "Sozlash (Adjustment) – natijani nishonga yaqinlashtirish uchun o'zgartirish",
-   "Elastik energiya (Elastic energy) – cho'zilgan jismda to'planadigan energiya",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Sportchan munosabat — g'alaba va mag'lubiyatga sog'lom qarash, boshqalarning natijasini olqishlash. Yutqazish ham o'rganishning bir qismi.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "2 metrlik yo'lak va 30 sm kenglikdagi nishon zonasi (lenta bilan)",
-   "O'lchov lentasi"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: elastik yoki pull-back model start chizig'idan jo'natiladi va 2 metrda belgilangan 30 sm kenglikdagi nishon zonasida to'xtashi kerak.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "Chetlanish 10 sm dan kam = 5 (a'lo)",
-     "10–20 sm = 4 (yaxshi)",
-     "20–40 sm = 3 (qoniqarli)",
-     "40–70 sm = 2 (qoniqarsiz)",
-     "70 sm dan ko'p yoki model qo'zg'almasa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (nishon zonasi markazidan chetlanish) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Nishondan o'tib ketdingizmi yoki yetib bormadingizmi — nimani o'zgartirish kerak edi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "0-sinf",
-   "yil": "2-yil",
-   "chorak": "1-chorak, 10-hafta",
-   "darsRaqami": "20 / 84",
-   "modul": "N1. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|0-sinf|1-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Aniq otuvchi mexanizm\" loyihasi doirasida elastik energiya bilan ishlaydigan, nishonga aniq tushadigan mexanizm loyihalash.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: elastik energiya bilan ishlaydigan, nishonga aniq tushadigan mexanizm loyihalash.",
-     "Talab: Mexanizm bir xil kuch bilan otsin (qo'l kuchi emas).",
-     "Talab: 3 marta otilib, uchala natija yozilsin.",
-     "Talab: Natijalar tarqoqligi 20 sm dan kam bo'lsin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Natijalar nega har safar bir xil chiqmadi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "0-sinf",
-   "yil": "2-yil",
    "chorak": "1-chorak, 11-hafta",
    "darsRaqami": "21 / 84",
-   "modul": "L1. Loyiha",
+   "modul": "M1. Muvozanat, elastik energiya va richag",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
@@ -35746,6 +36620,95 @@ window.LESSON_CONTENT = {
  },
  "2-yil|0-sinf|2-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Richag va mustahkam konstruksiya\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 3-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Diqqatni jamlash — 20 daqiqa davomida chalg'imasdan ishlash, savolni oxirigacha o'qish.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Savollar o'qituvchi tomonidan baland ovozda, har biri 2 martadan o'qib beriladi; o'quvchilar javob varag'ida mos katakchani (A/B/C) belgilaydilar.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 3-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Kuch yelkasi nima?  A) Kuch qo'yilgan nuqtadan tayanchgacha bo'lgan masofa.  B) Yukning og'irligi.  C) Richagning rangi.",
+     "2-savol. Yuk yelkasi qisqarsa, yukni ko'tarish qanday bo'ladi?  A) Qiyinlashadi.  B) Osonlashadi.  C) O'zgarmaydi.",
+     "3-savol. Richag muvozanatda: kuch yelkasi 4 birlik, yuk yelkasi 2 birlik. Kuch yukdan qanday?  A) 2 barobar katta.  B) Teng.  C) 2 barobar kichik.",
+     "4-savol. Ferma konstruksiyasi nimadan tuziladi?  A) Ko'p uchburchakdan.  B) Faqat doiralardan.  C) Bitta katta plastinadan.",
+     "5-savol. Yuk ostidagi ko'prikda kuch qayerga tarqaladi?  A) Faqat yuk turgan nuqtaga.  B) Bo'g'inlar orqali tayanchlarga.  C) Havoga.",
+     "6-savol. Yopiq konstruksiya ochiq konstruksiyadan qanday farq qiladi?  A) Yengilroq.  B) Chiroyliroq.  C) Mustahkamroq — kuch aylana bo'ylab tarqaladi.",
+     "7-savol. To'rtburchak ramka qiyshaymasligi uchun eng kam nechta diagonal kerak?  A) Bitta.  B) To'rtta.  C) Umuman kerak emas.",
+     "8-savol. Burchak kichraysa, konstruksiya tomonlari bir-biriga qanday bo'ladi?  A) Uzoqlashadi.  B) Yaqinlashadi.  C) O'zgarmaydi.",
+     "9-savol. 1-toifa richagga misol qaysi?  A) Zambilg'altak.  B) Pinset.  C) Qaychi.",
+     "10-savol. Konstruksiyaning eng zaif joyini qanday topamiz?  A) Asta yuklab, qayeri egilishini kuzatamiz.  B) Rangiga qaraymiz.  C) Otib yuborib sinaymiz."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "0-sinf",
+   "yil": "2-yil",
+   "chorak": "2-chorak, 5-hafta",
+   "darsRaqami": "30 / 84",
+   "modul": "N2. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|0-sinf|2-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Diagonal qo'shish\" mavzusini \"Little Lantern 2\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Little Lantern 2\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -35817,13 +36780,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "2-yil",
    "chorak": "2-chorak, 5-hafta",
-   "darsRaqami": "30 / 84",
+   "darsRaqami": "31 / 84",
    "modul": "M2. Tishli g'ildirak va mustahkam konstruksiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|2-chorak|9": {
+ "2-yil|0-sinf|2-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Kam detal bilan ko'p mustahkamlik\" mavzusini \"Christmas Tree\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Christmas Tree\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -35895,14 +36858,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 5-hafta",
-   "darsRaqami": "31 / 84",
+   "chorak": "2-chorak, 6-hafta",
+   "darsRaqami": "32 / 84",
    "modul": "M2. Tishli g'ildirak va mustahkam konstruksiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|2-chorak|10": {
+ "2-yil|0-sinf|2-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Simmetriya\" mavzusini \"Cellphone Mount\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Cellphone Mount\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -35975,13 +36938,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "2-yil",
    "chorak": "2-chorak, 6-hafta",
-   "darsRaqami": "32 / 84",
+   "darsRaqami": "33 / 84",
    "modul": "M2. Tishli g'ildirak va mustahkam konstruksiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|2-chorak|11": {
+ "2-yil|0-sinf|2-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Tishli g'ildirak va tishlarning ulanishi\" mavzusini \"Eggbeater\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Eggbeater\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -36054,14 +37017,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 6-hafta",
-   "darsRaqami": "33 / 84",
+   "chorak": "2-chorak, 7-hafta",
+   "darsRaqami": "34 / 84",
    "modul": "M2. Tishli g'ildirak va mustahkam konstruksiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|2-chorak|12": {
+ "2-yil|0-sinf|2-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Tishli g'ildirak va tishlarning ulanishi\" mavzusini \"Weirdo Clock\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Weirdo Clock\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -36134,13 +37097,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "2-yil",
    "chorak": "2-chorak, 7-hafta",
-   "darsRaqami": "34 / 84",
+   "darsRaqami": "35 / 84",
    "modul": "M2. Tishli g'ildirak va mustahkam konstruksiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|2-chorak|13": {
+ "2-yil|0-sinf|2-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Aylanish yo'nalishi\" mavzusini \"Grinding Machine\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Grinding Machine\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -36212,14 +37175,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 7-hafta",
-   "darsRaqami": "35 / 84",
+   "chorak": "2-chorak, 8-hafta",
+   "darsRaqami": "36 / 84",
    "modul": "M2. Tishli g'ildirak va mustahkam konstruksiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|2-chorak|14": {
+ "2-yil|0-sinf|2-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Aylanish yo'nalishi\" mavzusini \"Manual Buhr Mill\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Buhr Mill\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -36292,13 +37255,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "2-yil",
    "chorak": "2-chorak, 8-hafta",
-   "darsRaqami": "36 / 84",
+   "darsRaqami": "37 / 84",
    "modul": "M2. Tishli g'ildirak va mustahkam konstruksiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|2-chorak|15": {
+ "2-yil|0-sinf|2-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Katta va kichik g'ildirak — tezlik farqi\" mavzusini \"Hand Drill\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Hand Drill\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -36370,14 +37333,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 8-hafta",
-   "darsRaqami": "37 / 84",
+   "chorak": "2-chorak, 9-hafta",
+   "darsRaqami": "38 / 84",
    "modul": "M2. Tishli g'ildirak va mustahkam konstruksiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|2-chorak|16": {
+ "2-yil|0-sinf|2-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Ikki bosqichli uzatma\" loyihasi doirasida kirish aylanishini kamida 4 barobar tezlashtiradigan yoki sekinlashtiradigan uzatma qurish.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 4-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Rejali ishlash — vaqtni bosqichlarga bo'lib, eskiz va sinovga ham vaqt qoldirish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: kirish aylanishini kamida 4 barobar tezlashtiradigan yoki sekinlashtiradigan uzatma qurish.",
+     "Talab: Kamida 2 bosqich bo'lsin.",
+     "Talab: Nisbat hisoblab yozilsin.",
+     "Talab: Konstruksiya yuk ostida egilmasin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Umumiy nisbat = bosqichlar nisbatlarining ko'paytmasi",
+     "Har bosqichni alohida tekshiring, keyin ulang",
+     "O'qlarni ikki nuqtadan mahkamlang — bitta nuqta yetmaydi"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Uzatmada kamida 2 ta bosqich bor.",
+     "2-band (1 ball): Har bosqich nisbati (tishlar soni bo'yicha) yozilgan.",
+     "3-band (1 ball): Umumiy nisbat hisoblab yozilgan va kamida 4:1 (yoki 1:4) chiqqan.",
+     "4-band (1 ball): Sinov: kirish 4 marta aylantirilganda chiqish kutilganidek aylanadi.",
+     "5-band (1 ball): Konstruksiya ishlaganda egilmaydi va g'ildiraklar chiqib ketmaydi.",
+     "6-band (1 ball): Bola nisbat oshganda nima yo'qotilishini (kuch yoki tezlik) aytadi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 4-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Nisbatni oshirganingizda nimani yo'qotdingiz?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "0-sinf",
+   "yil": "2-yil",
+   "chorak": "2-chorak, 9-hafta",
+   "darsRaqami": "39 / 84",
+   "modul": "L2. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|0-sinf|2-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Uzatma nisbati — tishlarni sanash\" mavzusini \"Manual Drill Car\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Drill Car\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -36449,14 +37519,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 9-hafta",
-   "darsRaqami": "38 / 84",
+   "chorak": "2-chorak, 10-hafta",
+   "darsRaqami": "40 / 84",
    "modul": "M2. Tishli g'ildirak va mustahkam konstruksiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|2-chorak|17": {
+ "2-yil|0-sinf|2-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Uzatma nisbati — tishlarni sanash\" mavzusini \"Electric Buhr Mill\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Electric Buhr Mill\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -36529,14 +37599,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 9-hafta",
-   "darsRaqami": "39 / 84",
+   "chorak": "2-chorak, 10-hafta",
+   "darsRaqami": "41 / 84",
    "modul": "M2. Tishli g'ildirak va mustahkam konstruksiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|2-chorak|18": {
+ "2-yil|0-sinf|2-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Uzatma zanjiri (bir necha g'ildirak ketma-ket)\" mavzusini \"Electric Gatling Gun\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Electric Gatling Gun\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -36609,164 +37679,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 10-hafta",
-   "darsRaqami": "40 / 84",
-   "modul": "M2. Tishli g'ildirak va mustahkam konstruksiya",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|0-sinf|2-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Uzatma-Nisbati\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (uzatma nisbati to'g'ri hisoblangani va konstruksiyaning yuk ko'targani) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Ikki bosqichli uzatma (Two-stage gearing) – ketma-ket ulangan ikki juft tishli g'ildirak",
-   "Uzatma nisbati (Gear ratio) – kirish va chiqish aylanishlari nisbati",
-   "Yuklama (Load) – mexanizmga tushadigan og'irlik",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Vaqtni boshqarish — Musobaqagacha tayyorgarlikni ulgurish, oxirgi daqiqaga qoldirmaslik.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "Turli o'lchamdagi tishli g'ildiraklar",
-   "Aylanishlarni sanash uchun rangli belgi",
-   "Yuk detallari"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: ikki bosqichli tishli uzatma qurib, kirish va chiqish aylanishlari nisbatini o'lchaydi va konstruksiya yuk ostida buzilmasligini ko'rsatadi.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "Nisbat to'g'ri hisoblanadi va konstruksiya 3 detal-yukni ko'taradi = 5 (a'lo)",
-     "Nisbat to'g'ri hisoblanadi va 1–2 yuk ko'tariladi = 4 (yaxshi)",
-     "Uzatma ishlaydi, nisbat taxminan aytiladi = 3 (qoniqarli)",
-     "Uzatma ishlaydi, lekin nisbat aytilmaydi = 2 (qoniqarsiz)",
-     "Ikki bosqichli uzatma yig'ilmasa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (uzatma nisbati to'g'ri hisoblangani va konstruksiyaning yuk ko'targani) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Ikki bosqich bir bosqichdan nimasi bilan kuchli?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "0-sinf",
-   "yil": "2-yil",
-   "chorak": "2-chorak, 10-hafta",
-   "darsRaqami": "41 / 84",
-   "modul": "N2. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|0-sinf|2-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Ikki bosqichli uzatma\" loyihasi doirasida kirish aylanishini kamida 4 barobar tezlashtiradigan yoki sekinlashtiradigan uzatma qurish.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: kirish aylanishini kamida 4 barobar tezlashtiradigan yoki sekinlashtiradigan uzatma qurish.",
-     "Talab: Kamida 2 bosqich bo'lsin.",
-     "Talab: Nisbat hisoblab yozilsin.",
-     "Talab: Konstruksiya yuk ostida egilmasin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Nisbatni oshirganingizda nimani yo'qotdingiz?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "0-sinf",
-   "yil": "2-yil",
    "chorak": "2-chorak, 11-hafta",
    "darsRaqami": "42 / 84",
-   "modul": "L2. Loyiha",
+   "modul": "M2. Tishli g'ildirak va mustahkam konstruksiya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
@@ -37403,6 +38318,95 @@ window.LESSON_CONTENT = {
  },
  "2-yil|0-sinf|3-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Uzatmalar zanjiri: g'ildirak, shkiv, vint\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 5-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Xatodan o'rganish — noto'g'ri javob \"yomon\" degani emas; qaysi mavzuni takrorlash kerakligini ko'rsatadigan belgi.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Savollar o'qituvchi tomonidan baland ovozda, har biri 2 martadan o'qib beriladi; o'quvchilar javob varag'ida mos katakchani (A/B/C) belgilaydilar.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 5-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Uzatma zanjiri nima?  A) Bir necha uzatmaning ketma-ket ulanishi.  B) Velosiped qulfi.  C) Bitta katta g'ildirak.",
+     "2-savol. Ketma-ket ulangan 3 tishli g'ildirakdan oxirgisi qaysi tomonga aylanadi?  A) Har doim chapga.  B) Birinchisi bilan bir xil tomonga.  C) Aylana olmaydi.",
+     "3-savol. Bir nechta shkivni birga ishlatishdan maqsad nima?  A) Chiroy.  B) Ipni uzaytirish.  C) Ko'tarish kuchini kamaytirish (yengillashtirish).",
+     "4-savol. Shkiv kuchning YO'NALISHINI o'zgartira oladimi?  A) Ha — pastga tortib yukni yuqoriga ko'taramiz.  B) Yo'q, hech qachon.  C) Faqat katta shkivlar.",
+     "5-savol. Vint mexanizmining afzalligi nima?  A) Juda tez ishlaydi.  B) Katta kuch beradi va o'z-o'zidan orqaga qaytmaydi.  C) Detali kam.",
+     "6-savol. Mexanizm bo'g'inidagi ortiqcha bo'shliq (lyuft) nimaga olib keladi?  A) Tezlikka.  B) Tejamkorlikka.  C) Harakat noaniq bo'lishiga.",
+     "7-savol. Avtomatik ochiladigan darvozada qanday uzatma ishlatilishi mumkin?  A) Vint yoki tishli uzatma.  B) Faqat rezina.  C) Hech qanday.",
+     "8-savol. Uzatma zanjirida har bosqich nimani o'zgartirishi mumkin?  A) Faqat rangni.  B) Tezlik, kuch yoki yo'nalishni.  C) Detal sonini.",
+     "9-savol. Kichik g'ildirak katta g'ildirakni aylantirganda nima YUTAMIZ?  A) Tezlik.  B) Hech narsa.  C) Kuch.",
+     "10-savol. Uzatma nisbati 3:1 degani nima?  A) Kirish 3 marta aylanganda chiqish 1 marta aylanadi.  B) 3 ta g'ildirak bor.  C) Model 3 metrga yuradi."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "0-sinf",
+   "yil": "2-yil",
+   "chorak": "3-chorak, 5-hafta",
+   "darsRaqami": "51 / 84",
+   "modul": "N3. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|0-sinf|3-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Harakatni to'xtatish va boshlash\" mavzusini \"Inchworm\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Inchworm\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -37475,13 +38479,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "2-yil",
    "chorak": "3-chorak, 5-hafta",
-   "darsRaqami": "51 / 84",
+   "darsRaqami": "52 / 84",
    "modul": "M3. Shkiv, vint va mexanizm loyihasi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|3-chorak|9": {
+ "2-yil|0-sinf|3-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Mexanizmlarni birlashtirish\" mavzusini \"Joint Motion 1\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Joint Motion 1\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -37554,14 +38558,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 5-hafta",
-   "darsRaqami": "52 / 84",
+   "chorak": "3-chorak, 6-hafta",
+   "darsRaqami": "53 / 84",
    "modul": "M3. Shkiv, vint va mexanizm loyihasi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|3-chorak|10": {
+ "2-yil|0-sinf|3-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Harakat va vaqt bog'liqligi\" mavzusini \"Joint Motion 2\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Joint Motion 2\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -37635,13 +38639,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "2-yil",
    "chorak": "3-chorak, 6-hafta",
-   "darsRaqami": "53 / 84",
+   "darsRaqami": "54 / 84",
    "modul": "M3. Shkiv, vint va mexanizm loyihasi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|3-chorak|11": {
+ "2-yil|0-sinf|3-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Tebranishning tekisligi\" mavzusini \"Rocking YL Man 4\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Rocking YL Man 4\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -37714,14 +38718,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 6-hafta",
-   "darsRaqami": "54 / 84",
+   "chorak": "3-chorak, 7-hafta",
+   "darsRaqami": "55 / 84",
    "modul": "M3. Shkiv, vint va mexanizm loyihasi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|3-chorak|12": {
+ "2-yil|0-sinf|3-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Harakatni sanash\" mavzusini \"Jumping YL Man 1\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Jumping YL Man 1\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -37795,13 +38799,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "2-yil",
    "chorak": "3-chorak, 7-hafta",
-   "darsRaqami": "55 / 84",
+   "darsRaqami": "56 / 84",
    "modul": "M3. Shkiv, vint va mexanizm loyihasi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|3-chorak|13": {
+ "2-yil|0-sinf|3-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Mexanizmni loyihalash tartibi\" mavzusini \"Roating YL Man 2\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Roating YL Man 2\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -37874,14 +38878,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 7-hafta",
-   "darsRaqami": "56 / 84",
+   "chorak": "3-chorak, 8-hafta",
+   "darsRaqami": "57 / 84",
    "modul": "M3. Shkiv, vint va mexanizm loyihasi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|3-chorak|14": {
+ "2-yil|0-sinf|3-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Mexanizmni takomillashtirish\" mavzusini \"Joint Motion 4\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Joint Motion 4\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -37955,13 +38959,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "2-yil",
    "chorak": "3-chorak, 8-hafta",
-   "darsRaqami": "57 / 84",
+   "darsRaqami": "58 / 84",
    "modul": "M3. Shkiv, vint va mexanizm loyihasi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|3-chorak|15": {
+ "2-yil|0-sinf|3-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Harakatni kuchaytirish (richag bilan birga)\" mavzusini \"Manual Rotating YL Man 1\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Rotating YL Man 1\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -38033,14 +39037,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 8-hafta",
-   "darsRaqami": "58 / 84",
+   "chorak": "3-chorak, 9-hafta",
+   "darsRaqami": "59 / 84",
    "modul": "M3. Shkiv, vint va mexanizm loyihasi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|3-chorak|16": {
+ "2-yil|0-sinf|3-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Blokli yuk ko'targich\" loyihasi doirasida shkiv bloklari yordamida yukni yengil ko'taradigan qurilma loyihalash.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 6-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Natijaga halol munosabat — o'lchovni bo'rttirmasdan, qanday chiqqan bo'lsa shunday yozish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: shkiv bloklari yordamida yukni yengil ko'taradigan qurilma loyihalash.",
+     "Talab: Kamida 2 shkiv ishlatilsin.",
+     "Talab: Bitta shkiv bilan va ikkita shkiv bilan tortish taqqoslansin.",
+     "Talab: Farq daftarga yozilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Harakatlanuvchi shkiv kuchni kamaytiradi, qo'zg'almas shkiv yo'nalishni o'zgartiradi",
+     "Ip shkivdan chiqib ketmasligi uchun yo'naltiruvchi qo'ying",
+     "Taqqoslashda bir xil yuk ishlatilsin"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Qurilmada kamida 2 ta shkiv ishlaydi.",
+     "2-band (1 ball): Yuk bitta shkiv bilan ko'tarilib, sezgi (og'ir/yengil) yozilgan.",
+     "3-band (1 ball): Xuddi shu yuk ikki shkiv bilan ko'tarilib, taqqoslangan.",
+     "4-band (1 ball): Farq daftarga yozilgan.",
+     "5-band (1 ball): Sinov: yuk 20 sm balandlikka silliq, tushib ketmasdan ko'tariladi.",
+     "6-band (1 ball): Ip shkivlardan chiqib ketmaydi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 6-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Shkiv qo'shganingizda tortish yengillashdi, lekin nima uzaydi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "0-sinf",
+   "yil": "2-yil",
+   "chorak": "3-chorak, 9-hafta",
+   "darsRaqami": "60 / 84",
+   "modul": "L3. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|0-sinf|3-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Harakatni kuchaytirish (richag bilan birga)\" mavzusini \"Electric Sewing Machine\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Electric Sewing Machine\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -38113,14 +39224,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 9-hafta",
-   "darsRaqami": "59 / 84",
+   "chorak": "3-chorak, 10-hafta",
+   "darsRaqami": "61 / 84",
    "modul": "M3. Shkiv, vint va mexanizm loyihasi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|3-chorak|17": {
+ "2-yil|0-sinf|3-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Mexanizm o'lchamini o'zgartirish\" mavzusini \"Rocking YL Man 5\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Rocking YL Man 5\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -38193,14 +39304,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 9-hafta",
-   "darsRaqami": "60 / 84",
+   "chorak": "3-chorak, 10-hafta",
+   "darsRaqami": "62 / 84",
    "modul": "M3. Shkiv, vint va mexanizm loyihasi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|3-chorak|18": {
+ "2-yil|0-sinf|3-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Mexanizmni mustahkamlash\" mavzusini \"Jumping YL Man 2\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Jumping YL Man 2\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -38273,164 +39384,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 10-hafta",
-   "darsRaqami": "61 / 84",
-   "modul": "M3. Shkiv, vint va mexanizm loyihasi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|0-sinf|3-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Shkiv-Kuchi\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (ko'tarilgan yuk va shkiv sonining ta'siri tushuntirilgani) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Shkiv bloki (Pulley block) – bir necha shkivdan tuzilgan tizim",
-   "Mexanik yutuq (Mechanical advantage) – mexanizm kuchni necha marta yengillashtirishi",
-   "Tortish kuchi (Pulling force) – ipni tortishga sarflanadigan kuch",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Bosim ostida ishlash — Hamma qarab turganda ham xotirjam ishlash, xato bo'lsa vahima qilmaslik.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "Shkivlar va tasma/ip",
-   "Bir xil og'irlikdagi yuk detallari",
-   "Ko'tarish uchun ramka"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: shkiv tizimi qurib yukni ko'taradi va shkivlar sonini oshirganda tortish qanchalik yengillashishini ko'rsatadi.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "2 va undan ko'p shkivli tizim ishlaydi, farq tushuntiriladi = 5 (a'lo)",
-     "2 shkivli tizim ishlaydi = 4 (yaxshi)",
-     "1 shkivli tizim ishlaydi = 3 (qoniqarli)",
-     "Shkiv o'rnatilgan, lekin yuk ko'tarilmaydi = 2 (qoniqarsiz)",
-     "Shkiv tizimi yig'ilmasa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (ko'tarilgan yuk va shkiv sonining ta'siri tushuntirilgani) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Shkiv sonini ikki barobar oshirsangiz, tortish qanchaga yengillashadi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "0-sinf",
-   "yil": "2-yil",
-   "chorak": "3-chorak, 10-hafta",
-   "darsRaqami": "62 / 84",
-   "modul": "N3. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|0-sinf|3-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Blokli yuk ko'targich\" loyihasi doirasida shkiv bloklari yordamida yukni yengil ko'taradigan qurilma loyihalash.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: shkiv bloklari yordamida yukni yengil ko'taradigan qurilma loyihalash.",
-     "Talab: Kamida 2 shkiv ishlatilsin.",
-     "Talab: Bitta shkiv bilan va ikkita shkiv bilan tortish taqqoslansin.",
-     "Talab: Farq daftarga yozilsin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Shkiv qo'shganingizda tortish yengillashdi, lekin nima uzaydi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "0-sinf",
-   "yil": "2-yil",
    "chorak": "3-chorak, 11-hafta",
    "darsRaqami": "63 / 84",
-   "modul": "L3. Loyiha",
+   "modul": "M3. Shkiv, vint va mexanizm loyihasi",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
@@ -39070,6 +40026,95 @@ window.LESSON_CONTENT = {
  },
  "2-yil|0-sinf|4-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Krivoship, trayektoriya va ikki tomonlama harakat\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 7-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "O'zini baholash — testdan oldin qaysi savollarga ishonchingiz komil ekanini his qilish va yakunda solishtirish.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Savollar o'qituvchi tomonidan baland ovozda, har biri 2 martadan o'qib beriladi; o'quvchilar javob varag'ida mos katakchani (A/B/C) belgilaydilar.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 7-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Krivoship-shatun mexanizmida krivoship nima qiladi?  A) Aylanadi va shatunni yuritadi.  B) Faqat turadi.  C) Modelni bo'yaydi.",
+     "2-savol. Harakat trayektoriyasini qanday ko'rish mumkin?  A) Trayektoriyani ko'rib bo'lmaydi.  B) Nuqtaga qalam bog'lab, chizgan yo'lini kuzatib.  C) Modelni to'xtatib.",
+     "3-savol. Mexanizmni sekin rejimda kuzatishdan maqsad nima?  A) Vaqtni cho'zish.  B) Modelni charchatmaslik.  C) Har bir bo'g'in qanday harakatlanishini aniq ko'rish.",
+     "4-savol. Ikki tomonlama harakat mexanizmi nimani bajara oladi?  A) Ham oldinga, ham orqaga ish bajarish.  B) Faqat bir tomonga ishlash.  C) Hech narsa.",
+     "5-savol. Krivoship radiusi 2 sm dan 4 sm ga oshirilsa, tebranish kengligi qanday o'zgaradi?  A) 2 barobar kamayadi.  B) Taxminan 2 barobar oshadi.  C) O'zgarmaydi.",
+     "6-savol. Shatunni uzaytirsak nima o'zgaradi?  A) Amplituda 10 barobar oshadi.  B) Mexanizm to'xtaydi.  C) Harakat xarakteri (siljish egri chizig'i) o'zgaradi.",
+     "7-savol. Tikuv mashinasining ignasi qaysi mexanizm bilan yuqoriga-pastga yuradi?  A) Krivoship-shatun.  B) Shkiv.  C) Faqat prujina.",
+     "8-savol. Bir tekis aylanishdan NOTEKIS (to'xtab-to'xtab) harakat olish mumkinmi?  A) Yo'q, hech qachon.  B) Ha — maxsus mexanizmlar bilan.  C) Faqat suvda.",
+     "9-savol. Trayektoriya doira shaklida bo'lsa, nuqta qanday harakatlangan?  A) To'g'ri chiziq bo'ylab.  B) Tebranib.  C) Aylana bo'ylab.",
+     "10-savol. Mexanizm loyihalashda trayektoriyani oldindan bilish nega muhim?  A) Qism qayerga borishini bilib, to'qnashuvni oldini olamiz.  B) Chiroyli bo'lishi uchun.  C) Muhim emas."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "0-sinf",
+   "yil": "2-yil",
+   "chorak": "4-chorak, 5-hafta",
+   "darsRaqami": "72 / 84",
+   "modul": "N4. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|0-sinf|4-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Harakat kuchi va qarshilik\" mavzusini \"Rocking YL Man 2\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Rocking YL Man 2\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -39142,13 +40187,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "2-yil",
    "chorak": "4-chorak, 5-hafta",
-   "darsRaqami": "72 / 84",
+   "darsRaqami": "73 / 84",
    "modul": "M4. Krivoship va tebranma harakat",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|4-chorak|9": {
+ "2-yil|0-sinf|4-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Muvozanatlash — tebranish silliq bo'lishi uchun\" mavzusini \"Manual Jumping YL Man 3\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Jumping YL Man 3\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -39220,14 +40265,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 5-hafta",
-   "darsRaqami": "73 / 84",
+   "chorak": "4-chorak, 6-hafta",
+   "darsRaqami": "74 / 84",
    "modul": "M4. Krivoship va tebranma harakat",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|4-chorak|10": {
+ "2-yil|0-sinf|4-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Oldinga-orqaga tebranish (gorizontal)\" mavzusini \"Hammer Machine\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Hammer Machine\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -39300,13 +40345,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "2-yil",
    "chorak": "4-chorak, 6-hafta",
-   "darsRaqami": "74 / 84",
+   "darsRaqami": "75 / 84",
    "modul": "M4. Krivoship va tebranma harakat",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|4-chorak|11": {
+ "2-yil|0-sinf|4-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Oldinga-orqaga tebranish (gorizontal)\" mavzusini \"Woodpecker\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Woodpecker\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -39379,14 +40424,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 6-hafta",
-   "darsRaqami": "75 / 84",
+   "chorak": "4-chorak, 7-hafta",
+   "darsRaqami": "76 / 84",
    "modul": "M4. Krivoship va tebranma harakat",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|4-chorak|12": {
+ "2-yil|0-sinf|4-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Harakat sikli — bir to'liq aylanish\" mavzusini \"Step Man\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Step Man\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -39459,13 +40504,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "2-yil",
    "chorak": "4-chorak, 7-hafta",
-   "darsRaqami": "76 / 84",
+   "darsRaqami": "77 / 84",
    "modul": "M4. Krivoship va tebranma harakat",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|4-chorak|13": {
+ "2-yil|0-sinf|4-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Harakat sikli — bir to'liq aylanish\" mavzusini \"Rocking Trojan\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Rocking Trojan\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -39538,14 +40583,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 7-hafta",
-   "darsRaqami": "77 / 84",
+   "chorak": "4-chorak, 8-hafta",
+   "darsRaqami": "78 / 84",
    "modul": "M4. Krivoship va tebranma harakat",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|4-chorak|14": {
+ "2-yil|0-sinf|4-chorak|15": {
   "maqsad": [
    "O'quvchilar \"O'lik nuqta — mexanizm nega tiqilib qoladi\" mavzusini \"Circling Machine\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Circling Machine\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -39619,13 +40664,13 @@ window.LESSON_CONTENT = {
    "sinf": "0-sinf",
    "yil": "2-yil",
    "chorak": "4-chorak, 8-hafta",
-   "darsRaqami": "78 / 84",
+   "darsRaqami": "79 / 84",
    "modul": "M4. Krivoship va tebranma harakat",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|4-chorak|15": {
+ "2-yil|0-sinf|4-chorak|16": {
   "maqsad": [
    "O'quvchilar \"O'lik nuqta — mexanizm nega tiqilib qoladi\" mavzusini \"Manual Joint Motion 4\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Joint Motion 4\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -39697,14 +40742,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 8-hafta",
-   "darsRaqami": "79 / 84",
+   "chorak": "4-chorak, 9-hafta",
+   "darsRaqami": "80 / 84",
    "modul": "M4. Krivoship va tebranma harakat",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|4-chorak|16": {
+ "2-yil|0-sinf|4-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Ritmli mexanizm\" loyihasi doirasida belgilangan ritmda (masalan 1 soniyada 1 marta) tebranadigan mexanizm loyihalash.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 8-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "O'z ishini himoya qilish — qarorlarini dalil va o'lchov bilan asoslab berish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: belgilangan ritmda (masalan 1 soniyada 1 marta) tebranadigan mexanizm loyihalash.",
+     "Talab: Ritm sekundomer bilan tekshirilsin.",
+     "Talab: Mexanizm 30 soniya uzluksiz ishlasin.",
+     "Talab: Ritmni o'zgartirish usuli ko'rsatilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Ritmni uzatma nisbati bilan sozlash mumkin",
+     "10 soniyada nechta tebranish — shundan ritmni hisoblang",
+     "Uzluksiz ishlash uchun bo'g'inlarni ortiqcha qismasin ham, bo'sh ham qoldirmasin"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Mexanizm belgilangan ritmga sozlangan.",
+     "2-band (1 ball): Ritm sekundomer bilan o'lchangan (10 soniyadagi tebranishlar soni yozilgan).",
+     "3-band (1 ball): Sinov: mexanizm 30 soniya to'xtamasdan ishlaydi.",
+     "4-band (1 ball): Ritmni o'zgartirish usuli amalda ko'rsatildi.",
+     "5-band (1 ball): O'zgartirilgan ritm ham o'lchab yozilgan.",
+     "6-band (1 ball): Bola ritm nimaga bog'liqligini to'g'ri aytadi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 8-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Ritmni nima belgilaydi — uzatmami, krivoship radiusimi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "0-sinf",
+   "yil": "2-yil",
+   "chorak": "4-chorak, 9-hafta",
+   "darsRaqami": "81 / 84",
+   "modul": "L4. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|0-sinf|4-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Sakrash harakati qanday hosil bo'ladi\" mavzusini \"Manual Rocking YL Man 2\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Rocking YL Man 2\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -39777,14 +40929,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 9-hafta",
-   "darsRaqami": "80 / 84",
+   "chorak": "4-chorak, 10-hafta",
+   "darsRaqami": "82 / 84",
    "modul": "M4. Krivoship va tebranma harakat",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|4-chorak|17": {
+ "2-yil|0-sinf|4-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Sakrash harakati qanday hosil bo'ladi\" mavzusini \"Sweeper\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Sweeper\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -39856,14 +41008,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 9-hafta",
-   "darsRaqami": "81 / 84",
+   "chorak": "4-chorak, 10-hafta",
+   "darsRaqami": "83 / 84",
    "modul": "M4. Krivoship va tebranma harakat",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|0-sinf|4-chorak|18": {
+ "2-yil|0-sinf|4-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Bir motordan bir necha harakat\" mavzusini \"Rocking YL Man 1\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Rocking YL Man 1\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -39936,164 +41088,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "0-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 10-hafta",
-   "darsRaqami": "82 / 84",
-   "modul": "M4. Krivoship va tebranma harakat",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|0-sinf|4-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Tebranish-Nishoni\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (20 dan chetlanish) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Chastota (Frequency) – vaqt birligidagi tebranishlar soni",
-   "Sozlash (Tuning) – kerakli natijaga moslash",
-   "Barqarorlik (Consistency) – mexanizmning bir tekis ishlashi",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Mas'uliyat va o'zini baholash — Yil yakunida o'z natijasini haqqoniy baholay olish, kuchli va kuchsiz tomonini aytish.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "Sekundomer",
-   "Sanash uchun juftlik",
-   "Sozlash uchun turli o'lchamdagi g'ildiraklar"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: krivoship mexanizmini sozlab, 30 soniyada AYNAN 20 marta tebranishga erishish kerak (ko'p ham, kam ham emas).",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "Chetlanish 0–1 tebranish = 5 (a'lo)",
-     "2–3 tebranish = 4 (yaxshi)",
-     "4–6 tebranish = 3 (qoniqarli)",
-     "7–10 tebranish = 2 (qoniqarsiz)",
-     "10 dan ko'p yoki mexanizm uzilib qolsa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (20 dan chetlanish) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Tezlikni nima orqali sozladingiz — uzatma bilanmi yoki qo'l tezligi bilanmi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "0-sinf",
-   "yil": "2-yil",
-   "chorak": "4-chorak, 10-hafta",
-   "darsRaqami": "83 / 84",
-   "modul": "N4. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|0-sinf|4-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Ritmli mexanizm\" loyihasi doirasida belgilangan ritmda (masalan 1 soniyada 1 marta) tebranadigan mexanizm loyihalash.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: belgilangan ritmda (masalan 1 soniyada 1 marta) tebranadigan mexanizm loyihalash.",
-     "Talab: Ritm sekundomer bilan tekshirilsin.",
-     "Talab: Mexanizm 30 soniya uzluksiz ishlasin.",
-     "Talab: Ritmni o'zgartirish usuli ko'rsatilsin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Ritmni nima belgilaydi — uzatmami, krivoship radiusimi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "0-sinf",
-   "yil": "2-yil",
    "chorak": "4-chorak, 11-hafta",
    "darsRaqami": "84 / 84",
-   "modul": "L4. Loyiha",
+   "modul": "M4. Krivoship va tebranma harakat",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
@@ -40732,6 +41729,95 @@ window.LESSON_CONTENT = {
  },
  "2-yil|1-sinf|1-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Krivoship va motor tebranishi\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 1-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Halollik — testni mustaqil yechish, ko'chirmaslik. Natija qanday bo'lsa ham, u O'ZINGIZNIKI bo'lsin.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Savollar o'qituvchi tomonidan baland ovozda, har biri 2 martadan o'qib beriladi; o'quvchilar javob varag'ida mos katakchani (A/B/C) belgilaydilar.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 1-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Motor tezligi oshsa, mexanizm tebranishi qanday o'zgaradi?  A) Tezlashadi.  B) Sekinlashadi.  C) O'zgarmaydi.",
+     "2-savol. Tebranish KENGLIGI (amplituda) nimaga bog'liq?  A) Motor rangiga.  B) Krivoship radiusiga.  C) Xona haroratiga.",
+     "3-savol. Ikki mexanizm navbatma-navbat ishlashi uchun harakat qanday taqsimlanadi?  A) Ikkalasiga bir vaqtda.  B) Hech qaysiga.  C) Bir aylanishning turli qismlarida turli mexanizmga.",
+     "4-savol. Haqiqiy avtomobil dvigatelida krivoship-shatun nima qiladi?  A) Porshen harakatini aylanishga aylantiradi.  B) Benzin quyadi.  C) Chiroq yoqadi.",
+     "5-savol. Motor sekin aylansa, amplituda o'zgaradimi?  A) Ha, kichrayadi.  B) Yo'q — faqat tezlik o'zgaradi, kenglik radiusga bog'liq.  C) Ha, kattalashadi.",
+     "6-savol. Tebranish chastotasi nima?  A) Tebranishning kengligi.  B) Tebranishning rangi.  C) Bir soniyadagi tebranishlar soni.",
+     "7-savol. Krivoshipni motorga qaysi qism orqali ulaymiz?  A) Val (o'q) orqali.  B) Ip orqali.  C) Yelim bilan.",
+     "8-savol. Mexanizm juda tez ishlaganda nima xavfi bor?  A) Rangi o'chadi.  B) Bo'g'inlar bo'shashib, detallar chiqib ketishi mumkin.  C) Hech qanday xavf yo'q.",
+     "9-savol. Bitta motordan ikki xil TEZLIKDAGI harakat olish uchun nima kerak?  A) Ikkita batareya.  B) Ikki xil rang.  C) Turli uzatma nisbatlari.",
+     "10-savol. Real dvigatel bilan model mexanizmning o'xshashligi nimada?  A) Ikkalasida ham aylanish va tebranish o'zaro aylantiriladi.  B) Ikkalasi ham benzin ishlatadi.  C) O'xshashligi yo'q."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "1-sinf",
+   "yil": "2-yil",
+   "chorak": "1-chorak, 5-hafta",
+   "darsRaqami": "9 / 84",
+   "modul": "N1. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|1-sinf|1-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Krivoship radiusi va tebranish kengligi\" mavzusini \"Car Puller\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Car Puller\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -40803,13 +41889,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "2-yil",
    "chorak": "1-chorak, 5-hafta",
-   "darsRaqami": "9 / 84",
+   "darsRaqami": "10 / 84",
    "modul": "M1. Tebranish kengligi va sozlash",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|1-chorak|9": {
+ "2-yil|1-sinf|1-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Krivoship radiusi va tebranish kengligi\" mavzusini \"Manual Rotating YL Man 3\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Rotating YL Man 3\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -40882,14 +41968,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 5-hafta",
-   "darsRaqami": "10 / 84",
+   "chorak": "1-chorak, 6-hafta",
+   "darsRaqami": "11 / 84",
    "modul": "M1. Tebranish kengligi va sozlash",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|1-chorak|10": {
+ "2-yil|1-sinf|1-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Krivoship radiusi va tebranish kengligi\" mavzusini \"Skiing Man\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Skiing Man\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -40962,13 +42048,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "2-yil",
    "chorak": "1-chorak, 6-hafta",
-   "darsRaqami": "11 / 84",
+   "darsRaqami": "12 / 84",
    "modul": "M1. Tebranish kengligi va sozlash",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|1-chorak|11": {
+ "2-yil|1-sinf|1-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Aylanma va tebranma harakat farqi\" mavzusini \"Manual Rocking YL Man 6\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Rocking YL Man 6\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -41041,14 +42127,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 6-hafta",
-   "darsRaqami": "12 / 84",
+   "chorak": "1-chorak, 7-hafta",
+   "darsRaqami": "13 / 84",
    "modul": "M1. Tebranish kengligi va sozlash",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|1-chorak|12": {
+ "2-yil|1-sinf|1-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Mexanizm shovqini\" mavzusini \"Jumping YL Man 4\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Jumping YL Man 4\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -41122,13 +42208,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "2-yil",
    "chorak": "1-chorak, 7-hafta",
-   "darsRaqami": "13 / 84",
+   "darsRaqami": "14 / 84",
    "modul": "M1. Tebranish kengligi va sozlash",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|1-chorak|13": {
+ "2-yil|1-sinf|1-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Shatun uzunligining ta'siri\" mavzusini \"Manual Rotating YL Man 4\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Rotating YL Man 4\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -41201,14 +42287,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 7-hafta",
-   "darsRaqami": "14 / 84",
+   "chorak": "1-chorak, 8-hafta",
+   "darsRaqami": "15 / 84",
    "modul": "M1. Tebranish kengligi va sozlash",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|1-chorak|14": {
+ "2-yil|1-sinf|1-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Shatun uzunligining ta'siri\" mavzusini \"Manual Rotating YL Man 6\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Rotating YL Man 6\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -41282,13 +42368,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "2-yil",
    "chorak": "1-chorak, 8-hafta",
-   "darsRaqami": "15 / 84",
+   "darsRaqami": "16 / 84",
    "modul": "M1. Tebranish kengligi va sozlash",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|1-chorak|15": {
+ "2-yil|1-sinf|1-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Shatun uzunligining ta'siri\" mavzusini \"Hoeing Man\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Hoeing Man\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -41360,14 +42446,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 8-hafta",
-   "darsRaqami": "16 / 84",
+   "chorak": "1-chorak, 9-hafta",
+   "darsRaqami": "17 / 84",
    "modul": "M1. Tebranish kengligi va sozlash",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|1-chorak|16": {
+ "2-yil|1-sinf|1-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Ritm mashinasi\" loyihasi doirasida ikki xil ritmda ishlaydigan, foydalanuvchi ritmni almashtira oladigan mexanizm loyihalash.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 2-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Mustaqillik va tashabbus — o'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: ikki xil ritmda ishlaydigan, foydalanuvchi ritmni almashtira oladigan mexanizm loyihalash.",
+     "Talab: Ikki ritm aniq farq qilsin.",
+     "Talab: Almashtirish 5 soniyada bajarilsin.",
+     "Talab: Har ritm o'lchab yozilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Ritm farqini uzatma nisbati bilan bering — radius amplitudani o'zgartiradi, ritmni emas",
+     "Almashtirish mexanizmini oddiy qiling: bitta g'ildirakni surish yetarli",
+     "Har ritmni alohida sozlab oling"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Mexanizm ikki xil ritmda ishlay oladi.",
+     "2-band (1 ball): 1-ritm o'lchab yozilgan (10 soniyadagi tebranishlar).",
+     "3-band (1 ball): 2-ritm o'lchab yozilgan va 1-ritmdan aniq farq qiladi.",
+     "4-band (1 ball): Sinov: ritmni almashtirish 5 soniyadan kam vaqt oldi.",
+     "5-band (1 ball): Har ikki ritmda mexanizm 20 soniya barqaror ishlaydi.",
+     "6-band (1 ball): Bola ritm va amplituda farqini to'g'ri tushuntiradi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 2-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Ritmni almashtirganda amplituda ham o'zgardimi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "1-sinf",
+   "yil": "2-yil",
+   "chorak": "1-chorak, 9-hafta",
+   "darsRaqami": "18 / 84",
+   "modul": "L1. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|1-sinf|1-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Yuqoriga-pastga tebranish (vertikal)\" mavzusini \"Manual Rotating YL Man 5\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Rotating YL Man 5\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -41440,14 +42633,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 9-hafta",
-   "darsRaqami": "17 / 84",
+   "chorak": "1-chorak, 10-hafta",
+   "darsRaqami": "19 / 84",
    "modul": "M1. Tebranish kengligi va sozlash",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|1-chorak|17": {
+ "2-yil|1-sinf|1-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Yuqoriga-pastga tebranish (vertikal)\" mavzusini \"Weighting Man\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Weighting Man\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -41519,14 +42712,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 9-hafta",
-   "darsRaqami": "18 / 84",
+   "chorak": "1-chorak, 10-hafta",
+   "darsRaqami": "20 / 84",
    "modul": "M1. Tebranish kengligi va sozlash",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|1-chorak|18": {
+ "2-yil|1-sinf|1-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Yuqoriga-pastga tebranish (vertikal)\" mavzusini \"Manual Rotating YL Man 7\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Manual Rotating YL Man 7\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -41599,163 +42792,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 10-hafta",
-   "darsRaqami": "19 / 84",
-   "modul": "M1. Tebranish kengligi va sozlash",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|1-sinf|1-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Ritm-Sozlash\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (uch nishondan nechtasiga 1,5 sm aniqlikda erishilgani) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Amplituda (Amplitude) – tebranishning eng katta kengligi",
-   "Nishon qiymati (Target value) – erishilishi kerak bo'lgan natija",
-   "Chetlanish (Deviation) – natijaning nishondan farqi",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Sportchan munosabat — g'alaba va mag'lubiyatga sog'lom qarash, boshqalarning natijasini olqishlash. Yutqazish ham o'rganishning bir qismi.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "Chizg'ich va uch nishon belgisi",
-   "Sozlash uchun qo'shimcha detallar"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: mexanizmning tebranish kengligini uchta turli nishonga (5 sm, 10 sm, 15 sm) ketma-ket sozlash kerak.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "3/3 nishon = 5 (a'lo)",
-     "2/3 nishon = 4 (yaxshi)",
-     "1/3 nishon = 3 (qoniqarli)",
-     "Sozlash qilinadi, lekin nishonga tushmaydi = 2 (qoniqarsiz)",
-     "Mexanizm sozlanmasa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (uch nishondan nechtasiga 1,5 sm aniqlikda erishilgani) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Qaysi nishon eng qiyin bo'ldi va nega?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "1-sinf",
-   "yil": "2-yil",
-   "chorak": "1-chorak, 10-hafta",
-   "darsRaqami": "20 / 84",
-   "modul": "N1. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|1-sinf|1-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Ritm mashinasi\" loyihasi doirasida ikki xil ritmda ishlaydigan, foydalanuvchi ritmni almashtira oladigan mexanizm loyihalash.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: ikki xil ritmda ishlaydigan, foydalanuvchi ritmni almashtira oladigan mexanizm loyihalash.",
-     "Talab: Ikki ritm aniq farq qilsin.",
-     "Talab: Almashtirish 5 soniyada bajarilsin.",
-     "Talab: Har ritm o'lchab yozilsin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Ritmni almashtirganda amplituda ham o'zgardimi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "1-sinf",
-   "yil": "2-yil",
    "chorak": "1-chorak, 11-hafta",
    "darsRaqami": "21 / 84",
-   "modul": "L1. Loyiha",
+   "modul": "M1. Tebranish kengligi va sozlash",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
@@ -42396,6 +43435,95 @@ window.LESSON_CONTENT = {
  },
  "2-yil|1-sinf|2-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Kulachok, suzish va masofa sensori\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 3-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Diqqatni jamlash — 20 daqiqa davomida chalg'imasdan ishlash, savolni oxirigacha o'qish.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Savollar o'qituvchi tomonidan baland ovozda, har biri 2 martadan o'qib beriladi; o'quvchilar javob varag'ida mos katakchani (A/B/C) belgilaydilar.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 3-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Kulachok (cam) mexanizmi qanday ishlaydi?  A) Notekis shaklli disk aylanib, tayanchni ko'tarib-tushiradi.  B) Ikki g'ildirak tishlashadi.  C) Ip tortiladi.",
+     "2-savol. Kulachokning krivoshipdan farqi nimada?  A) Farqi yo'q.  B) Kulachok shakli bilan harakat qonunini belgilaydi.  C) Kulachok faqat katta bo'ladi.",
+     "3-savol. Og'ir kema nega cho'kmaydi?  A) Temir suvdan yengil.  B) Kema uchadi.  C) Kengligi katta — itarib chiqaruvchi kuch yetarli.",
+     "4-savol. Suvning itarib chiqaruvchi kuchi nimaga bog'liq?  A) Jismning suvga botgan hajmiga.  B) Jismning rangiga.  C) Suvning chuqurligiga faqat.",
+     "5-savol. Chayqalish harakatida model qanday tebranadi?  A) Doim bir tomonga aylanadi.  B) Beshik kabi ikki tomonga.  C) Faqat yuqoriga.",
+     "6-savol. Masofa sensori qanday to'lqin yuboradi (ko'p hollarda)?  A) Suv to'lqini.  B) Radio to'lqin faqat.  C) Ultratovush to'lqini.",
+     "7-savol. Masofa sensori to'siqni qanday aniqlaydi?  A) Yuborilgan to'lqin qaytib kelgan vaqtidan.  B) To'siqni ushlab ko'rib.  C) Rangidan.",
+     "8-savol. Chegara qiymati (threshold) nima uchun kerak?  A) Sensor narxini bilish uchun.  B) Sensor qachon \"ishga tushishini\" belgilash uchun.  C) To'lqin tezligini oshirish uchun.",
+     "9-savol. Suzuvchi modelni og'irlashtirsak nima bo'ladi?  A) Balandroq suzadi.  B) Tezlashadi.  C) Chuqurroq botadi, oxiri cho'kishi mumkin.",
+     "10-savol. Kulachok shaklini o'zgartirsak, harakat qanday o'zgaradi?  A) Ko'tarilish-tushish tartibi (ritmi) o'zgaradi.  B) Hech qanday.  C) Faqat rang o'zgaradi."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "1-sinf",
+   "yil": "2-yil",
+   "chorak": "2-chorak, 5-hafta",
+   "darsRaqami": "30 / 84",
+   "modul": "N2. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|1-sinf|2-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Chegara qiymati (sensor qachon ishlaydi)\" mavzusini \"Programmable Car (AI)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Programmable Car (AI)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -42467,13 +43595,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "2-yil",
    "chorak": "2-chorak, 5-hafta",
-   "darsRaqami": "30 / 84",
+   "darsRaqami": "31 / 84",
    "modul": "M2. Sensor va signal",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|2-chorak|9": {
+ "2-yil|1-sinf|2-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Sensor va inson sezgi organlari\" mavzusini \"Line Patrol Tank\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Line Patrol Tank\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -42546,14 +43674,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 5-hafta",
-   "darsRaqami": "31 / 84",
+   "chorak": "2-chorak, 6-hafta",
+   "darsRaqami": "32 / 84",
    "modul": "M2. Sensor va signal",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|2-chorak|10": {
+ "2-yil|1-sinf|2-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Sensor va inson sezgi organlari\" mavzusini \"Obstacle Avoiding (2)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Obstacle Avoiding (2)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -42627,13 +43755,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "2-yil",
    "chorak": "2-chorak, 6-hafta",
-   "darsRaqami": "32 / 84",
+   "darsRaqami": "33 / 84",
    "modul": "M2. Sensor va signal",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|2-chorak|11": {
+ "2-yil|1-sinf|2-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Sensorni sozlash (kalibrlash)\" mavzusini \"Mine Clearance\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Mine Clearance\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -42706,14 +43834,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 6-hafta",
-   "darsRaqami": "33 / 84",
+   "chorak": "2-chorak, 7-hafta",
+   "darsRaqami": "34 / 84",
    "modul": "M2. Sensor va signal",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|2-chorak|12": {
+ "2-yil|1-sinf|2-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Sensorni sozlash (kalibrlash)\" mavzusini \"Animal Trap\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Animal Trap\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -42787,13 +43915,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "2-yil",
    "chorak": "2-chorak, 7-hafta",
-   "darsRaqami": "34 / 84",
+   "darsRaqami": "35 / 84",
    "modul": "M2. Sensor va signal",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|2-chorak|13": {
+ "2-yil|1-sinf|2-chorak|14": {
   "maqsad": [
    "O'quvchilar \"To'siqdan qochish tamoyili\" mavzusini \"Intelligent Gate\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Intelligent Gate\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -42866,14 +43994,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 7-hafta",
-   "darsRaqami": "35 / 84",
+   "chorak": "2-chorak, 8-hafta",
+   "darsRaqami": "36 / 84",
    "modul": "M2. Sensor va signal",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|2-chorak|14": {
+ "2-yil|1-sinf|2-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Bosim va teginish sensori\" mavzusini \"Color Sorting\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Color Sorting\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -42946,13 +44074,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "2-yil",
    "chorak": "2-chorak, 8-hafta",
-   "darsRaqami": "36 / 84",
+   "darsRaqami": "37 / 84",
    "modul": "M2. Sensor va signal",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|2-chorak|15": {
+ "2-yil|1-sinf|2-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Yorug'lik va rang sensori\" mavzusini \"Line Patrol Dragon\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Line Patrol Dragon\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -43025,14 +44153,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 8-hafta",
-   "darsRaqami": "37 / 84",
+   "chorak": "2-chorak, 9-hafta",
+   "darsRaqami": "38 / 84",
    "modul": "M2. Sensor va signal",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|2-chorak|16": {
+ "2-yil|1-sinf|2-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Sensorli yordamchi\" loyihasi doirasida aniq bir vazifani sensor yordamida avtomatik bajaradigan qurilma loyihalash.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 4-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Rejali ishlash — vaqtni bosqichlarga bo'lib, eskiz va sinovga ham vaqt qoldirish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: aniq bir vazifani sensor yordamida avtomatik bajaradigan qurilma loyihalash.",
+     "Talab: Vazifa bir gapda yozilsin.",
+     "Talab: 10 sinovdan kamida 8 tasi to'g'ri chiqsin.",
+     "Talab: Sensor xato qilgan holat tahlil qilinsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Chegara qiymatini turli sharoitda (yorug'/qorong'i, yaqin/uzoq) sinab toping",
+     "Sinov jadvalini oldindan chizib qo'ying: № / natija / izoh",
+     "Xato chiqqanda sharoitda nima boshqacha bo'lganini yozing"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Vazifa bir gapda yozilgan.",
+     "2-band (1 ball): Qurilma vazifani sensor orqali AVTOMATIK bajaradi.",
+     "3-band (1 ball): Sinov: 10 sinov o'tkazilib, jadvalga yozilgan.",
+     "4-band (1 ball): Kamida 8 sinov muvaffaqiyatli chiqqan.",
+     "5-band (1 ball): Xato holat(lar) sababi tahlil qilinib yozilgan.",
+     "6-band (1 ball): Bola sensor qaysi sharoitda ishonchsizligini aytadi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 4-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Sensor qaysi sharoitda ishonchsiz bo'lib qoladi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "1-sinf",
+   "yil": "2-yil",
+   "chorak": "2-chorak, 9-hafta",
+   "darsRaqami": "39 / 84",
+   "modul": "L2. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|1-sinf|2-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Yorug'lik va rang sensori\" mavzusini \"Bus\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Bus\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -43104,14 +44339,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 9-hafta",
-   "darsRaqami": "38 / 84",
+   "chorak": "2-chorak, 10-hafta",
+   "darsRaqami": "40 / 84",
    "modul": "M2. Sensor va signal",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|2-chorak|17": {
+ "2-yil|1-sinf|2-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Sensor nima va nima qiladi\" mavzusini \"Obstacle Avoiding Car\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Obstacle Avoiding Car\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -43184,14 +44419,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 9-hafta",
-   "darsRaqami": "39 / 84",
+   "chorak": "2-chorak, 10-hafta",
+   "darsRaqami": "41 / 84",
    "modul": "M2. Sensor va signal",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|2-chorak|18": {
+ "2-yil|1-sinf|2-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Sensorlar avtomatik tizimlarda\" mavzusini \"Scooter (Prog)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Scooter (Prog)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -43264,164 +44499,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 10-hafta",
-   "darsRaqami": "40 / 84",
-   "modul": "M2. Sensor va signal",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|1-sinf|2-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Sensor-Aniqligi\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (10 sinovdan nechtasi ±5 sm oralig'ida chiqqani) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Takroriylik (Repeatability) – bir xil sinovda bir xil natija chiqishi",
-   "Kalibrlash (Calibration) – sensorni to'g'ri ishlashga sozlash",
-   "Chegara qiymati (Threshold) – sensor ishga tushadigan qiymat",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Vaqtni boshqarish — Musobaqagacha tayyorgarlikni ulgurish, oxirgi daqiqaga qoldirmaslik.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "O'lchov lentasi",
-   "Sinov to'sig'i",
-   "10 qatorli natija jadvali"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: sensorli model 10 marta sinaladi; sensor har safar bir xil masofada (±5 sm) ishga tushishi kerak.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "9–10/10 = 5 (a'lo)",
-     "7–8/10 = 4 (yaxshi)",
-     "5–6/10 = 3 (qoniqarli)",
-     "3–4/10 = 2 (qoniqarsiz)",
-     "3 dan kam yoki sensor ishlamasa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (10 sinovdan nechtasi ±5 sm oralig'ida chiqqani) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Natijalar nega har safar bir xil chiqmadi — sabab yorug'likmi, sirtmi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "1-sinf",
-   "yil": "2-yil",
-   "chorak": "2-chorak, 10-hafta",
-   "darsRaqami": "41 / 84",
-   "modul": "N2. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|1-sinf|2-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Sensorli yordamchi\" loyihasi doirasida aniq bir vazifani sensor yordamida avtomatik bajaradigan qurilma loyihalash.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: aniq bir vazifani sensor yordamida avtomatik bajaradigan qurilma loyihalash.",
-     "Talab: Vazifa bir gapda yozilsin.",
-     "Talab: 10 sinovdan kamida 8 tasi to'g'ri chiqsin.",
-     "Talab: Sensor xato qilgan holat tahlil qilinsin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Sensor qaysi sharoitda ishonchsiz bo'lib qoladi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "1-sinf",
-   "yil": "2-yil",
    "chorak": "2-chorak, 11-hafta",
    "darsRaqami": "42 / 84",
-   "modul": "L2. Loyiha",
+   "modul": "M2. Sensor va signal",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
@@ -44063,6 +45143,95 @@ window.LESSON_CONTENT = {
  },
  "2-yil|1-sinf|3-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Sensor aniqligi va ko'tarish mexanizmlari\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 5-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Xatodan o'rganish — noto'g'ri javob \"yomon\" degani emas; qaysi mavzuni takrorlash kerakligini ko'rsatadigan belgi.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Savollar o'qituvchi tomonidan baland ovozda, har biri 2 martadan o'qib beriladi; o'quvchilar javob varag'ida mos katakchani (A/B/C) belgilaydilar.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 5-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Sensor xatosi nima?  A) Sensorning haqiqiy qiymatdan chetga chiqishi.  B) Sensorning narxi.  C) Sensorning rangi.",
+     "2-savol. Sensor xatosini kamaytirish uchun nima qilamiz?  A) Sensorni olib tashlaymiz.  B) Bir necha marta o'lchab, o'rtachasini olamiz.  C) Tezroq o'lchaymiz.",
+     "3-savol. Vint bilan ko'tarishning boshqa usullardan farqi nima?  A) Eng tez usul.  B) Eng rangli usul.  C) Sekin, lekin yuk o'z-o'zidan tushib ketmaydi.",
+     "4-savol. Kran strelasi uzaysa, ko'tarish qanday o'zgaradi?  A) Ag'anash xavfi ortadi — kontr-vazn kuchaytiriladi.  B) Osonlashadi.  C) Hech narsa o'zgarmaydi.",
+     "5-savol. Kontr-vazn qanday tanlanadi?  A) Istalgan og'irlikda.  B) Yuk va strela uzunligiga mos ravishda.  C) Doim eng og'iri.",
+     "6-savol. Yukni ushlab turish mexanizmi nima uchun kerak?  A) Chiroy uchun.  B) Tezlik uchun.  C) Motor o'chganda yuk tushib ketmasligi uchun.",
+     "7-savol. Bir necha mexanizm birga ishlaganda nimaga e'tibor beramiz?  A) Ular bir-biriga xalaqit bermasligiga.  B) Faqat rangiga.  C) Faqat narxiga.",
+     "8-savol. Strela uzunligi va ko'tarish kuchi qanday bog'langan?  A) Bog'lanmagan.  B) Strela uzaysa, xuddi shu motor kamroq yuk ko'taradi.  C) Strela uzaysa kuch oshadi.",
+     "9-savol. Sensor ikki marta ketma-ket boshqa-boshqa qiymat ko'rsatdi. Bu nima?  A) Normal — sensor buzilgan emas, aniqlik chegarasi bor.  B) Sensor sehrlangan.  C) Model harakatlandi degani faqat.",
+     "10-savol. Ko'tarish mexanizmini sinashda yukni qanday oshiramiz?  A) Birdan eng og'irini qo'yamiz.  B) Yuk qo'ymaymiz.  C) Bosqichma-bosqich, har safar kuzatib."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-A,  10-C",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "1-sinf",
+   "yil": "2-yil",
+   "chorak": "3-chorak, 5-hafta",
+   "darsRaqami": "51 / 84",
+   "modul": "N3. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|1-sinf|3-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Bir necha mexanizm birga\" mavzusini \"Intersteller Radar Forklift\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Intersteller Radar Forklift\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -44135,13 +45304,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "2-yil",
    "chorak": "3-chorak, 5-hafta",
-   "darsRaqami": "51 / 84",
+   "darsRaqami": "52 / 84",
    "modul": "M3. Yuk ko'tarish mexanizmlari",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|3-chorak|9": {
+ "2-yil|1-sinf|3-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Yukni ushlab turish\" mavzusini \"Combat Forklift\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Combat Forklift\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -44214,14 +45383,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 5-hafta",
-   "darsRaqami": "52 / 84",
+   "chorak": "3-chorak, 6-hafta",
+   "darsRaqami": "53 / 84",
    "modul": "M3. Yuk ko'tarish mexanizmlari",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|3-chorak|10": {
+ "2-yil|1-sinf|3-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Ko'tarish balandligi va barqarorlik\" mavzusini \"Storage Robot\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Storage Robot\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -44295,13 +45464,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "2-yil",
    "chorak": "3-chorak, 6-hafta",
-   "darsRaqami": "53 / 84",
+   "darsRaqami": "54 / 84",
    "modul": "M3. Yuk ko'tarish mexanizmlari",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|3-chorak|11": {
+ "2-yil|1-sinf|3-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Richag bilan ko'tarish\" mavzusini \"Crawler Excavator\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Crawler Excavator\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -44373,14 +45542,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 6-hafta",
-   "darsRaqami": "54 / 84",
+   "chorak": "3-chorak, 7-hafta",
+   "darsRaqami": "55 / 84",
    "modul": "M3. Yuk ko'tarish mexanizmlari",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|3-chorak|12": {
+ "2-yil|1-sinf|3-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Richag bilan ko'tarish\" mavzusini \"Forklift\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Forklift\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -44453,13 +45622,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "2-yil",
    "chorak": "3-chorak, 7-hafta",
-   "darsRaqami": "55 / 84",
+   "darsRaqami": "56 / 84",
    "modul": "M3. Yuk ko'tarish mexanizmlari",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|3-chorak|13": {
+ "2-yil|1-sinf|3-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Richag bilan ko'tarish\" mavzusini \"Bridge Crane\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Bridge Crane\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -44532,14 +45701,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 7-hafta",
-   "darsRaqami": "56 / 84",
+   "chorak": "3-chorak, 8-hafta",
+   "darsRaqami": "57 / 84",
    "modul": "M3. Yuk ko'tarish mexanizmlari",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|3-chorak|14": {
+ "2-yil|1-sinf|3-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Nega og'ir yukni ko'tarish qiyin\" mavzusini \"Crane\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Crane\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -44612,13 +45781,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "2-yil",
    "chorak": "3-chorak, 8-hafta",
-   "darsRaqami": "57 / 84",
+   "darsRaqami": "58 / 84",
    "modul": "M3. Yuk ko'tarish mexanizmlari",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|3-chorak|15": {
+ "2-yil|1-sinf|3-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Nega og'ir yukni ko'tarish qiyin\" mavzusini \"Tower Crane\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Tower Crane\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -44691,14 +45860,122 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 8-hafta",
-   "darsRaqami": "58 / 84",
+   "chorak": "3-chorak, 9-hafta",
+   "darsRaqami": "59 / 84",
    "modul": "M3. Yuk ko'tarish mexanizmlari",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|3-chorak|16": {
+ "2-yil|1-sinf|3-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Kran loyihasi\" loyihasi doirasida yukni ko'tarib, aylantirib, boshqa joyga qo'yadigan kran loyihalash.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 6-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Natijaga halol munosabat — o'lchovni bo'rttirmasdan, qanday chiqqan bo'lsa shunday yozish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: yukni ko'tarib, aylantirib, boshqa joyga qo'yadigan kran loyihalash.",
+     "Talab: Kran kamida 15 sm balandlikka ko'tarsin.",
+     "Talab: Strela aylansin yoki uzaysin.",
+     "Talab: Kontr-vazn hisobga olinsin.",
+     "Talab: Yuk 3 marta ketma-ket tashilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Avval strela va kontr-vaznni muvozanatlang, keyin ko'tarish mexanizmini qo'shing",
+     "Yuk ilgagi yukni o'zi qo'yib yubormasin",
+     "Aylanish tekis bo'lsin — keskin burilishda yuk tebranadi"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Kran yukni kamida 15 sm balandlikka ko'taradi (o'lchab ko'rsatildi).",
+     "2-band (1 ball): Strela aylanadi yoki uzayadi.",
+     "3-band (1 ball): Kontr-vazn bor va bola uning vazifasini tushuntiradi.",
+     "4-band (1 ball): Sinov: yuk 3 marta ketma-ket ko'tarilib, boshqa joyga qo'yildi.",
+     "5-band (1 ball): Sinov davomida kran ag'anamadi va yuk tushib ketmadi.",
+     "6-band (1 ball): Bola kran qancha yukda ag'darila boshlashini sinab aytadi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 6-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Kraningiz qanday og'irlikda ag'darila boshlaydi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "1-sinf",
+   "yil": "2-yil",
+   "chorak": "3-chorak, 9-hafta",
+   "darsRaqami": "60 / 84",
+   "modul": "L3. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|1-sinf|3-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Shkiv bilan ko'tarish\" mavzusini \"Fork Lift Truck\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Fork Lift Truck\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -44771,14 +46048,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 9-hafta",
-   "darsRaqami": "59 / 84",
+   "chorak": "3-chorak, 10-hafta",
+   "darsRaqami": "61 / 84",
    "modul": "M3. Yuk ko'tarish mexanizmlari",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|3-chorak|17": {
+ "2-yil|1-sinf|3-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Motor kuchi (moment)\" mavzusini \"Electric Fan\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Electric Fan\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -44850,14 +46127,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 9-hafta",
-   "darsRaqami": "60 / 84",
+   "chorak": "3-chorak, 10-hafta",
+   "darsRaqami": "62 / 84",
    "modul": "M3. Yuk ko'tarish mexanizmlari",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|3-chorak|18": {
+ "2-yil|1-sinf|3-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Motordan mexanizmga kuch uzatish\" mavzusini \"Gear Shifting Fan\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Gear Shifting Fan\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -44929,165 +46206,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 10-hafta",
-   "darsRaqami": "61 / 84",
-   "modul": "M3. Yuk ko'tarish mexanizmlari",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|1-sinf|3-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Kran-Operatori\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (topshiriq bajarilgani va yuk tushib ketmagani) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Strela (Boom) – kranning uzun ko'taruvchi qismi",
-   "Kontr-vazn (Counterweight) – kranni ag'darilishdan saqlovchi qarshi og'irlik",
-   "Ish zonasi (Working area) – kran yeta oladigan maydon",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Bosim ostida ishlash — Hamma qarab turganda ham xotirjam ishlash, xato bo'lsa vahima qilmaslik.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "Standart yuk",
-   "20 sm balandlikdagi tayanch va nishon belgisi",
-   "Sekundomer"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: kran yoki strela mexanizmi yukni 20 sm balandlikka ko'tarib, 40 sm yon tomondagi belgilangan joyga qo'yishi kerak.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "Yuk to'g'ri joyga qo'yiladi, tushmaydi, 60 soniyagacha = 5 (a'lo)",
-     "Yuk to'g'ri joyga qo'yiladi, 61–120 soniya = 4 (yaxshi)",
-     "Yuk ko'tariladi, lekin joyiga aniq qo'yilmaydi = 3 (qoniqarli)",
-     "Yuk ko'tariladi, lekin tushib ketadi = 2 (qoniqarsiz)",
-     "Yuk ko'tarilmasa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (topshiriq bajarilgani va yuk tushib ketmagani) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Strela uzunlashganda kran nega beqaror bo'lib qoladi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "1-sinf",
-   "yil": "2-yil",
-   "chorak": "3-chorak, 10-hafta",
-   "darsRaqami": "62 / 84",
-   "modul": "N3. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|1-sinf|3-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Kran loyihasi\" loyihasi doirasida yukni ko'tarib, aylantirib, boshqa joyga qo'yadigan kran loyihalash.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: yukni ko'tarib, aylantirib, boshqa joyga qo'yadigan kran loyihalash.",
-     "Talab: Kran kamida 15 sm balandlikka ko'tarsin.",
-     "Talab: Strela aylansin yoki uzaysin.",
-     "Talab: Kontr-vazn hisobga olinsin.",
-     "Talab: Yuk 3 marta ketma-ket tashilsin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Kraningiz qanday og'irlikda ag'darila boshlaydi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "1-sinf",
-   "yil": "2-yil",
    "chorak": "3-chorak, 11-hafta",
    "darsRaqami": "63 / 84",
-   "modul": "L3. Loyiha",
+   "modul": "M3. Yuk ko'tarish mexanizmlari",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
@@ -45725,6 +46846,95 @@ window.LESSON_CONTENT = {
  },
  "2-yil|1-sinf|4-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Motor chegaralari va ishqalanish\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 7-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "O'zini baholash — testdan oldin qaysi savollarga ishonchingiz komil ekanini his qilish va yakunda solishtirish.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Savollar o'qituvchi tomonidan baland ovozda, har biri 2 martadan o'qib beriladi; o'quvchilar javob varag'ida mos katakchani (A/B/C) belgilaydilar.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 7-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Motor uzoq ishlasa nega qiziydi?  A) Energiyaning bir qismi issiqlikka aylanadi.  B) Quyosh isitadi.  C) Motor kasal bo'ladi.",
+     "2-savol. Motor tezligini qanday boshqarish mumkin?  A) Faqat qo'l bilan ushlab.  B) Berilayotgan quvvatni o'zgartirib.  C) Iloji yo'q.",
+     "3-savol. Motorning energiya manbai nima?  A) Suv.  B) Havo.  C) Batareya (elektr).",
+     "4-savol. Batareya kuchsizlanganda model qanday yuradi?  A) Sekinroq.  B) Tezroq.  C) Xuddi shunday.",
+     "5-savol. Statik ishqalanish qachon ishlaydi?  A) Jism harakatda bo'lganda.  B) Jism qo'zg'almay turganda.  C) Faqat suvda.",
+     "6-savol. G'ildirakli model sudraluvchi modeldan nega kam energiya sarflaydi?  A) G'ildirak chiroyliroq.  B) Motor kichikroq.  C) Dumalash ishqalanishi sirpanishnikidan kichik.",
+     "7-savol. Motor \"zo'riqib\" to'xtab qolsa, birinchi nima qilamiz?  A) Quvvatni uzamiz — motor kuyishi mumkin.  B) Kuchliroq bosamiz.  C) Kutib turamiz.",
+     "8-savol. Ishqalanishni QAYERDA ataylab oshiramiz?  A) Uzatma o'qlarida.  B) Tormozda va g'ildirak protektorida.  C) Hamma joyda.",
+     "9-savol. Motor issiqligi juda oshib ketsa nima xavfi bor?  A) Rang o'zgaradi.  B) Hech qanday.  C) Motor ishdan chiqishi mumkin.",
+     "10-savol. Bir xil motor bilan tezroq yurish uchun nima qilamiz?  A) Uzatmani tezlikka sozlaymiz va modelni yengillashtiramiz.  B) Modelni og'irlashtiramiz.  C) G'ildirakni olib tashlaymiz."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "1-sinf",
+   "yil": "2-yil",
+   "chorak": "4-chorak, 5-hafta",
+   "darsRaqami": "72 / 84",
+   "modul": "N4. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|1-sinf|4-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Statik va harakatdagi ishqalanish\" mavzusini \"Turnable F1\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Turnable F1\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -45797,13 +47007,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "2-yil",
    "chorak": "4-chorak, 5-hafta",
-   "darsRaqami": "72 / 84",
+   "darsRaqami": "73 / 84",
    "modul": "M4. Elektr motor, ishqalanish va transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|4-chorak|9": {
+ "2-yil|1-sinf|4-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Silliq va notekis sirt\" mavzusini \"Telecar\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Telecar\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -45876,14 +47086,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 5-hafta",
-   "darsRaqami": "73 / 84",
+   "chorak": "4-chorak, 6-hafta",
+   "darsRaqami": "74 / 84",
    "modul": "M4. Elektr motor, ishqalanish va transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|4-chorak|10": {
+ "2-yil|1-sinf|4-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Og'irlik ishqalanishga ta'siri\" mavzusini \"Trailer\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Trailer\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -45957,13 +47167,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "2-yil",
    "chorak": "4-chorak, 6-hafta",
-   "darsRaqami": "74 / 84",
+   "darsRaqami": "75 / 84",
    "modul": "M4. Elektr motor, ishqalanish va transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|4-chorak|11": {
+ "2-yil|1-sinf|4-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Ishqalanishni kamaytirish yo'llari\" mavzusini \"Ploughing Tractor\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Ploughing Tractor\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -46036,14 +47246,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 6-hafta",
-   "darsRaqami": "75 / 84",
+   "chorak": "4-chorak, 7-hafta",
+   "darsRaqami": "76 / 84",
    "modul": "M4. Elektr motor, ishqalanish va transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|4-chorak|12": {
+ "2-yil|1-sinf|4-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Ishqalanish foydali bo'lgan holatlar\" mavzusini \"Hooded Motorcycle\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Hooded Motorcycle\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -46117,13 +47327,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "2-yil",
    "chorak": "4-chorak, 7-hafta",
-   "darsRaqami": "76 / 84",
+   "darsRaqami": "77 / 84",
    "modul": "M4. Elektr motor, ishqalanish va transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|4-chorak|13": {
+ "2-yil|1-sinf|4-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Shassi — transportning asosi\" mavzusini \"Patrol Car\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Patrol Car\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -46196,14 +47406,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 7-hafta",
-   "darsRaqami": "77 / 84",
+   "chorak": "4-chorak, 8-hafta",
+   "darsRaqami": "78 / 84",
    "modul": "M4. Elektr motor, ishqalanish va transport",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|4-chorak|14": {
+ "2-yil|1-sinf|4-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Shassi — transportning asosi\" mavzusini \"Santa Claus Car 2\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Santa Claus Car 2\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -46276,13 +47486,13 @@ window.LESSON_CONTENT = {
    "sinf": "1-sinf",
    "yil": "2-yil",
    "chorak": "4-chorak, 8-hafta",
-   "darsRaqami": "78 / 84",
+   "darsRaqami": "79 / 84",
    "modul": "M4. Elektr motor, ishqalanish va transport",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|4-chorak|15": {
+ "2-yil|1-sinf|4-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Og'irlik taqsimoti\" mavzusini \"Car with YL Man 2\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Car with YL Man 2\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -46354,14 +47564,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 8-hafta",
-   "darsRaqami": "79 / 84",
+   "chorak": "4-chorak, 9-hafta",
+   "darsRaqami": "80 / 84",
    "modul": "M4. Elektr motor, ishqalanish va transport",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|4-chorak|16": {
+ "2-yil|1-sinf|4-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Maxsus yurar transport\" loyihasi doirasida aniq bir sharoit uchun mo'ljallangan motorli transport loyihalash (qiyalik, notekis sirt, og'ir yuk).",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 8-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "O'z ishini himoya qilish — qarorlarini dalil va o'lchov bilan asoslab berish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: aniq bir sharoit uchun mo'ljallangan motorli transport loyihalash (qiyalik, notekis sirt, og'ir yuk).",
+     "Talab: Sharoit oldindan tanlansin va yozilsin.",
+     "Talab: Transport o'sha sharoitda sinalsin.",
+     "Talab: Oddiy transport bilan taqqoslansin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Sharoitga mos yechim tanlang: qiyalikka kuchli uzatma, notekislikka katta g'ildirak",
+     "Taqqoslash uchun oddiy (maxsus qismsiz) variant ham sinalsin",
+     "Natijani raqam bilan yozing: masofa, vaqt yoki ko'tarilgan yuk"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Sharoit oldindan tanlanib, daftarga yozilgan.",
+     "2-band (1 ball): Transportda sharoitga mos kamida 1 ta maxsus yechim bor.",
+     "3-band (1 ball): Sinov: transport tanlangan sharoitda vazifani bajaradi.",
+     "4-band (1 ball): Oddiy variant ham xuddi shu sharoitda sinalgan.",
+     "5-band (1 ball): Ikkala natija raqam bilan yozilib, taqqoslangan.",
+     "6-band (1 ball): Maxsus yechim foydasi raqam bilan isbotlangan.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 8-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Maxsus qismingiz haqiqatan yordam berdimi — raqam bilan isbotlang",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "1-sinf",
+   "yil": "2-yil",
+   "chorak": "4-chorak, 9-hafta",
+   "darsRaqami": "81 / 84",
+   "modul": "L4. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|1-sinf|4-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Og'irlik taqsimoti\" mavzusini \"Armoured Vehicle\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Armoured Vehicle\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -46433,14 +47750,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 9-hafta",
-   "darsRaqami": "80 / 84",
+   "chorak": "4-chorak, 10-hafta",
+   "darsRaqami": "82 / 84",
    "modul": "M4. Elektr motor, ishqalanish va transport",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|4-chorak|17": {
+ "2-yil|1-sinf|4-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Og'irlik taqsimoti\" mavzusini \"Transformers\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Transformers\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -46513,14 +47830,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 9-hafta",
-   "darsRaqami": "81 / 84",
+   "chorak": "4-chorak, 10-hafta",
+   "darsRaqami": "83 / 84",
    "modul": "M4. Elektr motor, ishqalanish va transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|1-sinf|4-chorak|18": {
+ "2-yil|1-sinf|4-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Yuk tashish uchun maxsus qismlar\" mavzusini \"Battle Robot\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Battle Robot\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -46593,165 +47910,10 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "1-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 10-hafta",
-   "darsRaqami": "82 / 84",
-   "modul": "M4. Elektr motor, ishqalanish va transport",
-   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|1-sinf|4-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Transport-Sinovi\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (uch sirtda ham finishga yetgani va umumiy vaqt) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Ilashish (Traction) – g'ildirakning sirtga yopishishi",
-   "Burilish radiusi (Turning radius) – eng kichik burilish aylanasi",
-   "Uzatma (Transmission) – motordan g'ildirakka kuch yetkazuvchi tizim",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Mas'uliyat va o'zini baholash — Yil yakunida o'z natijasini haqqoniy baholay olish, kuchli va kuchsiz tomonini aytish.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "Uch xil sirt (stol, gilam, qog'oz)",
-   "Burilishli 1 metrlik trassa",
-   "Sekundomer"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: motorli transport uch xil sirtda 1 metr masofani bosib o'tadi va yo'lda bitta burilish bajaradi.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "3/3 sirtda finish, jami 60 soniyagacha = 5 (a'lo)",
-     "3/3 sirtda finish, jami 61–120 soniya = 4 (yaxshi)",
-     "2/3 sirtda finish = 3 (qoniqarli)",
-     "1/3 sirtda finish = 2 (qoniqarsiz)",
-     "Hech bir sirtda finishga yetmasa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (uch sirtda ham finishga yetgani va umumiy vaqt) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Qaysi sirt eng qiyin bo'ldi va uni yengish uchun nima o'zgartirdingiz?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "1-sinf",
-   "yil": "2-yil",
-   "chorak": "4-chorak, 10-hafta",
-   "darsRaqami": "83 / 84",
-   "modul": "N4. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|1-sinf|4-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Maxsus yurar transport\" loyihasi doirasida aniq bir sharoit uchun mo'ljallangan motorli transport loyihalash (qiyalik, notekis sirt, og'ir yuk).",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: aniq bir sharoit uchun mo'ljallangan motorli transport loyihalash (qiyalik, notekis sirt, og'ir yuk).",
-     "Talab: Sharoit oldindan tanlansin va yozilsin.",
-     "Talab: Transport o'sha sharoitda sinalsin.",
-     "Talab: Oddiy transport bilan taqqoslansin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Maxsus qismingiz haqiqatan yordam berdimi — raqam bilan isbotlang"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "1-sinf",
-   "yil": "2-yil",
    "chorak": "4-chorak, 11-hafta",
    "darsRaqami": "84 / 84",
-   "modul": "L4. Loyiha",
-   "jihoz": "Makerzoid Robot Master Standard",
+   "modul": "M4. Elektr motor, ishqalanish va transport",
+   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
@@ -47388,6 +48550,95 @@ window.LESSON_CONTENT = {
  },
  "2-yil|2-sinf|1-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Transport mexanikasi\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 1-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Halollik — testni mustaqil yechish, ko'chirmaslik. Natija qanday bo'lsa ham, u O'ZINGIZNIKI bo'lsin.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 1-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Burilish qanday sodir bo'ladi?  A) Bir tomon g'ildiraklari boshqa tomondan farqli harakatlanadi.  B) Model sakraydi.  C) Motor to'xtaydi.",
+     "2-savol. Motordan g'ildirakkacha kuch nima orqali uzatiladi?  A) Havo orqali.  B) Uzatma (tishli g'ildirak, val) orqali.  C) Magnit orqali.",
+     "3-savol. 4 g'ildirakli va 6 g'ildirakli yuk mashinasi: qaysi biri og'ir yukni yaxshi ko'taradi?  A) 4 g'ildirakli.  B) Farqi yo'q.  C) 6 g'ildirakli — yuk ko'proq nuqtaga taqsimlanadi.",
+     "4-savol. Tezlikka sozlangan uzatmada nimani yo'qotamiz?  A) Kuchni.  B) Rangni.  C) G'ildirakni.",
+     "5-savol. G'ildirak bilan o'q (val) qanday ulanishi kerak?  A) Bo'sh — aylanib turadigan.  B) Vazifasiga qarab: yetaklovchi mahkam, erkin g'ildirak bo'sh.  C) Doim yelimlangan.",
+     "6-savol. Old va orqa g'ildiraklar orasidagi masofa (baza) uzaysa nima o'zgaradi?  A) Model chiroyli bo'ladi.  B) Motor kuchayadi.  C) Yurish barqarorlashadi, burilish kengayadi.",
+     "7-savol. Yetaklovchi g'ildirak qaysi?  A) Motordan kuch oladigan g'ildirak.  B) Eng katta g'ildirak.  C) Old g'ildirak doim.",
+     "8-savol. Transportga yuk ortilganda uzatmani nega kuchga sozlaymiz?  A) Tezlik muhimroq bo'lgani uchun.  B) Og'ir yukni qo'zg'atishga katta kuch kerak.  C) Shunchaki odat.",
+     "9-savol. Model to'g'ri yurmay, bir tomonga og'ib ketsa, sababi nima bo'lishi mumkin?  A) Rangi noto'g'ri.  B) Motor charchagan.  C) G'ildiraklar o'lchami/ishqalanishi farq qiladi.",
+     "10-savol. Tormozsiz model qanday to'xtaydi?  A) Ishqalanish hisobiga sekin-asta.  B) Darhol.  C) Hech qachon to'xtamaydi."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "2-sinf",
+   "yil": "2-yil",
+   "chorak": "1-chorak, 5-hafta",
+   "darsRaqami": "9 / 84",
+   "modul": "N1. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|2-sinf|1-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Motordan g'ildirakkacha kuch uzatish\" mavzusini \"War Robot\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"War Robot\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -47460,13 +48711,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "2-yil",
    "chorak": "1-chorak, 5-hafta",
-   "darsRaqami": "9 / 84",
+   "darsRaqami": "10 / 84",
    "modul": "M1. Murakkab transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|1-chorak|9": {
+ "2-yil|2-sinf|1-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Motordan g'ildirakkacha kuch uzatish\" mavzusini \"Cheetch\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Cheetch\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -47539,14 +48790,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 5-hafta",
-   "darsRaqami": "10 / 84",
+   "chorak": "1-chorak, 6-hafta",
+   "darsRaqami": "11 / 84",
    "modul": "M1. Murakkab transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|1-chorak|10": {
+ "2-yil|2-sinf|1-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Tezlik va kuch murosasi\" mavzusini \"Car with YL Man 4\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Car with YL Man 4\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -47619,13 +48870,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "2-yil",
    "chorak": "1-chorak, 6-hafta",
-   "darsRaqami": "11 / 84",
+   "darsRaqami": "12 / 84",
    "modul": "M1. Murakkab transport",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|1-chorak|11": {
+ "2-yil|2-sinf|1-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Tezlik va kuch murosasi\" mavzusini \"Steam Train\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Steam Train\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -47698,14 +48949,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 6-hafta",
-   "darsRaqami": "12 / 84",
+   "chorak": "1-chorak, 7-hafta",
+   "darsRaqami": "13 / 84",
    "modul": "M1. Murakkab transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|1-chorak|12": {
+ "2-yil|2-sinf|1-chorak|13": {
   "maqsad": [
    "O'quvchilar \"G'ildirak va o'q\" mavzusini \"Santa Claus Car\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Santa Claus Car\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -47778,13 +49029,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "2-yil",
    "chorak": "1-chorak, 7-hafta",
-   "darsRaqami": "13 / 84",
+   "darsRaqami": "14 / 84",
    "modul": "M1. Murakkab transport",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|1-chorak|13": {
+ "2-yil|2-sinf|1-chorak|14": {
   "maqsad": [
    "O'quvchilar \"G'ildirak va o'q\" mavzusini \"Inspection Robot\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Inspection Robot\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -47857,14 +49108,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 7-hafta",
-   "darsRaqami": "14 / 84",
+   "chorak": "1-chorak, 8-hafta",
+   "darsRaqami": "15 / 84",
    "modul": "M1. Murakkab transport",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|1-chorak|14": {
+ "2-yil|2-sinf|1-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Transport turi vazifaga bog'liq\" mavzusini \"Big Truck\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Big Truck\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -47938,13 +49189,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "2-yil",
    "chorak": "1-chorak, 8-hafta",
-   "darsRaqami": "15 / 84",
+   "darsRaqami": "16 / 84",
    "modul": "M1. Murakkab transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|1-chorak|15": {
+ "2-yil|2-sinf|1-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Zarbani yumshatish (osma tizim)\" mavzusini \"Infinite Loop\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Infinite Loop\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -48017,14 +49268,122 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 8-hafta",
-   "darsRaqami": "16 / 84",
+   "chorak": "1-chorak, 9-hafta",
+   "darsRaqami": "17 / 84",
    "modul": "M1. Murakkab transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|1-chorak|16": {
+ "2-yil|2-sinf|1-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Vazifaga mo'ljallangan transport\" loyihasi doirasida tanlangan vazifa uchun to'liq transport tizimi loyihalash (qutqaruv, yuk tashish, patrul).",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 2-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Mustaqillik va tashabbus — o'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: tanlangan vazifa uchun to'liq transport tizimi loyihalash (qutqaruv, yuk tashish, patrul).",
+     "Talab: Vazifa va talablar ro'yxati yozilsin.",
+     "Talab: Transportda kamida 2 ta maxsus qism bo'lsin.",
+     "Talab: 3 metrlik trassada sinalsin.",
+     "Talab: Natija talablarga solishtirilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Talablar ro'yxatini qurishdan OLDIN yozing — u sizning check-listingiz bo'ladi",
+     "Ikki maxsus qism bir-biriga xalaqit bermasin",
+     "Trassada burilish ham bo'lsin — faqat to'g'ri yo'l emas"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Vazifa va kamida 3 bandli talablar ro'yxati oldindan yozilgan.",
+     "2-band (1 ball): Transportda 2 ta ISHLAYDIGAN maxsus qism bor.",
+     "3-band (1 ball): Sinov: transport 3 metrlik trassani (burilish bilan) bosib o'tdi.",
+     "4-band (1 ball): Trassa vaqti o'lchab yozilgan.",
+     "5-band (1 ball): Har talab bo'yicha bajarildi/bajarilmadi belgilangan.",
+     "6-band (1 ball): Bajarilmagan talab sababi tahlil qilingan.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 2-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Qaysi talab bajarilmay qoldi va nega?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "2-sinf",
+   "yil": "2-yil",
+   "chorak": "1-chorak, 9-hafta",
+   "darsRaqami": "18 / 84",
+   "modul": "L1. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|2-sinf|1-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Tormozlash\" mavzusini \"Upside Down\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Upside Down\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -48097,14 +49456,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 9-hafta",
-   "darsRaqami": "17 / 84",
+   "chorak": "1-chorak, 10-hafta",
+   "darsRaqami": "19 / 84",
    "modul": "M1. Murakkab transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|1-chorak|17": {
+ "2-yil|2-sinf|1-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Havo qarshiligi\" mavzusini \"Star War Aircraft\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Star War Aircraft\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -48177,14 +49536,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 9-hafta",
-   "darsRaqami": "18 / 84",
+   "chorak": "1-chorak, 10-hafta",
+   "darsRaqami": "20 / 84",
    "modul": "M1. Murakkab transport",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|1-chorak|18": {
+ "2-yil|2-sinf|1-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Samolyot qanoti vertolyot parragidan farqi\" mavzusini \"Alien Reconnaissance Aircraft\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Alien Reconnaissance Aircraft\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -48257,165 +49616,10 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 10-hafta",
-   "darsRaqami": "19 / 84",
-   "modul": "M1. Murakkab transport",
-   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|2-sinf|1-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Yo'l-Chempionati\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (trassani tugatish vaqti va to'siqqa tegmaganligi) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Osma tizim (Suspension) – zarbani yumshatuvchi qism",
-   "Qiyalik (Incline) – ko'tarilish burchagi",
-   "Klirens (Ground clearance) – model tagi bilan yer orasidagi masofa",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Sportchan munosabat — g'alaba va mag'lubiyatga sog'lom qarash, boshqalarning natijasini olqishlash. Yutqazish ham o'rganishning bir qismi.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "3 metrlik trassa: 2 burilish, 1 to'siq, 1 qiyalik",
-   "Sekundomer"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: transport 3 metrlik trassani bosib o'tadi; trassada ikki burilish, bitta to'siq va bitta qiyalik bor.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "30 soniyagacha, tegmasdan = 5 (a'lo)",
-     "31–60 soniya = 4 (yaxshi)",
-     "61–100 soniya yoki 1 marta tegsa = 3 (qoniqarli)",
-     "100 soniyadan ko'p yoki 2 marta tegsa = 2 (qoniqarsiz)",
-     "Qiyalikdan o'ta olmasa yoki finishga yetmasa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (trassani tugatish vaqti va to'siqqa tegmaganligi) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Qiyalikda modelingiz nega sekinlashdi — og'irlikmi, uzatmami?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "2-sinf",
-   "yil": "2-yil",
-   "chorak": "1-chorak, 10-hafta",
-   "darsRaqami": "20 / 84",
-   "modul": "N1. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|2-sinf|1-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Vazifaga mo'ljallangan transport\" loyihasi doirasida tanlangan vazifa uchun to'liq transport tizimi loyihalash (qutqaruv, yuk tashish, patrul).",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: tanlangan vazifa uchun to'liq transport tizimi loyihalash (qutqaruv, yuk tashish, patrul).",
-     "Talab: Vazifa va talablar ro'yxati yozilsin.",
-     "Talab: Transportda kamida 2 ta maxsus qism bo'lsin.",
-     "Talab: 3 metrlik trassada sinalsin.",
-     "Talab: Natija talablarga solishtirilsin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Qaysi talab bajarilmay qoldi va nega?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "2-sinf",
-   "yil": "2-yil",
    "chorak": "1-chorak, 11-hafta",
    "darsRaqami": "21 / 84",
-   "modul": "L1. Loyiha",
-   "jihoz": "Makerzoid Robot Master Standard",
+   "modul": "M1. Murakkab transport",
+   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
@@ -49056,6 +50260,95 @@ window.LESSON_CONTENT = {
  },
  "2-yil|2-sinf|2-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Aerodinamika\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 3-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Diqqatni jamlash — 20 daqiqa davomida chalg'imasdan ishlash, savolni oxirigacha o'qish.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 3-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Oqimli (aerodinamik) shakl nima beradi?  A) Havo qarshiligini kamaytiradi.  B) Og'irlikni oshiradi.  C) Rangni yaxshilaydi.",
+     "2-savol. Parrak qanotining burchagi kattalashsa nima bo'ladi?  A) Hech narsa.  B) Havoni kuchliroq itaradi, lekin aylantirish og'irlashadi.  C) Parrak to'xtaydi.",
+     "3-savol. Parvozda qanday kuchlar qatnashadi?  A) Faqat og'irlik.  B) Faqat tortish.  C) Ko'tarish, og'irlik, tortish va qarshilik.",
+     "4-savol. Parrak havoni orqaga itarsa, model qayoqqa harakatlanadi?  A) Oldinga.  B) Orqaga.  C) Pastga.",
+     "5-savol. Reaktiv harakat tamoyili qanday?  A) G'ildirak yerni itaradi.  B) Oqim bir tomonga — jism qarama-qarshi tomonga.  C) Magnit tortadi.",
+     "6-savol. Shar ichidan havo chiqib ketayotganda shar qayoqqa uchadi?  A) Havo chiqayotgan tomonga.  B) Pastga.  C) Havo oqimiga qarama-qarshi tomonga.",
+     "7-savol. Tortish kuchi oshsa (qarshilik o'zgarmasa), tezlik qanday o'zgaradi?  A) Oshadi.  B) Kamayadi.  C) O'zgarmaydi.",
+     "8-savol. Nega poyga mashinalarining shakli past va cho'ziq?  A) Chiroyli ko'rinish uchun.  B) Havo qarshiligini kamaytirish uchun.  C) Arzon bo'lishi uchun.",
+     "9-savol. Parashyut qaysi kuchdan foydalanadi?  A) Ko'tarish kuchidan.  B) Magnit kuchidan.  C) Havo qarshiligidan.",
+     "10-savol. Ikki xil parrak sinovida nimani bir xil qoldiramiz?  A) Motor tezligi va sinov sharoitini.  B) Hech narsani.  C) Faqat rangni."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "2-sinf",
+   "yil": "2-yil",
+   "chorak": "2-chorak, 5-hafta",
+   "darsRaqami": "30 / 84",
+   "modul": "N2. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|2-sinf|2-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Parrak havoni itaradi\" mavzusini \"Propeller-driven Vehicle\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Propeller-driven Vehicle\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -49128,13 +50421,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "2-yil",
    "chorak": "2-chorak, 5-hafta",
-   "darsRaqami": "30 / 84",
+   "darsRaqami": "31 / 84",
    "modul": "M2. Aerodinamika va reaktiv kuch",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|2-chorak|9": {
+ "2-yil|2-sinf|2-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Reaktiv harakat tamoyili\" mavzusini \"Twin Propeller Aircraft\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Twin Propeller Aircraft\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -49207,14 +50500,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 5-hafta",
-   "darsRaqami": "31 / 84",
+   "chorak": "2-chorak, 6-hafta",
+   "darsRaqami": "32 / 84",
    "modul": "M2. Aerodinamika va reaktiv kuch",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|2-chorak|10": {
+ "2-yil|2-sinf|2-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Tabiatdan olingan zamonaviy ixtirolar\" mavzusini \"Electric Cat and Mouse\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Electric Cat and Mouse\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -49288,13 +50581,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "2-yil",
    "chorak": "2-chorak, 6-hafta",
-   "darsRaqami": "32 / 84",
+   "darsRaqami": "33 / 84",
    "modul": "M2. Aerodinamika va reaktiv kuch",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|2-chorak|11": {
+ "2-yil|2-sinf|2-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Suzuvchi hayvonlar harakati\" mavzusini \"Mouse (AI)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Mouse (AI)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -49366,14 +50659,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 6-hafta",
-   "darsRaqami": "33 / 84",
+   "chorak": "2-chorak, 7-hafta",
+   "darsRaqami": "34 / 84",
    "modul": "M2. Aerodinamika va reaktiv kuch",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|2-chorak|12": {
+ "2-yil|2-sinf|2-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Suzuvchi hayvonlar harakati\" mavzusini \"Electric Stegosaurus\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Electric Stegosaurus\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -49447,13 +50740,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "2-yil",
    "chorak": "2-chorak, 7-hafta",
-   "darsRaqami": "34 / 84",
+   "darsRaqami": "35 / 84",
    "modul": "M2. Aerodinamika va reaktiv kuch",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|2-chorak|13": {
+ "2-yil|2-sinf|2-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Hayvonlarning himoya usullari\" mavzusini \"Crab (electric)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Crab (electric)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -49525,14 +50818,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 7-hafta",
-   "darsRaqami": "35 / 84",
+   "chorak": "2-chorak, 8-hafta",
+   "darsRaqami": "36 / 84",
    "modul": "M2. Aerodinamika va reaktiv kuch",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|2-chorak|14": {
+ "2-yil|2-sinf|2-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Hayvonlarning himoya usullari\" mavzusini \"Crab (AI)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Crab (AI)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -49605,13 +50898,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "2-yil",
    "chorak": "2-chorak, 8-hafta",
-   "darsRaqami": "36 / 84",
+   "darsRaqami": "37 / 84",
    "modul": "M2. Aerodinamika va reaktiv kuch",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|2-chorak|15": {
+ "2-yil|2-sinf|2-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Hayvonlarning himoya usullari\" mavzusini \"Brachiosaurus (electric)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Brachiosaurus (electric)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -49684,14 +50977,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 8-hafta",
-   "darsRaqami": "37 / 84",
+   "chorak": "2-chorak, 9-hafta",
+   "darsRaqami": "38 / 84",
    "modul": "M2. Aerodinamika va reaktiv kuch",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|2-chorak|16": {
+ "2-yil|2-sinf|2-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Uchar model\" loyihasi doirasida havo kuchi bilan harakatlanadigan model loyihalash va uning tortish kuchini oshirish.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 4-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Rejali ishlash — vaqtni bosqichlarga bo'lib, eskiz va sinovga ham vaqt qoldirish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: havo kuchi bilan harakatlanadigan model loyihalash va uning tortish kuchini oshirish.",
+     "Talab: Boshlang'ich tortish kuchi o'lchansin.",
+     "Talab: Bitta o'zgartirish kiritilsin.",
+     "Talab: Yangi natija o'lchansin va taqqoslansin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Tortish kuchini masofa yoki tortilgan yuk orqali o'lchang",
+     "Bir vaqtda FAQAT BITTA narsani o'zgartiring — aks holda nima ta'sir qilgani noma'lum qoladi",
+     "Parrak burchagi va o'lchami — asosiy ta'sir omillari"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Model havo kuchi bilan harakatlanadi.",
+     "2-band (1 ball): Boshlang'ich natija (masofa/yuk) o'lchab yozilgan.",
+     "3-band (1 ball): Aniq BITTA o'zgartirish kiritilgan va u yozilgan.",
+     "4-band (1 ball): Yangi natija o'lchab yozilgan.",
+     "5-band (1 ball): Farq foizda yoki raqamda hisoblangan.",
+     "6-band (1 ball): Bola o'zgartirish nega ta'sir qilganini fizika bilan tushuntiradi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 4-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: O'zgartirishingiz tortish kuchini necha foizga oshirdi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "2-sinf",
+   "yil": "2-yil",
+   "chorak": "2-chorak, 9-hafta",
+   "darsRaqami": "39 / 84",
+   "modul": "L2. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|2-sinf|2-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Ko'p oyoqli harakat tartibi\" mavzusini \"Rabbit (AI)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Rabbit (AI)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -49763,14 +51163,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 9-hafta",
-   "darsRaqami": "38 / 84",
+   "chorak": "2-chorak, 10-hafta",
+   "darsRaqami": "40 / 84",
    "modul": "M2. Aerodinamika va reaktiv kuch",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|2-chorak|17": {
+ "2-yil|2-sinf|2-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Ko'p oyoqli harakat tartibi\" mavzusini \"Stegosaurus (Adv)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Stegosaurus (Adv)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -49843,14 +51243,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 9-hafta",
-   "darsRaqami": "39 / 84",
+   "chorak": "2-chorak, 10-hafta",
+   "darsRaqami": "41 / 84",
    "modul": "M2. Aerodinamika va reaktiv kuch",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|2-chorak|18": {
+ "2-yil|2-sinf|2-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Hayvon harakatini mexanizm bilan takrorlash\" mavzusini \"Crocodile (AI)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Crocodile (AI)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -49922,164 +51322,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 10-hafta",
-   "darsRaqami": "40 / 84",
-   "modul": "M2. Aerodinamika va reaktiv kuch",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|2-sinf|2-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Havo-Kuchi\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (tortib siljitilgan yuk miqdori) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Tortish kuchi (Thrust) – parrak hosil qiladigan itaruvchi kuch",
-   "Qanot burchagi (Blade pitch) – parrak qanotining qiyaligi",
-   "Havo oqimi (Airflow) – parrak haydaydigan havo",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Vaqtni boshqarish — Musobaqagacha tayyorgarlikni ulgurish, oxirgi daqiqaga qoldirmaslik.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "Parrak va motor",
-   "Ip va yuk detallari",
-   "Silliq sirt"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: parrakli yoki reaktiv model yasab, uning tortish kuchini o'lchash: model ip bilan bog'lanadi va necha detal-yukni tortib siljita olishi sanaladi.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "4 va undan ko'p detal-yuk = 5 (a'lo)",
-     "3 detal-yuk = 4 (yaxshi)",
-     "2 detal-yuk = 3 (qoniqarli)",
-     "1 detal-yuk = 2 (qoniqarsiz)",
-     "Model yukni umuman siljitolmasa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (tortib siljitilgan yuk miqdori) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Qanot burchagini o'zgartirsangiz tortish kuchi qanday o'zgaradi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "2-sinf",
-   "yil": "2-yil",
-   "chorak": "2-chorak, 10-hafta",
-   "darsRaqami": "41 / 84",
-   "modul": "N2. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|2-sinf|2-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Uchar model\" loyihasi doirasida havo kuchi bilan harakatlanadigan model loyihalash va uning tortish kuchini oshirish.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: havo kuchi bilan harakatlanadigan model loyihalash va uning tortish kuchini oshirish.",
-     "Talab: Boshlang'ich tortish kuchi o'lchansin.",
-     "Talab: Bitta o'zgartirish kiritilsin.",
-     "Talab: Yangi natija o'lchansin va taqqoslansin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: O'zgartirishingiz tortish kuchini necha foizga oshirdi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "2-sinf",
-   "yil": "2-yil",
    "chorak": "2-chorak, 11-hafta",
    "darsRaqami": "42 / 84",
-   "modul": "L2. Loyiha",
+   "modul": "M2. Aerodinamika va reaktiv kuch",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
@@ -50719,6 +51964,95 @@ window.LESSON_CONTENT = {
  },
  "2-yil|2-sinf|3-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Biomimikriya va tabiiy dizayn\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 5-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Xatodan o'rganish — noto'g'ri javob \"yomon\" degani emas; qaysi mavzuni takrorlash kerakligini ko'rsatadigan belgi.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 5-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Biomimikriyaning maqsadi nima?  A) Tabiat yechimlarini texnikada qo'llash.  B) Hayvonlarni qafasda saqlash.  C) Rasm chizish.",
+     "2-savol. Qushlarning suyaklari qanday tuzilgan?  A) Juda og'ir va qattiq.  B) Ichi g'ovak — yengil, lekin mustahkam.  C) Rezinadan.",
+     "3-savol. Hayvon dumini modelda nima bilan takrorlash mumkin?  A) Motor bilan faqat.  B) G'ildirak bilan.  C) Harakatlanuvchi bo'g'inli uzun qism bilan.",
+     "4-savol. Rang va naqsh hayvonlarga nima uchun kerak?  A) Yashirinish yoki ogohlantirish uchun.  B) Chiroy uchun faqat.  C) Tezlik uchun.",
+     "5-savol. Askari kiyimidagi kamuflyaj qaysi tabiiy yechimdan olingan?  A) Qush sayrashidan.  B) Hayvonlarning yashirinish rangidan.  C) Daraxt ildizidan.",
+     "6-savol. Uchuvchi hayvonning qanot YUZASI katta bo'lishi nima beradi?  A) Og'irlikni oshiradi.  B) Hech narsa.  C) Ko'proq havoga tayanib, ko'tarilish oson bo'ladi.",
+     "7-savol. Skelet konstruksiyada nimaga mos keladi?  A) Karkas (ramka).  B) Bo'yoq.  C) G'ildirak.",
+     "8-savol. Delfin shaklidan qaysi transportda foydalanilgan?  A) Traktorda.  B) Suv osti kemasida.  C) Velosipedda.",
+     "9-savol. Hayvon oyog'idagi bo'g'in modeldagi nimaga o'xshaydi?  A) Yelimga.  B) Bo'yoqqa.  C) Sharnir (aylanadigan birikma)ga.",
+     "10-savol. Tabiatdan g'oya olishdan oldin nima qilamiz?  A) Hayvon harakatini diqqat bilan kuzatamiz.  B) Darhol quramiz.  C) Rasm sotib olamiz."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "2-sinf",
+   "yil": "2-yil",
+   "chorak": "3-chorak, 5-hafta",
+   "darsRaqami": "51 / 84",
+   "modul": "N3. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|2-sinf|3-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Rang va naqsh nima uchun kerak\" mavzusini \"Shark\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Shark\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -50791,13 +52125,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "2-yil",
    "chorak": "3-chorak, 5-hafta",
-   "darsRaqami": "51 / 84",
+   "darsRaqami": "52 / 84",
    "modul": "M3. Biomimikriya",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|3-chorak|9": {
+ "2-yil|2-sinf|3-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Hayvon skeleti va konstruksiya\" mavzusini \"Electric Tortoise\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Electric Tortoise\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -50869,14 +52203,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 5-hafta",
-   "darsRaqami": "52 / 84",
+   "chorak": "3-chorak, 6-hafta",
+   "darsRaqami": "53 / 84",
    "modul": "M3. Biomimikriya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|3-chorak|10": {
+ "2-yil|2-sinf|3-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Hayvon skeleti va konstruksiya\" mavzusini \"Stegosaurus (AI)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Stegosaurus (AI)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -50949,13 +52283,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "2-yil",
    "chorak": "3-chorak, 6-hafta",
-   "darsRaqami": "53 / 84",
+   "darsRaqami": "54 / 84",
    "modul": "M3. Biomimikriya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|3-chorak|11": {
+ "2-yil|2-sinf|3-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Hayvon oyog'i qanday harakat qiladi\" mavzusini \"Tyannosaurus Rex (Adv)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Tyannosaurus Rex (Adv)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -51028,14 +52362,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 6-hafta",
-   "darsRaqami": "54 / 84",
+   "chorak": "3-chorak, 7-hafta",
+   "darsRaqami": "55 / 84",
    "modul": "M3. Biomimikriya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|3-chorak|12": {
+ "2-yil|2-sinf|3-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Sudralib yuruvchilar harakati\" mavzusini \"Buffalo (electric)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Buffalo (electric)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -51108,13 +52442,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "2-yil",
    "chorak": "3-chorak, 7-hafta",
-   "darsRaqami": "55 / 84",
+   "darsRaqami": "56 / 84",
    "modul": "M3. Biomimikriya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|3-chorak|13": {
+ "2-yil|2-sinf|3-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Sudralib yuruvchilar harakati\" mavzusini \"Triceratops (electric)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Triceratops (electric)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -51187,14 +52521,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 7-hafta",
-   "darsRaqami": "56 / 84",
+   "chorak": "3-chorak, 8-hafta",
+   "darsRaqami": "57 / 84",
    "modul": "M3. Biomimikriya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|3-chorak|14": {
+ "2-yil|2-sinf|3-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Kuch va o'lcham nisbati\" mavzusini \"Koi\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Koi\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -51268,13 +52602,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "2-yil",
    "chorak": "3-chorak, 8-hafta",
-   "darsRaqami": "57 / 84",
+   "darsRaqami": "58 / 84",
    "modul": "M3. Biomimikriya",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|3-chorak|15": {
+ "2-yil|2-sinf|3-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Katta hayvonlar qanday harakat qiladi\" mavzusini \"Tyrannosaurus (AI)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Tyrannosaurus (AI)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -51346,14 +52680,122 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 8-hafta",
-   "darsRaqami": "58 / 84",
+   "chorak": "3-chorak, 9-hafta",
+   "darsRaqami": "59 / 84",
    "modul": "M3. Biomimikriya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|3-chorak|16": {
+ "2-yil|2-sinf|3-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Bionik robot\" loyihasi doirasida tabiatdagi harakat usulini takrorlaydigan robot loyihalash.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 6-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Natijaga halol munosabat — o'lchovni bo'rttirmasdan, qanday chiqqan bo'lsa shunday yozish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: tabiatdagi harakat usulini takrorlaydigan robot loyihalash.",
+     "Talab: Qaysi jonzot va qaysi harakat — yozilsin.",
+     "Talab: Robot o'sha harakatni bajarsin.",
+     "Talab: Tabiiy yechim bilan robot yechimi taqqoslansin.",
+     "Talab: Kamida 1,5 metr harakatlansin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Harakat mexanikasini avval qog'ozda chizing: qaysi bo'g'in qayerga buriladi",
+     "Muvozanatni har qadam bosqichida tekshiring",
+     "Tabiiy harakatning qaysi qismini soddalashtirdingiz — buni yozib qo'ying"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Jonzot va harakat turi daftarga yozilgan.",
+     "2-band (1 ball): Robot o'sha harakat PRINSIPINI bajaradi.",
+     "3-band (1 ball): Sinov: robot to'xtamasdan kamida 1,5 metr harakatlandi.",
+     "4-band (1 ball): Harakat davomida robot yiqilmadi.",
+     "5-band (1 ball): Tabiiy va robot yechimi taqqoslab yozilgan.",
+     "6-band (1 ball): Bola qaysi soddalashtirish kiritilganini aytadi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 6-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Tabiat bu masalani sizdan qanday farqli hal qilgan?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "2-sinf",
+   "yil": "2-yil",
+   "chorak": "3-chorak, 9-hafta",
+   "darsRaqami": "60 / 84",
+   "modul": "L3. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|2-sinf|3-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Katta hayvonlar qanday harakat qiladi\" mavzusini \"Euoplocephalus (electric)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Euoplocephalus (electric)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -51426,14 +52868,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 9-hafta",
-   "darsRaqami": "59 / 84",
+   "chorak": "3-chorak, 10-hafta",
+   "darsRaqami": "61 / 84",
    "modul": "M3. Biomimikriya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|3-chorak|17": {
+ "2-yil|2-sinf|3-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Ov qilish va harakat tezligi\" mavzusini \"Hadrosaur (electric)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Hadrosaur (electric)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -51506,14 +52948,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 9-hafta",
-   "darsRaqami": "60 / 84",
+   "chorak": "3-chorak, 10-hafta",
+   "darsRaqami": "62 / 84",
    "modul": "M3. Biomimikriya",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|3-chorak|18": {
+ "2-yil|2-sinf|3-chorak|20": {
   "maqsad": [
    "O'quvchilar \"To'siqdan oshib o'tish\" mavzusini \"Exploration Robot\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Exploration Robot\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -51586,166 +53028,10 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 10-hafta",
-   "darsRaqami": "61 / 84",
-   "modul": "M3. Biomimikriya",
-   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|2-sinf|3-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Bionik-Yurish\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (masofani bosib o'tgani va to'siqdan oshgani) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Qadam tsikli (Gait cycle) – oyoqlarning takrorlanuvchi harakat tartibi",
-   "Klirens (Ground clearance) – model tagining balandligi",
-   "Biomimikriya (Biomimicry) – tabiatdagi yechimni texnikaga ko'chirish",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Bosim ostida ishlash — Hamma qarab turganda ham xotirjam ishlash, xato bo'lsa vahima qilmaslik.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "2 metrlik yo'lak",
-   "3 sm balandlikdagi to'siq",
-   "Yiqilishlarni sanash varaqasi"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: hayvondan ilhomlangan, g'ildiraksiz oyoqli model 2 metr masofani bosib o'tadi va yo'lda 3 sm balandlikdagi to'siqdan oshib o'tadi.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "To'siqdan oshib, 2 metrni yiqilmasdan bosib o'tsa = 5 (a'lo)",
-     "To'siqdan oshadi, 1 marta yiqiladi = 4 (yaxshi)",
-     "2 metrni bosadi, lekin to'siqdan o'tolmaydi = 3 (qoniqarli)",
-     "1 metrdan ko'proq yuradi = 2 (qoniqarsiz)",
-     "Yura olmasa yoki g'ildirak ishlatilsa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (masofani bosib o'tgani va to'siqdan oshgani) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Qaysi hayvon oyog'idan nusxa oldingiz va u to'siqda yordam berdimi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "2-sinf",
-   "yil": "2-yil",
-   "chorak": "3-chorak, 10-hafta",
-   "darsRaqami": "62 / 84",
-   "modul": "N3. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|2-sinf|3-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Bionik robot\" loyihasi doirasida tabiatdagi harakat usulini takrorlaydigan robot loyihalash.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: tabiatdagi harakat usulini takrorlaydigan robot loyihalash.",
-     "Talab: Qaysi jonzot va qaysi harakat — yozilsin.",
-     "Talab: Robot o'sha harakatni bajarsin.",
-     "Talab: Tabiiy yechim bilan robot yechimi taqqoslansin.",
-     "Talab: Kamida 1,5 metr harakatlansin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Tabiat bu masalani sizdan qanday farqli hal qilgan?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "2-sinf",
-   "yil": "2-yil",
    "chorak": "3-chorak, 11-hafta",
    "darsRaqami": "63 / 84",
-   "modul": "L3. Loyiha",
-   "jihoz": "Makerzoid Robot Master Standard",
+   "modul": "M3. Biomimikriya",
+   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
@@ -52386,6 +53672,95 @@ window.LESSON_CONTENT = {
  },
  "2-yil|2-sinf|4-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"Notekis yuza va kosmik texnika\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 7-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "O'zini baholash — testdan oldin qaysi savollarga ishonchingiz komil ekanini his qilish va yakunda solishtirish.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 7-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Notekis yuzada qaysi g'ildirak yaxshi yuradi?  A) Katta va protektorli (naqshli).  B) Kichkina va silliq.  C) Yassi.",
+     "2-savol. Marsoxod g'ildiraklari nega mustaqil harakatlana oladi?  A) Chiroyli bo'lishi uchun.  B) Har g'ildirak notekislikka moslashishi uchun.  C) Tezlik uchun.",
+     "3-savol. Past gravitatsiyada sakrab ketmaslik uchun rover qanday yurishi kerak?  A) Juda tez.  B) Sakrab-sakrab.  C) Sekin va tekis.",
+     "4-savol. Kosmik aloqa qanday amalga oshadi?  A) Antenna va radio to'lqinlar orqali.  B) Sim orqali.  C) Ovoz bilan.",
+     "5-savol. Nega kosmik texnikada har qism ikki-uch marta tekshiriladi?  A) Vaqt ko'p bo'lgani uchun.  B) Kosmosda ta'mirlab bo'lmaydi.  C) Qoida shunaqa.",
+     "6-savol. Namuna olish mexanizmi qanday qismlardan iborat bo'lishi mumkin?  A) Faqat g'ildirakdan.  B) Faqat antennadan.  C) Qazish qismi va saqlash idishidan.",
+     "7-savol. Kosmosdagi katta harorat farqiga qanday chidaladi?  A) Maxsus himoya qatlamlari bilan.  B) Hech qanday himoya kerak emas.  C) Suv sepib.",
+     "8-savol. 6 g'ildirakli roverning bir g'ildiragi toshga chiqsa nima bo'ladi?  A) Rover ag'anaydi.  B) Qolgan g'ildiraklar yerda qoladi — rover barqaror.  C) Rover to'xtaydi.",
+     "9-savol. G'ildirak protektorining (naqshining) vazifasi nima?  A) Chiroy.  B) Og'irlik qo'shish.  C) Sirt bilan tishlashishni oshirish.",
+     "10-savol. Ishonchli kosmik model qurishda eng muhim tamoyil qaysi?  A) Oddiy va puxta konstruksiya.  B) Iloji boricha murakkab qilish.  C) Faqat tez qurish."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "2-sinf",
+   "yil": "2-yil",
+   "chorak": "4-chorak, 5-hafta",
+   "darsRaqami": "72 / 84",
+   "modul": "N4. Nazorat ishi",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|2-sinf|4-chorak|9": {
+  "maqsad": [
    "O'quvchilar \"Kelajakdagi kosmik missiyalar\" mavzusini \"Lunar Transporter\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Lunar Transporter\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
    "O'quvchilar yig'ilgan modelni sinab, kuzatgan natijasini o'z so'zlari bilan tushuntirish ko'nikmasini rivojlantiradilar."
@@ -52458,13 +53833,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "2-yil",
    "chorak": "4-chorak, 5-hafta",
-   "darsRaqami": "72 / 84",
+   "darsRaqami": "73 / 84",
    "modul": "M4. Kosmik texnika va roverlar",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|4-chorak|9": {
+ "2-yil|2-sinf|4-chorak|10": {
   "maqsad": [
    "O'quvchilar \"Kosmik texnika og'irligi va o'lchami\" mavzusini \"Moon Collection Rover\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Moon Collection Rover\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -52537,14 +53912,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 5-hafta",
-   "darsRaqami": "73 / 84",
+   "chorak": "4-chorak, 6-hafta",
+   "darsRaqami": "74 / 84",
    "modul": "M4. Kosmik texnika va roverlar",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|4-chorak|10": {
+ "2-yil|2-sinf|4-chorak|11": {
   "maqsad": [
    "O'quvchilar \"Kosmik yuk tashish\" mavzusini \"Interplanetary Repair Station\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Interplanetary Repair Station\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -52618,13 +53993,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "2-yil",
    "chorak": "4-chorak, 6-hafta",
-   "darsRaqami": "74 / 84",
+   "darsRaqami": "75 / 84",
    "modul": "M4. Kosmik texnika va roverlar",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|4-chorak|11": {
+ "2-yil|2-sinf|4-chorak|12": {
   "maqsad": [
    "O'quvchilar \"Kosmik texnika nima uchun maxsus\" mavzusini \"Dual Motor Lunar Rover\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Dual Motor Lunar Rover\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -52697,14 +54072,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 6-hafta",
-   "darsRaqami": "75 / 84",
+   "chorak": "4-chorak, 7-hafta",
+   "darsRaqami": "76 / 84",
    "modul": "M4. Kosmik texnika va roverlar",
    "jihoz": "Makerzoid Robot Master Standard",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|4-chorak|12": {
+ "2-yil|2-sinf|4-chorak|13": {
   "maqsad": [
    "O'quvchilar \"Rover energiyani qayerdan oladi\" mavzusini \"Transport Walker\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Transport Walker\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -52778,13 +54153,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "2-yil",
    "chorak": "4-chorak, 7-hafta",
-   "darsRaqami": "76 / 84",
+   "darsRaqami": "77 / 84",
    "modul": "M4. Kosmik texnika va roverlar",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|4-chorak|13": {
+ "2-yil|2-sinf|4-chorak|14": {
   "maqsad": [
    "O'quvchilar \"Yurish (oyoqli) kosmik texnika\" mavzusini \"Interstellar Cannon\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Interstellar Cannon\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -52857,14 +54232,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 7-hafta",
-   "darsRaqami": "77 / 84",
+   "chorak": "4-chorak, 8-hafta",
+   "darsRaqami": "78 / 84",
    "modul": "M4. Kosmik texnika va roverlar",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|4-chorak|14": {
+ "2-yil|2-sinf|4-chorak|15": {
   "maqsad": [
    "O'quvchilar \"Chang va kir muammosi\" mavzusini \"Intersteller Pathfinder Robot\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Intersteller Pathfinder Robot\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -52938,13 +54313,13 @@ window.LESSON_CONTENT = {
    "sinf": "2-sinf",
    "yil": "2-yil",
    "chorak": "4-chorak, 8-hafta",
-   "darsRaqami": "78 / 84",
+   "darsRaqami": "79 / 84",
    "modul": "M4. Kosmik texnika va roverlar",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|4-chorak|15": {
+ "2-yil|2-sinf|4-chorak|16": {
   "maqsad": [
    "O'quvchilar \"Kosmik texnikani sinash\" mavzusini \"Collection Robot\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Collection Robot\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -53017,14 +54392,123 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 8-hafta",
-   "darsRaqami": "79 / 84",
+   "chorak": "4-chorak, 9-hafta",
+   "darsRaqami": "80 / 84",
    "modul": "M4. Kosmik texnika va roverlar",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|4-chorak|16": {
+ "2-yil|2-sinf|4-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Kosmik missiya (bitiruv)\" loyihasi doirasida o'zingiz tuzgan kosmik missiyani to'liq muhandislik tsikli bo'yicha hal qilish.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 8-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "O'z ishini himoya qilish — qarorlarini dalil va o'lchov bilan asoslab berish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: o'zingiz tuzgan kosmik missiyani to'liq muhandislik tsikli bo'yicha hal qilish.",
+     "Talab: Missiya bosqichlari yozilsin.",
+     "Talab: Eskiz chizilsin.",
+     "Talab: Rover qurilsin va sinalsin.",
+     "Talab: Sinov natijasiga ko'ra kamida 2 ta takomil kiritilsin.",
+     "Talab: Natija va o'lchovlar bilan sinfga taqdim etilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Missiyada kamida 3 bosqich bo'lsin: yetib borish, vazifa, qaytish",
+     "Har sinovni raqam bilan yozing — takomil o'sha raqamga tayanadi",
+     "Notekis 'sirt' (kitoblar, to'siqlar) tayyorlab oling"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Missiya bosqichlari (kamida 3 ta) oldindan yozilgan.",
+     "2-band (1 ball): Rover eskiz asosida qurilgan.",
+     "3-band (1 ball): Sinov natijalari raqam bilan yozilgan.",
+     "4-band (1 ball): Kamida 2 ta takomil kiritilgan va har biri sinovga asoslangan.",
+     "5-band (1 ball): Sinov: to'liq missiya boshdan-oxir 1 marta bajarildi.",
+     "6-band (1 ball): Taqdimotda o'lchovlar va takomillar ko'rsatildi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 8-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Qaysi takomil eng katta farq berdi — buni qanday o'lchadingiz?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "2-sinf",
+   "yil": "2-yil",
+   "chorak": "4-chorak, 9-hafta",
+   "darsRaqami": "81 / 84",
+   "modul": "L4. Loyiha",
+   "jihoz": "Makerzoid Robot Master Standard",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|2-sinf|4-chorak|18": {
   "maqsad": [
    "O'quvchilar \"Kosmik texnikada avtomatik xavfsizlik\" mavzusini \"Armoured Vehicle (Space)\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Armoured Vehicle (Space)\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -53097,14 +54581,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 9-hafta",
-   "darsRaqami": "80 / 84",
+   "chorak": "4-chorak, 10-hafta",
+   "darsRaqami": "82 / 84",
    "modul": "M4. Kosmik texnika va roverlar",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|4-chorak|17": {
+ "2-yil|2-sinf|4-chorak|19": {
   "maqsad": [
    "O'quvchilar \"Rover nima ish bajaradi\" mavzusini \"Moon Exploration Vehicle\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Moon Exploration Vehicle\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -53177,14 +54661,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 9-hafta",
-   "darsRaqami": "81 / 84",
+   "chorak": "4-chorak, 10-hafta",
+   "darsRaqami": "83 / 84",
    "modul": "M4. Kosmik texnika va roverlar",
    "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|2-sinf|4-chorak|18": {
+ "2-yil|2-sinf|4-chorak|20": {
   "maqsad": [
    "O'quvchilar \"Rover qanday boshqariladi\" mavzusini \"Reconnaissance Walker\" modeli misolida tushunadilar.",
    "O'quvchilar Makerzoid to'plamidan foydalanib, \"Reconnaissance Walker\" modelini instruksiya bo'yicha yig'ishni o'rganadilar.",
@@ -53257,167 +54741,10 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "2-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 10-hafta",
-   "darsRaqami": "82 / 84",
-   "modul": "M4. Kosmik texnika va roverlar",
-   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|2-sinf|4-chorak|19": {
-  "maqsad": [
-   "O'quvchilar chorak davomida o'rgangan bilim va ko'nikmalarini \"Rover-Missiyasi\" musobaqasida amaliy tarzda namoyish etadilar.",
-   "O'quvchilar oldindan e'lon qilingan aniq mezon (yig'ilgan namunalar soni va umumiy vaqt) asosida baholanish tajribasini oladilar.",
-   "O'quvchilar o'z natijasini tahlil qilib, nima uchun shunday chiqqanini tushuntiradilar."
-  ],
-  "lugat": [
-   "Missiya (Mission) – aniq maqsadli topshiriqlar ketma-ketligi",
-   "Navigatsiya (Navigation) – yo'lni topib borish",
-   "Manipulyator (Manipulator) – namunani olish qismi",
-   "Musobaqa (Competition) – g'olibni aniqlash uchun o'tkaziladigan raqobat",
-   "Baholash mezoni (Grading criteria) – natijani baholash uchun oldindan belgilangan qoidalar"
-  ],
-  "softSkill": "Mas'uliyat va o'zini baholash — Yil yakunida o'z natijasini haqqoniy baholay olish, kuchli va kuchsiz tomonini aytish.",
-  "resurslar": [
-   "Chorak davomida o'quvchilar yig'gan modellar",
-   "Natijalarni yozish uchun jadval (doskada yoki qog'ozda)",
-   "Notekis \"Mars\" maydoni",
-   "Ikkita rangli namuna detali",
-   "Sekundomer"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Musobaqa qoidalari (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: rover notekis maydondan o'tib, ikkita namunani (turli joydan) yig'ib, start nuqtasiga qaytadi.",
-     "Navbat tartibi belgilanadi va xavfsizlik qoidalari eslatiladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "2 namuna olib qaytsa, 3 daqiqadan kam = 5 (a'lo)",
-     "2 namuna olib qaytsa, 3–5 daqiqa = 4 (yaxshi)",
-     "1 namuna olib qaytsa = 3 (qoniqarli)",
-     "Namuna olinadi, lekin qaytmaydi = 2 (qoniqarsiz)",
-     "Notekis maydondan o'ta olmasa = FAILED",
-     "Mezon doskaga yoziladi — musobaqa davomida o'zgartirilmaydi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (5 daqiqa)",
-    "points": [
-     "O'quvchilar modelini oxirgi marta tekshiradilar va kerak bo'lsa batareyani almashtiradilar.",
-     "Har bir juftlik bitta sinov urinishi qilib ko'radi."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yoki juftlik navbat bilan chiqib topshiriqni bajaradi.",
-     "O'qituvchi natijani (yig'ilgan namunalar soni va umumiy vaqt) o'lchab jadvalga yozadi.",
-     "Har bir natija darhol mezon bo'yicha baholanadi va e'lon qilinadi."
-    ]
-   },
-   {
-    "title": "6.3. Natija tahlili (5 daqiqa)",
-    "points": [
-     "Sinf jadvalga birga qaraydi: eng yaxshi natija nima bilan ajralib turdi?",
-     "Asosiy savol muhokama qilinadi: Ikkinchi namunani olish birinchisidan nimasi bilan qiyin bo'ldi?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Bugungi natijangizni yaxshilash uchun modelga qanday bitta o'zgartirish kiritgan bo'lardingiz — daftaringizga yozib keling.",
-   "Sinfdagi eng yaxshi natijani ko'rsatgan model nimasi bilan farq qilganini bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "2-sinf",
-   "yil": "2-yil",
-   "chorak": "4-chorak, 10-hafta",
-   "darsRaqami": "83 / 84",
-   "modul": "N4. Nazorat ishi",
-   "jihoz": "Makerzoid Robot Master Standard",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|2-sinf|4-chorak|20": {
-  "maqsad": [
-   "O'quvchilar \"Kosmik missiya (bitiruv)\" loyihasi doirasida o'zingiz tuzgan kosmik missiyani to'liq muhandislik tsikli bo'yicha hal qilish.",
-   "O'quvchilar oldindan berilgan talablarga javob beradigan yechim qurish tajribasini oladilar.",
-   "O'quvchilar o'z loyihasini sinfga taqdim etib, qabul qilgan qarorlarini asoslaydilar."
-  ],
-  "lugat": [
-   "Loyiha (Project) – aniq maqsadga qaratilgan mustaqil ish",
-   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
-   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
-   "Taqdimot (Presentation) – o'z ishini boshqalarga ko'rsatib tushuntirish",
-   "Asoslash (Justification) – nima uchun shunday qilganini dalil bilan aytish"
-  ],
-  "softSkill": "Mustaqillik va tashabbus — O'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
-  "resurslar": [
-   "Makerzoid Robot Master Standard to'plami",
-   "Chorak davomida o'rganilgan modellarning instruksiyalari (g'oya olish uchun)",
-   "Eskiz chizish uchun daftar va qalam",
-   "O'lchov lentasi va sekundomer (sinov uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Loyiha talabi (5 daqiqa)",
-    "points": [
-     "Topshiriq e'lon qilinadi: o'zingiz tuzgan kosmik missiyani to'liq muhandislik tsikli bo'yicha hal qilish.",
-     "Talab: Missiya bosqichlari yozilsin.",
-     "Talab: Eskiz chizilsin.",
-     "Talab: Rover qurilsin va sinalsin.",
-     "Talab: Sinov natijasiga ko'ra kamida 2 ta takomil kiritilsin.",
-     "Talab: Natija va o'lchovlar bilan sinfga taqdim etilsin."
-    ]
-   },
-   {
-    "title": "5.2. Eskiz (5 daqiqa)",
-    "points": [
-     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
-     "Eskizda qaysi qism nima qilishi belgilanadi.",
-     "O'qituvchi eskizlarni ko'rib chiqib, talablarga mos kelishini tekshiradi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (22 daqiqa)",
-    "points": [
-     "O'quvchilar eskiz bo'yicha o'z loyihasini quradilar.",
-     "Ishlamagan yechim o'zgartiriladi — bu normal, eskizga tuzatish kiritish mumkin."
-    ]
-   },
-   {
-    "title": "6.2. Sinov (8 daqiqa)",
-    "points": [
-     "Loyiha talablar bo'yicha sinaladi va natija daftarga yoziladi.",
-     "Talab bajarilmasa, bitta tuzatish kiritib qayta sinaladi."
-    ]
-   },
-   {
-    "title": "6.3. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi loyihasini ko'rsatib, talablarni qanday bajarganini aytadi.",
-     "Asosiy savol: Qaysi takomil eng katta farq berdi — buni qanday o'lchadingiz?"
-    ]
-   }
-  ],
-  "uyga": [
-   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday funksiya qo'shish mumkinligini yozing.",
-   "Sinfdagi boshqa bitta loyihani tanlab, undan nimani o'rganganingizni bir gapda yozing."
-  ],
-  "meta": {
-   "sinf": "2-sinf",
-   "yil": "2-yil",
    "chorak": "4-chorak, 11-hafta",
    "darsRaqami": "84 / 84",
-   "modul": "L4. Loyiha",
-   "jihoz": "Makerzoid Robot Master Standard",
+   "modul": "M4. Kosmik texnika va roverlar",
+   "jihoz": "Makerzoid + qo'shimcha motor/sensor (2+2)",
    "davomiyligi": "45 daqiqa"
   }
  },
@@ -55195,6 +56522,95 @@ window.LESSON_CONTENT = {
  },
  "2-yil|3-sinf|1-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"SPIKE Prime: qismlar va yig'ish\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 1-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Halollik — testni mustaqil yechish, ko'chirmaslik. Natija qanday bo'lsa ham, u O'ZINGIZNIKI bo'lsin.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 1-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. SPIKE Prime to'plamining \"miyasi\" qaysi qism?  A) Hub (dasturlanadigan blok).  B) Katta motor.  C) G'ildirak.",
+     "2-savol. Motor va sensorlar Hub'ga qanday ulanadi?  A) Yelim bilan.  B) Portlarga kabel orqali.  C) Simsiz faqat.",
+     "3-savol. Driving Base nima?  A) O'yin maydoni.  B) Dastur nomi.  C) Ikki motorli harakatlanuvchi robot asosi.",
+     "4-savol. Robot to'g'ri yurishi uchun ikkala motor qanday ishlashi kerak?  A) Bir xil tezlikda.  B) Har xil tezlikda.  C) Faqat bittasi.",
+     "5-savol. Attachment nima?  A) Dastur xatosi.  B) Robotga taqiladigan almashtiriladigan qo'shimcha mexanizm.  C) Batareya turi.",
+     "6-savol. Yig'ishda rasmli instruksiyaga rioya qilish nega muhim?  A) Tezroq tugatish uchun faqat.  B) O'qituvchi xafa bo'lmasligi uchun.  C) Bitta xato keyingi bosqichlarni buzadi.",
+     "7-savol. Robot Arm (robot-qo'l) qanday vazifani bajaradi?  A) Narsalarni ushlab ko'taradi.  B) Faqat yuradi.  C) Musiqa chaladi.",
+     "8-savol. Line Follower attachment'da sensor qayerga qaraydi?  A) Osmonga.  B) Pastga — chiziqni ko'rish uchun.  C) Orqaga.",
+     "9-savol. Ultrasonik sensor qanday o'lchaydi?  A) Rangni solishtiradi.  B) Og'irlikni tortadi.  C) Tovush to'lqini yuborib, qaytish vaqtini o'lchaydi.",
+     "10-savol. Yig'ilgan modelni sinashdan oldin nimani tekshiramiz?  A) Barcha birikmalar mahkamligini va kabellar ulanganini.  B) Faqat rangini.  C) Hech narsani."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "3-sinf",
+   "yil": "2-yil",
+   "chorak": "1-chorak, 5-hafta",
+   "darsRaqami": "9 / 84",
+   "modul": "N1. Nazorat ishi",
+   "jihoz": "LEGO Education SPIKE Prime",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|3-sinf|1-chorak|9": {
+  "maqsad": [
    "O'quvchilar rasmiy LEGO Education \"Color sensor mount\" modelini instruksiya bo'yicha mustaqil yig'ishni o'rganadilar.",
    "O'quvchilar bu qurilmaning vazifasini va sensor balandligining aniqlik darajasiga ta'siri tushunadilar.",
    "O'quvchilar rasmli instruksiyaga aniq va tartibli rioya qilish ko'nikmasini rivojlantiradilar."
@@ -55255,13 +56671,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "2-yil",
    "chorak": "1-chorak, 5-hafta",
-   "darsRaqami": "9 / 84",
+   "darsRaqami": "10 / 84",
    "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|1-chorak|9": {
+ "2-yil|3-sinf|1-chorak|10": {
   "maqsad": [
    "O'quvchilar rasmiy LEGO Education \"Bumper attachment (to'siq sezuvchi)\" modelini instruksiya bo'yicha mustaqil yig'ishni o'rganadilar.",
    "O'quvchilar bu qurilmaning vazifasini va mexanik bosim orqali to'siqni aniqlash (sensorsiz ham mumkin) tushunadilar.",
@@ -55322,14 +56738,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 5-hafta",
-   "darsRaqami": "10 / 84",
+   "chorak": "1-chorak, 6-hafta",
+   "darsRaqami": "11 / 84",
    "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|1-chorak|10": {
+ "2-yil|3-sinf|1-chorak|11": {
   "maqsad": [
    "O'quvchilar rasmiy LEGO Education \"Gripper (ushlagich) attachment\" modelini instruksiya bo'yicha mustaqil yig'ishni o'rganadilar.",
    "O'quvchilar bu qurilmaning vazifasini va ochilish-yopilish mexanizmi va motor bilan boshqarilishi tushunadilar.",
@@ -55391,13 +56807,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "2-yil",
    "chorak": "1-chorak, 6-hafta",
-   "darsRaqami": "11 / 84",
+   "darsRaqami": "12 / 84",
    "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|1-chorak|11": {
+ "2-yil|3-sinf|1-chorak|12": {
   "maqsad": [
    "O'quvchilar rasmiy LEGO Education \"Tractor\" modelini instruksiya bo'yicha mustaqil yig'ishni o'rganadilar.",
    "O'quvchilar bu qurilmaning vazifasini va yuqori moment (kuch) beruvchi uzatma tizimi tushunadilar.",
@@ -55458,14 +56874,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 6-hafta",
-   "darsRaqami": "12 / 84",
+   "chorak": "1-chorak, 7-hafta",
+   "darsRaqami": "13 / 84",
    "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|1-chorak|12": {
+ "2-yil|3-sinf|1-chorak|13": {
   "maqsad": [
    "O'quvchilar rasmiy LEGO Education \"Catapult attachment\" modelini instruksiya bo'yicha mustaqil yig'ishni o'rganadilar.",
    "O'quvchilar bu qurilmaning vazifasini va elastik energiya yoki richag orqali otish kuchi hosil qilish tushunadilar.",
@@ -55527,13 +56943,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "2-yil",
    "chorak": "1-chorak, 7-hafta",
-   "darsRaqami": "13 / 84",
+   "darsRaqami": "14 / 84",
    "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|1-chorak|13": {
+ "2-yil|3-sinf|1-chorak|14": {
   "maqsad": [
    "O'quvchilar rasmiy LEGO Education \"Plow attachment (belkurak)\" modelini instruksiya bo'yicha mustaqil yig'ishni o'rganadilar.",
    "O'quvchilar bu qurilmaning vazifasini va old qismning yerga yaqin joylashuvi tushunadilar.",
@@ -55594,14 +57010,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 7-hafta",
-   "darsRaqami": "14 / 84",
+   "chorak": "1-chorak, 8-hafta",
+   "darsRaqami": "15 / 84",
    "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|1-chorak|14": {
+ "2-yil|3-sinf|1-chorak|15": {
   "maqsad": [
    "O'quvchilar rasmiy LEGO Education \"Scoop attachment (cho'mich)\" modelini instruksiya bo'yicha mustaqil yig'ishni o'rganadilar.",
    "O'quvchilar bu qurilmaning vazifasini va cho'michning ko'tarish burchagi va mexanizmi tushunadilar.",
@@ -55663,13 +57079,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "2-yil",
    "chorak": "1-chorak, 8-hafta",
-   "darsRaqami": "15 / 84",
+   "darsRaqami": "16 / 84",
    "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|1-chorak|15": {
+ "2-yil|3-sinf|1-chorak|16": {
   "maqsad": [
    "O'quvchilar rasmiy LEGO Education \"Fork-lift attachment\" modelini instruksiya bo'yicha mustaqil yig'ishni o'rganadilar.",
    "O'quvchilar bu qurilmaning vazifasini va richag/vint orqali tik ko'tarish mexanizmi tushunadilar.",
@@ -55730,14 +57146,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 8-hafta",
-   "darsRaqami": "16 / 84",
+   "chorak": "1-chorak, 9-hafta",
+   "darsRaqami": "17 / 84",
    "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|1-chorak|16": {
+ "2-yil|3-sinf|1-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Mening Driving Base kombinatsiyam\" loyihasi doirasida o'z Driving Base + 2 ta tanlangan attachment kombinatsiyasini yig'ib, har birining ishlashini ko'rsatish.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 2-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Mustaqillik va tashabbus — o'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: o'z Driving Base + 2 ta tanlangan attachment kombinatsiyasini yig'ib, har birining ishlashini ko'rsatish.",
+     "Talab: Driving Base mustaqil yig'ilsin.",
+     "Talab: 2 ta attachment tanlanib, taqilsin.",
+     "Talab: Har attachment ish holatida ko'rsatilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Attachmentlarni vazifasiga qarab juftlang — ular bir-biriga xalaqit bermasin",
+     "Kabellarni harakatlanuvchi qismlardan uzoqroq o'tkazing",
+     "Yig'ishda instruksiya bosqichlarini o'tkazib yubormang"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Driving Base instruksiya bo'yicha to'g'ri va mahkam yig'ilgan.",
+     "2-band (1 ball): Robot to'g'ri chiziq bo'ylab og'masdan yuradi.",
+     "3-band (1 ball): 1-attachment taqilgan va ish holatida ko'rsatildi.",
+     "4-band (1 ball): 2-attachment taqilgan va ish holatida ko'rsatildi.",
+     "5-band (1 ball): Attachment almashtirish 2 daqiqadan kam vaqt oldi.",
+     "6-band (1 ball): Kabellar to'g'ri portlarga ulangan va harakatga xalaqit bermaydi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 2-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Qaysi attachment juftligi eng foydali kombinatsiya bo'ldi va nega?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "3-sinf",
+   "yil": "2-yil",
+   "chorak": "1-chorak, 9-hafta",
+   "darsRaqami": "18 / 84",
+   "modul": "L1. Loyiha",
+   "jihoz": "LEGO Education SPIKE Prime",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|3-sinf|1-chorak|18": {
   "maqsad": [
    "O'quvchilar rasmiy LEGO Education \"Ball Shooter attachment\" modelini instruksiya bo'yicha mustaqil yig'ishni o'rganadilar.",
    "O'quvchilar bu qurilmaning vazifasini va motor aylanishi orqali otish kuchi hosil qilish tushunadilar.",
@@ -55798,14 +57321,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 9-hafta",
-   "darsRaqami": "17 / 84",
+   "chorak": "1-chorak, 10-hafta",
+   "darsRaqami": "19 / 84",
    "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|1-chorak|17": {
+ "2-yil|3-sinf|1-chorak|19": {
   "maqsad": [
    "O'quvchilar rasmiy LEGO Education \"Kriket (box robot)\" modelini instruksiya bo'yicha mustaqil yig'ishni o'rganadilar.",
    "O'quvchilar bu qurilmaning vazifasini va minimal qismlar bilan funksional robot yaratish g'oyasi tushunadilar.",
@@ -55866,14 +57389,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 9-hafta",
-   "darsRaqami": "18 / 84",
+   "chorak": "1-chorak, 10-hafta",
+   "darsRaqami": "20 / 84",
    "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|1-chorak|18": {
+ "2-yil|3-sinf|1-chorak|20": {
   "maqsad": [
    "O'quvchilar rasmiy LEGO Education \"Sensor arm attachment\" modelini instruksiya bo'yicha mustaqil yig'ishni o'rganadilar.",
    "O'quvchilar bu qurilmaning vazifasini va sensor joylashuvining aniqlashga ta'siri tushunadilar.",
@@ -55934,128 +57457,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 10-hafta",
-   "darsRaqami": "19 / 84",
-   "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
-   "jihoz": "LEGO Education SPIKE Prime",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|3-sinf|1-chorak|19": {
-  "maqsad": [
-   "O'quvchilar Driving Base va tanlagan 2 ta attachmentni mustaqil yig'ib, ishlash tamoyilini tushuntirib beradilar.",
-   "O'quvchilar SPIKE Prime qismlarini to'g'ri nomlash va ularning vazifasini bilishni namoyish etadilar.",
-   "O'quvchilarda texnik tushuntirish (og'zaki taqdimot) ko'nikmasi rivojlanadi."
-  ],
-  "lugat": [
-   "Driving Base – harakatlanuvchi robot asosi",
-   "Attachment – asosiy robotga qo'shiladigan qo'shimcha qurilma",
-   "Hub – SPIKE Prime ning markaziy boshqaruv bloki",
-   "Instruksiya (Instructions) – rasmli qurish qo'llanmasi",
-   "Baholash (Assessment) – bajarilgan ishni tekshirish"
-  ],
-  "softSkill": "Texnik tushuntirish — yig'ilgan qurilmaning tuzilishi va vazifasini aniq, tushunarli tilda tushuntirib berish ko'nikmasini rivojlantirish.",
-  "resurslar": [
-   "LEGO Education SPIKE Prime to'plami",
-   "Rasmiy instruksiyalar",
-   "Baholash jadvali"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Kirish (5 daqiqa)",
-    "points": [
-     "Nazorat ishi qoidalari tushuntiriladi: Driving Base va 2 ta attachment tanlab, yig'ish va tushuntirish kerak."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "Qurilmaning to'g'ri va mustahkam yig'ilgani, qismlar nomlarining to'g'ri aytilgani baholanadi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Yig'ish (20 daqiqa)",
-    "points": [
-     "O'quvchilar Driving Base va 2 ta attachmentni mustaqil yig'adilar."
-    ]
-   },
-   {
-    "title": "6.2. Tushuntirish (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yig'ilgan qurilmani ko'rsatib, qismlarini va vazifasini tushuntiradi."
-    ]
-   }
-  ],
-  "uyga": [
-   "SPIKE Prime'dagi yana qaysi attachment turlarini bilib olganingizni ro'yxat qiling."
-  ],
-  "meta": {
-   "sinf": "3-sinf",
-   "yil": "2-yil",
-   "chorak": "1-chorak, 10-hafta",
-   "darsRaqami": "20 / 84",
-   "modul": "N1. Nazorat ishi",
-   "jihoz": "LEGO Education SPIKE Prime",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|3-sinf|1-chorak|20": {
-  "maqsad": [
-   "O'quvchilar o'z Driving Base va tanlagan attachmentlar kombinatsiyasini erkin tarzda yaratadilar.",
-   "O'quvchilar SPIKE qismlarini mustaqil tanlab, birlashtirish tajribasini oladilar.",
-   "O'quvchilar o'z konstruksiyasini sinfga taqdim etadilar."
-  ],
-  "lugat": [
-   "Driving Base – harakatlanuvchi robot asosi",
-   "Attachment – qo'shimcha qurilma",
-   "Kombinatsiya (Combination) – bir nechta qismning birgalikda ishlatilishi",
-   "Loyiha (Project) – mustaqil bajariladigan ish",
-   "Taqdimot (Presentation) – ishni ko'rsatib tushuntirish"
-  ],
-  "softSkill": "Erkin ijod — tayyor qismlardan o'z kombinatsiyasini yaratish orqali ijodiy muhandislik fikrlashini rivojlantirish.",
-  "resurslar": [
-   "LEGO Education SPIKE Prime to'plami",
-   "1-chorakda yig'ilgan barcha Driving Base va attachmentlar"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Kirish (5 daqiqa)",
-    "points": [
-     "Loyiha vazifasi tushuntiriladi: o'z Driving Base va tanlagan attachmentlar kombinatsiyasini yaratish."
-    ]
-   },
-   {
-    "title": "5.2. Reja (5 daqiqa)",
-    "points": [
-     "O'quvchilar qaysi Driving Base va qaysi attachmentlarni birlashtirishni rejalashtiradilar."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (25 daqiqa)",
-    "points": [
-     "O'quvchilar tanlagan qismlarni birlashtirib, o'z konstruksiyasini yaratadilar."
-    ]
-   },
-   {
-    "title": "6.2. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi konstruksiyasini ko'rsatib, nima uchun shu kombinatsiyani tanlaganini tushuntiradi."
-    ]
-   }
-  ],
-  "uyga": [
-   "Konstruksiyangizni yanada yaxshilash uchun qanday attachment qo'shish mumkinligi haqida yozing."
-  ],
-  "meta": {
-   "sinf": "3-sinf",
-   "yil": "2-yil",
    "chorak": "1-chorak, 11-hafta",
    "darsRaqami": "21 / 84",
-   "modul": "L1. Loyiha",
+   "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
@@ -56584,6 +57988,95 @@ window.LESSON_CONTENT = {
  },
  "2-yil|3-sinf|2-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"SPIKE sensorlari va dasturlash\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 3-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Diqqatni jamlash — 20 daqiqa davomida chalg'imasdan ishlash, savolni oxirigacha o'qish.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 3-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Rang sensori nimani aniqlaydi?  A) Sirt rangini va yorug'likni.  B) Masofani.  C) Og'irlikni.",
+     "2-savol. Chiziq kuzatishda robot qora chiziqdan chiqib ketsa nima qilishi kerak?  A) To'xtab qolishi.  B) Chiziq tomonga burilishi.  C) Tezlashishi.",
+     "3-savol. \"Agar ... aks holda\" (if/else) bloki nima qiladi?  A) Dasturni o'chiradi.  B) Robotni tezlashtiradi.  C) Shartga qarab ikki yo'ldan birini tanlaydi.",
+     "4-savol. Ultrasonik sensor bilan robot to'siq oldida to'xtashi uchun dasturda nima bo'lishi kerak?  A) Masofa shartdan kichik bo'lsa - to'xtash buyrug'i.  B) Faqat oldinga yurish.  C) Rang tekshirish.",
+     "5-savol. Gyroskopik sensor nimani o'lchaydi?  A) Rangni.  B) Burilish burchagini.  C) Masofani.",
+     "6-savol. 90 gradusga ANIQ burilish uchun qaysi sensor eng qulay?  A) Rang sensori.  B) Bosim sensori.  C) Gyroskopik sensor.",
+     "7-savol. Kuch (bosim) sensori qachon signal beradi?  A) Bosilganda.  B) Yorug'lik tushganda.  C) Ovoz chiqqanda.",
+     "8-savol. Bir nechta sensorni birlashtirish nima beradi?  A) Dastur qisqaradi.  B) Robot bir vaqtda bir necha narsani kuzata oladi.  C) Batareya tejaladi.",
+     "9-savol. Dastur kutilgandek ishlamasa nima qilamiz?  A) Robotni almashtiramiz.  B) Boshqa dastur yozamiz darhol.  C) Qadamma-qadam tekshirib, xatoni topamiz.",
+     "10-savol. Aqlli parking robot qanday ishlaydi?  A) Sensor bo'sh joyni aniqlab, robot o'zi to'xtaydi.  B) Odam pult bilan boshqaradi.  C) Tasodifiy to'xtaydi."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "3-sinf",
+   "yil": "2-yil",
+   "chorak": "2-chorak, 5-hafta",
+   "darsRaqami": "30 / 84",
+   "modul": "N2. Nazorat ishi",
+   "jihoz": "LEGO Education SPIKE Prime",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|3-sinf|2-chorak|9": {
+  "maqsad": [
    "O'quvchilar kuch (bosim/force) sensorining ishlash tamoyilini tushunadilar.",
    "O'quvchilar sensor bosim qiymatiga qarab reaksiya beruvchi dastur tuzadilar.",
    "O'quvchilar dasturni turli bosim darajalarida sinaydilar."
@@ -56641,13 +58134,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "2-yil",
    "chorak": "2-chorak, 5-hafta",
-   "darsRaqami": "30 / 84",
+   "darsRaqami": "31 / 84",
    "modul": "M2. Sensorlar va birinchi dasturlar",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|2-chorak|9": {
+ "2-yil|3-sinf|2-chorak|10": {
   "maqsad": [
    "O'quvchilar Hub ichidagi gyroskopik sensorning ishlash tamoyilini tushunadilar.",
    "O'quvchilar gyroskop yordamida robotni aniq burchakka burish dasturini tuzadilar.",
@@ -56705,14 +58198,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 5-hafta",
-   "darsRaqami": "31 / 84",
+   "chorak": "2-chorak, 6-hafta",
+   "darsRaqami": "32 / 84",
    "modul": "M2. Sensorlar va birinchi dasturlar",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|2-chorak|10": {
+ "2-yil|3-sinf|2-chorak|11": {
   "maqsad": [
    "O'quvchilar ikki yoki undan ortiq sensordan bir dasturda birgalikda foydalanadilar.",
    "O'quvchilar sensorlar orasidagi ustuvorlikni (qaysi birinchi tekshirilishi) rejalashtiradilar.",
@@ -56771,13 +58264,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "2-yil",
    "chorak": "2-chorak, 6-hafta",
-   "darsRaqami": "32 / 84",
+   "darsRaqami": "33 / 84",
    "modul": "M2. Sensorlar va birinchi dasturlar",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|2-chorak|11": {
+ "2-yil|3-sinf|2-chorak|12": {
   "maqsad": [
    "O'quvchilar \"agar...aks holda\" (if-else) tuzilmasidan foydalangan qaror qabul qiluvchi dastur tuzadilar.",
    "O'quvchilar sensorning ikki xil natijasiga ikki xil reaksiya beradigan dastur yozadilar.",
@@ -56835,14 +58328,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 6-hafta",
-   "darsRaqami": "33 / 84",
+   "chorak": "2-chorak, 7-hafta",
+   "darsRaqami": "34 / 84",
    "modul": "M2. Sensorlar va birinchi dasturlar",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|2-chorak|12": {
+ "2-yil|3-sinf|2-chorak|13": {
   "maqsad": [
    "O'quvchilar o'rgangan sensorlardan (rang, masofa, bosim, gyroskop) birini tanlab, mustaqil kichik vazifa bajaradilar.",
    "O'quvchilar sensor tanlash va uni dasturga bog'lash jarayonini mustaqil amalga oshiradilar.",
@@ -56901,13 +58394,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "2-yil",
    "chorak": "2-chorak, 7-hafta",
-   "darsRaqami": "34 / 84",
+   "darsRaqami": "35 / 84",
    "modul": "M2. Sensorlar va birinchi dasturlar",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|2-chorak|13": {
+ "2-yil|3-sinf|2-chorak|14": {
   "maqsad": [
    "O'quvchilar o'tgan darsda boshlagan mustaqil vazifasini yakunlaydilar.",
    "O'quvchilar dasturni to'liq sinab, xatolarni tuzatadilar.",
@@ -56959,14 +58452,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 7-hafta",
-   "darsRaqami": "35 / 84",
+   "chorak": "2-chorak, 8-hafta",
+   "darsRaqami": "36 / 84",
    "modul": "M2. Sensorlar va birinchi dasturlar",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|2-chorak|14": {
+ "2-yil|3-sinf|2-chorak|15": {
   "maqsad": [
    "O'quvchilar aqlli parking robotini loyihalashni boshlaydilar.",
    "O'quvchilar kamida 2 ta sensordan foydalanish rejasini tuzadilar.",
@@ -57026,13 +58519,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "2-yil",
    "chorak": "2-chorak, 8-hafta",
-   "darsRaqami": "36 / 84",
+   "darsRaqami": "37 / 84",
    "modul": "M2. Sensorlar va birinchi dasturlar",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|2-chorak|15": {
+ "2-yil|3-sinf|2-chorak|16": {
   "maqsad": [
    "O'quvchilar aqlli parking robotini to'liq dasturlaydilar.",
    "O'quvchilar loyihani turli sharoitda sinaydilar va xatolarni tuzatadilar.",
@@ -57085,14 +58578,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 8-hafta",
-   "darsRaqami": "37 / 84",
+   "chorak": "2-chorak, 9-hafta",
+   "darsRaqami": "38 / 84",
    "modul": "M2. Sensorlar va birinchi dasturlar",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|2-chorak|16": {
+ "2-yil|3-sinf|2-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Aqlli parking robot\" loyihasi doirasida sensorlar yordamida bo'sh joyni topib, o'zi to'xtaydigan parking robotini qurish va dasturlash.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 4-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Rejali ishlash — vaqtni bosqichlarga bo'lib, eskiz va sinovga ham vaqt qoldirish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: sensorlar yordamida bo'sh joyni topib, o'zi to'xtaydigan parking robotini qurish va dasturlash.",
+     "Talab: Robot bo'sh joyni sensor bilan aniqlasin.",
+     "Talab: To'xtash aniq belgilangan zonada bo'lsin.",
+     "Talab: 5 urinishdan kamida 4 tasi muvaffaqiyatli chiqsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Masofa sensorining chegara qiymatini maydonchada sinab toping",
+     "Tezlikni kamaytiring — tez robot to'xtash zonasidan o'tib ketadi",
+     "Dasturni bosqichlab sinang: avval yurish, keyin sezish, keyin to'xtash"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Robot bo'sh joyni sensor orqali o'zi aniqlaydi.",
+     "2-band (1 ball): Robot belgilangan zonada to'xtaydi (chiziqdan chiqmaydi).",
+     "3-band (1 ball): Dasturda shart (agar/aks holda) bloki ishlatilgan va bola uni tushuntiradi.",
+     "4-band (1 ball): Sinov: 5 urinishdan kamida 4 tasi muvaffaqiyatli (jadvalga yozilgan).",
+     "5-band (1 ball): Muvaffaqiyatsiz urinish sababi tahlil qilingan.",
+     "6-band (1 ball): To'xtash aniqligi o'lchab yozilgan (zona chetigacha necha sm qoldi).",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 4-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Robot qaysi holatda parkovkani xato qildi va dasturda nimani tuzatdingiz?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "3-sinf",
+   "yil": "2-yil",
+   "chorak": "2-chorak, 9-hafta",
+   "darsRaqami": "39 / 84",
+   "modul": "L2. Loyiha",
+   "jihoz": "LEGO Education SPIKE Prime",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|3-sinf|2-chorak|18": {
   "maqsad": [
    "O'quvchilar chorak davomida o'rgangan barcha sensorlarni (rang, masofa, bosim, gyroskop) eslaydilar va mustahkamlaydilar.",
    "O'quvchilar har bir sensorning vazifasini qisqacha tushuntirib beradilar.",
@@ -57150,14 +58750,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 9-hafta",
-   "darsRaqami": "38 / 84",
+   "chorak": "2-chorak, 10-hafta",
+   "darsRaqami": "40 / 84",
    "modul": "M2. Sensorlar va birinchi dasturlar",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|2-chorak|17": {
+ "2-yil|3-sinf|2-chorak|19": {
   "maqsad": [
    "O'quvchilar touch (teginish) sensorining ishlash tamoyilini tushunadilar.",
    "O'quvchilar tugma bosilganda/qo'yib yuborilganda ishlaydigan dastur tuzadilar.",
@@ -57215,14 +58815,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 9-hafta",
-   "darsRaqami": "39 / 84",
+   "chorak": "2-chorak, 10-hafta",
+   "darsRaqami": "41 / 84",
    "modul": "M2. Sensorlar va birinchi dasturlar",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|2-chorak|18": {
+ "2-yil|3-sinf|2-chorak|20": {
   "maqsad": [
    "O'quvchilar chorak davomida yig'ilgan attachmentlarni turli kombinatsiyada sinaydilar.",
    "O'quvchilar qaysi attachment qaysi vazifaga eng mos kelishini tahlil qiladilar.",
@@ -57280,129 +58880,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 10-hafta",
-   "darsRaqami": "40 / 84",
-   "modul": "M2. Sensorlar va birinchi dasturlar",
-   "jihoz": "LEGO Education SPIKE Prime",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|3-sinf|2-chorak|19": {
-  "maqsad": [
-   "O'quvchilar kamida 2 ta sensor ishlatilgan dasturni mustaqil tuzib ko'rsatadilar.",
-   "O'quvchilar SPIKE sensorlarining har birining vazifasini tushuntirib bera oladilar.",
-   "O'quvchilarda dasturni sinash va xatoni tuzatish ko'nikmasi mustahkamlanadi."
-  ],
-  "lugat": [
-   "Sensor (Sensor) – atrof-muhitni aniqlovchi qurilma",
-   "Reaktiv dastur (Reactive program) – sensor signaliga darhol javob beruvchi dastur",
-   "Kalibrlash (Calibration) – sensorni aniq ishlashi uchun sozlash",
-   "Blok (Block) – dasturdagi buyruq elementi",
-   "Baholash (Assessment) – bajarilgan ishni tekshirish"
-  ],
-  "softSkill": "Aniqlik va sinov — sensor sozlamalarini aniq sozlab, barqaror natijaga erishish ko'nikmasini rivojlantirish.",
-  "resurslar": [
-   "LEGO Education SPIKE Prime to'plami",
-   "Planshet/noutbuk (SPIKE ilovasi)",
-   "Baholash jadvali"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Kirish (5 daqiqa)",
-    "points": [
-     "Nazorat ishi qoidalari tushuntiriladi: kamida 2 ta sensor ishlatilgan dastur ko'rsatilishi kerak."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "Sensorlarning to'g'ri ishlatilgani va dasturning barqaror ishlashi baholanadi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (10 daqiqa)",
-    "points": [
-     "O'quvchilar dasturlarini so'nggi marta tekshirib, sensorlarni kalibrlaydilar."
-    ]
-   },
-   {
-    "title": "6.2. Namoyish (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi dasturini ishga tushirib, ikkala sensorning ishlashini ko'rsatadi."
-    ]
-   }
-  ],
-  "uyga": [
-   "SPIKE'dagi yana qaysi sensordan foydalanishni xohlaganingiz va nima uchun ekanini yozing."
-  ],
-  "meta": {
-   "sinf": "3-sinf",
-   "yil": "2-yil",
-   "chorak": "2-chorak, 10-hafta",
-   "darsRaqami": "41 / 84",
-   "modul": "N2. Nazorat ishi",
-   "jihoz": "LEGO Education SPIKE Prime",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|3-sinf|2-chorak|20": {
-  "maqsad": [
-   "O'quvchilar aqlli parking robotini mustaqil loyihalab, quradilar va dasturlaydilar.",
-   "O'quvchilar kamida 2 ta sensordan foydalangan holda real hayotiy muammoga yechim yaratadilar.",
-   "O'quvchilar loyihasini sinov qilib, natijasini taqdim etadilar."
-  ],
-  "lugat": [
-   "Parking robot (Parking robot) – mashinani to'g'ri joyga qo'yishga yordam beruvchi robot",
-   "Sensor kombinatsiyasi (Sensor combination) – bir nechta sensorning birgalikda ishlashi",
-   "Loyiha (Project) – mustaqil bajariladigan ish",
-   "Sinov (Test) – loyihani tekshirish jarayoni",
-   "Taqdimot (Presentation) – ishni ko'rsatib tushuntirish"
-  ],
-  "softSkill": "Real muammoga yechim topish — kundalik hayotdagi muammoni (parking) texnik yechim orqali hal qilish ko'nikmasini rivojlantirish.",
-  "resurslar": [
-   "LEGO Education SPIKE Prime to'plami",
-   "Planshet/noutbuk (SPIKE ilovasi)",
-   "Kichik \"parking joy\" maketi (qog'ozda chizilgan bo'lishi mumkin)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Kirish (5 daqiqa)",
-    "points": [
-     "Loyiha vazifasi tushuntiriladi: aqlli parking robotini loyihalash va dasturlash."
-    ]
-   },
-   {
-    "title": "5.2. Reja (5 daqiqa)",
-    "points": [
-     "O'quvchilar qaysi sensorlardan foydalanishlarini va robot qanday ishlashini rejalashtiradilar."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish va dasturlash (25 daqiqa)",
-    "points": [
-     "O'quvchilar robotni quradilar, sensorlarni ulaydilar va dasturni yozadilar."
-    ]
-   },
-   {
-    "title": "6.2. Sinov va taqdimot (10 daqiqa)",
-    "points": [
-     "O'quvchilar robotni sinaydilar va natijasini sinfga ko'rsatadilar."
-    ]
-   }
-  ],
-  "uyga": [
-   "Aqlli parking tizimlari haqiqiy hayotda qanday ishlashi haqida internetdan ma'lumot toping."
-  ],
-  "meta": {
-   "sinf": "3-sinf",
-   "yil": "2-yil",
    "chorak": "2-chorak, 11-hafta",
    "darsRaqami": "42 / 84",
-   "modul": "L2. Loyiha",
+   "modul": "M2. Sensorlar va birinchi dasturlar",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
@@ -58163,6 +59643,95 @@ window.LESSON_CONTENT = {
  },
  "2-yil|3-sinf|3-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"FLL missiyalari: strategiya va ball\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 5-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Xatodan o'rganish — noto'g'ri javob \"yomon\" degani emas; qaysi mavzuni takrorlash kerakligini ko'rsatadigan belgi.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 5-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. FLL musobaqasida missiya nima?  A) Maydonchadagi ball beriladigan aniq vazifa.  B) Robot nomi.  C) Jamoa qo'shig'i.",
+     "2-savol. Missiya bajarishdan oldin nima tuziladi?  A) Yangi robot.  B) Reja (strategiya).  C) Yangi maydon.",
+     "3-savol. Yuk tashish missiyasida attachment qanday bo'lishi kerak?  A) Og'ir va katta.  B) Chiroyli.  C) Yukni ishonchli ushlab, kerakli joyda qo'yib yuboradigan.",
+     "4-savol. Robot chiziq bo'ylab yetkazishda qaysi sensordan foydalanadi?  A) Rang sensori.  B) Bosim sensori.  C) Harorat sensori.",
+     "5-savol. Sinovda robot vazifani bajara olmadi. To'g'ri xulosa qaysi?  A) Robot yaroqsiz.  B) Xato sababini topib, dastur yoki mexanizmni tuzatamiz.  C) Missiyani tashlab ketamiz.",
+     "6-savol. Ball tizimi nimani belgilaydi?  A) Robot narxini.  B) Jamoa yoshini.  C) Har missiya uchun beriladigan ochkolarni.",
+     "7-savol. Ikki missiyani ketma-ket bajarish uchun dastur qanday tuziladi?  A) Bosqichlar ketma-ketligi sifatida.  B) Ikkita alohida robotga.  C) Dastur kerak emas.",
+     "8-savol. Attachmentni tez almashtirish nega muhim?  A) Chiroyli ko'rinadi.  B) Musobaqada vaqt cheklangan.  C) Ustoz talab qiladi.",
+     "9-savol. Yakuniy sinov (ballga qo'yiladigan) oldidan nima qilamiz?  A) Dam olamiz.  B) Yangi robot quramiz.  C) Mashq sinovlarini o'tkazib, barqaror natijaga erishamiz.",
+     "10-savol. Missiya natijasini tahlil qilishda nimani yozib boramiz?  A) Urinish, natija va xato sabablarini.  B) Faqat g'alabalarni.  C) Hech narsani."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "3-sinf",
+   "yil": "2-yil",
+   "chorak": "3-chorak, 5-hafta",
+   "darsRaqami": "51 / 84",
+   "modul": "N3. Nazorat ishi",
+   "jihoz": "LEGO Education SPIKE Prime",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|3-sinf|3-chorak|9": {
+  "maqsad": [
    "O'quvchilar 2-missiya (\"Chiziq bo'ylab yetkazish\") vazifasini diqqat bilan tahlil qiladilar.",
    "O'quvchilar missiyani 4 ta kichik topshiriqqa (2.1–2.4) bo'lib, har biriga ball va kerakli jihozni belgilaydilar.",
    "O'quvchilar jamoa bo'lib ishlash va vazifa taqsimotini o'rganadilar."
@@ -58264,13 +59833,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "2-yil",
    "chorak": "3-chorak, 5-hafta",
-   "darsRaqami": "51 / 84",
+   "darsRaqami": "52 / 84",
    "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|3-chorak|9": {
+ "2-yil|3-sinf|3-chorak|10": {
   "maqsad": [
    "O'quvchilar 2-missiya (\"Chiziq bo'ylab yetkazish\") uchun kerakli attachment dizaynini ishlab chiqadilar.",
    "O'quvchilar dizaynni tanlashda muhandislik mulohazalarini (mustahkamlik, vazifaga moslik) hisobga oladilar.",
@@ -58369,14 +59938,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 5-hafta",
-   "darsRaqami": "52 / 84",
+   "chorak": "3-chorak, 6-hafta",
+   "darsRaqami": "53 / 84",
    "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|3-chorak|10": {
+ "2-yil|3-sinf|3-chorak|11": {
   "maqsad": [
    "O'quvchilar 2-missiya uchun tanlangan attachment dizaynini jismonan yig'adilar.",
    "O'quvchilar yig'ilgan attachmentning mustahkam va Driving Base'ga to'g'ri ulanishini ta'minlaydilar.",
@@ -58470,13 +60039,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "2-yil",
    "chorak": "3-chorak, 6-hafta",
-   "darsRaqami": "53 / 84",
+   "darsRaqami": "54 / 84",
    "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|3-chorak|11": {
+ "2-yil|3-sinf|3-chorak|12": {
   "maqsad": [
    "O'quvchilar 2-missiyani bajarish uchun to'liq dasturni yozadilar.",
    "O'quvchilar Driving Base harakati va attachment ishini bitta dasturda birlashtiradilar.",
@@ -58575,14 +60144,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 6-hafta",
-   "darsRaqami": "54 / 84",
+   "chorak": "3-chorak, 7-hafta",
+   "darsRaqami": "55 / 84",
    "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|3-chorak|12": {
+ "2-yil|3-sinf|3-chorak|13": {
   "maqsad": [
    "O'quvchilar 2-missiya uchun tayyorlagan robot va dasturni to'liq sinovdan o'tkazadilar.",
    "O'quvchilar aniqlangan xatolarni (mexanik yoki dasturiy) tuzatadilar.",
@@ -58675,13 +60244,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "2-yil",
    "chorak": "3-chorak, 7-hafta",
-   "darsRaqami": "55 / 84",
+   "darsRaqami": "56 / 84",
    "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|3-chorak|13": {
+ "2-yil|3-sinf|3-chorak|14": {
   "maqsad": [
    "O'quvchilar 2-missiyani rasmiy qoidalar asosida yakuniy marta bajarib, ball oladilar.",
    "O'quvchilar musobaqa formatidagi bosim ostida tinch va tizimli ishlaydilar.",
@@ -58776,14 +60345,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 7-hafta",
-   "darsRaqami": "56 / 84",
+   "chorak": "3-chorak, 8-hafta",
+   "darsRaqami": "57 / 84",
    "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|3-chorak|14": {
+ "2-yil|3-sinf|3-chorak|15": {
   "maqsad": [
    "O'quvchilar 1 va 2-missiya dasturlarini bitta ketma-ket dasturga birlashtiradilar.",
    "O'quvchilar ikki missiya orasida attachment almashtirish vaqtini hisobga oladilar.",
@@ -58837,13 +60406,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "2-yil",
    "chorak": "3-chorak, 8-hafta",
-   "darsRaqami": "57 / 84",
+   "darsRaqami": "58 / 84",
    "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|3-chorak|15": {
+ "2-yil|3-sinf|3-chorak|16": {
   "maqsad": [
    "O'quvchilar attachmentlarni Driving Base'ga tez va ishonchli ulash/ajratish texnikasini mashq qiladilar.",
    "O'quvchilar vaqtni tejash uchun almashtirish tartibini oldindan rejalashtiradilar.",
@@ -58901,14 +60470,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 8-hafta",
-   "darsRaqami": "58 / 84",
+   "chorak": "3-chorak, 9-hafta",
+   "darsRaqami": "59 / 84",
    "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|3-chorak|16": {
+ "2-yil|3-sinf|3-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Missiya-yechim: 1-2-missiya uchun mukammal robot\" loyihasi doirasida yuk tashish va chiziq bo'ylab yetkazish missiyalari uchun robot+attachment yechimini takomillashtirib, ball sinovidan o'tkazish.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 6-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Natijaga halol munosabat — o'lchovni bo'rttirmasdan, qanday chiqqan bo'lsa shunday yozish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: yuk tashish va chiziq bo'ylab yetkazish missiyalari uchun robot+attachment yechimini takomillashtirib, ball sinovidan o'tkazish.",
+     "Talab: Ikkala missiya ketma-ket bajarilsin.",
+     "Talab: Har missiya balli hisoblansin.",
+     "Talab: Kamida 1 ta takomil kiritilib, ball farqi ko'rsatilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Avval har missiyani alohida barqaror bajarishga erishing, keyin ketma-ket ulang",
+     "Ballni yo'qotadigan eng zaif nuqtani toping — takomilni o'sha yerga kiriting",
+     "Har urinishdan keyin natijani jadvalga yozing"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): 1-missiya (yuk tashish) bajarildi va balli yozilgan.",
+     "2-band (1 ball): 2-missiya (chiziq bo'ylab yetkazish) bajarildi va balli yozilgan.",
+     "3-band (1 ball): Ikkala missiya KETMA-KET, bitta dastur turida bajarildi.",
+     "4-band (1 ball): Kamida 1 ta takomil kiritilgan (mexanik yoki dasturiy).",
+     "5-band (1 ball): Takomildan oldingi va keyingi ball taqqoslab ko'rsatilgan.",
+     "6-band (1 ball): Urinishlar jadvali yuritilgan (kamida 3 urinish).",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 6-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Eng ko'p ballni qaysi o'zgartirish qo'shdi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "3-sinf",
+   "yil": "2-yil",
+   "chorak": "3-chorak, 9-hafta",
+   "darsRaqami": "60 / 84",
+   "modul": "L3. Loyiha",
+   "jihoz": "LEGO Education SPIKE Prime",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|3-sinf|3-chorak|18": {
   "maqsad": [
    "O'quvchilar 1 va 2-missiyani jamoa bo'lib, musobaqa formatida sinab ko'radilar.",
    "O'quvchilar real vaqt bosimi ostida ishlash tajribasini oladilar.",
@@ -58956,14 +60632,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 9-hafta",
-   "darsRaqami": "59 / 84",
+   "chorak": "3-chorak, 10-hafta",
+   "darsRaqami": "61 / 84",
    "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|3-chorak|17": {
+ "2-yil|3-sinf|3-chorak|19": {
   "maqsad": [
    "O'quvchilar mashq-turnir natijalarini tahlil qiladilar.",
    "O'quvchilar qaysi bosqichda vaqt yo'qotilganini yoki xato yuz berganini aniqlaydilar.",
@@ -59021,14 +60697,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 9-hafta",
-   "darsRaqami": "60 / 84",
+   "chorak": "3-chorak, 10-hafta",
+   "darsRaqami": "62 / 84",
    "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|3-chorak|18": {
+ "2-yil|3-sinf|3-chorak|20": {
   "maqsad": [
    "O'quvchilar 1 va 2-missiya bo'yicha chorak davomidagi ishni umumlashtiradilar.",
    "O'quvchilar eng yaxshi natijaga erishgan yechimlarni sinfga taqdim etadilar.",
@@ -59086,130 +60762,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 10-hafta",
-   "darsRaqami": "61 / 84",
-   "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
-   "jihoz": "LEGO Education SPIKE Prime",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|3-sinf|3-chorak|19": {
-  "maqsad": [
-   "O'quvchilar 1 va 2-missiyalarni ketma-ket, FLL musobaqa formatida bajaradilar.",
-   "O'quvchilar ball tizimi asosida baholanish tajribasini oladilar.",
-   "O'quvchilarda jamoaviy strategiya va vaqtni boshqarish ko'nikmasi rivojlanadi."
-  ],
-  "lugat": [
-   "Missiya (Mission) – bajarilishi kerak bo'lgan aniq vazifa",
-   "Ball (Points) – vazifa bajarilgani uchun beriladigan miqdor",
-   "Attachment – vazifani bajarish uchun robotga qo'shiladigan qurilma",
-   "Musobaqa maydonchasi (Competition field) – missiyalar joylashgan maydon",
-   "Baholash mezoni (Grading criteria) – natijani baholash qoidalari"
-  ],
-  "softSkill": "Jamoaviy strategiya — vaqt va vazifalarni jamoa bilan birga rejalashtirish ko'nikmasini rivojlantirish.",
-  "resurslar": [
-   "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (missiya elementlari bilan)",
-   "Xronometr, ball jadvali"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Kirish (5 daqiqa)",
-    "points": [
-     "Missiya musobaqasi qoidalari tushuntiriladi: 1 va 2-missiya ketma-ket bajariladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "Har bir missiya muvaffaqiyatli bajarilsa 25 balldan (jami 50 ball).",
-     "45-50 ball = 5 (a'lo); 35-44 = 4 (yaxshi); 25-34 = 3 (qoniqarli); 15-24 = 2 (qoniqarsiz); 15 balldan kam = FAILED."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (10 daqiqa)",
-    "points": [
-     "O'quvchilar/jamoalar robot va attachmentlarni so'nggi marta tekshiradilar."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir jamoa navbat bilan 1 va 2-missiyani bajaradi.",
-     "Natijalar ball jadvaliga yoziladi va e'lon qilinadi."
-    ]
-   }
-  ],
-  "uyga": [
-   "1 va 2-missiyani yanada tezroq bajarish uchun qanday o'zgartirish kiritish mumkinligi haqida o'ylab keling."
-  ],
-  "meta": {
-   "sinf": "3-sinf",
-   "yil": "2-yil",
-   "chorak": "3-chorak, 10-hafta",
-   "darsRaqami": "62 / 84",
-   "modul": "N3. Nazorat ishi",
-   "jihoz": "LEGO Education SPIKE Prime",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|3-sinf|3-chorak|20": {
-  "maqsad": [
-   "O'quvchilar 1 va 2-missiya uchun eng mukammal robot+attachment yechimini yaratadilar.",
-   "O'quvchilar dizaynni bir necha marta sinab, takomillashtirish jarayonini o'tkazadilar.",
-   "O'quvchilar yechimlarini jamoa sifatida taqdim etadilar."
-  ],
-  "lugat": [
-   "Optimallashtirish (Optimization) – yechimni yanada yaxshilash jarayoni",
-   "Attachment dizayni (Attachment design) – vazifaga mos qurilma yaratish",
-   "Iteratsiya (Iteration) – sinov-tuzatish jarayonini takrorlash",
-   "Loyiha (Project) – mustaqil bajariladigan ish",
-   "Taqdimot (Presentation) – ishni ko'rsatib tushuntirish"
-  ],
-  "softSkill": "Takomillashtirish mentaliteti — birinchi yechim bilan cheklanmasdan, uni bir necha marta sinab yaxshilashga intilish ko'nikmasini rivojlantirish.",
-  "resurslar": [
-   "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (1 va 2-missiya elementlari)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Kirish (5 daqiqa)",
-    "points": [
-     "Loyiha vazifasi tushuntiriladi: 1 va 2-missiya uchun eng yaxshi yechimni topish."
-    ]
-   },
-   {
-    "title": "5.2. Reja (5 daqiqa)",
-    "points": [
-     "Jamoalar qaysi attachment dizaynini sinab ko'rishni rejalashtiradilar."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Takomillashtirish (25 daqiqa)",
-    "points": [
-     "Jamoalar attachment va dasturni bir necha marta sinab, yaxshilaydilar."
-    ]
-   },
-   {
-    "title": "6.2. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir jamoa eng yaxshi natijasini ko'rsatadi va nima o'zgartirganini tushuntiradi."
-    ]
-   }
-  ],
-  "uyga": [
-   "Yechimingizni yana qanday yaxshilash mumkinligi haqida bitta g'oya yozing."
-  ],
-  "meta": {
-   "sinf": "3-sinf",
-   "yil": "2-yil",
    "chorak": "3-chorak, 11-hafta",
    "darsRaqami": "63 / 84",
-   "modul": "L3. Loyiha",
+   "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
@@ -60053,6 +61608,95 @@ window.LESSON_CONTENT = {
  },
  "2-yil|3-sinf|4-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"To'liq missiya turi va jamoaviy ish\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 7-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "O'zini baholash — testdan oldin qaysi savollarga ishonchingiz komil ekanini his qilish va yakunda solishtirish.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 7-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. To'liq missiya turida vaqt chegarasi qancha (FLL formatida)?  A) 2,5 daqiqa.  B) 1 soat.  C) 10 soniya.",
+     "2-savol. 4 missiyani qaysi tartibda bajargan ma'qul?  A) Istalgan tartibda, o'ylamasdan.  B) Eng ko'p ball va eng qulay yo'l hisobiga tuzilgan tartibda.  C) Faqat oson missiyalarni.",
+     "3-savol. Muhandislik daftari (Inventor Notebook) nima uchun yuritiladi?  A) Rasm chizish uchun.  B) Baho olish uchun faqat.  C) G'oyalar, sinovlar va xulosalarni hujjatlash uchun.",
+     "4-savol. Jamoada vazifalar qanday taqsimlanadi?  A) Har kim kuchli tomoniga qarab mas'ul bo'ladi.  B) Hamma hamma narsani qiladi.  C) Faqat sardor ishlaydi.",
+     "5-savol. Robot start zonasidan chiqqanda unga qo'l tegizish mumkinmi?  A) Ha, doim.  B) Yo'q — jarima bo'lishi mumkin, qoidaga qarab.  C) Faqat sardorga mumkin.",
+     "6-savol. Missiya turi paytida dastur ishlamay qolsa nima qilamiz?  A) Musobaqani tashlab ketamiz.  B) Yig'laymiz.  C) Robotni bazaga qaytarib, keyingi dasturni ishga tushiramiz.",
+     "7-savol. Taqdimotda nimani ko'rsatamiz?  A) Yechimimiz qanday ishlashi va qanday qarorlar qabul qilganimizni.  B) Faqat robotning rasmini.  C) Boshqa jamoaning ishini.",
+     "8-savol. Vaqtni tejash uchun attachmentlar qanday loyihalanadi?  A) Katta va og'ir.  B) Tez taqiladigan-yechiladigan.  C) Yelimlangan.",
+     "9-savol. Repetitsiya (mashq turi) nima beradi?  A) Vaqtni behuda sarflaydi.  B) Faqat charchatadi.  C) Xatolarni musobaqadan OLDIN topib tuzatish imkonini.",
+     "10-savol. Yakuniy turnirda eng muhim natija nima?  A) O'rganilgan ko'nikma va jamoaviy tajriba.  B) Faqat oltin medal.  C) Boshqalardan ustun kelish."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "3-sinf",
+   "yil": "2-yil",
+   "chorak": "4-chorak, 5-hafta",
+   "darsRaqami": "72 / 84",
+   "modul": "N4. Nazorat ishi",
+   "jihoz": "LEGO Education SPIKE Prime",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|3-sinf|4-chorak|9": {
+  "maqsad": [
    "O'quvchilar 4-missiya uchun tanlangan attachment dizaynini jismonan yig'adilar.",
    "O'quvchilar yig'ilgan attachmentning mustahkam va Driving Base'ga to'g'ri ulanishini ta'minlaydilar.",
    "O'quvchilar attachmentni dastlabki sinovdan o'tkazadilar."
@@ -60145,13 +61789,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "2-yil",
    "chorak": "4-chorak, 5-hafta",
-   "darsRaqami": "72 / 84",
+   "darsRaqami": "73 / 84",
    "modul": "M4. Missiya 3, 4 va yakuniy turnir",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|4-chorak|9": {
+ "2-yil|3-sinf|4-chorak|10": {
   "maqsad": [
    "O'quvchilar 4-missiyani bajarish uchun to'liq dasturni yozadilar.",
    "O'quvchilar Driving Base harakati va attachment ishini bitta dasturda birlashtiradilar.",
@@ -60250,14 +61894,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 5-hafta",
-   "darsRaqami": "73 / 84",
+   "chorak": "4-chorak, 6-hafta",
+   "darsRaqami": "74 / 84",
    "modul": "M4. Missiya 3, 4 va yakuniy turnir",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|4-chorak|10": {
+ "2-yil|3-sinf|4-chorak|11": {
   "maqsad": [
    "O'quvchilar 4-missiya uchun tayyorlagan robot va dasturni to'liq sinovdan o'tkazadilar.",
    "O'quvchilar aniqlangan xatolarni (mexanik yoki dasturiy) tuzatadilar.",
@@ -60350,13 +61994,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "2-yil",
    "chorak": "4-chorak, 6-hafta",
-   "darsRaqami": "74 / 84",
+   "darsRaqami": "75 / 84",
    "modul": "M4. Missiya 3, 4 va yakuniy turnir",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|4-chorak|11": {
+ "2-yil|3-sinf|4-chorak|12": {
   "maqsad": [
    "O'quvchilar 4-missiyani rasmiy qoidalar asosida yakuniy marta bajarib, ball oladilar.",
    "O'quvchilar musobaqa formatidagi bosim ostida tinch va tizimli ishlaydilar.",
@@ -60451,14 +62095,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 6-hafta",
-   "darsRaqami": "75 / 84",
+   "chorak": "4-chorak, 7-hafta",
+   "darsRaqami": "76 / 84",
    "modul": "M4. Missiya 3, 4 va yakuniy turnir",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|4-chorak|12": {
+ "2-yil|3-sinf|4-chorak|13": {
   "maqsad": [
    "O'quvchilar barcha 4 missiya dasturini bitta yaxlit, ketma-ket dasturga birlashtiradilar.",
    "O'quvchilar missiyalar orasidagi attachment almashtirish va vaqt boshqaruvini rejalashtiradilar.",
@@ -60512,13 +62156,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "2-yil",
    "chorak": "4-chorak, 7-hafta",
-   "darsRaqami": "76 / 84",
+   "darsRaqami": "77 / 84",
    "modul": "M4. Missiya 3, 4 va yakuniy turnir",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|4-chorak|13": {
+ "2-yil|3-sinf|4-chorak|14": {
   "maqsad": [
    "O'quvchilar 2.5 daqiqalik cheklangan vaqt ichida barcha 4 missiyani bajarishni mashq qiladilar.",
    "O'quvchilar vaqtni missiyalar orasida qanday taqsimlashni rejalashtiradilar.",
@@ -60571,14 +62215,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 7-hafta",
-   "darsRaqami": "77 / 84",
+   "chorak": "4-chorak, 8-hafta",
+   "darsRaqami": "78 / 84",
    "modul": "M4. Missiya 3, 4 va yakuniy turnir",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|4-chorak|14": {
+ "2-yil|3-sinf|4-chorak|15": {
   "maqsad": [
    "O'quvchilar yil davomidagi ishlarini muhandislik daftarida (Inventor Notebook) tartibga soladilar.",
    "O'quvchilar dizayn jarayoni, sinovlar va yechimlarni hujjatlashtirish ahamiyatini tushunadilar.",
@@ -60637,13 +62281,13 @@ window.LESSON_CONTENT = {
    "sinf": "3-sinf",
    "yil": "2-yil",
    "chorak": "4-chorak, 8-hafta",
-   "darsRaqami": "78 / 84",
+   "darsRaqami": "79 / 84",
    "modul": "M4. Missiya 3, 4 va yakuniy turnir",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|4-chorak|15": {
+ "2-yil|3-sinf|4-chorak|16": {
   "maqsad": [
    "O'quvchilar yakuniy taqdimot uchun jamoaviy prezentatsiya tayyorlaydilar.",
    "O'quvchilar taqdimotda kimning nima haqida gapirishini taqsimlaydilar.",
@@ -60702,14 +62346,122 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 8-hafta",
-   "darsRaqami": "79 / 84",
+   "chorak": "4-chorak, 9-hafta",
+   "darsRaqami": "80 / 84",
    "modul": "M4. Missiya 3, 4 va yakuniy turnir",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|4-chorak|16": {
+ "2-yil|3-sinf|4-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Bitiruv missiya turi\" loyihasi doirasida to'liq 4-missiyali turni jamoa bo'lib o'tkazish: strategiya, dastur, taqdimot.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 8-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "O'z ishini himoya qilish — qarorlarini dalil va o'lchov bilan asoslab berish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: to'liq 4-missiyali turni jamoa bo'lib o'tkazish: strategiya, dastur, taqdimot.",
+     "Talab: 4 missiya uchun strategiya (tartib) yozilsin.",
+     "Talab: Tur 2,5 daqiqaga sig'sin.",
+     "Talab: Muhandislik daftari to'ldirilsin.",
+     "Talab: Jamoa taqdimot qilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Strategiyada oson va ko'p ball beradigan missiyalarni birinchi qo'ying",
+     "Attachment almashtirishlar sonini kamaytiring — har almashtirish vaqt yeydi",
+     "Taqdimotda har a'zo o'z hissasini aytsin"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): 4 missiya tartibi (strategiya) oldindan yozilgan va asoslangan.",
+     "2-band (1 ball): Sinov: to'liq tur o'tkazildi va 2,5 daqiqaga sig'di.",
+     "3-band (1 ball): Umumiy ball hisoblanib yozilgan.",
+     "4-band (1 ball): Muhandislik daftarida sinovlar va xulosalar bor.",
+     "5-band (1 ball): Jamoaning har a'zosi taqdimotda o'z qismini aytdi.",
+     "6-band (1 ball): Tur davomida qoidalar buzilmadi (robotga ruxsatsiz tegilmadi).",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 8-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Strategiyangizda nimani o'zgartirsangiz, ball yana oshardi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "3-sinf",
+   "yil": "2-yil",
+   "chorak": "4-chorak, 9-hafta",
+   "darsRaqami": "81 / 84",
+   "modul": "L4. Loyiha",
+   "jihoz": "LEGO Education SPIKE Prime",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|3-sinf|4-chorak|18": {
   "maqsad": [
    "O'quvchilar yakuniy bitiruv turniri va taqdimot uchun to'liq repetitsiya o'tkazadilar.",
    "O'quvchilar vaqt, robot va taqdimotni birgalikda sinab ko'radilar.",
@@ -60762,14 +62514,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 9-hafta",
-   "darsRaqami": "80 / 84",
+   "chorak": "4-chorak, 10-hafta",
+   "darsRaqami": "82 / 84",
    "modul": "M4. Missiya 3, 4 va yakuniy turnir",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|4-chorak|17": {
+ "2-yil|3-sinf|4-chorak|19": {
   "maqsad": [
    "O'quvchilar barcha 4 missiyani rasmiy ichki turnir formatida bajaradilar.",
    "O'quvchilar ikki yillik (Makerzoid+SPIKE) bilim va ko'nikmalarini to'liq namoyish etadilar.",
@@ -60817,14 +62569,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 9-hafta",
-   "darsRaqami": "81 / 84",
+   "chorak": "4-chorak, 10-hafta",
+   "darsRaqami": "83 / 84",
    "modul": "M4. Missiya 3, 4 va yakuniy turnir",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|3-sinf|4-chorak|18": {
+ "2-yil|3-sinf|4-chorak|20": {
   "maqsad": [
    "O'quvchilar ikki yillik (0-4-sinf Makerzoid + 4-sinf SPIKE) yo'lidagi natijalarini ota-onalar oldida namoyish etadilar.",
    "O'quvchilar o'z loyihalari va turnir natijalari haqida ishonch bilan gapirib beradilar.",
@@ -60873,131 +62625,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "3-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 10-hafta",
-   "darsRaqami": "82 / 84",
-   "modul": "M4. Missiya 3, 4 va yakuniy turnir",
-   "jihoz": "LEGO Education SPIKE Prime",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|3-sinf|4-chorak|19": {
-  "maqsad": [
-   "O'quvchilar barcha 4 missiyani FLL formatida, 2.5 daqiqa ichida ketma-ket bajaradilar.",
-   "O'quvchilar yil davomida o'rgangan barcha qurish va dasturlash ko'nikmalarini birlashtiradilar.",
-   "O'quvchilarda musobaqa bosimida ishlash va jamoaviy hamkorlik ko'nikmasi mustahkamlanadi."
-  ],
-  "lugat": [
-   "To'liq missiya turi (Full mission round) – barcha missiyalarning ketma-ket bajarilishi",
-   "Ball tizimi (Scoring system) – har bir missiya uchun beriladigan ball",
-   "Strategiya (Strategy) – missiyalarni qanday tartibda bajarish rejasi",
-   "Muhandislik daftari (Engineering notebook) – loyiha jarayonini qayd etuvchi hujjat",
-   "Baholash mezoni (Grading criteria) – natijani baholash qoidalari"
-  ],
-  "softSkill": "Bosim ostida ishlash — vaqt cheklangan sharoitda tinch va tizimli ishlash ko'nikmasini rivojlantirish.",
-  "resurslar": [
-   "LEGO Education SPIKE Prime to'plami va barcha attachmentlar",
-   "To'liq musobaqa maydonchasi (4 missiya bilan)",
-   "Xronometr, ball jadvali, sertifikatlar"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Kirish (5 daqiqa)",
-    "points": [
-     "Yakuniy musobaqa qoidalari tushuntiriladi: barcha 4 missiya 2.5 daqiqada bajariladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "Har bir missiya 25 balldan (jami 100 ball).",
-     "85-100 = 5 (a'lo); 65-84 = 4 (yaxshi); 45-64 = 3 (qoniqarli); 25-44 = 2 (qoniqarsiz); 25 balldan kam = FAILED."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (10 daqiqa)",
-    "points": [
-     "Jamoalar robot va barcha attachmentlarni yakuniy tekshiradilar."
-    ]
-   },
-   {
-    "title": "6.2. Bitiruv turniri (20 daqiqa)",
-    "points": [
-     "Har bir jamoa navbat bilan 2.5 daqiqalik to'liq missiya turini bajaradi.",
-     "Natijalar ball jadvaliga yoziladi, g'oliblar va barcha ishtirokchilar tabriklanadi."
-    ]
-   }
-  ],
-  "uyga": [
-   "0-4-sinf va SPIKE davomida eng yodda qolgan loyihangiz haqida qisqacha insho yozing."
-  ],
-  "meta": {
-   "sinf": "3-sinf",
-   "yil": "2-yil",
-   "chorak": "4-chorak, 10-hafta",
-   "darsRaqami": "83 / 84",
-   "modul": "N4. Nazorat ishi",
-   "jihoz": "LEGO Education SPIKE Prime",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|3-sinf|4-chorak|20": {
-  "maqsad": [
-   "O'quvchilar barcha 4 missiyani qamrab oluvchi to'liq bitiruv musobaqasi yechimini tayyorlaydilar.",
-   "O'quvchilar ikki yillik (Makerzoid+SPIKE) bilimlarini yakuniy loyihada birlashtiradilar.",
-   "O'quvchilar ochiq turnirda o'z natijalarini ota-onalar oldida namoyish etadilar."
-  ],
-  "lugat": [
-   "Bitiruv musobaqasi (Capstone competition) – dastur yakunidagi eng katta sinov",
-   "Ochiq turnir (Open tournament) – tomoshabinlar ishtirokidagi musobaqa",
-   "Strategiya (Strategy) – barcha missiyalarni bajarish rejasi",
-   "Loyiha (Project) – mustaqil bajariladigan yakuniy ish",
-   "Taqdimot (Presentation) – ishni ko'rsatib tushuntirish"
-  ],
-  "softSkill": "Yakuniy mas'uliyat va g'urur — ikki yillik mehnat natijasini ota-onalar oldida ishonch bilan namoyish etish ko'nikmasini mustahkamlash.",
-  "resurslar": [
-   "LEGO Education SPIKE Prime to'plami va barcha attachmentlar",
-   "To'liq musobaqa maydonchasi (4 missiya bilan)",
-   "Ko'rgazma uchun joy (ota-onalar uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Kirish (5 daqiqa)",
-    "points": [
-     "Yakuniy loyiha vazifasi tushuntiriladi: barcha 4 missiyani qamrab oluvchi to'liq yechim."
-    ]
-   },
-   {
-    "title": "5.2. Reja (5 daqiqa)",
-    "points": [
-     "Jamoalar barcha missiyalarni qanday tartibda bajarish strategiyasini tuzadilar."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Yakuniy tayyorgarlik (25 daqiqa)",
-    "points": [
-     "Jamoalar robot, attachmentlar va dasturni yakuniy sinovdan o'tkazadilar."
-    ]
-   },
-   {
-    "title": "6.2. Ochiq turnir (10 daqiqa)",
-    "points": [
-     "Jamoalar ota-onalar oldida to'liq missiya turini namoyish etadilar."
-    ]
-   }
-  ],
-  "uyga": [
-   "0-4-sinf va SPIKE davomidagi eng katta yutug'ingiz haqida qisqacha insho yozing."
-  ],
-  "meta": {
-   "sinf": "3-sinf",
-   "yil": "2-yil",
    "chorak": "4-chorak, 11-hafta",
    "darsRaqami": "84 / 84",
-   "modul": "L4. Loyiha",
+   "modul": "M4. Missiya 3, 4 va yakuniy turnir",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
@@ -61548,6 +63178,95 @@ window.LESSON_CONTENT = {
  },
  "2-yil|4-sinf|1-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"SPIKE Prime: qismlar va yig'ish\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 1-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Halollik — testni mustaqil yechish, ko'chirmaslik. Natija qanday bo'lsa ham, u O'ZINGIZNIKI bo'lsin.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 1-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. SPIKE Prime to'plamining \"miyasi\" qaysi qism?  A) Hub (dasturlanadigan blok).  B) Katta motor.  C) G'ildirak.",
+     "2-savol. Motor va sensorlar Hub'ga qanday ulanadi?  A) Yelim bilan.  B) Portlarga kabel orqali.  C) Simsiz faqat.",
+     "3-savol. Driving Base nima?  A) O'yin maydoni.  B) Dastur nomi.  C) Ikki motorli harakatlanuvchi robot asosi.",
+     "4-savol. Robot to'g'ri yurishi uchun ikkala motor qanday ishlashi kerak?  A) Bir xil tezlikda.  B) Har xil tezlikda.  C) Faqat bittasi.",
+     "5-savol. Attachment nima?  A) Dastur xatosi.  B) Robotga taqiladigan almashtiriladigan qo'shimcha mexanizm.  C) Batareya turi.",
+     "6-savol. Yig'ishda rasmli instruksiyaga rioya qilish nega muhim?  A) Tezroq tugatish uchun faqat.  B) O'qituvchi xafa bo'lmasligi uchun.  C) Bitta xato keyingi bosqichlarni buzadi.",
+     "7-savol. Robot Arm (robot-qo'l) qanday vazifani bajaradi?  A) Narsalarni ushlab ko'taradi.  B) Faqat yuradi.  C) Musiqa chaladi.",
+     "8-savol. Line Follower attachment'da sensor qayerga qaraydi?  A) Osmonga.  B) Pastga — chiziqni ko'rish uchun.  C) Orqaga.",
+     "9-savol. Ultrasonik sensor qanday o'lchaydi?  A) Rangni solishtiradi.  B) Og'irlikni tortadi.  C) Tovush to'lqini yuborib, qaytish vaqtini o'lchaydi.",
+     "10-savol. Yig'ilgan modelni sinashdan oldin nimani tekshiramiz?  A) Barcha birikmalar mahkamligini va kabellar ulanganini.  B) Faqat rangini.  C) Hech narsani."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "4-sinf",
+   "yil": "2-yil",
+   "chorak": "1-chorak, 5-hafta",
+   "darsRaqami": "9 / 84",
+   "modul": "N1. Nazorat ishi",
+   "jihoz": "LEGO Education SPIKE Prime",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|4-sinf|1-chorak|9": {
+  "maqsad": [
    "O'quvchilar rasmiy LEGO Education \"Color sensor mount\" modelini instruksiya bo'yicha mustaqil yig'ishni o'rganadilar.",
    "O'quvchilar bu qurilmaning vazifasini va sensor balandligining aniqlik darajasiga ta'siri tushunadilar.",
    "O'quvchilar rasmli instruksiyaga aniq va tartibli rioya qilish ko'nikmasini rivojlantiradilar."
@@ -61608,13 +63327,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "2-yil",
    "chorak": "1-chorak, 5-hafta",
-   "darsRaqami": "9 / 84",
+   "darsRaqami": "10 / 84",
    "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|1-chorak|9": {
+ "2-yil|4-sinf|1-chorak|10": {
   "maqsad": [
    "O'quvchilar rasmiy LEGO Education \"Bumper attachment (to'siq sezuvchi)\" modelini instruksiya bo'yicha mustaqil yig'ishni o'rganadilar.",
    "O'quvchilar bu qurilmaning vazifasini va mexanik bosim orqali to'siqni aniqlash (sensorsiz ham mumkin) tushunadilar.",
@@ -61675,14 +63394,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 5-hafta",
-   "darsRaqami": "10 / 84",
+   "chorak": "1-chorak, 6-hafta",
+   "darsRaqami": "11 / 84",
    "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|1-chorak|10": {
+ "2-yil|4-sinf|1-chorak|11": {
   "maqsad": [
    "O'quvchilar rasmiy LEGO Education \"Gripper (ushlagich) attachment\" modelini instruksiya bo'yicha mustaqil yig'ishni o'rganadilar.",
    "O'quvchilar bu qurilmaning vazifasini va ochilish-yopilish mexanizmi va motor bilan boshqarilishi tushunadilar.",
@@ -61744,13 +63463,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "2-yil",
    "chorak": "1-chorak, 6-hafta",
-   "darsRaqami": "11 / 84",
+   "darsRaqami": "12 / 84",
    "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|1-chorak|11": {
+ "2-yil|4-sinf|1-chorak|12": {
   "maqsad": [
    "O'quvchilar rasmiy LEGO Education \"Tractor\" modelini instruksiya bo'yicha mustaqil yig'ishni o'rganadilar.",
    "O'quvchilar bu qurilmaning vazifasini va yuqori moment (kuch) beruvchi uzatma tizimi tushunadilar.",
@@ -61811,14 +63530,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 6-hafta",
-   "darsRaqami": "12 / 84",
+   "chorak": "1-chorak, 7-hafta",
+   "darsRaqami": "13 / 84",
    "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|1-chorak|12": {
+ "2-yil|4-sinf|1-chorak|13": {
   "maqsad": [
    "O'quvchilar rasmiy LEGO Education \"Catapult attachment\" modelini instruksiya bo'yicha mustaqil yig'ishni o'rganadilar.",
    "O'quvchilar bu qurilmaning vazifasini va elastik energiya yoki richag orqali otish kuchi hosil qilish tushunadilar.",
@@ -61880,13 +63599,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "2-yil",
    "chorak": "1-chorak, 7-hafta",
-   "darsRaqami": "13 / 84",
+   "darsRaqami": "14 / 84",
    "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|1-chorak|13": {
+ "2-yil|4-sinf|1-chorak|14": {
   "maqsad": [
    "O'quvchilar rasmiy LEGO Education \"Plow attachment (belkurak)\" modelini instruksiya bo'yicha mustaqil yig'ishni o'rganadilar.",
    "O'quvchilar bu qurilmaning vazifasini va old qismning yerga yaqin joylashuvi tushunadilar.",
@@ -61947,14 +63666,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 7-hafta",
-   "darsRaqami": "14 / 84",
+   "chorak": "1-chorak, 8-hafta",
+   "darsRaqami": "15 / 84",
    "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|1-chorak|14": {
+ "2-yil|4-sinf|1-chorak|15": {
   "maqsad": [
    "O'quvchilar rasmiy LEGO Education \"Scoop attachment (cho'mich)\" modelini instruksiya bo'yicha mustaqil yig'ishni o'rganadilar.",
    "O'quvchilar bu qurilmaning vazifasini va cho'michning ko'tarish burchagi va mexanizmi tushunadilar.",
@@ -62016,13 +63735,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "2-yil",
    "chorak": "1-chorak, 8-hafta",
-   "darsRaqami": "15 / 84",
+   "darsRaqami": "16 / 84",
    "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|1-chorak|15": {
+ "2-yil|4-sinf|1-chorak|16": {
   "maqsad": [
    "O'quvchilar rasmiy LEGO Education \"Fork-lift attachment\" modelini instruksiya bo'yicha mustaqil yig'ishni o'rganadilar.",
    "O'quvchilar bu qurilmaning vazifasini va richag/vint orqali tik ko'tarish mexanizmi tushunadilar.",
@@ -62083,14 +63802,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 8-hafta",
-   "darsRaqami": "16 / 84",
+   "chorak": "1-chorak, 9-hafta",
+   "darsRaqami": "17 / 84",
    "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|1-chorak|16": {
+ "2-yil|4-sinf|1-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Mening Driving Base kombinatsiyam\" loyihasi doirasida o'z Driving Base + 2 ta tanlangan attachment kombinatsiyasini yig'ib, har birining ishlashini ko'rsatish.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 2-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Mustaqillik va tashabbus — o'qituvchidan tayyor javob kutmasdan, o'z yechimingizni sinab ko'rish. Ishlamasa — boshqasini sinash.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: o'z Driving Base + 2 ta tanlangan attachment kombinatsiyasini yig'ib, har birining ishlashini ko'rsatish.",
+     "Talab: Driving Base mustaqil yig'ilsin.",
+     "Talab: 2 ta attachment tanlanib, taqilsin.",
+     "Talab: Har attachment ish holatida ko'rsatilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Attachmentlarni vazifasiga qarab juftlang — ular bir-biriga xalaqit bermasin",
+     "Kabellarni harakatlanuvchi qismlardan uzoqroq o'tkazing",
+     "Yig'ishda instruksiya bosqichlarini o'tkazib yubormang"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Driving Base instruksiya bo'yicha to'g'ri va mahkam yig'ilgan.",
+     "2-band (1 ball): Robot to'g'ri chiziq bo'ylab og'masdan yuradi.",
+     "3-band (1 ball): 1-attachment taqilgan va ish holatida ko'rsatildi.",
+     "4-band (1 ball): 2-attachment taqilgan va ish holatida ko'rsatildi.",
+     "5-band (1 ball): Attachment almashtirish 2 daqiqadan kam vaqt oldi.",
+     "6-band (1 ball): Kabellar to'g'ri portlarga ulangan va harakatga xalaqit bermaydi.",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 2-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Qaysi attachment juftligi eng foydali kombinatsiya bo'ldi va nega?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "4-sinf",
+   "yil": "2-yil",
+   "chorak": "1-chorak, 9-hafta",
+   "darsRaqami": "18 / 84",
+   "modul": "L1. Loyiha",
+   "jihoz": "LEGO Education SPIKE Prime",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|4-sinf|1-chorak|18": {
   "maqsad": [
    "O'quvchilar rasmiy LEGO Education \"Ball Shooter attachment\" modelini instruksiya bo'yicha mustaqil yig'ishni o'rganadilar.",
    "O'quvchilar bu qurilmaning vazifasini va motor aylanishi orqali otish kuchi hosil qilish tushunadilar.",
@@ -62151,14 +63977,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 9-hafta",
-   "darsRaqami": "17 / 84",
+   "chorak": "1-chorak, 10-hafta",
+   "darsRaqami": "19 / 84",
    "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|1-chorak|17": {
+ "2-yil|4-sinf|1-chorak|19": {
   "maqsad": [
    "O'quvchilar rasmiy LEGO Education \"Kriket (box robot)\" modelini instruksiya bo'yicha mustaqil yig'ishni o'rganadilar.",
    "O'quvchilar bu qurilmaning vazifasini va minimal qismlar bilan funksional robot yaratish g'oyasi tushunadilar.",
@@ -62219,14 +64045,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 9-hafta",
-   "darsRaqami": "18 / 84",
+   "chorak": "1-chorak, 10-hafta",
+   "darsRaqami": "20 / 84",
    "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|1-chorak|18": {
+ "2-yil|4-sinf|1-chorak|20": {
   "maqsad": [
    "O'quvchilar rasmiy LEGO Education \"Sensor arm attachment\" modelini instruksiya bo'yicha mustaqil yig'ishni o'rganadilar.",
    "O'quvchilar bu qurilmaning vazifasini va sensor joylashuvining aniqlashga ta'siri tushunadilar.",
@@ -62287,128 +64113,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "1-chorak, 10-hafta",
-   "darsRaqami": "19 / 84",
-   "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
-   "jihoz": "LEGO Education SPIKE Prime",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|4-sinf|1-chorak|19": {
-  "maqsad": [
-   "O'quvchilar Driving Base va tanlagan 2 ta attachmentni mustaqil yig'ib, ishlash tamoyilini tushuntirib beradilar.",
-   "O'quvchilar SPIKE Prime qismlarini to'g'ri nomlash va ularning vazifasini bilishni namoyish etadilar.",
-   "O'quvchilarda texnik tushuntirish (og'zaki taqdimot) ko'nikmasi rivojlanadi."
-  ],
-  "lugat": [
-   "Driving Base – harakatlanuvchi robot asosi",
-   "Attachment – asosiy robotga qo'shiladigan qo'shimcha qurilma",
-   "Hub – SPIKE Prime ning markaziy boshqaruv bloki",
-   "Instruksiya (Instructions) – rasmli qurish qo'llanmasi",
-   "Baholash (Assessment) – bajarilgan ishni tekshirish"
-  ],
-  "softSkill": "Texnik tushuntirish — yig'ilgan qurilmaning tuzilishi va vazifasini aniq, tushunarli tilda tushuntirib berish ko'nikmasini rivojlantirish.",
-  "resurslar": [
-   "LEGO Education SPIKE Prime to'plami",
-   "Rasmiy instruksiyalar",
-   "Baholash jadvali"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Kirish (5 daqiqa)",
-    "points": [
-     "Nazorat ishi qoidalari tushuntiriladi: Driving Base va 2 ta attachment tanlab, yig'ish va tushuntirish kerak."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "Qurilmaning to'g'ri va mustahkam yig'ilgani, qismlar nomlarining to'g'ri aytilgani baholanadi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Yig'ish (20 daqiqa)",
-    "points": [
-     "O'quvchilar Driving Base va 2 ta attachmentni mustaqil yig'adilar."
-    ]
-   },
-   {
-    "title": "6.2. Tushuntirish (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi yig'ilgan qurilmani ko'rsatib, qismlarini va vazifasini tushuntiradi."
-    ]
-   }
-  ],
-  "uyga": [
-   "SPIKE Prime'dagi yana qaysi attachment turlarini bilib olganingizni ro'yxat qiling."
-  ],
-  "meta": {
-   "sinf": "4-sinf",
-   "yil": "2-yil",
-   "chorak": "1-chorak, 10-hafta",
-   "darsRaqami": "20 / 84",
-   "modul": "N1. Nazorat ishi",
-   "jihoz": "LEGO Education SPIKE Prime",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|4-sinf|1-chorak|20": {
-  "maqsad": [
-   "O'quvchilar o'z Driving Base va tanlagan attachmentlar kombinatsiyasini erkin tarzda yaratadilar.",
-   "O'quvchilar SPIKE qismlarini mustaqil tanlab, birlashtirish tajribasini oladilar.",
-   "O'quvchilar o'z konstruksiyasini sinfga taqdim etadilar."
-  ],
-  "lugat": [
-   "Driving Base – harakatlanuvchi robot asosi",
-   "Attachment – qo'shimcha qurilma",
-   "Kombinatsiya (Combination) – bir nechta qismning birgalikda ishlatilishi",
-   "Loyiha (Project) – mustaqil bajariladigan ish",
-   "Taqdimot (Presentation) – ishni ko'rsatib tushuntirish"
-  ],
-  "softSkill": "Erkin ijod — tayyor qismlardan o'z kombinatsiyasini yaratish orqali ijodiy muhandislik fikrlashini rivojlantirish.",
-  "resurslar": [
-   "LEGO Education SPIKE Prime to'plami",
-   "1-chorakda yig'ilgan barcha Driving Base va attachmentlar"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Kirish (5 daqiqa)",
-    "points": [
-     "Loyiha vazifasi tushuntiriladi: o'z Driving Base va tanlagan attachmentlar kombinatsiyasini yaratish."
-    ]
-   },
-   {
-    "title": "5.2. Reja (5 daqiqa)",
-    "points": [
-     "O'quvchilar qaysi Driving Base va qaysi attachmentlarni birlashtirishni rejalashtiradilar."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish (25 daqiqa)",
-    "points": [
-     "O'quvchilar tanlagan qismlarni birlashtirib, o'z konstruksiyasini yaratadilar."
-    ]
-   },
-   {
-    "title": "6.2. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir o'quvchi konstruksiyasini ko'rsatib, nima uchun shu kombinatsiyani tanlaganini tushuntiradi."
-    ]
-   }
-  ],
-  "uyga": [
-   "Konstruksiyangizni yanada yaxshilash uchun qanday attachment qo'shish mumkinligi haqida yozing."
-  ],
-  "meta": {
-   "sinf": "4-sinf",
-   "yil": "2-yil",
    "chorak": "1-chorak, 11-hafta",
    "darsRaqami": "21 / 84",
-   "modul": "L1. Loyiha",
+   "modul": "M1. Qurish asoslari (LEGO rasmiy modellari)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
@@ -63011,6 +64718,95 @@ window.LESSON_CONTENT = {
  },
  "2-yil|4-sinf|2-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"SPIKE sensorlari va dasturlash\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 3-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Diqqatni jamlash — 20 daqiqa davomida chalg'imasdan ishlash, savolni oxirigacha o'qish.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 3-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. Rang sensori nimani aniqlaydi?  A) Sirt rangini va yorug'likni.  B) Masofani.  C) Og'irlikni.",
+     "2-savol. Chiziq kuzatishda robot qora chiziqdan chiqib ketsa nima qilishi kerak?  A) To'xtab qolishi.  B) Chiziq tomonga burilishi.  C) Tezlashishi.",
+     "3-savol. \"Agar ... aks holda\" (if/else) bloki nima qiladi?  A) Dasturni o'chiradi.  B) Robotni tezlashtiradi.  C) Shartga qarab ikki yo'ldan birini tanlaydi.",
+     "4-savol. Ultrasonik sensor bilan robot to'siq oldida to'xtashi uchun dasturda nima bo'lishi kerak?  A) Masofa shartdan kichik bo'lsa - to'xtash buyrug'i.  B) Faqat oldinga yurish.  C) Rang tekshirish.",
+     "5-savol. Gyroskopik sensor nimani o'lchaydi?  A) Rangni.  B) Burilish burchagini.  C) Masofani.",
+     "6-savol. 90 gradusga ANIQ burilish uchun qaysi sensor eng qulay?  A) Rang sensori.  B) Bosim sensori.  C) Gyroskopik sensor.",
+     "7-savol. Kuch (bosim) sensori qachon signal beradi?  A) Bosilganda.  B) Yorug'lik tushganda.  C) Ovoz chiqqanda.",
+     "8-savol. Bir nechta sensorni birlashtirish nima beradi?  A) Dastur qisqaradi.  B) Robot bir vaqtda bir necha narsani kuzata oladi.  C) Batareya tejaladi.",
+     "9-savol. Dastur kutilgandek ishlamasa nima qilamiz?  A) Robotni almashtiramiz.  B) Boshqa dastur yozamiz darhol.  C) Qadamma-qadam tekshirib, xatoni topamiz.",
+     "10-savol. Aqlli parking robot qanday ishlaydi?  A) Sensor bo'sh joyni aniqlab, robot o'zi to'xtaydi.  B) Odam pult bilan boshqaradi.  C) Tasodifiy to'xtaydi."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "4-sinf",
+   "yil": "2-yil",
+   "chorak": "2-chorak, 5-hafta",
+   "darsRaqami": "30 / 84",
+   "modul": "N2. Nazorat ishi",
+   "jihoz": "LEGO Education SPIKE Prime",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|4-sinf|2-chorak|9": {
+  "maqsad": [
    "O'quvchilar kuch (bosim) sensorini Python orqali o'qiydilar.",
    "O'quvchilar `pressed()` mantiqiy qiymatini shartda ishlatadilar.",
    "O'quvchilar sensorni dasturni ishga tushirish tugmasi sifatida qo'llaydilar."
@@ -63071,7 +64867,7 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "2-yil",
    "chorak": "2-chorak, 5-hafta",
-   "darsRaqami": "30 / 84",
+   "darsRaqami": "31 / 84",
    "modul": "M2. Sensorlar va birinchi dasturlar",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
@@ -63082,7 +64878,7 @@ window.LESSON_CONTENT = {
    "matn": "from hub import port, light_matrix\nimport force_sensor, motor_pair, runloop\n\nmotor_pair.pair(motor_pair.PAIR_1, port.A, port.B)\n\nasync def main():\n    light_matrix.write('?')\n    while not force_sensor.pressed(port.D):\n        await runloop.sleep_ms(10)\n\n    light_matrix.write('GO')\n    await motor_pair.move_for_time(motor_pair.PAIR_1, 2000, 0, velocity=400)\n    motor_pair.stop(motor_pair.PAIR_1)\n\nrunloop.run(main())"
   }
  },
- "2-yil|4-sinf|2-chorak|9": {
+ "2-yil|4-sinf|2-chorak|10": {
   "maqsad": [
    "O'quvchilar gyroskopik sensor yordamida aniq burchakka buriladilar.",
    "O'quvchilar decigradus (90° = 900) o'lchovini tushunadilar.",
@@ -63143,8 +64939,8 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 5-hafta",
-   "darsRaqami": "31 / 84",
+   "chorak": "2-chorak, 6-hafta",
+   "darsRaqami": "32 / 84",
    "modul": "M2. Sensorlar va birinchi dasturlar",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
@@ -63155,7 +64951,7 @@ window.LESSON_CONTENT = {
    "matn": "from hub import port, motion_sensor\nimport motor_pair, runloop\n\nmotor_pair.pair(motor_pair.PAIR_1, port.A, port.B)\n\nasync def bur(burchak_gradus):\n    motion_sensor.reset_yaw(0)\n    nishon = burchak_gradus * 10        # 90 -> 900 decigradus\n    motor_pair.move(motor_pair.PAIR_1, 100, velocity=200)\n    while abs(motion_sensor.tilt_angles()[0]) < nishon:\n        await runloop.sleep_ms(5)\n    motor_pair.stop(motor_pair.PAIR_1)\n\nasync def main():\n    await bur(90)\n\nrunloop.run(main())"
   }
  },
- "2-yil|4-sinf|2-chorak|10": {
+ "2-yil|4-sinf|2-chorak|11": {
   "maqsad": [
    "O'quvchilar bir nechta sensordan kelgan ma'lumotni bitta dasturda birlashtiradilar.",
    "O'quvchilar `and` va `or` mantiqiy amallarini qo'llaydilar.",
@@ -63217,7 +65013,7 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "2-yil",
    "chorak": "2-chorak, 6-hafta",
-   "darsRaqami": "32 / 84",
+   "darsRaqami": "33 / 84",
    "modul": "M2. Sensorlar va birinchi dasturlar",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
@@ -63228,7 +65024,7 @@ window.LESSON_CONTENT = {
    "matn": "from hub import port\nimport color_sensor, distance_sensor, motor_pair, runloop\n\nmotor_pair.pair(motor_pair.PAIR_1, port.A, port.B)\nCHEGARA = 40\n\nasync def main():\n    while True:\n        masofa = distance_sensor.distance(port.F)\n        qiymat = color_sensor.reflection(port.E)\n\n        if masofa > 0 and masofa < 150:      # 1-ustuvorlik: to'siq\n            motor_pair.stop(motor_pair.PAIR_1)\n        elif qiymat < CHEGARA:               # 2-ustuvorlik: qora\n            motor_pair.move(motor_pair.PAIR_1, -35, velocity=300)\n        else:                                # 3: oq\n            motor_pair.move(motor_pair.PAIR_1, 35, velocity=300)\n\n        await runloop.sleep_ms(10)\n\nrunloop.run(main())"
   }
  },
- "2-yil|4-sinf|2-chorak|11": {
+ "2-yil|4-sinf|2-chorak|12": {
   "maqsad": [
    "O'quvchilar ko'p tarmoqli qaror qabul qilish dasturini yozadilar.",
    "O'quvchilar `elif` zanjirini to'g'ri tartibda tuzadilar.",
@@ -63289,8 +65085,8 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 6-hafta",
-   "darsRaqami": "33 / 84",
+   "chorak": "2-chorak, 7-hafta",
+   "darsRaqami": "34 / 84",
    "modul": "M2. Sensorlar va birinchi dasturlar",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
@@ -63301,7 +65097,7 @@ window.LESSON_CONTENT = {
    "matn": "from hub import port, light_matrix\nimport color, color_sensor, motor, runloop\n\nasync def main():\n    while True:\n        rang = color_sensor.color(port.E)\n\n        if rang == color.RED:\n            light_matrix.write('R')\n            await motor.run_for_degrees(port.C, 90, 400)\n        elif rang == color.BLUE:\n            light_matrix.write('B')\n            await motor.run_for_degrees(port.C, -90, 400)\n        elif rang == color.YELLOW:\n            light_matrix.write('Y')\n        else:\n            light_matrix.write('-')\n\n        await runloop.sleep_ms(200)\n\nrunloop.run(main())"
   }
  },
- "2-yil|4-sinf|2-chorak|12": {
+ "2-yil|4-sinf|2-chorak|13": {
   "maqsad": [
    "O'quvchilar o'rgangan Python buyruqlarini mustaqil masalada qo'llaydilar.",
    "O'quvchilar dasturni bo'laklarga bo'lib yozishni mashq qiladilar.",
@@ -63362,7 +65158,7 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "2-yil",
    "chorak": "2-chorak, 7-hafta",
-   "darsRaqami": "34 / 84",
+   "darsRaqami": "35 / 84",
    "modul": "M2. Sensorlar va birinchi dasturlar",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
@@ -63373,7 +65169,7 @@ window.LESSON_CONTENT = {
    "matn": "from hub import port, motion_sensor\nimport motor_pair, runloop\n\nmotor_pair.pair(motor_pair.PAIR_1, port.A, port.B)\n\nasync def bur(gradus):\n    motion_sensor.reset_yaw(0)\n    motor_pair.move(motor_pair.PAIR_1, 100, velocity=200)\n    while abs(motion_sensor.tilt_angles()[0]) < gradus * 10:\n        await runloop.sleep_ms(5)\n    motor_pair.stop(motor_pair.PAIR_1)\n\nasync def main():\n    for i in range(4):\n        await motor_pair.move_for_time(motor_pair.PAIR_1, 1000, 0, velocity=350)\n        await bur(90)\n\nrunloop.run(main())"
   }
  },
- "2-yil|4-sinf|2-chorak|13": {
+ "2-yil|4-sinf|2-chorak|14": {
   "maqsad": [
    "O'quvchilar `for` halqasi bilan takrorlanuvchi harakatni qisqartiradilar.",
    "O'quvchilar o'z kodini qisqartirish va tozalashni o'rganadilar.",
@@ -63434,8 +65230,8 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 7-hafta",
-   "darsRaqami": "35 / 84",
+   "chorak": "2-chorak, 8-hafta",
+   "darsRaqami": "36 / 84",
    "modul": "M2. Sensorlar va birinchi dasturlar",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
@@ -63446,7 +65242,7 @@ window.LESSON_CONTENT = {
    "matn": "# ESKI USUL — bir xil qatorlar 3 marta\n# await motor.run_for_degrees(port.C, 90, 400)\n# await runloop.sleep_ms(300)\n# await motor.run_for_degrees(port.C, 90, 400)\n# await runloop.sleep_ms(300)\n# await motor.run_for_degrees(port.C, 90, 400)\n\n# YANGI USUL\nfrom hub import port\nimport motor, runloop\n\nasync def main():\n    for i in range(3):\n        await motor.run_for_degrees(port.C, 90, 400)\n        await runloop.sleep_ms(300)\n\nrunloop.run(main())"
   }
  },
- "2-yil|4-sinf|2-chorak|14": {
+ "2-yil|4-sinf|2-chorak|15": {
   "maqsad": [
    "O'quvchilar aqlli parking robotini loyihalashni boshlaydilar.",
    "O'quvchilar kamida 2 ta sensordan foydalanish rejasini tuzadilar.",
@@ -63506,13 +65302,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "2-yil",
    "chorak": "2-chorak, 8-hafta",
-   "darsRaqami": "36 / 84",
+   "darsRaqami": "37 / 84",
    "modul": "M2. Sensorlar va birinchi dasturlar",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|2-chorak|15": {
+ "2-yil|4-sinf|2-chorak|16": {
   "maqsad": [
    "O'quvchilar parking robot loyihasini Python kodida amalga oshiradilar.",
    "O'quvchilar bir nechta sensorni bitta dasturda birlashtiradilar.",
@@ -63573,8 +65369,8 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 8-hafta",
-   "darsRaqami": "37 / 84",
+   "chorak": "2-chorak, 9-hafta",
+   "darsRaqami": "38 / 84",
    "modul": "M2. Sensorlar va birinchi dasturlar",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
@@ -63585,7 +65381,114 @@ window.LESSON_CONTENT = {
    "matn": "from hub import port, light_matrix\nimport distance_sensor, motor_pair, runloop\n\nmotor_pair.pair(motor_pair.PAIR_1, port.A, port.B)\n\nBOSH_JOY_MM = 300     # shundan uzoq bo'lsa - joy bo'sh\nTEZLIK = 250\n\nasync def devor_boylab_yur():\n    motor_pair.move(motor_pair.PAIR_1, 0, velocity=TEZLIK)\n    while True:\n        m = distance_sensor.distance(port.F)\n        if m < 0 or m > BOSH_JOY_MM:      # joy bo'sh\n            motor_pair.stop(motor_pair.PAIR_1)\n            return\n        await runloop.sleep_ms(10)\n\nasync def joyga_kir():\n    await motor_pair.move_for_time(motor_pair.PAIR_1, 600, 100, velocity=200)\n    await motor_pair.move_for_time(motor_pair.PAIR_1, 900, 0, velocity=200)\n\nasync def main():\n    await devor_boylab_yur()\n    await joyga_kir()\n    light_matrix.write('P')\n\nrunloop.run(main())"
   }
  },
- "2-yil|4-sinf|2-chorak|16": {
+ "2-yil|4-sinf|2-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Aqlli parking robot\" loyihasi doirasida sensorlar yordamida bo'sh joyni topib, o'zi to'xtaydigan parking robotini qurish va dasturlash.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 4-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Rejali ishlash — vaqtni bosqichlarga bo'lib, eskiz va sinovga ham vaqt qoldirish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: sensorlar yordamida bo'sh joyni topib, o'zi to'xtaydigan parking robotini qurish va dasturlash.",
+     "Talab: Robot bo'sh joyni sensor bilan aniqlasin.",
+     "Talab: To'xtash aniq belgilangan zonada bo'lsin.",
+     "Talab: 5 urinishdan kamida 4 tasi muvaffaqiyatli chiqsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Masofa sensorining chegara qiymatini maydonchada sinab toping",
+     "Tezlikni kamaytiring — tez robot to'xtash zonasidan o'tib ketadi",
+     "Dasturni bosqichlab sinang: avval yurish, keyin sezish, keyin to'xtash"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): Robot bo'sh joyni sensor orqali o'zi aniqlaydi.",
+     "2-band (1 ball): Robot belgilangan zonada to'xtaydi (chiziqdan chiqmaydi).",
+     "3-band (1 ball): Dasturda shart (agar/aks holda) bloki ishlatilgan va bola uni tushuntiradi.",
+     "4-band (1 ball): Sinov: 5 urinishdan kamida 4 tasi muvaffaqiyatli (jadvalga yozilgan).",
+     "5-band (1 ball): Muvaffaqiyatsiz urinish sababi tahlil qilingan.",
+     "6-band (1 ball): To'xtash aniqligi o'lchab yozilgan (zona chetigacha necha sm qoldi).",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 4-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Robot qaysi holatda parkovkani xato qildi va dasturda nimani tuzatdingiz?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "4-sinf",
+   "yil": "2-yil",
+   "chorak": "2-chorak, 9-hafta",
+   "darsRaqami": "39 / 84",
+   "modul": "L2. Loyiha",
+   "jihoz": "LEGO Education SPIKE Prime",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|4-sinf|2-chorak|18": {
   "maqsad": [
    "O'quvchilar chorak davomida o'rgangan Python buyruqlarini tizimlashtiradilar.",
    "O'quvchilar o'zlarining shpargalka (qo'llanma) varag'ini tuzadilar.",
@@ -63646,8 +65549,8 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 9-hafta",
-   "darsRaqami": "38 / 84",
+   "chorak": "2-chorak, 10-hafta",
+   "darsRaqami": "40 / 84",
    "modul": "M2. Sensorlar va birinchi dasturlar",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
@@ -63658,7 +65561,7 @@ window.LESSON_CONTENT = {
    "matn": "# ── SHABLON ──────────────────────────────\nfrom hub import port, light_matrix, motion_sensor\nimport motor, motor_pair, color_sensor, distance_sensor\nimport force_sensor, color, runloop\n\nmotor_pair.pair(motor_pair.PAIR_1, port.A, port.B)\n\nasync def main():\n    pass          # kod shu yerga yoziladi\n\nrunloop.run(main())\n\n# ── SENSORLAR ────────────────────────────\n# color_sensor.reflection(port.E)     0..100\n# color_sensor.color(port.E)          color.RED, color.BLUE ...\n# distance_sensor.distance(port.F)    mm, yo'q bo'lsa -1\n# force_sensor.pressed(port.D)        True / False\n# motion_sensor.tilt_angles()[0]      yaw, 90 grad = 900\n\n# ── HARAKAT ──────────────────────────────\n# motor_pair.move(PAIR_1, steering, velocity=300)\n# await motor_pair.move_for_time(PAIR_1, 1000, 0, velocity=300)\n# motor_pair.stop(PAIR_1)\n# await motor.run_for_degrees(port.C, 180, 500)\n# await runloop.sleep_ms(500)"
   }
  },
- "2-yil|4-sinf|2-chorak|17": {
+ "2-yil|4-sinf|2-chorak|19": {
   "maqsad": [
    "O'quvchilar hubning tugmalarini dasturda ishlatadilar.",
    "O'quvchilar bir dasturda bir nechta rejimni tanlashni o'rganadilar.",
@@ -63719,8 +65622,8 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 9-hafta",
-   "darsRaqami": "39 / 84",
+   "chorak": "2-chorak, 10-hafta",
+   "darsRaqami": "41 / 84",
    "modul": "M2. Sensorlar va birinchi dasturlar",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
@@ -63731,7 +65634,7 @@ window.LESSON_CONTENT = {
    "matn": "from hub import port, button, light_matrix\nimport force_sensor, motor_pair, runloop\n\nmotor_pair.pair(motor_pair.PAIR_1, port.A, port.B)\n\nasync def rejim_1():\n    await motor_pair.move_for_time(motor_pair.PAIR_1, 1000, 0, velocity=300)\n\nasync def rejim_2():\n    await motor_pair.move_for_time(motor_pair.PAIR_1, 1000, 100, velocity=300)\n\nasync def rejim_3():\n    await motor_pair.move_for_time(motor_pair.PAIR_1, 1000, 0, velocity=-300)\n\nasync def main():\n    tanlov = 1\n    light_matrix.write(str(tanlov))\n\n    while not force_sensor.pressed(port.D):\n        if button.pressed(button.LEFT) and tanlov > 1:\n            tanlov = tanlov - 1\n            light_matrix.write(str(tanlov))\n            await runloop.sleep_ms(300)\n        if button.pressed(button.RIGHT) and tanlov < 3:\n            tanlov = tanlov + 1\n            light_matrix.write(str(tanlov))\n            await runloop.sleep_ms(300)\n        await runloop.sleep_ms(10)\n\n    if tanlov == 1:\n        await rejim_1()\n    elif tanlov == 2:\n        await rejim_2()\n    else:\n        await rejim_3()\n\nrunloop.run(main())"
   }
  },
- "2-yil|4-sinf|2-chorak|18": {
+ "2-yil|4-sinf|2-chorak|20": {
   "maqsad": [
    "O'quvchilar chorak davomida yig'ilgan attachmentlarni turli kombinatsiyada sinaydilar.",
    "O'quvchilar qaysi attachment qaysi vazifaga eng mos kelishini tahlil qiladilar.",
@@ -63789,129 +65692,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "2-chorak, 10-hafta",
-   "darsRaqami": "40 / 84",
-   "modul": "M2. Sensorlar va birinchi dasturlar",
-   "jihoz": "LEGO Education SPIKE Prime",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|4-sinf|2-chorak|19": {
-  "maqsad": [
-   "O'quvchilar kamida 2 ta sensor ishlatilgan dasturni mustaqil tuzib ko'rsatadilar.",
-   "O'quvchilar SPIKE sensorlarining har birining vazifasini tushuntirib bera oladilar.",
-   "O'quvchilarda dasturni sinash va xatoni tuzatish ko'nikmasi mustahkamlanadi."
-  ],
-  "lugat": [
-   "Sensor (Sensor) – atrof-muhitni aniqlovchi qurilma",
-   "Reaktiv dastur (Reactive program) – sensor signaliga darhol javob beruvchi dastur",
-   "Kalibrlash (Calibration) – sensorni aniq ishlashi uchun sozlash",
-   "Blok (Block) – dasturdagi buyruq elementi",
-   "Baholash (Assessment) – bajarilgan ishni tekshirish"
-  ],
-  "softSkill": "Aniqlik va sinov — sensor sozlamalarini aniq sozlab, barqaror natijaga erishish ko'nikmasini rivojlantirish.",
-  "resurslar": [
-   "LEGO Education SPIKE Prime to'plami",
-   "Planshet/noutbuk (SPIKE ilovasi)",
-   "Baholash jadvali"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Kirish (5 daqiqa)",
-    "points": [
-     "Nazorat ishi qoidalari tushuntiriladi: kamida 2 ta sensor ishlatilgan dastur ko'rsatilishi kerak."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "Sensorlarning to'g'ri ishlatilgani va dasturning barqaror ishlashi baholanadi."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (10 daqiqa)",
-    "points": [
-     "O'quvchilar dasturlarini so'nggi marta tekshirib, sensorlarni kalibrlaydilar."
-    ]
-   },
-   {
-    "title": "6.2. Namoyish (20 daqiqa)",
-    "points": [
-     "Har bir o'quvchi dasturini ishga tushirib, ikkala sensorning ishlashini ko'rsatadi."
-    ]
-   }
-  ],
-  "uyga": [
-   "SPIKE'dagi yana qaysi sensordan foydalanishni xohlaganingiz va nima uchun ekanini yozing."
-  ],
-  "meta": {
-   "sinf": "4-sinf",
-   "yil": "2-yil",
-   "chorak": "2-chorak, 10-hafta",
-   "darsRaqami": "41 / 84",
-   "modul": "N2. Nazorat ishi",
-   "jihoz": "LEGO Education SPIKE Prime",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|4-sinf|2-chorak|20": {
-  "maqsad": [
-   "O'quvchilar aqlli parking robotini mustaqil loyihalab, quradilar va dasturlaydilar.",
-   "O'quvchilar kamida 2 ta sensordan foydalangan holda real hayotiy muammoga yechim yaratadilar.",
-   "O'quvchilar loyihasini sinov qilib, natijasini taqdim etadilar."
-  ],
-  "lugat": [
-   "Parking robot (Parking robot) – mashinani to'g'ri joyga qo'yishga yordam beruvchi robot",
-   "Sensor kombinatsiyasi (Sensor combination) – bir nechta sensorning birgalikda ishlashi",
-   "Loyiha (Project) – mustaqil bajariladigan ish",
-   "Sinov (Test) – loyihani tekshirish jarayoni",
-   "Taqdimot (Presentation) – ishni ko'rsatib tushuntirish"
-  ],
-  "softSkill": "Real muammoga yechim topish — kundalik hayotdagi muammoni (parking) texnik yechim orqali hal qilish ko'nikmasini rivojlantirish.",
-  "resurslar": [
-   "LEGO Education SPIKE Prime to'plami",
-   "Planshet/noutbuk (SPIKE ilovasi)",
-   "Kichik \"parking joy\" maketi (qog'ozda chizilgan bo'lishi mumkin)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Kirish (5 daqiqa)",
-    "points": [
-     "Loyiha vazifasi tushuntiriladi: aqlli parking robotini loyihalash va dasturlash."
-    ]
-   },
-   {
-    "title": "5.2. Reja (5 daqiqa)",
-    "points": [
-     "O'quvchilar qaysi sensorlardan foydalanishlarini va robot qanday ishlashini rejalashtiradilar."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Qurish va dasturlash (25 daqiqa)",
-    "points": [
-     "O'quvchilar robotni quradilar, sensorlarni ulaydilar va dasturni yozadilar."
-    ]
-   },
-   {
-    "title": "6.2. Sinov va taqdimot (10 daqiqa)",
-    "points": [
-     "O'quvchilar robotni sinaydilar va natijasini sinfga ko'rsatadilar."
-    ]
-   }
-  ],
-  "uyga": [
-   "Aqlli parking tizimlari haqiqiy hayotda qanday ishlashi haqida internetdan ma'lumot toping."
-  ],
-  "meta": {
-   "sinf": "4-sinf",
-   "yil": "2-yil",
    "chorak": "2-chorak, 11-hafta",
    "darsRaqami": "42 / 84",
-   "modul": "L2. Loyiha",
+   "modul": "M2. Sensorlar va birinchi dasturlar",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
@@ -64690,6 +66473,95 @@ window.LESSON_CONTENT = {
  },
  "2-yil|4-sinf|3-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"FLL missiyalari: strategiya va ball\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 5-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "Xatodan o'rganish — noto'g'ri javob \"yomon\" degani emas; qaysi mavzuni takrorlash kerakligini ko'rsatadigan belgi.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 5-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. FLL musobaqasida missiya nima?  A) Maydonchadagi ball beriladigan aniq vazifa.  B) Robot nomi.  C) Jamoa qo'shig'i.",
+     "2-savol. Missiya bajarishdan oldin nima tuziladi?  A) Yangi robot.  B) Reja (strategiya).  C) Yangi maydon.",
+     "3-savol. Yuk tashish missiyasida attachment qanday bo'lishi kerak?  A) Og'ir va katta.  B) Chiroyli.  C) Yukni ishonchli ushlab, kerakli joyda qo'yib yuboradigan.",
+     "4-savol. Robot chiziq bo'ylab yetkazishda qaysi sensordan foydalanadi?  A) Rang sensori.  B) Bosim sensori.  C) Harorat sensori.",
+     "5-savol. Sinovda robot vazifani bajara olmadi. To'g'ri xulosa qaysi?  A) Robot yaroqsiz.  B) Xato sababini topib, dastur yoki mexanizmni tuzatamiz.  C) Missiyani tashlab ketamiz.",
+     "6-savol. Ball tizimi nimani belgilaydi?  A) Robot narxini.  B) Jamoa yoshini.  C) Har missiya uchun beriladigan ochkolarni.",
+     "7-savol. Ikki missiyani ketma-ket bajarish uchun dastur qanday tuziladi?  A) Bosqichlar ketma-ketligi sifatida.  B) Ikkita alohida robotga.  C) Dastur kerak emas.",
+     "8-savol. Attachmentni tez almashtirish nega muhim?  A) Chiroyli ko'rinadi.  B) Musobaqada vaqt cheklangan.  C) Ustoz talab qiladi.",
+     "9-savol. Yakuniy sinov (ballga qo'yiladigan) oldidan nima qilamiz?  A) Dam olamiz.  B) Yangi robot quramiz.  C) Mashq sinovlarini o'tkazib, barqaror natijaga erishamiz.",
+     "10-savol. Missiya natijasini tahlil qilishda nimani yozib boramiz?  A) Urinish, natija va xato sabablarini.  B) Faqat g'alabalarni.  C) Hech narsani."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "4-sinf",
+   "yil": "2-yil",
+   "chorak": "3-chorak, 5-hafta",
+   "darsRaqami": "51 / 84",
+   "modul": "N3. Nazorat ishi",
+   "jihoz": "LEGO Education SPIKE Prime",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|4-sinf|3-chorak|9": {
+  "maqsad": [
    "O'quvchilar 2-missiya (\"Chiziq bo'ylab yetkazish\") vazifasini diqqat bilan tahlil qiladilar.",
    "O'quvchilar missiyani 4 ta kichik topshiriqqa (2.1–2.4) bo'lib, har biriga ball va kerakli jihozni belgilaydilar.",
    "O'quvchilar jamoa bo'lib ishlash va vazifa taqsimotini o'rganadilar."
@@ -64791,13 +66663,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "2-yil",
    "chorak": "3-chorak, 5-hafta",
-   "darsRaqami": "51 / 84",
+   "darsRaqami": "52 / 84",
    "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|3-chorak|9": {
+ "2-yil|4-sinf|3-chorak|10": {
   "maqsad": [
    "O'quvchilar 2-missiya (\"Chiziq bo'ylab yetkazish\") uchun kerakli attachment dizaynini ishlab chiqadilar.",
    "O'quvchilar dizaynni tanlashda muhandislik mulohazalarini (mustahkamlik, vazifaga moslik) hisobga oladilar.",
@@ -64896,14 +66768,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 5-hafta",
-   "darsRaqami": "52 / 84",
+   "chorak": "3-chorak, 6-hafta",
+   "darsRaqami": "53 / 84",
    "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|3-chorak|10": {
+ "2-yil|4-sinf|3-chorak|11": {
   "maqsad": [
    "O'quvchilar 2-missiya uchun tanlangan attachment dizaynini jismonan yig'adilar.",
    "O'quvchilar yig'ilgan attachmentning mustahkam va Driving Base'ga to'g'ri ulanishini ta'minlaydilar.",
@@ -64997,13 +66869,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "2-yil",
    "chorak": "3-chorak, 6-hafta",
-   "darsRaqami": "53 / 84",
+   "darsRaqami": "54 / 84",
    "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|3-chorak|11": {
+ "2-yil|4-sinf|3-chorak|12": {
   "maqsad": [
    "O'quvchilar chiziq kuzatishni missiya kodiga qo'shadilar.",
    "O'quvchilar halqadan chiqish shartini to'g'ri yozadilar.",
@@ -65102,8 +66974,8 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 6-hafta",
-   "darsRaqami": "54 / 84",
+   "chorak": "3-chorak, 7-hafta",
+   "darsRaqami": "55 / 84",
    "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
@@ -65114,7 +66986,7 @@ window.LESSON_CONTENT = {
    "matn": "from hub import port\nimport color_sensor, distance_sensor, motor, motor_pair, runloop\n\nmotor_pair.pair(motor_pair.PAIR_1, port.A, port.B)\nCHEGARA = 40\n\nasync def chiziq_boylab_yur():\n    while True:\n        masofa = distance_sensor.distance(port.F)\n        if masofa > 0 and masofa < 100:      # yetib keldi\n            motor_pair.stop(motor_pair.PAIR_1)\n            break\n\n        if color_sensor.reflection(port.E) < CHEGARA:\n            motor_pair.move(motor_pair.PAIR_1, -35, velocity=250)\n        else:\n            motor_pair.move(motor_pair.PAIR_1, 35, velocity=250)\n        await runloop.sleep_ms(10)\n\nasync def missiya_2():\n    await chiziq_boylab_yur()\n    await motor.run_for_degrees(port.C, -180, 500)   # yukni qo'yish\n\nrunloop.run(missiya_2())"
   }
  },
- "2-yil|4-sinf|3-chorak|12": {
+ "2-yil|4-sinf|3-chorak|13": {
   "maqsad": [
    "O'quvchilar 2-missiya dasturini sinab, sonlarni sozlaydilar.",
    "O'quvchilar chiziq kuzatish tezligi va aniqligi orasidagi muvozanatni topadilar.",
@@ -65215,7 +67087,7 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "2-yil",
    "chorak": "3-chorak, 7-hafta",
-   "darsRaqami": "55 / 84",
+   "darsRaqami": "56 / 84",
    "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
@@ -65226,7 +67098,7 @@ window.LESSON_CONTENT = {
    "matn": "# ── SOZLAMALAR (faqat shu sonlarni o'zgartiring) ──\nCHEGARA   = 40     # oq/qora chegarasi\nBURILISH  = 35     # qanchalik keskin buriladi\nTEZLIK    = 250    # asosiy tezlik\nTOXTASH   = 100    # necha mm qolganda to'xtaydi\n\n# Sinov qaydnomasi:\n# | CHEGARA | BURILISH | TEZLIK | vaqt | natija      |\n# |    40   |    35    |  250   | 12s  | yaxshi      |\n# |    40   |    35    |  350   |  9s  | chiqib ketdi|\n# |    40   |    50    |  350   | 10s  | yaxshi      |"
   }
  },
- "2-yil|4-sinf|3-chorak|13": {
+ "2-yil|4-sinf|3-chorak|14": {
   "maqsad": [
    "O'quvchilar 2-missiyani rasmiy qoidalar asosida yakuniy marta bajarib, ball oladilar.",
    "O'quvchilar musobaqa formatidagi bosim ostida tinch va tizimli ishlaydilar.",
@@ -65321,14 +67193,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 7-hafta",
-   "darsRaqami": "56 / 84",
+   "chorak": "3-chorak, 8-hafta",
+   "darsRaqami": "57 / 84",
    "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|3-chorak|14": {
+ "2-yil|4-sinf|3-chorak|15": {
   "maqsad": [
    "O'quvchilar ikki missiyani bitta dasturda ketma-ket bajaradilar.",
    "O'quvchilar funksiyalarni chaqirish tartibini boshqaradilar.",
@@ -65391,7 +67263,7 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "2-yil",
    "chorak": "3-chorak, 8-hafta",
-   "darsRaqami": "57 / 84",
+   "darsRaqami": "58 / 84",
    "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
@@ -65402,7 +67274,7 @@ window.LESSON_CONTENT = {
    "matn": "from hub import port, motion_sensor\nimport motor, motor_pair, runloop\n\nmotor_pair.pair(motor_pair.PAIR_1, port.A, port.B)\n\nasync def bazaga_qayt(gradus):\n    await motor_pair.move_for_degrees(motor_pair.PAIR_1, gradus, 0, velocity=-400)\n\nasync def missiya_1():\n    motion_sensor.reset_yaw(0)\n    await motor_pair.move_for_degrees(motor_pair.PAIR_1, 720, 0, velocity=400)\n    await motor.run_for_degrees(port.C, 180, 500)\n    await bazaga_qayt(720)\n\nasync def missiya_2():\n    motion_sensor.reset_yaw(0)\n    await motor_pair.move_for_degrees(motor_pair.PAIR_1, 500, 0, velocity=400)\n    await motor.run_for_degrees(port.C, -180, 500)\n    await bazaga_qayt(500)\n\nasync def main():\n    await missiya_1()\n    await missiya_2()\n\nrunloop.run(main())"
   }
  },
- "2-yil|4-sinf|3-chorak|15": {
+ "2-yil|4-sinf|3-chorak|16": {
   "maqsad": [
    "O'quvchilar attachmentlarni Driving Base'ga tez va ishonchli ulash/ajratish texnikasini mashq qiladilar.",
    "O'quvchilar vaqtni tejash uchun almashtirish tartibini oldindan rejalashtiradilar.",
@@ -65460,14 +67332,121 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 8-hafta",
-   "darsRaqami": "58 / 84",
+   "chorak": "3-chorak, 9-hafta",
+   "darsRaqami": "59 / 84",
    "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|3-chorak|16": {
+ "2-yil|4-sinf|3-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Missiya-yechim: 1-2-missiya uchun mukammal robot\" loyihasi doirasida yuk tashish va chiziq bo'ylab yetkazish missiyalari uchun robot+attachment yechimini takomillashtirib, ball sinovidan o'tkazish.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 6-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "Natijaga halol munosabat — o'lchovni bo'rttirmasdan, qanday chiqqan bo'lsa shunday yozish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: yuk tashish va chiziq bo'ylab yetkazish missiyalari uchun robot+attachment yechimini takomillashtirib, ball sinovidan o'tkazish.",
+     "Talab: Ikkala missiya ketma-ket bajarilsin.",
+     "Talab: Har missiya balli hisoblansin.",
+     "Talab: Kamida 1 ta takomil kiritilib, ball farqi ko'rsatilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Avval har missiyani alohida barqaror bajarishga erishing, keyin ketma-ket ulang",
+     "Ballni yo'qotadigan eng zaif nuqtani toping — takomilni o'sha yerga kiriting",
+     "Har urinishdan keyin natijani jadvalga yozing"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): 1-missiya (yuk tashish) bajarildi va balli yozilgan.",
+     "2-band (1 ball): 2-missiya (chiziq bo'ylab yetkazish) bajarildi va balli yozilgan.",
+     "3-band (1 ball): Ikkala missiya KETMA-KET, bitta dastur turida bajarildi.",
+     "4-band (1 ball): Kamida 1 ta takomil kiritilgan (mexanik yoki dasturiy).",
+     "5-band (1 ball): Takomildan oldingi va keyingi ball taqqoslab ko'rsatilgan.",
+     "6-band (1 ball): Urinishlar jadvali yuritilgan (kamida 3 urinish).",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 6-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Eng ko'p ballni qaysi o'zgartirish qo'shdi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "4-sinf",
+   "yil": "2-yil",
+   "chorak": "3-chorak, 9-hafta",
+   "darsRaqami": "60 / 84",
+   "modul": "L3. Loyiha",
+   "jihoz": "LEGO Education SPIKE Prime",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|4-sinf|3-chorak|18": {
   "maqsad": [
    "O'quvchilar 1 va 2-missiyani jamoa bo'lib, musobaqa formatida sinab ko'radilar.",
    "O'quvchilar real vaqt bosimi ostida ishlash tajribasini oladilar.",
@@ -65515,14 +67494,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 9-hafta",
-   "darsRaqami": "59 / 84",
+   "chorak": "3-chorak, 10-hafta",
+   "darsRaqami": "61 / 84",
    "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|3-chorak|17": {
+ "2-yil|4-sinf|3-chorak|19": {
   "maqsad": [
    "O'quvchilar mashq-turnir natijalarini tahlil qiladilar.",
    "O'quvchilar qaysi bosqichda vaqt yo'qotilganini yoki xato yuz berganini aniqlaydilar.",
@@ -65580,14 +67559,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 9-hafta",
-   "darsRaqami": "60 / 84",
+   "chorak": "3-chorak, 10-hafta",
+   "darsRaqami": "62 / 84",
    "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|3-chorak|18": {
+ "2-yil|4-sinf|3-chorak|20": {
   "maqsad": [
    "O'quvchilar 1 va 2-missiya bo'yicha chorak davomidagi ishni umumlashtiradilar.",
    "O'quvchilar eng yaxshi natijaga erishgan yechimlarni sinfga taqdim etadilar.",
@@ -65645,130 +67624,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "3-chorak, 10-hafta",
-   "darsRaqami": "61 / 84",
-   "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
-   "jihoz": "LEGO Education SPIKE Prime",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|4-sinf|3-chorak|19": {
-  "maqsad": [
-   "O'quvchilar 1 va 2-missiyalarni ketma-ket, FLL musobaqa formatida bajaradilar.",
-   "O'quvchilar ball tizimi asosida baholanish tajribasini oladilar.",
-   "O'quvchilarda jamoaviy strategiya va vaqtni boshqarish ko'nikmasi rivojlanadi."
-  ],
-  "lugat": [
-   "Missiya (Mission) – bajarilishi kerak bo'lgan aniq vazifa",
-   "Ball (Points) – vazifa bajarilgani uchun beriladigan miqdor",
-   "Attachment – vazifani bajarish uchun robotga qo'shiladigan qurilma",
-   "Musobaqa maydonchasi (Competition field) – missiyalar joylashgan maydon",
-   "Baholash mezoni (Grading criteria) – natijani baholash qoidalari"
-  ],
-  "softSkill": "Jamoaviy strategiya — vaqt va vazifalarni jamoa bilan birga rejalashtirish ko'nikmasini rivojlantirish.",
-  "resurslar": [
-   "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (missiya elementlari bilan)",
-   "Xronometr, ball jadvali"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Kirish (5 daqiqa)",
-    "points": [
-     "Missiya musobaqasi qoidalari tushuntiriladi: 1 va 2-missiya ketma-ket bajariladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "Har bir missiya muvaffaqiyatli bajarilsa 25 balldan (jami 50 ball).",
-     "45-50 ball = 5 (a'lo); 35-44 = 4 (yaxshi); 25-34 = 3 (qoniqarli); 15-24 = 2 (qoniqarsiz); 15 balldan kam = FAILED."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (10 daqiqa)",
-    "points": [
-     "O'quvchilar/jamoalar robot va attachmentlarni so'nggi marta tekshiradilar."
-    ]
-   },
-   {
-    "title": "6.2. Musobaqa (20 daqiqa)",
-    "points": [
-     "Har bir jamoa navbat bilan 1 va 2-missiyani bajaradi.",
-     "Natijalar ball jadvaliga yoziladi va e'lon qilinadi."
-    ]
-   }
-  ],
-  "uyga": [
-   "1 va 2-missiyani yanada tezroq bajarish uchun qanday o'zgartirish kiritish mumkinligi haqida o'ylab keling."
-  ],
-  "meta": {
-   "sinf": "4-sinf",
-   "yil": "2-yil",
-   "chorak": "3-chorak, 10-hafta",
-   "darsRaqami": "62 / 84",
-   "modul": "N3. Nazorat ishi",
-   "jihoz": "LEGO Education SPIKE Prime",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|4-sinf|3-chorak|20": {
-  "maqsad": [
-   "O'quvchilar 1 va 2-missiya uchun eng mukammal robot+attachment yechimini yaratadilar.",
-   "O'quvchilar dizaynni bir necha marta sinab, takomillashtirish jarayonini o'tkazadilar.",
-   "O'quvchilar yechimlarini jamoa sifatida taqdim etadilar."
-  ],
-  "lugat": [
-   "Optimallashtirish (Optimization) – yechimni yanada yaxshilash jarayoni",
-   "Attachment dizayni (Attachment design) – vazifaga mos qurilma yaratish",
-   "Iteratsiya (Iteration) – sinov-tuzatish jarayonini takrorlash",
-   "Loyiha (Project) – mustaqil bajariladigan ish",
-   "Taqdimot (Presentation) – ishni ko'rsatib tushuntirish"
-  ],
-  "softSkill": "Takomillashtirish mentaliteti — birinchi yechim bilan cheklanmasdan, uni bir necha marta sinab yaxshilashga intilish ko'nikmasini rivojlantirish.",
-  "resurslar": [
-   "LEGO Education SPIKE Prime to'plami va attachmentlar",
-   "Musobaqa maydonchasi (1 va 2-missiya elementlari)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Kirish (5 daqiqa)",
-    "points": [
-     "Loyiha vazifasi tushuntiriladi: 1 va 2-missiya uchun eng yaxshi yechimni topish."
-    ]
-   },
-   {
-    "title": "5.2. Reja (5 daqiqa)",
-    "points": [
-     "Jamoalar qaysi attachment dizaynini sinab ko'rishni rejalashtiradilar."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Takomillashtirish (25 daqiqa)",
-    "points": [
-     "Jamoalar attachment va dasturni bir necha marta sinab, yaxshilaydilar."
-    ]
-   },
-   {
-    "title": "6.2. Taqdimot (10 daqiqa)",
-    "points": [
-     "Har bir jamoa eng yaxshi natijasini ko'rsatadi va nima o'zgartirganini tushuntiradi."
-    ]
-   }
-  ],
-  "uyga": [
-   "Yechimingizni yana qanday yaxshilash mumkinligi haqida bitta g'oya yozing."
-  ],
-  "meta": {
-   "sinf": "4-sinf",
-   "yil": "2-yil",
    "chorak": "3-chorak, 11-hafta",
    "darsRaqami": "63 / 84",
-   "modul": "L3. Loyiha",
+   "modul": "M3. Missiya 1 va 2 (FLL uslubi)",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
@@ -66630,6 +68488,95 @@ window.LESSON_CONTENT = {
  },
  "2-yil|4-sinf|4-chorak|8": {
   "maqsad": [
+   "O'quvchilar \"To'liq missiya turi va jamoaviy ish\" bo'yicha chorakning shu kungacha o'tilgan darslarida olgan nazariy bilimlarini test orqali namoyish etadilar.",
+   "Har bir o'quvchi 7-oy uchun jurnal bahosini oladi — bu oylik nazorat bahosi hisoblanadi.",
+   "O'quvchilar test natijasi orqali qaysi mavzuni takrorlash kerakligini aniqlaydilar."
+  ],
+  "lugat": [
+   "Test (Test) – bilimni tekshiradigan savollar to'plami",
+   "Variant (Option) – savolga taklif qilingan javoblardan biri",
+   "Javoblar kaliti (Answer key) – to'g'ri javoblar ro'yxati, faqat o'qituvchida bo'ladi",
+   "Baholash shkalasi (Grading scale) – nechta to'g'ri javob qaysi bahoga tengligi"
+  ],
+  "softSkill": "O'zini baholash — testdan oldin qaysi savollarga ishonchingiz komil ekanini his qilish va yakunda solishtirish.",
+  "resurslar": [
+   "Har bir o'quvchi uchun test varag'i (chop etilgan) yoki savollar doskaga/ekranga chiqariladi",
+   "Javob varag'i: 1 dan 10 gacha raqam va A/B/C katakchalari",
+   "Qalam va o'chirg'ich",
+   "O'qituvchi uchun javoblar kaliti (6.2-bo'lim) — o'quvchilarga ko'rsatilmaydi"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. O'tkazish instruksiyasi (o'qituvchi uchun)",
+    "points": [
+     "Test darsning birinchi yarmida o'tkaziladi — savollarga 20 daqiqa ajratiladi.",
+     "Har bir o'quvchi mustaqil ishlaydi: varaqlar tarqatilgach savollar izohlanmaydi, faqat texnik savolga (varaq, qalam) javob beriladi.",
+     "Partalar oralig'i ochiladi, kitob-daftarlar yig'ishtiriladi; testda kitobdan foydalanilmaydi.",
+     "Har savolda FAQAT BITTA to'g'ri javob bor — o'quvchilarga bu boshida aytiladi.",
+     "Vaqt tugagach varaqlar yig'ib olinadi va shu darsning o'zida javoblar kaliti bo'yicha tekshiriladi."
+    ]
+   },
+   {
+    "title": "5.2. Baholash shkalasi",
+    "points": [
+     "9-10 ta to'g'ri javob = 5 (a'lo)",
+     "7-8 ta to'g'ri javob = 4 (yaxshi)",
+     "5-6 ta to'g'ri javob = 3 (qoniqarli)",
+     "3-4 ta to'g'ri javob = 2 (qoniqarsiz)",
+     "0-2 ta to'g'ri javob = FAILED",
+     "Baho jurnalga 7-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi.",
+     "Shkala testdan OLDIN doskaga yoziladi va o'zgartirilmaydi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Test savollari (20 daqiqa)",
+    "points": [
+     "1-savol. To'liq missiya turida vaqt chegarasi qancha (FLL formatida)?  A) 2,5 daqiqa.  B) 1 soat.  C) 10 soniya.",
+     "2-savol. 4 missiyani qaysi tartibda bajargan ma'qul?  A) Istalgan tartibda, o'ylamasdan.  B) Eng ko'p ball va eng qulay yo'l hisobiga tuzilgan tartibda.  C) Faqat oson missiyalarni.",
+     "3-savol. Muhandislik daftari (Inventor Notebook) nima uchun yuritiladi?  A) Rasm chizish uchun.  B) Baho olish uchun faqat.  C) G'oyalar, sinovlar va xulosalarni hujjatlash uchun.",
+     "4-savol. Jamoada vazifalar qanday taqsimlanadi?  A) Har kim kuchli tomoniga qarab mas'ul bo'ladi.  B) Hamma hamma narsani qiladi.  C) Faqat sardor ishlaydi.",
+     "5-savol. Robot start zonasidan chiqqanda unga qo'l tegizish mumkinmi?  A) Ha, doim.  B) Yo'q — jarima bo'lishi mumkin, qoidaga qarab.  C) Faqat sardorga mumkin.",
+     "6-savol. Missiya turi paytida dastur ishlamay qolsa nima qilamiz?  A) Musobaqani tashlab ketamiz.  B) Yig'laymiz.  C) Robotni bazaga qaytarib, keyingi dasturni ishga tushiramiz.",
+     "7-savol. Taqdimotda nimani ko'rsatamiz?  A) Yechimimiz qanday ishlashi va qanday qarorlar qabul qilganimizni.  B) Faqat robotning rasmini.  C) Boshqa jamoaning ishini.",
+     "8-savol. Vaqtni tejash uchun attachmentlar qanday loyihalanadi?  A) Katta va og'ir.  B) Tez taqiladigan-yechiladigan.  C) Yelimlangan.",
+     "9-savol. Repetitsiya (mashq turi) nima beradi?  A) Vaqtni behuda sarflaydi.  B) Faqat charchatadi.  C) Xatolarni musobaqadan OLDIN topib tuzatish imkonini.",
+     "10-savol. Yakuniy turnirda eng muhim natija nima?  A) O'rganilgan ko'nikma va jamoaviy tajriba.  B) Faqat oltin medal.  C) Boshqalardan ustun kelish."
+    ]
+   },
+   {
+    "title": "6.2. Javoblar kaliti (FAQAT o'qituvchi uchun)",
+    "points": [
+     "1-A,  2-B,  3-C,  4-A,  5-B,  6-C,  7-A,  8-B,  9-C,  10-A",
+     "Tekshirishda har to'g'ri javob 1 ball; yarim ball yo'q."
+    ]
+   },
+   {
+    "title": "6.3. Xatolar tahlili (15 daqiqa)",
+    "points": [
+     "Varaqlar tekshirilgach eng ko'p xato qilingan 3 ta savol doskada birgalikda yechiladi.",
+     "Har bir o'quvchi o'zi xato qilgan savol mavzusini daftariga yozib qo'yadi.",
+     "Baholar e'lon qilinadi va jurnal hamda oylik hisobotga kiritiladi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Testda xato qilgan savollaringiz mavzusini darslikdagi (daftardagi) yozuvlardan topib takrorlang.",
+   "Shu mavzu bo'yicha o'zingiz 1 ta yangi test savoli tuzib keling — 3 varianti va to'g'ri javobi bilan."
+  ],
+  "meta": {
+   "sinf": "4-sinf",
+   "yil": "2-yil",
+   "chorak": "4-chorak, 5-hafta",
+   "darsRaqami": "72 / 84",
+   "modul": "N4. Nazorat ishi",
+   "jihoz": "LEGO Education SPIKE Prime",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|4-sinf|4-chorak|9": {
+  "maqsad": [
    "O'quvchilar 4-missiya uchun tanlangan attachment dizaynini jismonan yig'adilar.",
    "O'quvchilar yig'ilgan attachmentning mustahkam va Driving Base'ga to'g'ri ulanishini ta'minlaydilar.",
    "O'quvchilar attachmentni dastlabki sinovdan o'tkazadilar."
@@ -66722,13 +68669,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "2-yil",
    "chorak": "4-chorak, 5-hafta",
-   "darsRaqami": "72 / 84",
+   "darsRaqami": "73 / 84",
    "modul": "M4. Missiya 3, 4 va yakuniy turnir",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|4-chorak|9": {
+ "2-yil|4-sinf|4-chorak|10": {
   "maqsad": [
    "O'quvchilar 4-missiyada rang saralash va ko'tarishni birlashtiradilar.",
    "O'quvchilar sensor qiymatiga qarab turli harakat qiladigan kod yozadilar.",
@@ -66828,8 +68775,8 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 5-hafta",
-   "darsRaqami": "73 / 84",
+   "chorak": "4-chorak, 6-hafta",
+   "darsRaqami": "74 / 84",
    "modul": "M4. Missiya 3, 4 va yakuniy turnir",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
@@ -66840,7 +68787,7 @@ window.LESSON_CONTENT = {
    "matn": "from hub import port, motion_sensor\nimport color, color_sensor, motor, motor_pair, runloop\n\nmotor_pair.pair(motor_pair.PAIR_1, port.A, port.B)\n\nasync def yur(gradus, tezlik=400):\n    await motor_pair.move_for_degrees(motor_pair.PAIR_1, gradus, 0, velocity=tezlik)\n\nasync def bur(burchak):\n    motion_sensor.reset_yaw(0)\n    motor_pair.move(motor_pair.PAIR_1, 100, velocity=200)\n    while abs(motion_sensor.tilt_angles()[0]) < burchak * 10:\n        await runloop.sleep_ms(5)\n    motor_pair.stop(motor_pair.PAIR_1)\n\nasync def missiya_4():\n    await yur(500)\n    rang = color_sensor.color(port.E)\n\n    if rang == color.RED:\n        await bur(90)\n        await yur(200, 300)\n    else:\n        await bur(-90)\n        await yur(300, 300)\n\n    await motor.run_for_degrees(port.C, 200, 500)   # ko'tarish\n\nrunloop.run(missiya_4())"
   }
  },
- "2-yil|4-sinf|4-chorak|10": {
+ "2-yil|4-sinf|4-chorak|11": {
   "maqsad": [
    "O'quvchilar 4-missiya dasturini ishonchlilik bo'yicha sinaydilar.",
    "O'quvchilar rang aniqlashdagi xatolar sababini topadilar.",
@@ -66941,7 +68888,7 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "2-yil",
    "chorak": "4-chorak, 6-hafta",
-   "darsRaqami": "74 / 84",
+   "darsRaqami": "75 / 84",
    "modul": "M4. Missiya 3, 4 va yakuniy turnir",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
@@ -66952,7 +68899,7 @@ window.LESSON_CONTENT = {
    "matn": "from hub import port\nimport color, color_sensor, runloop\n\nasync def ishonchli_rang():\n    natijalar = []\n    for i in range(3):\n        natijalar.append(color_sensor.color(port.E))\n        await runloop.sleep_ms(50)\n\n    # uchtadan kamida ikkitasi bir xil bo'lsa - shu rang\n    if natijalar[0] == natijalar[1]:\n        return natijalar[0]\n    if natijalar[1] == natijalar[2]:\n        return natijalar[1]\n    return natijalar[0]\n\nasync def main():\n    rang = await ishonchli_rang()\n    print(rang)\n\nrunloop.run(main())"
   }
  },
- "2-yil|4-sinf|4-chorak|11": {
+ "2-yil|4-sinf|4-chorak|12": {
   "maqsad": [
    "O'quvchilar 4-missiyani rasmiy qoidalar asosida yakuniy marta bajarib, ball oladilar.",
    "O'quvchilar musobaqa formatidagi bosim ostida tinch va tizimli ishlaydilar.",
@@ -67047,14 +68994,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 6-hafta",
-   "darsRaqami": "75 / 84",
+   "chorak": "4-chorak, 7-hafta",
+   "darsRaqami": "76 / 84",
    "modul": "M4. Missiya 3, 4 va yakuniy turnir",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|4-chorak|12": {
+ "2-yil|4-sinf|4-chorak|13": {
   "maqsad": [
    "O'quvchilar barcha 4 missiyani bitta dasturga birlashtiradilar.",
    "O'quvchilar tugmali menyu orqali missiya tanlashni qo'llaydilar.",
@@ -67117,7 +69064,7 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "2-yil",
    "chorak": "4-chorak, 7-hafta",
-   "darsRaqami": "76 / 84",
+   "darsRaqami": "77 / 84",
    "modul": "M4. Missiya 3, 4 va yakuniy turnir",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
@@ -67128,7 +69075,7 @@ window.LESSON_CONTENT = {
    "matn": "from hub import port, button, light_matrix\nimport force_sensor, motor_pair, runloop\n\nmotor_pair.pair(motor_pair.PAIR_1, port.A, port.B)\n\n# missiya_1 ... missiya_4 funksiyalari shu yerga ko'chiriladi\n\nasync def menyu():\n    tanlov = 1\n    light_matrix.write(str(tanlov))\n    while not force_sensor.pressed(port.D):\n        if button.pressed(button.RIGHT) and tanlov < 4:\n            tanlov += 1\n            light_matrix.write(str(tanlov))\n            await runloop.sleep_ms(300)\n        if button.pressed(button.LEFT) and tanlov > 1:\n            tanlov -= 1\n            light_matrix.write(str(tanlov))\n            await runloop.sleep_ms(300)\n        await runloop.sleep_ms(10)\n    return tanlov\n\nasync def main():\n    while True:\n        n = await menyu()\n        if n == 1:\n            await missiya_1()\n        elif n == 2:\n            await missiya_2()\n        elif n == 3:\n            await missiya_3()\n        else:\n            await missiya_4()\n        await runloop.sleep_ms(500)\n\nrunloop.run(main())"
   }
  },
- "2-yil|4-sinf|4-chorak|13": {
+ "2-yil|4-sinf|4-chorak|14": {
   "maqsad": [
    "O'quvchilar 2.5 daqiqalik cheklangan vaqt ichida barcha 4 missiyani bajarishni mashq qiladilar.",
    "O'quvchilar vaqtni missiyalar orasida qanday taqsimlashni rejalashtiradilar.",
@@ -67181,14 +69128,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 7-hafta",
-   "darsRaqami": "77 / 84",
+   "chorak": "4-chorak, 8-hafta",
+   "darsRaqami": "78 / 84",
    "modul": "M4. Missiya 3, 4 va yakuniy turnir",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|4-chorak|14": {
+ "2-yil|4-sinf|4-chorak|15": {
   "maqsad": [
    "O'quvchilar yil davomidagi ishlarini muhandislik daftarida (Inventor Notebook) tartibga soladilar.",
    "O'quvchilar dizayn jarayoni, sinovlar va yechimlarni hujjatlashtirish ahamiyatini tushunadilar.",
@@ -67247,13 +69194,13 @@ window.LESSON_CONTENT = {
    "sinf": "4-sinf",
    "yil": "2-yil",
    "chorak": "4-chorak, 8-hafta",
-   "darsRaqami": "78 / 84",
+   "darsRaqami": "79 / 84",
    "modul": "M4. Missiya 3, 4 va yakuniy turnir",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|4-chorak|15": {
+ "2-yil|4-sinf|4-chorak|16": {
   "maqsad": [
    "O'quvchilar yakuniy taqdimot uchun jamoaviy prezentatsiya tayyorlaydilar.",
    "O'quvchilar taqdimotda kimning nima haqida gapirishini taqsimlaydilar.",
@@ -67312,14 +69259,122 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 8-hafta",
-   "darsRaqami": "79 / 84",
+   "chorak": "4-chorak, 9-hafta",
+   "darsRaqami": "80 / 84",
    "modul": "M4. Missiya 3, 4 va yakuniy turnir",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|4-chorak|16": {
+ "2-yil|4-sinf|4-chorak|17": {
+  "maqsad": [
+   "O'quvchilar \"Bitiruv missiya turi\" loyihasi doirasida to'liq 4-missiyali turni jamoa bo'lib o'tkazish: strategiya, dastur, taqdimot.",
+   "Har bir o'quvchi ishini oldindan e'lon qilingan 10 bandli check-list bo'yicha himoya qiladi va 8-oy uchun jurnal bahosini oladi.",
+   "O'quvchilar o'z qarorlarini o'lchov va dalil bilan asoslash tajribasini oladilar."
+  ],
+  "lugat": [
+   "Loyiha-imtihon (Project exam) – natijasi baholanadigan mustaqil amaliy ish",
+   "Check-list (Checklist) – har bandi alohida tekshiriladigan baholash ro'yxati",
+   "Talab (Requirement) – loyiha albatta bajarishi kerak bo'lgan shart",
+   "Eskiz (Sketch) – qurishdan oldin chiziladigan qo'lda chizma",
+   "Sinov (Trial) – natijani o'lchab tekshirish"
+  ],
+  "softSkill": "O'z ishini himoya qilish — qarorlarini dalil va o'lchov bilan asoslab berish.",
+  "resurslar": [
+   "Konstruktor to'plami va chorak davomida o'rganilgan modellar instruksiyalari (g'oya olish uchun)",
+   "Har o'quvchi (juftlik) uchun chop etilgan check-list varag'i — 10 band, har bandda belgilash katagi",
+   "Eskiz chizish uchun daftar va qalam",
+   "O'lchov lentasi va sekundomer (sinov bandlari uchun)"
+  ],
+  "nazariya": [
+   {
+    "title": "5.1. Loyiha mavzusi va talablar (5 daqiqa)",
+    "points": [
+     "Topshiriq e'lon qilinadi: to'liq 4-missiyali turni jamoa bo'lib o'tkazish: strategiya, dastur, taqdimot.",
+     "Talab: 4 missiya uchun strategiya (tartib) yozilsin.",
+     "Talab: Tur 2,5 daqiqaga sig'sin.",
+     "Talab: Muhandislik daftari to'ldirilsin.",
+     "Talab: Jamoa taqdimot qilsin."
+    ]
+   },
+   {
+    "title": "5.2. Nimalarga e'tibor berish kerak",
+    "points": [
+     "Strategiyada oson va ko'p ball beradigan missiyalarni birinchi qo'ying",
+     "Attachment almashtirishlar sonini kamaytiring — har almashtirish vaqt yeydi",
+     "Taqdimotda har a'zo o'z hissasini aytsin"
+    ]
+   },
+   {
+    "title": "5.3. Baholash check-listi (ish boshlanishidan OLDIN e'lon qilinadi)",
+    "points": [
+     "1-band (1 ball): 4 missiya tartibi (strategiya) oldindan yozilgan va asoslangan.",
+     "2-band (1 ball): Sinov: to'liq tur o'tkazildi va 2,5 daqiqaga sig'di.",
+     "3-band (1 ball): Umumiy ball hisoblanib yozilgan.",
+     "4-band (1 ball): Muhandislik daftarida sinovlar va xulosalar bor.",
+     "5-band (1 ball): Jamoaning har a'zosi taqdimotda o'z qismini aytdi.",
+     "6-band (1 ball): Tur davomida qoidalar buzilmadi (robotga ruxsatsiz tegilmadi).",
+     "7-band (1 ball): Eskiz qurishdan OLDIN chizilgan va unda asosiy qismlar belgilangan.",
+     "8-band (1 ball): Konstruksiya mustahkam: model qo'lga olinganda tarqalmaydi.",
+     "9-band (1 ball): O'quvchi loyihani O'ZI tushuntira oldi: nima qildi va nega shunday qildi.",
+     "10-band (1 ball): Ish vaqtida yakunlangan va ish o'rni tartibli qoldirilgan.",
+     "9-10 ball = 5 (a'lo)",
+     "7-8 ball = 4 (yaxshi)",
+     "5-6 ball = 3 (qoniqarli)",
+     "3-4 ball = 2 (qoniqarsiz)",
+     "0-2 ball = FAILED",
+     "Baho jurnalga 8-OYLIK NAZORAT bahosi sifatida qo'yiladi — o'qituvchining oylik hisobotiga aynan shu baho kiradi."
+    ]
+   }
+  ],
+  "amaliy": [
+   {
+    "title": "6.1. Eskiz (5 daqiqa)",
+    "points": [
+     "Har bir o'quvchi qurishdan OLDIN g'oyasini daftarga chizadi.",
+     "Eskizda qaysi qism nima qilishi belgilanadi — bu check-listning alohida bandi."
+    ]
+   },
+   {
+    "title": "6.2. Qurish (18 daqiqa)",
+    "points": [
+     "O'quvchilar eskiz bo'yicha loyihani quradilar.",
+     "Ishlamagan yechim o'zgartiriladi — eskizga tuzatish kiritish mumkin.",
+     "O'qituvchi aralashmaydi, faqat xavfsizlik va vaqtni nazorat qiladi — bu imtihon."
+    ]
+   },
+   {
+    "title": "6.3. Sinov va o'lchov (7 daqiqa)",
+    "points": [
+     "Check-listdagi sinov bandlari bajariladi, natijalar daftarga yoziladi.",
+     "O'lchov talab qilingan bandlarda natija raqam bilan qayd etiladi."
+    ]
+   },
+   {
+    "title": "6.4. Himoya va baholash (10 daqiqa)",
+    "points": [
+     "Har o'quvchi (juftlik) loyihasini ko'rsatib, check-list bandlari bo'yicha himoya qiladi.",
+     "O'qituvchi har bandni varaqda belgilaydi: bajarildi = 1 ball, bajarilmadi = 0.",
+     "Asosiy savol: Strategiyangizda nimani o'zgartirsangiz, ball yana oshardi?",
+     "Ballar yig'indisi shkala bo'yicha bahoga aylantiriladi va e'lon qilinadi."
+    ]
+   }
+  ],
+  "uyga": [
+   "Check-listda ball ololmagan bandingizni yozib, uni qanday bajarish mumkinligini bir gapda tushuntiring.",
+   "Loyihangizning rasmini chizib yoki fotosini olib, unga yana qanday yaxshilanish kiritish mumkinligini yozing."
+  ],
+  "meta": {
+   "sinf": "4-sinf",
+   "yil": "2-yil",
+   "chorak": "4-chorak, 9-hafta",
+   "darsRaqami": "81 / 84",
+   "modul": "L4. Loyiha",
+   "jihoz": "LEGO Education SPIKE Prime",
+   "davomiyligi": "45 daqiqa"
+  }
+ },
+ "2-yil|4-sinf|4-chorak|18": {
   "maqsad": [
    "O'quvchilar yakuniy bitiruv turniri va taqdimot uchun to'liq repetitsiya o'tkazadilar.",
    "O'quvchilar vaqt, robot va taqdimotni birgalikda sinab ko'radilar.",
@@ -67372,14 +69427,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 9-hafta",
-   "darsRaqami": "80 / 84",
+   "chorak": "4-chorak, 10-hafta",
+   "darsRaqami": "82 / 84",
    "modul": "M4. Missiya 3, 4 va yakuniy turnir",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|4-chorak|17": {
+ "2-yil|4-sinf|4-chorak|19": {
   "maqsad": [
    "O'quvchilar barcha 4 missiyani rasmiy ichki turnir formatida bajaradilar.",
    "O'quvchilar ikki yillik (Makerzoid+SPIKE) bilim va ko'nikmalarini to'liq namoyish etadilar.",
@@ -67427,14 +69482,14 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 9-hafta",
-   "darsRaqami": "81 / 84",
+   "chorak": "4-chorak, 10-hafta",
+   "darsRaqami": "83 / 84",
    "modul": "M4. Missiya 3, 4 va yakuniy turnir",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
  },
- "2-yil|4-sinf|4-chorak|18": {
+ "2-yil|4-sinf|4-chorak|20": {
   "maqsad": [
    "O'quvchilar ikki yillik (0-4-sinf Makerzoid + 4-sinf SPIKE) yo'lidagi natijalarini ota-onalar oldida namoyish etadilar.",
    "O'quvchilar o'z loyihalari va turnir natijalari haqida ishonch bilan gapirib beradilar.",
@@ -67483,131 +69538,9 @@ window.LESSON_CONTENT = {
   "meta": {
    "sinf": "4-sinf",
    "yil": "2-yil",
-   "chorak": "4-chorak, 10-hafta",
-   "darsRaqami": "82 / 84",
-   "modul": "M4. Missiya 3, 4 va yakuniy turnir",
-   "jihoz": "LEGO Education SPIKE Prime",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|4-sinf|4-chorak|19": {
-  "maqsad": [
-   "O'quvchilar barcha 4 missiyani FLL formatida, 2.5 daqiqa ichida ketma-ket bajaradilar.",
-   "O'quvchilar yil davomida o'rgangan barcha qurish va dasturlash ko'nikmalarini birlashtiradilar.",
-   "O'quvchilarda musobaqa bosimida ishlash va jamoaviy hamkorlik ko'nikmasi mustahkamlanadi."
-  ],
-  "lugat": [
-   "To'liq missiya turi (Full mission round) – barcha missiyalarning ketma-ket bajarilishi",
-   "Ball tizimi (Scoring system) – har bir missiya uchun beriladigan ball",
-   "Strategiya (Strategy) – missiyalarni qanday tartibda bajarish rejasi",
-   "Muhandislik daftari (Engineering notebook) – loyiha jarayonini qayd etuvchi hujjat",
-   "Baholash mezoni (Grading criteria) – natijani baholash qoidalari"
-  ],
-  "softSkill": "Bosim ostida ishlash — vaqt cheklangan sharoitda tinch va tizimli ishlash ko'nikmasini rivojlantirish.",
-  "resurslar": [
-   "LEGO Education SPIKE Prime to'plami va barcha attachmentlar",
-   "To'liq musobaqa maydonchasi (4 missiya bilan)",
-   "Xronometr, ball jadvali, sertifikatlar"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Kirish (5 daqiqa)",
-    "points": [
-     "Yakuniy musobaqa qoidalari tushuntiriladi: barcha 4 missiya 2.5 daqiqada bajariladi."
-    ]
-   },
-   {
-    "title": "5.2. Baholash mezoni (10 daqiqa)",
-    "points": [
-     "Har bir missiya 25 balldan (jami 100 ball).",
-     "85-100 = 5 (a'lo); 65-84 = 4 (yaxshi); 45-64 = 3 (qoniqarli); 25-44 = 2 (qoniqarsiz); 25 balldan kam = FAILED."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Tayyorgarlik (10 daqiqa)",
-    "points": [
-     "Jamoalar robot va barcha attachmentlarni yakuniy tekshiradilar."
-    ]
-   },
-   {
-    "title": "6.2. Bitiruv turniri (20 daqiqa)",
-    "points": [
-     "Har bir jamoa navbat bilan 2.5 daqiqalik to'liq missiya turini bajaradi.",
-     "Natijalar ball jadvaliga yoziladi, g'oliblar va barcha ishtirokchilar tabriklanadi."
-    ]
-   }
-  ],
-  "uyga": [
-   "0-4-sinf va SPIKE davomida eng yodda qolgan loyihangiz haqida qisqacha insho yozing."
-  ],
-  "meta": {
-   "sinf": "4-sinf",
-   "yil": "2-yil",
-   "chorak": "4-chorak, 10-hafta",
-   "darsRaqami": "83 / 84",
-   "modul": "N4. Nazorat ishi",
-   "jihoz": "LEGO Education SPIKE Prime",
-   "davomiyligi": "45 daqiqa"
-  }
- },
- "2-yil|4-sinf|4-chorak|20": {
-  "maqsad": [
-   "O'quvchilar barcha 4 missiyani qamrab oluvchi to'liq bitiruv musobaqasi yechimini tayyorlaydilar.",
-   "O'quvchilar ikki yillik (Makerzoid+SPIKE) bilimlarini yakuniy loyihada birlashtiradilar.",
-   "O'quvchilar ochiq turnirda o'z natijalarini ota-onalar oldida namoyish etadilar."
-  ],
-  "lugat": [
-   "Bitiruv musobaqasi (Capstone competition) – dastur yakunidagi eng katta sinov",
-   "Ochiq turnir (Open tournament) – tomoshabinlar ishtirokidagi musobaqa",
-   "Strategiya (Strategy) – barcha missiyalarni bajarish rejasi",
-   "Loyiha (Project) – mustaqil bajariladigan yakuniy ish",
-   "Taqdimot (Presentation) – ishni ko'rsatib tushuntirish"
-  ],
-  "softSkill": "Yakuniy mas'uliyat va g'urur — ikki yillik mehnat natijasini ota-onalar oldida ishonch bilan namoyish etish ko'nikmasini mustahkamlash.",
-  "resurslar": [
-   "LEGO Education SPIKE Prime to'plami va barcha attachmentlar",
-   "To'liq musobaqa maydonchasi (4 missiya bilan)",
-   "Ko'rgazma uchun joy (ota-onalar uchun)"
-  ],
-  "nazariya": [
-   {
-    "title": "5.1. Kirish (5 daqiqa)",
-    "points": [
-     "Yakuniy loyiha vazifasi tushuntiriladi: barcha 4 missiyani qamrab oluvchi to'liq yechim."
-    ]
-   },
-   {
-    "title": "5.2. Reja (5 daqiqa)",
-    "points": [
-     "Jamoalar barcha missiyalarni qanday tartibda bajarish strategiyasini tuzadilar."
-    ]
-   }
-  ],
-  "amaliy": [
-   {
-    "title": "6.1. Yakuniy tayyorgarlik (25 daqiqa)",
-    "points": [
-     "Jamoalar robot, attachmentlar va dasturni yakuniy sinovdan o'tkazadilar."
-    ]
-   },
-   {
-    "title": "6.2. Ochiq turnir (10 daqiqa)",
-    "points": [
-     "Jamoalar ota-onalar oldida to'liq missiya turini namoyish etadilar."
-    ]
-   }
-  ],
-  "uyga": [
-   "0-4-sinf va SPIKE davomidagi eng katta yutug'ingiz haqida qisqacha insho yozing."
-  ],
-  "meta": {
-   "sinf": "4-sinf",
-   "yil": "2-yil",
    "chorak": "4-chorak, 11-hafta",
    "darsRaqami": "84 / 84",
-   "modul": "L4. Loyiha",
+   "modul": "M4. Missiya 3, 4 va yakuniy turnir",
    "jihoz": "LEGO Education SPIKE Prime",
    "davomiyligi": "45 daqiqa"
   }
