@@ -32,6 +32,7 @@ let activeFan = null;        // null = bosh sahifa (fanlar ro'yxati)
 let activeYil = "1-yil";
 let activeKey = null;
 let activeSinf = null;       // "yil|sinf" — sinfning yillik rejasi ochilgan
+let qidiruvOchiq = false;    // asosiy maydonda qidiruv natijasi turibdimi
 
 const FANLAR = window.FANLAR || [];
 function fanTopilsin(id){
@@ -270,6 +271,45 @@ function sinfSanoq(yil, sinf){
   return {chorak: chorakNomlar.length, dars, model: model.size, instr, spike};
 }
 
+// Bitta dars kartochkasi. Sinf sahifasi ham, qidiruv natijasi ham shuni
+// ishlatadi — "joy" faqat qidiruvda to'ldiriladi (yil · sinf · chorak).
+function darsKartHTML(l, yil, sinf, chorak, i, joy){
+  const info = l.model ? INSTRUCTION_INDEX[l.model] : null;
+  const tayyor = !!LESSON_CONTENT[lessonKey(yil, sinf, chorak, i)];
+  const rasm = info
+    ? `<img loading="lazy" src="${instrSrc(info.slug, info.qadam)}" alt="${esc(l.model)}">`
+    : `<span class="dk-yoq ${esc(l.type)}">${esc(TYPE_LABELS[l.type] || l.type)}</span>`;
+  // Nazorat/loyiha sarlavhasida butun baholash mezoni yozilgan — qisqartiriladi
+  const mavzu = l.title.length > 96 ? l.title.slice(0, 94) + '…' : l.title;
+  const model = l.model && l.model.length > 46 ? l.model.slice(0, 44) + '…' : l.model;
+  return `
+    <button class="dars-kart${tayyor ? ' tayyor' : ''}" type="button"
+            data-yil="${esc(yil)}" data-sinfi="${esc(sinf)}"
+            data-chorak="${esc(chorak)}" data-idx="${i}">
+      <span class="dk-rasm">${rasm}</span>
+      <span class="dk-tan">
+        <span class="dk-yuqori"><span class="dk-nr">${i+1}</span>
+          <span class="dk-teg ${esc(l.type)}">${esc(TYPE_LABELS[l.type] || l.type)}</span></span>
+        <span class="dk-mavzu">${esc(mavzu)}</span>
+        ${model ? `<span class="dk-model">▸ ${esc(model)}</span>` : ''}
+        ${info ? `<span class="dk-qadam">▤ ${info.qadam} qadam</span>` : ''}
+        ${joy ? `<span class="dk-joy">${esc(joy)}</span>` : ''}
+      </span>
+    </button>`;
+}
+
+// Kartochkalarni darsga ulash. Qidiruv natijasi boshqa yildan bo'lishi
+// mumkin, shuning uchun activeYil ham moslanadi.
+function kartlarniUla(main){
+  main.querySelectorAll('.dars-kart').forEach(b=>{
+    b.onclick = ()=>{
+      const y = b.dataset.yil, s = b.dataset.sinfi,
+            c = b.dataset.chorak, i = Number(b.dataset.idx);
+      selectLesson(TREE_DATA[y][s][c][i], lessonKey(y, s, c, i), null);
+    };
+  });
+}
+
 function renderSinfSahifa(main, fan, yil, sinf){
   if (!(TREE_DATA[yil] && TREE_DATA[yil][sinf])){
     renderFanBosh(main, fan);
@@ -279,28 +319,7 @@ function renderSinfSahifa(main, fan, yil, sinf){
 
   const bloklar = choraklarRoyxati(yil, sinf).map(chorak=>{
     const list = TREE_DATA[yil][sinf][chorak] || [];
-    const kartlar = list.map((l, i)=>{
-      const info = l.model ? INSTRUCTION_INDEX[l.model] : null;
-      const tayyor = !!LESSON_CONTENT[lessonKey(yil, sinf, chorak, i)];
-      const rasm = info
-        ? `<img loading="lazy" src="${instrSrc(info.slug, info.qadam)}" alt="${esc(l.model)}">`
-        : `<span class="dk-yoq ${esc(l.type)}">${esc(TYPE_LABELS[l.type] || l.type)}</span>`;
-      // Nazorat/loyiha sarlavhasida butun baholash mezoni yozilgan — qisqartiriladi
-      const mavzu = l.title.length > 96 ? l.title.slice(0, 94) + '…' : l.title;
-      const model = l.model && l.model.length > 46 ? l.model.slice(0, 44) + '…' : l.model;
-      return `
-        <button class="dars-kart${tayyor ? ' tayyor' : ''}" type="button"
-                data-chorak="${esc(chorak)}" data-idx="${i}">
-          <span class="dk-rasm">${rasm}</span>
-          <span class="dk-tan">
-            <span class="dk-yuqori"><span class="dk-nr">${i+1}</span>
-              <span class="dk-teg ${esc(l.type)}">${esc(TYPE_LABELS[l.type] || l.type)}</span></span>
-            <span class="dk-mavzu">${esc(mavzu)}</span>
-            ${model ? `<span class="dk-model">▸ ${esc(model)}</span>` : ''}
-            ${info ? `<span class="dk-qadam">▤ ${info.qadam} qadam</span>` : ''}
-          </span>
-        </button>`;
-    }).join('');
+    const kartlar = list.map((l, i)=> darsKartHTML(l, yil, sinf, chorak, i, '')).join('');
     return `
       <div class="chorak-blok">
         <div class="chorak-sarlavha"><h3>${esc(chorak)}</h3>
@@ -319,13 +338,44 @@ function renderSinfSahifa(main, fan, yil, sinf){
     </div>
     ${bloklar}`;
 
-  main.querySelectorAll('.dars-kart').forEach(b=>{
-    b.onclick = ()=>{
-      const chorak = b.dataset.chorak, idx = Number(b.dataset.idx);
-      const l = TREE_DATA[yil][sinf][chorak][idx];
-      selectLesson(l, lessonKey(yil, sinf, chorak, idx), null);
-    };
+  kartlarniUla(main);
+  main.scrollTop = 0;
+}
+
+/* --- Qidiruv natijasi: hamma yil va sinf bo'ylab, kartochka ko'rinishida --- */
+function renderQidiruv(main, soz){
+  const q = soz.toLowerCase();
+  const natija = [];
+  ['1-yil', '2-yil'].forEach(yil=>{
+    const g = TREE_DATA[yil] || {};
+    Object.keys(g).forEach(sinf=>{
+      choraklarRoyxati(yil, sinf).forEach(chorak=>{
+        g[sinf][chorak].forEach((l, i)=>{
+          const matn = ((l.title || '') + ' ' + (l.model || '')).toLowerCase();
+          if (matn.indexOf(q) !== -1) natija.push({l, yil, sinf, chorak, i});
+        });
+      });
+    });
   });
+
+  const CHEK = 120;                       // uzun ro'yxat brauzerni sekinlashtiradi
+  const kes = natija.slice(0, CHEK);
+  const kartlar = kes.map(r=>
+    darsKartHTML(r.l, r.yil, r.sinf, r.chorak, r.i,
+                 r.yil + ' · ' + r.sinf + ' · ' + r.chorak)).join('');
+
+  main.innerHTML = `
+    <div class="sinf-hero">
+      <div class="sinf-hero-eyebrow">QIDIRUV</div>
+      <h1>“${esc(soz)}” — ${natija.length} ta dars</h1>
+      <p>${natija.length > kes.length
+            ? `Birinchi ${kes.length} tasi ko'rsatildi — qidiruvni aniqlashtiring. `
+            : ''}${natija.length ? 'Darsni ochish uchun kartochkani bosing.'
+                                 : 'Hech narsa topilmadi.'}</p>
+    </div>
+    ${kes.length ? `<div class="chorak-blok"><div class="dars-grid">${kartlar}</div></div>` : ''}`;
+
+  kartlarniUla(main);
   main.scrollTop = 0;
 }
 
@@ -391,19 +441,14 @@ function countAll(){
   document.getElementById('readyCount').textContent = s.ready;
 }
 
-// Havoladan tiklanganda: darsni ro'yxatda topib, ustidagi bo'limlarni ochadi.
+// Dars ochilganda yon panelda uning sinfi belgilanib turadi.
 function treeFokus(key){
-  const el = document.querySelector('.dars-item[data-key="' + key + '"]');
+  const p = String(key || '').split('|');
+  if (p.length < 2 || p[0] !== activeYil) return;
+  const el = document.querySelector('#treeNav .sinf-head[data-sinf="' + p[1] + '"]');
   if (!el) return;
-  document.querySelectorAll('.dars-item.active').forEach(e=>e.classList.remove('active'));
-  el.classList.add('active');
-  const dl = el.closest('.dars-list');
-  dl.classList.add('open');
-  dl.previousElementSibling.classList.add('open');
-  const blok = el.closest('.sinf-block');
-  blok.querySelector('.chorak-list').classList.add('open');
-  blok.querySelector('.sinf-head').classList.add('open');
-  el.scrollIntoView({block:'center'});
+  document.querySelectorAll('.sinf-head.tanlangan').forEach(e=>e.classList.remove('tanlangan'));
+  el.classList.add('tanlangan');
 }
 
 function renderTree(){
@@ -447,52 +492,13 @@ function renderTree(){
     let sinfLessonCount = 0;
     korinadigan.forEach(ch=> sinfLessonCount += grades[sinf][ch].length);
 
+    // Yon panelda faqat sinflar turadi. Chorak va darslar sinf sahifasidagi
+    // kartochkalardan tanlanadi — bitta ro'yxat ikki joyda takrorlanmaydi.
     const head = document.createElement('div');
     head.className = 'sinf-head';
-    head.innerHTML = `<span class="chevron">▸</span><span>${sinf.toUpperCase()}</span><span class="sinf-count">${sinfLessonCount}</span>`;
-    block.appendChild(head);
-
-    const chorakList = document.createElement('div');
-    chorakList.className = 'chorak-list';
-
-    korinadigan.forEach(chorak=>{
-      const cHead = document.createElement('div');
-      cHead.className = 'chorak-head';
-      cHead.innerHTML = `<span class="chevron">▸</span><span>${chorak}</span>`;
-      chorakList.appendChild(cHead);
-
-      const darsList = document.createElement('div');
-      darsList.className = 'dars-list';
-
-      grades[sinf][chorak].forEach((l, idx)=>{
-        const key = lessonKey(activeYil, sinf, chorak, idx);
-        const item = document.createElement('div');
-        const isReady = !!LESSON_CONTENT[key];
-        item.className = 'dars-item' + (isReady ? ' ready':'') + (key===activeKey ? ' active':'');
-        item.dataset.key = key;
-        // 5-8-sinfda "model" — amaliy ish tavsifi, u uzun bo'lishi mumkin.
-        // Ro'yxatda qisqartiriladi, to'liq matni dars sahifasida ko'rinadi.
-        const qisqa = l.model && l.model.length > 46 ? l.model.slice(0, 44) + '…' : l.model;
-        const label = l.model
-          ? `${esc(l.title)} <span style="color:var(--text-faint)">— ${esc(qisqa)}</span>`
-          : esc(l.title);
-        item.innerHTML = `<span class="dnum">${idx+1}.</span><span>${label}</span>`;
-        item.onclick = ()=> selectLesson(l, key, item);
-        darsList.appendChild(item);
-      });
-
-      cHead.onclick = ()=>{
-        cHead.classList.toggle('open');
-        darsList.classList.toggle('open');
-      };
-      chorakList.appendChild(darsList);
-    });
-
-    // Sinf nomi bosilganda: yon panelda choraklar ochiladi VA asosiy maydonda
-    // sinfning yillik rejasi kartochkalar bilan chiziladi.
+    head.dataset.sinf = sinf;
+    head.innerHTML = `<span>${sinf.toUpperCase()}</span><span class="sinf-count">${sinfLessonCount}</span>`;
     head.onclick = ()=>{
-      head.classList.toggle('open');
-      chorakList.classList.toggle('open');
       activeKey = null;
       activeSinf = activeYil + '|' + sinf;
       const fan = fanTopilsin(activeFan);
@@ -502,12 +508,9 @@ function renderTree(){
       marshrutYoz();
       if (isMobile()) setNav(false);
     };
-    if (activeSinf === activeYil + '|' + sinf){
-      head.classList.add('tanlangan', 'open');
-      chorakList.classList.add('open');
-    }
+    if (activeSinf === activeYil + '|' + sinf) head.classList.add('tanlangan');
 
-    block.appendChild(chorakList);
+    block.appendChild(head);
     nav.appendChild(block);
   });
 }
@@ -960,13 +963,16 @@ function extraSections(l, content){
   return parts.join('');
 }
 
-// Yo'l ko'rsatkich: Fan › yil › sinf › chorak. Fan nomi bosilsa fanlar ro'yxatiga qaytadi.
+// Yo'l ko'rsatkich: Fan › yil › sinf › chorak. Fan nomi bosilsa fanlar
+// ro'yxatiga, sinf nomi bosilsa o'sha sinfning kartochkalariga qaytadi.
 function crumbs(key){
   const p = String(key || '').split('|');
   const fan = activeFan ? fanTopilsin(activeFan) : null;
   const qismlar = [
     `<a data-home="1">${esc(fan ? fan.nom : 'Fanlar')}</a>`,
-    esc(p[0] || ''), esc(p[1] || ''), esc(p[2] || '')
+    esc(p[0] || ''),
+    p[1] ? `<a data-sinfga="${esc(p[0] + '|' + p[1])}">${esc(p[1])}</a>` : '',
+    esc(p[2] || '')
   ].filter(Boolean);
   return `<div class="crumbs">${qismlar.join('<span class="sep">›</span>')}</div>`;
 }
@@ -974,8 +980,11 @@ function crumbs(key){
 function selectLesson(l, key, itemEl){
   activeKey = key;
   activeSinf = key.split('|').slice(0, 2).join('|');   // sinf sahifasiga qaytish uchun
-  document.querySelectorAll('.dars-item.active').forEach(e=>e.classList.remove('active'));
-  if (itemEl) itemEl.classList.add('active');
+  qidiruvOchiq = false;
+  // Qidiruv natijasi boshqa yildan bo'lishi mumkin — yon panel ham o'sha yilga o'tadi
+  const yil = key.split('|')[0];
+  if (activeYil !== yil){ activeYil = yil; renderTree(); }
+  treeFokus(key);
   if (isMobile()) setNav(false);   // telefonda dars tanlangach panel yopiladi
 
   const main = document.getElementById('mainContent');
@@ -1068,22 +1077,21 @@ function selectLesson(l, key, itemEl){
   marshrutYoz();
 }
 
+/* --- Qidiruv: natija asosiy maydonda kartochka bo'lib chiqadi.
+   Bo'shatilganda oldingi ko'rinish (sinf sahifasi yoki ochiq dars) qaytadi. */
 document.getElementById('searchInput').addEventListener('input', (e)=>{
-  const q = e.target.value.trim().toLowerCase();
-  document.querySelectorAll('.dars-item').forEach(item=>{
-    const text = item.textContent.toLowerCase();
-    const match = !q || text.includes(q);
-    item.style.display = match ? '' : 'none';
-    if (q && match){
-      const dl = item.closest('.dars-list');
-      dl.classList.add('open');
-      dl.previousElementSibling.classList.add('open');
-      item.closest('.sinf-block').querySelector('.chorak-list').classList.add('open');
-      item.closest('.sinf-block').querySelector('.sinf-head').classList.add('open');
-    }
-  });
-  // Telefonda qidirilganda natijani ko'rish uchun panel o'zi ochiladi
-  if (q && isMobile()) setNav(true);
+  const soz = e.target.value.trim();
+  if (!activeFan) return;                       // bosh sahifada qidiriladigan dars yo'q
+  if (!soz){
+    if (qidiruvOchiq){ qidiruvOchiq = false; render(); }
+    return;
+  }
+  qidiruvOchiq = true;
+  activeKey = null;
+  korinish('darslar');
+  renderQidiruv(document.getElementById('mainContent'), soz);
+  // Telefonda natijani ko'rish uchun panel yopiladi
+  if (isMobile()) setNav(false);
 });
 
 // --- Panel boshqaruvi ---
@@ -1107,6 +1115,18 @@ window.addEventListener('orientationchange', syncHeaderHeight);
 document.getElementById('mainContent').addEventListener('click', (e)=>{
   const home = e.target.closest('[data-home]');
   if (home){ fanlarga(); return; }
+  // Yo'l ko'rsatkichdagi sinf nomi — sinfning kartochkalariga qaytish
+  const sinfga = e.target.closest('[data-sinfga]');
+  if (sinfga){
+    const [y, s] = sinfga.dataset.sinfga.split('|');
+    activeKey = null;
+    activeYil = y;
+    activeSinf = y + '|' + s;
+    qidiruvOchiq = false;
+    document.getElementById('searchInput').value = '';
+    render();
+    return;
+  }
   const kart = e.target.closest('[data-fan]');
   if (kart){ fanOch(kart.dataset.fan); }
 });

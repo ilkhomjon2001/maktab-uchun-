@@ -3,8 +3,10 @@
 <iframe id="f" src="/#/robototexnika/1-yil/2-sinf" style="width:1280px;height:900px"></iframe>
 <script>
 const log=[]; function t(n,s,i){log.push((s?'PASS':'FAIL')+' · '+n+(i?' · '+i:''));}
+function chiq(){document.getElementById('out').textContent=log.join('\n');}
 const f=document.getElementById('f');
 f.onload=()=>setTimeout(run,1500);
+
 function run(){
   const w=f.contentWindow, d=f.contentDocument;
   t('sinf sahifasi ochildi', !!d.querySelector('.sinf-hero'));
@@ -19,32 +21,100 @@ function run(){
   t('yon panelda sinf belgilandi', !!d.querySelector('.sinf-head.tanlangan'));
   const h1=d.querySelector('.sinf-hero h1').textContent;
   t('sarlavha to\'g\'ri', /2-sinf/.test(h1), h1);
-  // kartochkadan darsga o'tish
+
+  // --- Yon panelda chorak/dars ro'yxati QOLMAGAN bo'lishi kerak
+  t('yon panelda dars ro\'yxati yo\'q', d.querySelectorAll('#treeNav .dars-item').length===0,
+     d.querySelectorAll('#treeNav .dars-item').length+' band');
+  t('yon panelda chorak yo\'q', d.querySelectorAll('#treeNav .chorak-head').length===0,
+     d.querySelectorAll('#treeNav .chorak-head').length+' chorak');
+  t('yon panelda 9 sinf turibdi', d.querySelectorAll('#treeNav .sinf-head').length===9,
+     d.querySelectorAll('#treeNav .sinf-head').length+' sinf');
+
+  // --- Kartochkadan darsga o'tish
   d.querySelectorAll('.dars-kart')[3].click();
   setTimeout(()=>{
     const d2=f.contentDocument;
-    t('kartochkadan dars ochildi', /1-chorak\/3$/.test(f.contentWindow.location.hash),
-      f.contentWindow.location.hash);
+    t('kartochkadan dars ochildi', /1-chorak\/3$/.test(w.location.hash), w.location.hash);
     t('dars sarlavhasi bor', !!d2.querySelector('.lesson-header'));
-    // 5-8 sinf ham kartochka ko'rinishida ishlaydimi
-    w.location.hash='#/robototexnika/1-yil/7-sinf';
+    t('dars ochiqda ham sinf belgilangan', !!d2.querySelector('.sinf-head.tanlangan'));
+
+    // --- Yo'l ko'rsatkichdagi sinf nomi sinf sahifasiga qaytaradi
+    const link=d2.querySelector('.crumbs a[data-sinfga]');
+    t('yo\'l ko\'rsatkichda sinf havolasi bor', !!link);
+    if (link) link.click();
     setTimeout(()=>{
       const d3=f.contentDocument;
-      t('7-sinf sahifasi ochildi', !!d3.querySelector('.sinf-hero'));
-      t('7-sinf 84 kartochka', d3.querySelectorAll('.dars-kart').length===84,
-        d3.querySelectorAll('.dars-kart').length+'');
-      t('7-sinfda model rasmi yo\'q (matnli amaliy ish)',
-        d3.querySelectorAll('.dk-rasm img').length===0,
-        d3.querySelectorAll('.dk-rasm img').length+' rasm');
-      // fanlar ro'yxatiga qaytish ishlayaptimi
-      w.location.hash='#/';
+      t('sinf sahifasiga qaytdi', !!d3.querySelector('.sinf-hero') &&
+         d3.querySelectorAll('.dars-kart').length===84);
+
+      // --- Qidiruv: natija asosiy maydonda kartochka bo'lib chiqadi
+      const inp=d3.getElementById('searchInput');
+      inp.value='richag';
+      inp.dispatchEvent(new w.Event('input',{bubbles:true}));
       setTimeout(()=>{
         const d4=f.contentDocument;
-        t('bosh sahifa (19 fan) ishlaydi', d4.querySelectorAll('.fan-card').length>=19,
-          d4.querySelectorAll('.fan-card').length+' fan');
-        document.getElementById('out').textContent=log.join('\n');
-      },500);
-    },700);
+        const n=d4.querySelectorAll('.dars-kart').length;
+        t('qidiruv kartochka ko\'rinishida', n>0 && /QIDIRUV/.test(
+           (d4.querySelector('.sinf-hero-eyebrow')||{}).textContent||''), n+' natija');
+        t('qidiruv natijasida joy yorlig\'i bor',
+           d4.querySelectorAll('.dk-joy').length===n,
+           d4.querySelectorAll('.dk-joy').length+' yorliq');
+
+        // qidiruv bo'shatilsa oldingi ko'rinish qaytadi
+        inp.value='';
+        inp.dispatchEvent(new w.Event('input',{bubbles:true}));
+        setTimeout(()=>{
+          const d5=f.contentDocument;
+          t('qidiruv bo\'shatilsa sinf sahifasi qaytadi',
+             d5.querySelectorAll('.dars-kart').length===84 &&
+             /2-sinf/.test((d5.querySelector('.sinf-hero h1')||{}).textContent||''));
+          bosqich2();
+        },400);
+      },400);
+    },400);
   },700);
+}
+
+function bosqich2(){
+  const w=f.contentWindow;
+  // --- Fan ochilishi bilanoq kartochka ko'rinadi (bo'sh ekran emas)
+  w.location.hash='#/robototexnika';
+  setTimeout(()=>{
+    const d=f.contentDocument;
+    t('fan ochilishi bilan kartochka chiqdi', d.querySelectorAll('.dars-kart').length===84 &&
+       !d.querySelector('.empty-state'), d.querySelectorAll('.dars-kart').length+' kartochka');
+    t('birinchi sinf 0-sinf', /0-sinf/.test((d.querySelector('.sinf-hero h1')||{}).textContent||''),
+       (d.querySelector('.sinf-hero h1')||{}).textContent||'');
+
+    // --- Yil almashganda asosiy maydon ham o'zgaradi
+    const tab=[...d.querySelectorAll('.yil-tab')].find(x=>x.textContent==='2-YIL');
+    tab.click();
+    setTimeout(()=>{
+      const d2=f.contentDocument;
+      t('yil almashdi, asosiy maydon 2-yilga o\'tdi',
+         /2-yil/.test((d2.querySelector('.sinf-hero-eyebrow')||{}).textContent||''),
+         (d2.querySelector('.sinf-hero-eyebrow')||{}).textContent||'');
+
+      // --- 5-8-sinf ham kartochka ko'rinishida
+      w.location.hash='#/robototexnika/1-yil/7-sinf';
+      setTimeout(()=>{
+        const d3=f.contentDocument;
+        t('7-sinf sahifasi ochildi', !!d3.querySelector('.sinf-hero'));
+        t('7-sinf 84 kartochka', d3.querySelectorAll('.dars-kart').length===84,
+           d3.querySelectorAll('.dars-kart').length+'');
+        t('7-sinfda model rasmi yo\'q (matnli amaliy ish)',
+           d3.querySelectorAll('.dk-rasm img').length===0,
+           d3.querySelectorAll('.dk-rasm img').length+' rasm');
+
+        w.location.hash='#/';
+        setTimeout(()=>{
+          const d4=f.contentDocument;
+          t('bosh sahifa (19 fan) ishlaydi', d4.querySelectorAll('.fan-card').length>=19,
+             d4.querySelectorAll('.fan-card').length+' fan');
+          chiq();
+        },500);
+      },600);
+    },500);
+  },600);
 }
 </script></body></html>
